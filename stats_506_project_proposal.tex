@@ -1,0 +1,102 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% University/School Laboratory Report
+% LaTeX Template
+% Version 3.1 (25/3/14)
+%
+% This template has been downloaded from:
+% http://www.LaTeXTemplates.com
+%
+% Original author:
+% Linux and Unix Users Group at Virginia Tech Wiki 
+% (https://vtluug.org/wiki/Example_LaTeX_chem_lab_report)
+%
+% License:
+% CC BY-NC-SA 3.0 (http://creativecommons.org/licenses/by-nc-sa/3.0/)
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%----------------------------------------------------------------------------------------
+%	PACKAGES AND DOCUMENT CONFIGURATIONS
+%----------------------------------------------------------------------------------------
+
+\documentclass{article}
+
+\usepackage[version=3]{mhchem} % Package for chemical equation typesetting
+\usepackage{siunitx} % Provides the \SI{}{} and \si{} command for typesetting SI units
+\usepackage{graphicx} % Required for the inclusion of images
+\usepackage{natbib} % Required to change bibliography style to APA
+\usepackage{amsmath} % Required for some math elements 
+\usepackage{indentfirst}
+\usepackage{float}
+\usepackage{booktabs}
+\usepackage{enumerate}
+\usepackage{url}
+\usepackage[final]{pdfpages}
+\usepackage{geometry}
+\usepackage{pgfgantt}
+\geometry{left = 2cm, right = 2cm, top = 0.5cm, bottom = 2cm}
+
+
+\renewcommand{\labelenumi}{\alph{enumi}.} % Make numbering in the enumerate environment by letter rather than number (e.g. section 6)
+
+%\usepackage{times} % Uncomment to use the Times New Roman font
+
+%----------------------------------------------------------------------------------------
+%	DOCUMENT INFORMATION
+%----------------------------------------------------------------------------------------
+
+\title{STATS 506 Project Proposal} % Title
+\author{Group 4 : Zicong Xiao, Yulin Gao, Qianang Chen, Xiaoyang Sheng}
+
+\begin{document}
+
+
+\maketitle % Insert the title, author and date
+
+
+% If you wish to include an abstract, uncomment the lines below
+% \begin{abstract}
+% Abstract text
+% \end{abstract}
+
+%----------------------------------------------------------------------------------------
+%	SECTION 1
+%----------------------------------------------------------------------------------------
+
+\section{Topic and Questions}
+\subsection{Topic}
+Recent decades have witnessed a growing trend of climate change, which brings more heat waves during summer time. As another consequence of climate change, urban heat island effect (UHI) raises the temperature in urban regions by a few degrees compared with their surrounding rural areas. Such effect could cause extreme hot weather and have negative impact on public health, especially among aged population. Our group focus on the study of urban heat island and its vulnerability assessment towards the health of older adults.
+\subsection{Specific Questions}
+The relationship between \texttt{UHI intensity / temperature} as well as \texttt{the illness / death of old people} among the United States.
+\section{Investigation Plan}
+\subsection{Data set}
+Up till now, we have collected the data sets as follows,
+\begin{itemize}
+    \item United States Surface Urban Heat Island Database; from Mendeley Data: \url{https://data.mendeley.com/datasets/x9mv4krnm2/2}
+    \item Global Map Temperature; from NASA Earthdata: \url{https://disc.gsfc.nasa.gov/datasets/AIRS3STM_006/summary}
+    \item Death of Elderly People by County; from CDC: \url{https://wonder.cdc.gov/ucd-icd10.html}
+\end{itemize}
+
+\subsection{Method}
+\texttt{Regression / Significance test / Visualization / RDBMS /SQL}
+
+\subsection{Basic Timeline}
+The basic timeline of our Investigation plan is given as below,
+\begin{table}[H]
+    \begin{tabular}{ll}
+    DATE                                    & TASK                                                                                         \\ \hline
+    \multicolumn{1}{|l|}{Sep 28th:}         & \multicolumn{1}{l|}{Proposal Due}                                                            \\ \hline
+    \multicolumn{1}{|l|}{Sep 30th:}         & \multicolumn{1}{l|}{Finalize the dataset we use, read, clean, and extract data}              \\ \hline
+    \multicolumn{1}{|l|}{Oct 10th:}         & \multicolumn{1}{l|}{Combine the data and finish primary analysis}                            \\ \hline
+    \multicolumn{1}{|l|}{Oct 15th:}         & \multicolumn{1}{l|}{Create a RDBMS and push data to RDBMS, explore by SQL query}             \\ \hline
+    \multicolumn{1}{|l|}{Oct 23rd:}         & \multicolumn{1}{l|}{Finish the preliminary regression to verify some trends}                 \\ \hline
+    \multicolumn{1}{|l|}{Oct 30th(around):} & \multicolumn{1}{l|}{Mid-term Reflection}                                                     \\ \hline
+    \multicolumn{1}{|l|}{Nov 7th:}          & \multicolumn{1}{l|}{Imporve the method including regression, classification and prediction}  \\ \hline
+    \multicolumn{1}{|l|}{Nov 15th:}         & \multicolumn{1}{l|}{Get the preliminary conclusion based on the result obtained, discussion} \\ \hline
+    \multicolumn{1}{|l|}{Nov 20th:}         & \multicolumn{1}{l|}{Brainstorm on some possible missing factors and imporve the model}       \\ \hline
+    \multicolumn{1}{|l|}{Nov 30th:}         & \multicolumn{1}{l|}{Finish the final draft}                                                  \\ \hline
+    \multicolumn{1}{|l|}{Dec 5th:}          & \multicolumn{1}{l|}{Revise and discuss}                                                      \\ \hline
+    \multicolumn{1}{|l|}{Later:}            & \multicolumn{1}{l|}{Possible revision}                                                       \\ \hline
+    \end{tabular}
+    \end{table}
+\end{document}
