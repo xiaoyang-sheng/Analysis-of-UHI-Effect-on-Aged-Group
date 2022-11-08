@@ -1,0 +1,1132 @@
+"Notes"	"County"	"County Code"	"Ten-Year Age Groups"	"Ten-Year Age Groups Code"	"Month"	"Month Code"	Deaths	Population	Crude Rate
+	"Atchison County, KS"	"20005"	"85+ years"	"85+"	"Jan., 2019"	"2019/01"	10	Not Applicable	Not Applicable
+	"Barton County, KS"	"20009"	"75-84 years"	"75-84"	"Feb., 2019"	"2019/02"	10	Not Applicable	Not Applicable
+	"Barton County, KS"	"20009"	"75-84 years"	"75-84"	"Aug., 2019"	"2019/08"	10	Not Applicable	Not Applicable
+	"Barton County, KS"	"20009"	"75-84 years"	"75-84"	"Jan., 2020 "	"2020/01"	10	Not Applicable	Not Applicable
+	"Barton County, KS"	"20009"	"75-84 years"	"75-84"	"Nov., 2020 "	"2020/11"	15	Not Applicable	Not Applicable
+	"Barton County, KS"	"20009"	"75-84 years"	"75-84"	"Dec., 2020 "	"2020/12"	10	Not Applicable	Not Applicable
+	"Barton County, KS"	"20009"	"85+ years"	"85+"	"Jan., 2019"	"2019/01"	10	Not Applicable	Not Applicable
+	"Barton County, KS"	"20009"	"85+ years"	"85+"	"Jul., 2019"	"2019/07"	11	Not Applicable	Not Applicable
+	"Barton County, KS"	"20009"	"85+ years"	"85+"	"Oct., 2019"	"2019/10"	12	Not Applicable	Not Applicable
+	"Barton County, KS"	"20009"	"85+ years"	"85+"	"Nov., 2019"	"2019/11"	10	Not Applicable	Not Applicable
+	"Barton County, KS"	"20009"	"85+ years"	"85+"	"Feb., 2020 "	"2020/02"	20	Not Applicable	Not Applicable
+	"Barton County, KS"	"20009"	"85+ years"	"85+"	"May, 2020 "	"2020/05"	12	Not Applicable	Not Applicable
+	"Barton County, KS"	"20009"	"85+ years"	"85+"	"Jul., 2020 "	"2020/07"	10	Not Applicable	Not Applicable
+	"Barton County, KS"	"20009"	"85+ years"	"85+"	"Sep., 2020 "	"2020/09"	11	Not Applicable	Not Applicable
+	"Barton County, KS"	"20009"	"85+ years"	"85+"	"Oct., 2020 "	"2020/10"	16	Not Applicable	Not Applicable
+	"Barton County, KS"	"20009"	"85+ years"	"85+"	"Nov., 2020 "	"2020/11"	17	Not Applicable	Not Applicable
+	"Barton County, KS"	"20009"	"85+ years"	"85+"	"Dec., 2020 "	"2020/12"	14	Not Applicable	Not Applicable
+	"Bourbon County, KS"	"20011"	"65-74 years"	"65-74"	"Dec., 2020 "	"2020/12"	10	Not Applicable	Not Applicable
+	"Brown County, KS"	"20013"	"85+ years"	"85+"	"Nov., 2020 "	"2020/11"	13	Not Applicable	Not Applicable
+	"Butler County, KS"	"20015"	"55-64 years"	"55-64"	"Mar., 2019"	"2019/03"	14	Not Applicable	Not Applicable
+	"Butler County, KS"	"20015"	"55-64 years"	"55-64"	"Jan., 2020 "	"2020/01"	11	Not Applicable	Not Applicable
+	"Butler County, KS"	"20015"	"55-64 years"	"55-64"	"Apr., 2020 "	"2020/04"	10	Not Applicable	Not Applicable
+	"Butler County, KS"	"20015"	"55-64 years"	"55-64"	"Sep., 2020 "	"2020/09"	10	Not Applicable	Not Applicable
+	"Butler County, KS"	"20015"	"55-64 years"	"55-64"	"Oct., 2020 "	"2020/10"	10	Not Applicable	Not Applicable
+	"Butler County, KS"	"20015"	"65-74 years"	"65-74"	"Jan., 2019"	"2019/01"	12	Not Applicable	Not Applicable
+	"Butler County, KS"	"20015"	"65-74 years"	"65-74"	"Feb., 2019"	"2019/02"	11	Not Applicable	Not Applicable
+	"Butler County, KS"	"20015"	"65-74 years"	"65-74"	"Mar., 2019"	"2019/03"	12	Not Applicable	Not Applicable
+	"Butler County, KS"	"20015"	"65-74 years"	"65-74"	"May, 2019"	"2019/05"	17	Not Applicable	Not Applicable
+	"Butler County, KS"	"20015"	"65-74 years"	"65-74"	"Sep., 2019"	"2019/09"	11	Not Applicable	Not Applicable
+	"Butler County, KS"	"20015"	"65-74 years"	"65-74"	"Oct., 2019"	"2019/10"	11	Not Applicable	Not Applicable
+	"Butler County, KS"	"20015"	"65-74 years"	"65-74"	"Nov., 2019"	"2019/11"	11	Not Applicable	Not Applicable
+	"Butler County, KS"	"20015"	"65-74 years"	"65-74"	"Dec., 2019"	"2019/12"	15	Not Applicable	Not Applicable
+	"Butler County, KS"	"20015"	"65-74 years"	"65-74"	"Jan., 2020 "	"2020/01"	11	Not Applicable	Not Applicable
+	"Butler County, KS"	"20015"	"65-74 years"	"65-74"	"Feb., 2020 "	"2020/02"	12	Not Applicable	Not Applicable
+	"Butler County, KS"	"20015"	"65-74 years"	"65-74"	"Apr., 2020 "	"2020/04"	20	Not Applicable	Not Applicable
+	"Butler County, KS"	"20015"	"65-74 years"	"65-74"	"Jun., 2020 "	"2020/06"	10	Not Applicable	Not Applicable
+	"Butler County, KS"	"20015"	"65-74 years"	"65-74"	"Jul., 2020 "	"2020/07"	14	Not Applicable	Not Applicable
+	"Butler County, KS"	"20015"	"65-74 years"	"65-74"	"Aug., 2020 "	"2020/08"	12	Not Applicable	Not Applicable
+	"Butler County, KS"	"20015"	"65-74 years"	"65-74"	"Sep., 2020 "	"2020/09"	11	Not Applicable	Not Applicable
+	"Butler County, KS"	"20015"	"65-74 years"	"65-74"	"Oct., 2020 "	"2020/10"	20	Not Applicable	Not Applicable
+	"Butler County, KS"	"20015"	"65-74 years"	"65-74"	"Nov., 2020 "	"2020/11"	18	Not Applicable	Not Applicable
+	"Butler County, KS"	"20015"	"65-74 years"	"65-74"	"Dec., 2020 "	"2020/12"	19	Not Applicable	Not Applicable
+	"Butler County, KS"	"20015"	"75-84 years"	"75-84"	"Feb., 2019"	"2019/02"	16	Not Applicable	Not Applicable
+	"Butler County, KS"	"20015"	"75-84 years"	"75-84"	"Mar., 2019"	"2019/03"	19	Not Applicable	Not Applicable
+	"Butler County, KS"	"20015"	"75-84 years"	"75-84"	"Apr., 2019"	"2019/04"	12	Not Applicable	Not Applicable
+	"Butler County, KS"	"20015"	"75-84 years"	"75-84"	"May, 2019"	"2019/05"	11	Not Applicable	Not Applicable
+	"Butler County, KS"	"20015"	"75-84 years"	"75-84"	"Jul., 2019"	"2019/07"	16	Not Applicable	Not Applicable
+	"Butler County, KS"	"20015"	"75-84 years"	"75-84"	"Aug., 2019"	"2019/08"	23	Not Applicable	Not Applicable
+	"Butler County, KS"	"20015"	"75-84 years"	"75-84"	"Sep., 2019"	"2019/09"	16	Not Applicable	Not Applicable
+	"Butler County, KS"	"20015"	"75-84 years"	"75-84"	"Oct., 2019"	"2019/10"	15	Not Applicable	Not Applicable
+	"Butler County, KS"	"20015"	"75-84 years"	"75-84"	"Nov., 2019"	"2019/11"	11	Not Applicable	Not Applicable
+	"Butler County, KS"	"20015"	"75-84 years"	"75-84"	"Dec., 2019"	"2019/12"	14	Not Applicable	Not Applicable
+	"Butler County, KS"	"20015"	"75-84 years"	"75-84"	"Jan., 2020 "	"2020/01"	17	Not Applicable	Not Applicable
+	"Butler County, KS"	"20015"	"75-84 years"	"75-84"	"Feb., 2020 "	"2020/02"	15	Not Applicable	Not Applicable
+	"Butler County, KS"	"20015"	"75-84 years"	"75-84"	"Mar., 2020 "	"2020/03"	17	Not Applicable	Not Applicable
+	"Butler County, KS"	"20015"	"75-84 years"	"75-84"	"Apr., 2020 "	"2020/04"	10	Not Applicable	Not Applicable
+	"Butler County, KS"	"20015"	"75-84 years"	"75-84"	"May, 2020 "	"2020/05"	17	Not Applicable	Not Applicable
+	"Butler County, KS"	"20015"	"75-84 years"	"75-84"	"Jun., 2020 "	"2020/06"	12	Not Applicable	Not Applicable
+	"Butler County, KS"	"20015"	"75-84 years"	"75-84"	"Jul., 2020 "	"2020/07"	13	Not Applicable	Not Applicable
+	"Butler County, KS"	"20015"	"75-84 years"	"75-84"	"Aug., 2020 "	"2020/08"	17	Not Applicable	Not Applicable
+	"Butler County, KS"	"20015"	"75-84 years"	"75-84"	"Sep., 2020 "	"2020/09"	17	Not Applicable	Not Applicable
+	"Butler County, KS"	"20015"	"75-84 years"	"75-84"	"Oct., 2020 "	"2020/10"	15	Not Applicable	Not Applicable
+	"Butler County, KS"	"20015"	"75-84 years"	"75-84"	"Nov., 2020 "	"2020/11"	26	Not Applicable	Not Applicable
+	"Butler County, KS"	"20015"	"75-84 years"	"75-84"	"Dec., 2020 "	"2020/12"	25	Not Applicable	Not Applicable
+	"Butler County, KS"	"20015"	"85+ years"	"85+"	"Jan., 2019"	"2019/01"	19	Not Applicable	Not Applicable
+	"Butler County, KS"	"20015"	"85+ years"	"85+"	"Feb., 2019"	"2019/02"	26	Not Applicable	Not Applicable
+	"Butler County, KS"	"20015"	"85+ years"	"85+"	"Mar., 2019"	"2019/03"	20	Not Applicable	Not Applicable
+	"Butler County, KS"	"20015"	"85+ years"	"85+"	"Apr., 2019"	"2019/04"	18	Not Applicable	Not Applicable
+	"Butler County, KS"	"20015"	"85+ years"	"85+"	"May, 2019"	"2019/05"	17	Not Applicable	Not Applicable
+	"Butler County, KS"	"20015"	"85+ years"	"85+"	"Jun., 2019"	"2019/06"	21	Not Applicable	Not Applicable
+	"Butler County, KS"	"20015"	"85+ years"	"85+"	"Sep., 2019"	"2019/09"	16	Not Applicable	Not Applicable
+	"Butler County, KS"	"20015"	"85+ years"	"85+"	"Oct., 2019"	"2019/10"	21	Not Applicable	Not Applicable
+	"Butler County, KS"	"20015"	"85+ years"	"85+"	"Nov., 2019"	"2019/11"	21	Not Applicable	Not Applicable
+	"Butler County, KS"	"20015"	"85+ years"	"85+"	"Dec., 2019"	"2019/12"	23	Not Applicable	Not Applicable
+	"Butler County, KS"	"20015"	"85+ years"	"85+"	"Jan., 2020 "	"2020/01"	21	Not Applicable	Not Applicable
+	"Butler County, KS"	"20015"	"85+ years"	"85+"	"Feb., 2020 "	"2020/02"	21	Not Applicable	Not Applicable
+	"Butler County, KS"	"20015"	"85+ years"	"85+"	"Mar., 2020 "	"2020/03"	18	Not Applicable	Not Applicable
+	"Butler County, KS"	"20015"	"85+ years"	"85+"	"Apr., 2020 "	"2020/04"	19	Not Applicable	Not Applicable
+	"Butler County, KS"	"20015"	"85+ years"	"85+"	"May, 2020 "	"2020/05"	15	Not Applicable	Not Applicable
+	"Butler County, KS"	"20015"	"85+ years"	"85+"	"Jun., 2020 "	"2020/06"	18	Not Applicable	Not Applicable
+	"Butler County, KS"	"20015"	"85+ years"	"85+"	"Jul., 2020 "	"2020/07"	15	Not Applicable	Not Applicable
+	"Butler County, KS"	"20015"	"85+ years"	"85+"	"Aug., 2020 "	"2020/08"	14	Not Applicable	Not Applicable
+	"Butler County, KS"	"20015"	"85+ years"	"85+"	"Sep., 2020 "	"2020/09"	17	Not Applicable	Not Applicable
+	"Butler County, KS"	"20015"	"85+ years"	"85+"	"Oct., 2020 "	"2020/10"	17	Not Applicable	Not Applicable
+	"Butler County, KS"	"20015"	"85+ years"	"85+"	"Nov., 2020 "	"2020/11"	11	Not Applicable	Not Applicable
+	"Butler County, KS"	"20015"	"85+ years"	"85+"	"Dec., 2020 "	"2020/12"	32	Not Applicable	Not Applicable
+	"Cherokee County, KS"	"20021"	"65-74 years"	"65-74"	"Dec., 2020 "	"2020/12"	11	Not Applicable	Not Applicable
+	"Cherokee County, KS"	"20021"	"75-84 years"	"75-84"	"Mar., 2019"	"2019/03"	13	Not Applicable	Not Applicable
+	"Cherokee County, KS"	"20021"	"75-84 years"	"75-84"	"Apr., 2020 "	"2020/04"	12	Not Applicable	Not Applicable
+	"Cherokee County, KS"	"20021"	"75-84 years"	"75-84"	"Dec., 2020 "	"2020/12"	14	Not Applicable	Not Applicable
+	"Cherokee County, KS"	"20021"	"85+ years"	"85+"	"Feb., 2019"	"2019/02"	12	Not Applicable	Not Applicable
+	"Cherokee County, KS"	"20021"	"85+ years"	"85+"	"Mar., 2019"	"2019/03"	13	Not Applicable	Not Applicable
+	"Cherokee County, KS"	"20021"	"85+ years"	"85+"	"Jun., 2019"	"2019/06"	10	Not Applicable	Not Applicable
+	"Cherokee County, KS"	"20021"	"85+ years"	"85+"	"Aug., 2019"	"2019/08"	10	Not Applicable	Not Applicable
+	"Cherokee County, KS"	"20021"	"85+ years"	"85+"	"Sep., 2019"	"2019/09"	12	Not Applicable	Not Applicable
+	"Cherokee County, KS"	"20021"	"85+ years"	"85+"	"Nov., 2019"	"2019/11"	12	Not Applicable	Not Applicable
+	"Cherokee County, KS"	"20021"	"85+ years"	"85+"	"Dec., 2019"	"2019/12"	12	Not Applicable	Not Applicable
+	"Cherokee County, KS"	"20021"	"85+ years"	"85+"	"Feb., 2020 "	"2020/02"	10	Not Applicable	Not Applicable
+	"Cherokee County, KS"	"20021"	"85+ years"	"85+"	"Mar., 2020 "	"2020/03"	10	Not Applicable	Not Applicable
+	"Cherokee County, KS"	"20021"	"85+ years"	"85+"	"Nov., 2020 "	"2020/11"	10	Not Applicable	Not Applicable
+	"Cherokee County, KS"	"20021"	"85+ years"	"85+"	"Dec., 2020 "	"2020/12"	14	Not Applicable	Not Applicable
+	"Cloud County, KS"	"20029"	"85+ years"	"85+"	"Mar., 2020 "	"2020/03"	11	Not Applicable	Not Applicable
+	"Cloud County, KS"	"20029"	"85+ years"	"85+"	"Nov., 2020 "	"2020/11"	10	Not Applicable	Not Applicable
+	"Cloud County, KS"	"20029"	"85+ years"	"85+"	"Dec., 2020 "	"2020/12"	10	Not Applicable	Not Applicable
+	"Cowley County, KS"	"20035"	"55-64 years"	"55-64"	"Nov., 2019"	"2019/11"	12	Not Applicable	Not Applicable
+	"Cowley County, KS"	"20035"	"65-74 years"	"65-74"	"Jan., 2019"	"2019/01"	11	Not Applicable	Not Applicable
+	"Cowley County, KS"	"20035"	"65-74 years"	"65-74"	"Jun., 2019"	"2019/06"	12	Not Applicable	Not Applicable
+	"Cowley County, KS"	"20035"	"65-74 years"	"65-74"	"Jul., 2019"	"2019/07"	11	Not Applicable	Not Applicable
+	"Cowley County, KS"	"20035"	"65-74 years"	"65-74"	"Nov., 2019"	"2019/11"	12	Not Applicable	Not Applicable
+	"Cowley County, KS"	"20035"	"65-74 years"	"65-74"	"Dec., 2019"	"2019/12"	11	Not Applicable	Not Applicable
+	"Cowley County, KS"	"20035"	"65-74 years"	"65-74"	"Sep., 2020 "	"2020/09"	10	Not Applicable	Not Applicable
+	"Cowley County, KS"	"20035"	"65-74 years"	"65-74"	"Nov., 2020 "	"2020/11"	10	Not Applicable	Not Applicable
+	"Cowley County, KS"	"20035"	"65-74 years"	"65-74"	"Dec., 2020 "	"2020/12"	10	Not Applicable	Not Applicable
+	"Cowley County, KS"	"20035"	"75-84 years"	"75-84"	"Feb., 2019"	"2019/02"	11	Not Applicable	Not Applicable
+	"Cowley County, KS"	"20035"	"75-84 years"	"75-84"	"Mar., 2019"	"2019/03"	11	Not Applicable	Not Applicable
+	"Cowley County, KS"	"20035"	"75-84 years"	"75-84"	"Jun., 2019"	"2019/06"	10	Not Applicable	Not Applicable
+	"Cowley County, KS"	"20035"	"75-84 years"	"75-84"	"Aug., 2019"	"2019/08"	10	Not Applicable	Not Applicable
+	"Cowley County, KS"	"20035"	"75-84 years"	"75-84"	"Sep., 2019"	"2019/09"	16	Not Applicable	Not Applicable
+	"Cowley County, KS"	"20035"	"75-84 years"	"75-84"	"Dec., 2019"	"2019/12"	18	Not Applicable	Not Applicable
+	"Cowley County, KS"	"20035"	"75-84 years"	"75-84"	"Feb., 2020 "	"2020/02"	13	Not Applicable	Not Applicable
+	"Cowley County, KS"	"20035"	"75-84 years"	"75-84"	"Mar., 2020 "	"2020/03"	14	Not Applicable	Not Applicable
+	"Cowley County, KS"	"20035"	"75-84 years"	"75-84"	"Apr., 2020 "	"2020/04"	10	Not Applicable	Not Applicable
+	"Cowley County, KS"	"20035"	"75-84 years"	"75-84"	"Jul., 2020 "	"2020/07"	10	Not Applicable	Not Applicable
+	"Cowley County, KS"	"20035"	"75-84 years"	"75-84"	"Aug., 2020 "	"2020/08"	10	Not Applicable	Not Applicable
+	"Cowley County, KS"	"20035"	"75-84 years"	"75-84"	"Sep., 2020 "	"2020/09"	13	Not Applicable	Not Applicable
+	"Cowley County, KS"	"20035"	"75-84 years"	"75-84"	"Oct., 2020 "	"2020/10"	12	Not Applicable	Not Applicable
+	"Cowley County, KS"	"20035"	"75-84 years"	"75-84"	"Nov., 2020 "	"2020/11"	24	Not Applicable	Not Applicable
+	"Cowley County, KS"	"20035"	"75-84 years"	"75-84"	"Dec., 2020 "	"2020/12"	21	Not Applicable	Not Applicable
+	"Cowley County, KS"	"20035"	"85+ years"	"85+"	"Jan., 2019"	"2019/01"	15	Not Applicable	Not Applicable
+	"Cowley County, KS"	"20035"	"85+ years"	"85+"	"Feb., 2019"	"2019/02"	14	Not Applicable	Not Applicable
+	"Cowley County, KS"	"20035"	"85+ years"	"85+"	"Mar., 2019"	"2019/03"	13	Not Applicable	Not Applicable
+	"Cowley County, KS"	"20035"	"85+ years"	"85+"	"Apr., 2019"	"2019/04"	11	Not Applicable	Not Applicable
+	"Cowley County, KS"	"20035"	"85+ years"	"85+"	"May, 2019"	"2019/05"	12	Not Applicable	Not Applicable
+	"Cowley County, KS"	"20035"	"85+ years"	"85+"	"Jul., 2019"	"2019/07"	15	Not Applicable	Not Applicable
+	"Cowley County, KS"	"20035"	"85+ years"	"85+"	"Aug., 2019"	"2019/08"	15	Not Applicable	Not Applicable
+	"Cowley County, KS"	"20035"	"85+ years"	"85+"	"Sep., 2019"	"2019/09"	15	Not Applicable	Not Applicable
+	"Cowley County, KS"	"20035"	"85+ years"	"85+"	"Oct., 2019"	"2019/10"	10	Not Applicable	Not Applicable
+	"Cowley County, KS"	"20035"	"85+ years"	"85+"	"Dec., 2019"	"2019/12"	19	Not Applicable	Not Applicable
+	"Cowley County, KS"	"20035"	"85+ years"	"85+"	"Jan., 2020 "	"2020/01"	11	Not Applicable	Not Applicable
+	"Cowley County, KS"	"20035"	"85+ years"	"85+"	"Mar., 2020 "	"2020/03"	14	Not Applicable	Not Applicable
+	"Cowley County, KS"	"20035"	"85+ years"	"85+"	"Apr., 2020 "	"2020/04"	10	Not Applicable	Not Applicable
+	"Cowley County, KS"	"20035"	"85+ years"	"85+"	"May, 2020 "	"2020/05"	13	Not Applicable	Not Applicable
+	"Cowley County, KS"	"20035"	"85+ years"	"85+"	"Jun., 2020 "	"2020/06"	11	Not Applicable	Not Applicable
+	"Cowley County, KS"	"20035"	"85+ years"	"85+"	"Aug., 2020 "	"2020/08"	10	Not Applicable	Not Applicable
+	"Cowley County, KS"	"20035"	"85+ years"	"85+"	"Oct., 2020 "	"2020/10"	14	Not Applicable	Not Applicable
+	"Cowley County, KS"	"20035"	"85+ years"	"85+"	"Nov., 2020 "	"2020/11"	25	Not Applicable	Not Applicable
+	"Cowley County, KS"	"20035"	"85+ years"	"85+"	"Dec., 2020 "	"2020/12"	29	Not Applicable	Not Applicable
+	"Crawford County, KS"	"20037"	"55-64 years"	"55-64"	"Dec., 2019"	"2019/12"	12	Not Applicable	Not Applicable
+	"Crawford County, KS"	"20037"	"55-64 years"	"55-64"	"Aug., 2020 "	"2020/08"	11	Not Applicable	Not Applicable
+	"Crawford County, KS"	"20037"	"55-64 years"	"55-64"	"Oct., 2020 "	"2020/10"	11	Not Applicable	Not Applicable
+	"Crawford County, KS"	"20037"	"65-74 years"	"65-74"	"Jan., 2019"	"2019/01"	13	Not Applicable	Not Applicable
+	"Crawford County, KS"	"20037"	"65-74 years"	"65-74"	"Mar., 2019"	"2019/03"	12	Not Applicable	Not Applicable
+	"Crawford County, KS"	"20037"	"65-74 years"	"65-74"	"Jun., 2019"	"2019/06"	12	Not Applicable	Not Applicable
+	"Crawford County, KS"	"20037"	"65-74 years"	"65-74"	"Jul., 2019"	"2019/07"	11	Not Applicable	Not Applicable
+	"Crawford County, KS"	"20037"	"65-74 years"	"65-74"	"Jan., 2020 "	"2020/01"	11	Not Applicable	Not Applicable
+	"Crawford County, KS"	"20037"	"65-74 years"	"65-74"	"Feb., 2020 "	"2020/02"	11	Not Applicable	Not Applicable
+	"Crawford County, KS"	"20037"	"65-74 years"	"65-74"	"Jun., 2020 "	"2020/06"	10	Not Applicable	Not Applicable
+	"Crawford County, KS"	"20037"	"65-74 years"	"65-74"	"Sep., 2020 "	"2020/09"	13	Not Applicable	Not Applicable
+	"Crawford County, KS"	"20037"	"65-74 years"	"65-74"	"Oct., 2020 "	"2020/10"	10	Not Applicable	Not Applicable
+	"Crawford County, KS"	"20037"	"65-74 years"	"65-74"	"Dec., 2020 "	"2020/12"	21	Not Applicable	Not Applicable
+	"Crawford County, KS"	"20037"	"75-84 years"	"75-84"	"Jan., 2019"	"2019/01"	10	Not Applicable	Not Applicable
+	"Crawford County, KS"	"20037"	"75-84 years"	"75-84"	"Mar., 2019"	"2019/03"	15	Not Applicable	Not Applicable
+	"Crawford County, KS"	"20037"	"75-84 years"	"75-84"	"May, 2019"	"2019/05"	11	Not Applicable	Not Applicable
+	"Crawford County, KS"	"20037"	"75-84 years"	"75-84"	"Jul., 2019"	"2019/07"	12	Not Applicable	Not Applicable
+	"Crawford County, KS"	"20037"	"75-84 years"	"75-84"	"Sep., 2019"	"2019/09"	12	Not Applicable	Not Applicable
+	"Crawford County, KS"	"20037"	"75-84 years"	"75-84"	"Feb., 2020 "	"2020/02"	11	Not Applicable	Not Applicable
+	"Crawford County, KS"	"20037"	"75-84 years"	"75-84"	"Jun., 2020 "	"2020/06"	13	Not Applicable	Not Applicable
+	"Crawford County, KS"	"20037"	"75-84 years"	"75-84"	"Aug., 2020 "	"2020/08"	12	Not Applicable	Not Applicable
+	"Crawford County, KS"	"20037"	"75-84 years"	"75-84"	"Sep., 2020 "	"2020/09"	12	Not Applicable	Not Applicable
+	"Crawford County, KS"	"20037"	"75-84 years"	"75-84"	"Nov., 2020 "	"2020/11"	15	Not Applicable	Not Applicable
+	"Crawford County, KS"	"20037"	"75-84 years"	"75-84"	"Dec., 2020 "	"2020/12"	22	Not Applicable	Not Applicable
+	"Crawford County, KS"	"20037"	"85+ years"	"85+"	"Jan., 2019"	"2019/01"	11	Not Applicable	Not Applicable
+	"Crawford County, KS"	"20037"	"85+ years"	"85+"	"Feb., 2019"	"2019/02"	17	Not Applicable	Not Applicable
+	"Crawford County, KS"	"20037"	"85+ years"	"85+"	"Mar., 2019"	"2019/03"	12	Not Applicable	Not Applicable
+	"Crawford County, KS"	"20037"	"85+ years"	"85+"	"Apr., 2019"	"2019/04"	11	Not Applicable	Not Applicable
+	"Crawford County, KS"	"20037"	"85+ years"	"85+"	"Jul., 2019"	"2019/07"	11	Not Applicable	Not Applicable
+	"Crawford County, KS"	"20037"	"85+ years"	"85+"	"Oct., 2019"	"2019/10"	12	Not Applicable	Not Applicable
+	"Crawford County, KS"	"20037"	"85+ years"	"85+"	"Dec., 2019"	"2019/12"	15	Not Applicable	Not Applicable
+	"Crawford County, KS"	"20037"	"85+ years"	"85+"	"Jan., 2020 "	"2020/01"	17	Not Applicable	Not Applicable
+	"Crawford County, KS"	"20037"	"85+ years"	"85+"	"Feb., 2020 "	"2020/02"	10	Not Applicable	Not Applicable
+	"Crawford County, KS"	"20037"	"85+ years"	"85+"	"Mar., 2020 "	"2020/03"	13	Not Applicable	Not Applicable
+	"Crawford County, KS"	"20037"	"85+ years"	"85+"	"Apr., 2020 "	"2020/04"	15	Not Applicable	Not Applicable
+	"Crawford County, KS"	"20037"	"85+ years"	"85+"	"May, 2020 "	"2020/05"	13	Not Applicable	Not Applicable
+	"Crawford County, KS"	"20037"	"85+ years"	"85+"	"Jun., 2020 "	"2020/06"	14	Not Applicable	Not Applicable
+	"Crawford County, KS"	"20037"	"85+ years"	"85+"	"Jul., 2020 "	"2020/07"	14	Not Applicable	Not Applicable
+	"Crawford County, KS"	"20037"	"85+ years"	"85+"	"Sep., 2020 "	"2020/09"	16	Not Applicable	Not Applicable
+	"Crawford County, KS"	"20037"	"85+ years"	"85+"	"Oct., 2020 "	"2020/10"	15	Not Applicable	Not Applicable
+	"Crawford County, KS"	"20037"	"85+ years"	"85+"	"Nov., 2020 "	"2020/11"	19	Not Applicable	Not Applicable
+	"Crawford County, KS"	"20037"	"85+ years"	"85+"	"Dec., 2020 "	"2020/12"	18	Not Applicable	Not Applicable
+	"Dickinson County, KS"	"20041"	"75-84 years"	"75-84"	"Dec., 2020 "	"2020/12"	12	Not Applicable	Not Applicable
+	"Dickinson County, KS"	"20041"	"85+ years"	"85+"	"Jun., 2019"	"2019/06"	11	Not Applicable	Not Applicable
+	"Dickinson County, KS"	"20041"	"85+ years"	"85+"	"Sep., 2020 "	"2020/09"	10	Not Applicable	Not Applicable
+	"Dickinson County, KS"	"20041"	"85+ years"	"85+"	"Dec., 2020 "	"2020/12"	17	Not Applicable	Not Applicable
+	"Douglas County, KS"	"20045"	"55-64 years"	"55-64"	"Jan., 2019"	"2019/01"	10	Not Applicable	Not Applicable
+	"Douglas County, KS"	"20045"	"55-64 years"	"55-64"	"May, 2019"	"2019/05"	11	Not Applicable	Not Applicable
+	"Douglas County, KS"	"20045"	"55-64 years"	"55-64"	"Jan., 2020 "	"2020/01"	11	Not Applicable	Not Applicable
+	"Douglas County, KS"	"20045"	"55-64 years"	"55-64"	"Feb., 2020 "	"2020/02"	12	Not Applicable	Not Applicable
+	"Douglas County, KS"	"20045"	"55-64 years"	"55-64"	"Apr., 2020 "	"2020/04"	11	Not Applicable	Not Applicable
+	"Douglas County, KS"	"20045"	"55-64 years"	"55-64"	"Jun., 2020 "	"2020/06"	13	Not Applicable	Not Applicable
+	"Douglas County, KS"	"20045"	"55-64 years"	"55-64"	"Sep., 2020 "	"2020/09"	11	Not Applicable	Not Applicable
+	"Douglas County, KS"	"20045"	"65-74 years"	"65-74"	"Feb., 2019"	"2019/02"	13	Not Applicable	Not Applicable
+	"Douglas County, KS"	"20045"	"65-74 years"	"65-74"	"Mar., 2019"	"2019/03"	15	Not Applicable	Not Applicable
+	"Douglas County, KS"	"20045"	"65-74 years"	"65-74"	"Jul., 2019"	"2019/07"	15	Not Applicable	Not Applicable
+	"Douglas County, KS"	"20045"	"65-74 years"	"65-74"	"Oct., 2019"	"2019/10"	12	Not Applicable	Not Applicable
+	"Douglas County, KS"	"20045"	"65-74 years"	"65-74"	"Dec., 2019"	"2019/12"	14	Not Applicable	Not Applicable
+	"Douglas County, KS"	"20045"	"65-74 years"	"65-74"	"Jan., 2020 "	"2020/01"	12	Not Applicable	Not Applicable
+	"Douglas County, KS"	"20045"	"65-74 years"	"65-74"	"Feb., 2020 "	"2020/02"	20	Not Applicable	Not Applicable
+	"Douglas County, KS"	"20045"	"65-74 years"	"65-74"	"Apr., 2020 "	"2020/04"	14	Not Applicable	Not Applicable
+	"Douglas County, KS"	"20045"	"65-74 years"	"65-74"	"Jun., 2020 "	"2020/06"	14	Not Applicable	Not Applicable
+	"Douglas County, KS"	"20045"	"65-74 years"	"65-74"	"Jul., 2020 "	"2020/07"	13	Not Applicable	Not Applicable
+	"Douglas County, KS"	"20045"	"65-74 years"	"65-74"	"Aug., 2020 "	"2020/08"	22	Not Applicable	Not Applicable
+	"Douglas County, KS"	"20045"	"65-74 years"	"65-74"	"Oct., 2020 "	"2020/10"	23	Not Applicable	Not Applicable
+	"Douglas County, KS"	"20045"	"65-74 years"	"65-74"	"Nov., 2020 "	"2020/11"	20	Not Applicable	Not Applicable
+	"Douglas County, KS"	"20045"	"65-74 years"	"65-74"	"Dec., 2020 "	"2020/12"	13	Not Applicable	Not Applicable
+	"Douglas County, KS"	"20045"	"75-84 years"	"75-84"	"Jan., 2019"	"2019/01"	22	Not Applicable	Not Applicable
+	"Douglas County, KS"	"20045"	"75-84 years"	"75-84"	"Feb., 2019"	"2019/02"	16	Not Applicable	Not Applicable
+	"Douglas County, KS"	"20045"	"75-84 years"	"75-84"	"Mar., 2019"	"2019/03"	21	Not Applicable	Not Applicable
+	"Douglas County, KS"	"20045"	"75-84 years"	"75-84"	"Apr., 2019"	"2019/04"	17	Not Applicable	Not Applicable
+	"Douglas County, KS"	"20045"	"75-84 years"	"75-84"	"May, 2019"	"2019/05"	10	Not Applicable	Not Applicable
+	"Douglas County, KS"	"20045"	"75-84 years"	"75-84"	"Jun., 2019"	"2019/06"	13	Not Applicable	Not Applicable
+	"Douglas County, KS"	"20045"	"75-84 years"	"75-84"	"Jul., 2019"	"2019/07"	14	Not Applicable	Not Applicable
+	"Douglas County, KS"	"20045"	"75-84 years"	"75-84"	"Aug., 2019"	"2019/08"	11	Not Applicable	Not Applicable
+	"Douglas County, KS"	"20045"	"75-84 years"	"75-84"	"Sep., 2019"	"2019/09"	11	Not Applicable	Not Applicable
+	"Douglas County, KS"	"20045"	"75-84 years"	"75-84"	"Oct., 2019"	"2019/10"	20	Not Applicable	Not Applicable
+	"Douglas County, KS"	"20045"	"75-84 years"	"75-84"	"Nov., 2019"	"2019/11"	13	Not Applicable	Not Applicable
+	"Douglas County, KS"	"20045"	"75-84 years"	"75-84"	"Dec., 2019"	"2019/12"	15	Not Applicable	Not Applicable
+	"Douglas County, KS"	"20045"	"75-84 years"	"75-84"	"Jan., 2020 "	"2020/01"	13	Not Applicable	Not Applicable
+	"Douglas County, KS"	"20045"	"75-84 years"	"75-84"	"Feb., 2020 "	"2020/02"	17	Not Applicable	Not Applicable
+	"Douglas County, KS"	"20045"	"75-84 years"	"75-84"	"Mar., 2020 "	"2020/03"	10	Not Applicable	Not Applicable
+	"Douglas County, KS"	"20045"	"75-84 years"	"75-84"	"Apr., 2020 "	"2020/04"	18	Not Applicable	Not Applicable
+	"Douglas County, KS"	"20045"	"75-84 years"	"75-84"	"May, 2020 "	"2020/05"	11	Not Applicable	Not Applicable
+	"Douglas County, KS"	"20045"	"75-84 years"	"75-84"	"Jun., 2020 "	"2020/06"	18	Not Applicable	Not Applicable
+	"Douglas County, KS"	"20045"	"75-84 years"	"75-84"	"Jul., 2020 "	"2020/07"	18	Not Applicable	Not Applicable
+	"Douglas County, KS"	"20045"	"75-84 years"	"75-84"	"Aug., 2020 "	"2020/08"	17	Not Applicable	Not Applicable
+	"Douglas County, KS"	"20045"	"75-84 years"	"75-84"	"Sep., 2020 "	"2020/09"	20	Not Applicable	Not Applicable
+	"Douglas County, KS"	"20045"	"75-84 years"	"75-84"	"Oct., 2020 "	"2020/10"	24	Not Applicable	Not Applicable
+	"Douglas County, KS"	"20045"	"75-84 years"	"75-84"	"Nov., 2020 "	"2020/11"	16	Not Applicable	Not Applicable
+	"Douglas County, KS"	"20045"	"75-84 years"	"75-84"	"Dec., 2020 "	"2020/12"	24	Not Applicable	Not Applicable
+	"Douglas County, KS"	"20045"	"85+ years"	"85+"	"Jan., 2019"	"2019/01"	21	Not Applicable	Not Applicable
+	"Douglas County, KS"	"20045"	"85+ years"	"85+"	"Feb., 2019"	"2019/02"	15	Not Applicable	Not Applicable
+	"Douglas County, KS"	"20045"	"85+ years"	"85+"	"Mar., 2019"	"2019/03"	26	Not Applicable	Not Applicable
+	"Douglas County, KS"	"20045"	"85+ years"	"85+"	"Apr., 2019"	"2019/04"	11	Not Applicable	Not Applicable
+	"Douglas County, KS"	"20045"	"85+ years"	"85+"	"May, 2019"	"2019/05"	18	Not Applicable	Not Applicable
+	"Douglas County, KS"	"20045"	"85+ years"	"85+"	"Jun., 2019"	"2019/06"	19	Not Applicable	Not Applicable
+	"Douglas County, KS"	"20045"	"85+ years"	"85+"	"Jul., 2019"	"2019/07"	18	Not Applicable	Not Applicable
+	"Douglas County, KS"	"20045"	"85+ years"	"85+"	"Aug., 2019"	"2019/08"	18	Not Applicable	Not Applicable
+	"Douglas County, KS"	"20045"	"85+ years"	"85+"	"Sep., 2019"	"2019/09"	19	Not Applicable	Not Applicable
+	"Douglas County, KS"	"20045"	"85+ years"	"85+"	"Oct., 2019"	"2019/10"	20	Not Applicable	Not Applicable
+	"Douglas County, KS"	"20045"	"85+ years"	"85+"	"Nov., 2019"	"2019/11"	20	Not Applicable	Not Applicable
+	"Douglas County, KS"	"20045"	"85+ years"	"85+"	"Dec., 2019"	"2019/12"	25	Not Applicable	Not Applicable
+	"Douglas County, KS"	"20045"	"85+ years"	"85+"	"Jan., 2020 "	"2020/01"	28	Not Applicable	Not Applicable
+	"Douglas County, KS"	"20045"	"85+ years"	"85+"	"Feb., 2020 "	"2020/02"	18	Not Applicable	Not Applicable
+	"Douglas County, KS"	"20045"	"85+ years"	"85+"	"Mar., 2020 "	"2020/03"	17	Not Applicable	Not Applicable
+	"Douglas County, KS"	"20045"	"85+ years"	"85+"	"Apr., 2020 "	"2020/04"	28	Not Applicable	Not Applicable
+	"Douglas County, KS"	"20045"	"85+ years"	"85+"	"May, 2020 "	"2020/05"	20	Not Applicable	Not Applicable
+	"Douglas County, KS"	"20045"	"85+ years"	"85+"	"Jun., 2020 "	"2020/06"	18	Not Applicable	Not Applicable
+	"Douglas County, KS"	"20045"	"85+ years"	"85+"	"Jul., 2020 "	"2020/07"	27	Not Applicable	Not Applicable
+	"Douglas County, KS"	"20045"	"85+ years"	"85+"	"Aug., 2020 "	"2020/08"	25	Not Applicable	Not Applicable
+	"Douglas County, KS"	"20045"	"85+ years"	"85+"	"Sep., 2020 "	"2020/09"	24	Not Applicable	Not Applicable
+	"Douglas County, KS"	"20045"	"85+ years"	"85+"	"Oct., 2020 "	"2020/10"	17	Not Applicable	Not Applicable
+	"Douglas County, KS"	"20045"	"85+ years"	"85+"	"Nov., 2020 "	"2020/11"	26	Not Applicable	Not Applicable
+	"Douglas County, KS"	"20045"	"85+ years"	"85+"	"Dec., 2020 "	"2020/12"	40	Not Applicable	Not Applicable
+	"Ellis County, KS"	"20051"	"65-74 years"	"65-74"	"Nov., 2020 "	"2020/11"	12	Not Applicable	Not Applicable
+	"Ellis County, KS"	"20051"	"75-84 years"	"75-84"	"Aug., 2020 "	"2020/08"	10	Not Applicable	Not Applicable
+	"Ellis County, KS"	"20051"	"75-84 years"	"75-84"	"Sep., 2020 "	"2020/09"	10	Not Applicable	Not Applicable
+	"Ellis County, KS"	"20051"	"75-84 years"	"75-84"	"Oct., 2020 "	"2020/10"	14	Not Applicable	Not Applicable
+	"Ellis County, KS"	"20051"	"75-84 years"	"75-84"	"Dec., 2020 "	"2020/12"	11	Not Applicable	Not Applicable
+	"Ellis County, KS"	"20051"	"85+ years"	"85+"	"Mar., 2019"	"2019/03"	11	Not Applicable	Not Applicable
+	"Ellis County, KS"	"20051"	"85+ years"	"85+"	"Apr., 2019"	"2019/04"	10	Not Applicable	Not Applicable
+	"Ellis County, KS"	"20051"	"85+ years"	"85+"	"Aug., 2019"	"2019/08"	10	Not Applicable	Not Applicable
+	"Ellis County, KS"	"20051"	"85+ years"	"85+"	"Dec., 2019"	"2019/12"	10	Not Applicable	Not Applicable
+	"Ellis County, KS"	"20051"	"85+ years"	"85+"	"Jan., 2020 "	"2020/01"	10	Not Applicable	Not Applicable
+	"Ellis County, KS"	"20051"	"85+ years"	"85+"	"May, 2020 "	"2020/05"	12	Not Applicable	Not Applicable
+	"Ellis County, KS"	"20051"	"85+ years"	"85+"	"Sep., 2020 "	"2020/09"	16	Not Applicable	Not Applicable
+	"Ellis County, KS"	"20051"	"85+ years"	"85+"	"Oct., 2020 "	"2020/10"	20	Not Applicable	Not Applicable
+	"Ellis County, KS"	"20051"	"85+ years"	"85+"	"Nov., 2020 "	"2020/11"	13	Not Applicable	Not Applicable
+	"Finney County, KS"	"20055"	"65-74 years"	"65-74"	"Dec., 2020 "	"2020/12"	11	Not Applicable	Not Applicable
+	"Finney County, KS"	"20055"	"75-84 years"	"75-84"	"Jul., 2019"	"2019/07"	10	Not Applicable	Not Applicable
+	"Finney County, KS"	"20055"	"85+ years"	"85+"	"Jan., 2019"	"2019/01"	10	Not Applicable	Not Applicable
+	"Finney County, KS"	"20055"	"85+ years"	"85+"	"Jan., 2020 "	"2020/01"	10	Not Applicable	Not Applicable
+	"Finney County, KS"	"20055"	"85+ years"	"85+"	"Sep., 2020 "	"2020/09"	12	Not Applicable	Not Applicable
+	"Finney County, KS"	"20055"	"85+ years"	"85+"	"Dec., 2020 "	"2020/12"	10	Not Applicable	Not Applicable
+	"Ford County, KS"	"20057"	"65-74 years"	"65-74"	"Nov., 2019"	"2019/11"	11	Not Applicable	Not Applicable
+	"Ford County, KS"	"20057"	"75-84 years"	"75-84"	"Feb., 2019"	"2019/02"	10	Not Applicable	Not Applicable
+	"Ford County, KS"	"20057"	"75-84 years"	"75-84"	"Jul., 2019"	"2019/07"	11	Not Applicable	Not Applicable
+	"Ford County, KS"	"20057"	"75-84 years"	"75-84"	"Nov., 2020 "	"2020/11"	10	Not Applicable	Not Applicable
+	"Ford County, KS"	"20057"	"85+ years"	"85+"	"Oct., 2019"	"2019/10"	10	Not Applicable	Not Applicable
+	"Ford County, KS"	"20057"	"85+ years"	"85+"	"Jan., 2020 "	"2020/01"	11	Not Applicable	Not Applicable
+	"Ford County, KS"	"20057"	"85+ years"	"85+"	"Sep., 2020 "	"2020/09"	10	Not Applicable	Not Applicable
+	"Ford County, KS"	"20057"	"85+ years"	"85+"	"Oct., 2020 "	"2020/10"	15	Not Applicable	Not Applicable
+	"Franklin County, KS"	"20059"	"65-74 years"	"65-74"	"Nov., 2020 "	"2020/11"	10	Not Applicable	Not Applicable
+	"Franklin County, KS"	"20059"	"75-84 years"	"75-84"	"Sep., 2020 "	"2020/09"	10	Not Applicable	Not Applicable
+	"Franklin County, KS"	"20059"	"75-84 years"	"75-84"	"Dec., 2020 "	"2020/12"	12	Not Applicable	Not Applicable
+	"Franklin County, KS"	"20059"	"85+ years"	"85+"	"Jan., 2019"	"2019/01"	11	Not Applicable	Not Applicable
+	"Franklin County, KS"	"20059"	"85+ years"	"85+"	"Mar., 2019"	"2019/03"	10	Not Applicable	Not Applicable
+	"Franklin County, KS"	"20059"	"85+ years"	"85+"	"Sep., 2019"	"2019/09"	12	Not Applicable	Not Applicable
+	"Franklin County, KS"	"20059"	"85+ years"	"85+"	"Dec., 2019"	"2019/12"	10	Not Applicable	Not Applicable
+	"Franklin County, KS"	"20059"	"85+ years"	"85+"	"Oct., 2020 "	"2020/10"	11	Not Applicable	Not Applicable
+	"Franklin County, KS"	"20059"	"85+ years"	"85+"	"Nov., 2020 "	"2020/11"	14	Not Applicable	Not Applicable
+	"Franklin County, KS"	"20059"	"85+ years"	"85+"	"Dec., 2020 "	"2020/12"	13	Not Applicable	Not Applicable
+	"Geary County, KS"	"20061"	"85+ years"	"85+"	"Dec., 2020 "	"2020/12"	10	Not Applicable	Not Applicable
+	"Harvey County, KS"	"20079"	"65-74 years"	"65-74"	"Jan., 2020 "	"2020/01"	10	Not Applicable	Not Applicable
+	"Harvey County, KS"	"20079"	"65-74 years"	"65-74"	"Nov., 2020 "	"2020/11"	13	Not Applicable	Not Applicable
+	"Harvey County, KS"	"20079"	"65-74 years"	"65-74"	"Dec., 2020 "	"2020/12"	13	Not Applicable	Not Applicable
+	"Harvey County, KS"	"20079"	"75-84 years"	"75-84"	"Feb., 2019"	"2019/02"	10	Not Applicable	Not Applicable
+	"Harvey County, KS"	"20079"	"75-84 years"	"75-84"	"Aug., 2019"	"2019/08"	12	Not Applicable	Not Applicable
+	"Harvey County, KS"	"20079"	"75-84 years"	"75-84"	"Oct., 2019"	"2019/10"	12	Not Applicable	Not Applicable
+	"Harvey County, KS"	"20079"	"75-84 years"	"75-84"	"Nov., 2019"	"2019/11"	12	Not Applicable	Not Applicable
+	"Harvey County, KS"	"20079"	"75-84 years"	"75-84"	"Mar., 2020 "	"2020/03"	10	Not Applicable	Not Applicable
+	"Harvey County, KS"	"20079"	"75-84 years"	"75-84"	"Aug., 2020 "	"2020/08"	10	Not Applicable	Not Applicable
+	"Harvey County, KS"	"20079"	"75-84 years"	"75-84"	"Nov., 2020 "	"2020/11"	10	Not Applicable	Not Applicable
+	"Harvey County, KS"	"20079"	"75-84 years"	"75-84"	"Dec., 2020 "	"2020/12"	15	Not Applicable	Not Applicable
+	"Harvey County, KS"	"20079"	"85+ years"	"85+"	"Jan., 2019"	"2019/01"	18	Not Applicable	Not Applicable
+	"Harvey County, KS"	"20079"	"85+ years"	"85+"	"Feb., 2019"	"2019/02"	19	Not Applicable	Not Applicable
+	"Harvey County, KS"	"20079"	"85+ years"	"85+"	"Mar., 2019"	"2019/03"	21	Not Applicable	Not Applicable
+	"Harvey County, KS"	"20079"	"85+ years"	"85+"	"May, 2019"	"2019/05"	17	Not Applicable	Not Applicable
+	"Harvey County, KS"	"20079"	"85+ years"	"85+"	"Jun., 2019"	"2019/06"	11	Not Applicable	Not Applicable
+	"Harvey County, KS"	"20079"	"85+ years"	"85+"	"Jul., 2019"	"2019/07"	16	Not Applicable	Not Applicable
+	"Harvey County, KS"	"20079"	"85+ years"	"85+"	"Aug., 2019"	"2019/08"	12	Not Applicable	Not Applicable
+	"Harvey County, KS"	"20079"	"85+ years"	"85+"	"Sep., 2019"	"2019/09"	14	Not Applicable	Not Applicable
+	"Harvey County, KS"	"20079"	"85+ years"	"85+"	"Oct., 2019"	"2019/10"	11	Not Applicable	Not Applicable
+	"Harvey County, KS"	"20079"	"85+ years"	"85+"	"Nov., 2019"	"2019/11"	21	Not Applicable	Not Applicable
+	"Harvey County, KS"	"20079"	"85+ years"	"85+"	"Dec., 2019"	"2019/12"	15	Not Applicable	Not Applicable
+	"Harvey County, KS"	"20079"	"85+ years"	"85+"	"Jan., 2020 "	"2020/01"	15	Not Applicable	Not Applicable
+	"Harvey County, KS"	"20079"	"85+ years"	"85+"	"Feb., 2020 "	"2020/02"	14	Not Applicable	Not Applicable
+	"Harvey County, KS"	"20079"	"85+ years"	"85+"	"Mar., 2020 "	"2020/03"	13	Not Applicable	Not Applicable
+	"Harvey County, KS"	"20079"	"85+ years"	"85+"	"Apr., 2020 "	"2020/04"	14	Not Applicable	Not Applicable
+	"Harvey County, KS"	"20079"	"85+ years"	"85+"	"May, 2020 "	"2020/05"	15	Not Applicable	Not Applicable
+	"Harvey County, KS"	"20079"	"85+ years"	"85+"	"Jul., 2020 "	"2020/07"	10	Not Applicable	Not Applicable
+	"Harvey County, KS"	"20079"	"85+ years"	"85+"	"Aug., 2020 "	"2020/08"	14	Not Applicable	Not Applicable
+	"Harvey County, KS"	"20079"	"85+ years"	"85+"	"Sep., 2020 "	"2020/09"	10	Not Applicable	Not Applicable
+	"Harvey County, KS"	"20079"	"85+ years"	"85+"	"Oct., 2020 "	"2020/10"	18	Not Applicable	Not Applicable
+	"Harvey County, KS"	"20079"	"85+ years"	"85+"	"Nov., 2020 "	"2020/11"	24	Not Applicable	Not Applicable
+	"Harvey County, KS"	"20079"	"85+ years"	"85+"	"Dec., 2020 "	"2020/12"	26	Not Applicable	Not Applicable
+	"Jefferson County, KS"	"20087"	"75-84 years"	"75-84"	"Jan., 2019"	"2019/01"	11	Not Applicable	Not Applicable
+	"Jefferson County, KS"	"20087"	"75-84 years"	"75-84"	"Nov., 2020 "	"2020/11"	11	Not Applicable	Not Applicable
+	"Jefferson County, KS"	"20087"	"75-84 years"	"75-84"	"Dec., 2020 "	"2020/12"	11	Not Applicable	Not Applicable
+	"Johnson County, KS"	"20091"	"55-64 years"	"55-64"	"Jan., 2019"	"2019/01"	45	Not Applicable	Not Applicable
+	"Johnson County, KS"	"20091"	"55-64 years"	"55-64"	"Feb., 2019"	"2019/02"	34	Not Applicable	Not Applicable
+	"Johnson County, KS"	"20091"	"55-64 years"	"55-64"	"Mar., 2019"	"2019/03"	37	Not Applicable	Not Applicable
+	"Johnson County, KS"	"20091"	"55-64 years"	"55-64"	"Apr., 2019"	"2019/04"	27	Not Applicable	Not Applicable
+	"Johnson County, KS"	"20091"	"55-64 years"	"55-64"	"May, 2019"	"2019/05"	43	Not Applicable	Not Applicable
+	"Johnson County, KS"	"20091"	"55-64 years"	"55-64"	"Jun., 2019"	"2019/06"	38	Not Applicable	Not Applicable
+	"Johnson County, KS"	"20091"	"55-64 years"	"55-64"	"Jul., 2019"	"2019/07"	24	Not Applicable	Not Applicable
+	"Johnson County, KS"	"20091"	"55-64 years"	"55-64"	"Aug., 2019"	"2019/08"	30	Not Applicable	Not Applicable
+	"Johnson County, KS"	"20091"	"55-64 years"	"55-64"	"Sep., 2019"	"2019/09"	35	Not Applicable	Not Applicable
+	"Johnson County, KS"	"20091"	"55-64 years"	"55-64"	"Oct., 2019"	"2019/10"	30	Not Applicable	Not Applicable
+	"Johnson County, KS"	"20091"	"55-64 years"	"55-64"	"Nov., 2019"	"2019/11"	36	Not Applicable	Not Applicable
+	"Johnson County, KS"	"20091"	"55-64 years"	"55-64"	"Dec., 2019"	"2019/12"	35	Not Applicable	Not Applicable
+	"Johnson County, KS"	"20091"	"55-64 years"	"55-64"	"Jan., 2020 "	"2020/01"	25	Not Applicable	Not Applicable
+	"Johnson County, KS"	"20091"	"55-64 years"	"55-64"	"Feb., 2020 "	"2020/02"	29	Not Applicable	Not Applicable
+	"Johnson County, KS"	"20091"	"55-64 years"	"55-64"	"Mar., 2020 "	"2020/03"	19	Not Applicable	Not Applicable
+	"Johnson County, KS"	"20091"	"55-64 years"	"55-64"	"Apr., 2020 "	"2020/04"	40	Not Applicable	Not Applicable
+	"Johnson County, KS"	"20091"	"55-64 years"	"55-64"	"May, 2020 "	"2020/05"	29	Not Applicable	Not Applicable
+	"Johnson County, KS"	"20091"	"55-64 years"	"55-64"	"Jun., 2020 "	"2020/06"	31	Not Applicable	Not Applicable
+	"Johnson County, KS"	"20091"	"55-64 years"	"55-64"	"Jul., 2020 "	"2020/07"	43	Not Applicable	Not Applicable
+	"Johnson County, KS"	"20091"	"55-64 years"	"55-64"	"Aug., 2020 "	"2020/08"	30	Not Applicable	Not Applicable
+	"Johnson County, KS"	"20091"	"55-64 years"	"55-64"	"Sep., 2020 "	"2020/09"	29	Not Applicable	Not Applicable
+	"Johnson County, KS"	"20091"	"55-64 years"	"55-64"	"Oct., 2020 "	"2020/10"	36	Not Applicable	Not Applicable
+	"Johnson County, KS"	"20091"	"55-64 years"	"55-64"	"Nov., 2020 "	"2020/11"	36	Not Applicable	Not Applicable
+	"Johnson County, KS"	"20091"	"55-64 years"	"55-64"	"Dec., 2020 "	"2020/12"	59	Not Applicable	Not Applicable
+	"Johnson County, KS"	"20091"	"65-74 years"	"65-74"	"Jan., 2019"	"2019/01"	74	Not Applicable	Not Applicable
+	"Johnson County, KS"	"20091"	"65-74 years"	"65-74"	"Feb., 2019"	"2019/02"	65	Not Applicable	Not Applicable
+	"Johnson County, KS"	"20091"	"65-74 years"	"65-74"	"Mar., 2019"	"2019/03"	71	Not Applicable	Not Applicable
+	"Johnson County, KS"	"20091"	"65-74 years"	"65-74"	"Apr., 2019"	"2019/04"	50	Not Applicable	Not Applicable
+	"Johnson County, KS"	"20091"	"65-74 years"	"65-74"	"May, 2019"	"2019/05"	58	Not Applicable	Not Applicable
+	"Johnson County, KS"	"20091"	"65-74 years"	"65-74"	"Jun., 2019"	"2019/06"	67	Not Applicable	Not Applicable
+	"Johnson County, KS"	"20091"	"65-74 years"	"65-74"	"Jul., 2019"	"2019/07"	59	Not Applicable	Not Applicable
+	"Johnson County, KS"	"20091"	"65-74 years"	"65-74"	"Aug., 2019"	"2019/08"	54	Not Applicable	Not Applicable
+	"Johnson County, KS"	"20091"	"65-74 years"	"65-74"	"Sep., 2019"	"2019/09"	67	Not Applicable	Not Applicable
+	"Johnson County, KS"	"20091"	"65-74 years"	"65-74"	"Oct., 2019"	"2019/10"	65	Not Applicable	Not Applicable
+	"Johnson County, KS"	"20091"	"65-74 years"	"65-74"	"Nov., 2019"	"2019/11"	56	Not Applicable	Not Applicable
+	"Johnson County, KS"	"20091"	"65-74 years"	"65-74"	"Dec., 2019"	"2019/12"	70	Not Applicable	Not Applicable
+	"Johnson County, KS"	"20091"	"65-74 years"	"65-74"	"Jan., 2020 "	"2020/01"	66	Not Applicable	Not Applicable
+	"Johnson County, KS"	"20091"	"65-74 years"	"65-74"	"Feb., 2020 "	"2020/02"	56	Not Applicable	Not Applicable
+	"Johnson County, KS"	"20091"	"65-74 years"	"65-74"	"Mar., 2020 "	"2020/03"	64	Not Applicable	Not Applicable
+	"Johnson County, KS"	"20091"	"65-74 years"	"65-74"	"Apr., 2020 "	"2020/04"	66	Not Applicable	Not Applicable
+	"Johnson County, KS"	"20091"	"65-74 years"	"65-74"	"May, 2020 "	"2020/05"	37	Not Applicable	Not Applicable
+	"Johnson County, KS"	"20091"	"65-74 years"	"65-74"	"Jun., 2020 "	"2020/06"	60	Not Applicable	Not Applicable
+	"Johnson County, KS"	"20091"	"65-74 years"	"65-74"	"Jul., 2020 "	"2020/07"	56	Not Applicable	Not Applicable
+	"Johnson County, KS"	"20091"	"65-74 years"	"65-74"	"Aug., 2020 "	"2020/08"	69	Not Applicable	Not Applicable
+	"Johnson County, KS"	"20091"	"65-74 years"	"65-74"	"Sep., 2020 "	"2020/09"	69	Not Applicable	Not Applicable
+	"Johnson County, KS"	"20091"	"65-74 years"	"65-74"	"Oct., 2020 "	"2020/10"	65	Not Applicable	Not Applicable
+	"Johnson County, KS"	"20091"	"65-74 years"	"65-74"	"Nov., 2020 "	"2020/11"	62	Not Applicable	Not Applicable
+	"Johnson County, KS"	"20091"	"65-74 years"	"65-74"	"Dec., 2020 "	"2020/12"	89	Not Applicable	Not Applicable
+	"Johnson County, KS"	"20091"	"75-84 years"	"75-84"	"Jan., 2019"	"2019/01"	83	Not Applicable	Not Applicable
+	"Johnson County, KS"	"20091"	"75-84 years"	"75-84"	"Feb., 2019"	"2019/02"	83	Not Applicable	Not Applicable
+	"Johnson County, KS"	"20091"	"75-84 years"	"75-84"	"Mar., 2019"	"2019/03"	91	Not Applicable	Not Applicable
+	"Johnson County, KS"	"20091"	"75-84 years"	"75-84"	"Apr., 2019"	"2019/04"	90	Not Applicable	Not Applicable
+	"Johnson County, KS"	"20091"	"75-84 years"	"75-84"	"May, 2019"	"2019/05"	97	Not Applicable	Not Applicable
+	"Johnson County, KS"	"20091"	"75-84 years"	"75-84"	"Jun., 2019"	"2019/06"	75	Not Applicable	Not Applicable
+	"Johnson County, KS"	"20091"	"75-84 years"	"75-84"	"Jul., 2019"	"2019/07"	70	Not Applicable	Not Applicable
+	"Johnson County, KS"	"20091"	"75-84 years"	"75-84"	"Aug., 2019"	"2019/08"	91	Not Applicable	Not Applicable
+	"Johnson County, KS"	"20091"	"75-84 years"	"75-84"	"Sep., 2019"	"2019/09"	77	Not Applicable	Not Applicable
+	"Johnson County, KS"	"20091"	"75-84 years"	"75-84"	"Oct., 2019"	"2019/10"	69	Not Applicable	Not Applicable
+	"Johnson County, KS"	"20091"	"75-84 years"	"75-84"	"Nov., 2019"	"2019/11"	82	Not Applicable	Not Applicable
+	"Johnson County, KS"	"20091"	"75-84 years"	"75-84"	"Dec., 2019"	"2019/12"	120	Not Applicable	Not Applicable
+	"Johnson County, KS"	"20091"	"75-84 years"	"75-84"	"Jan., 2020 "	"2020/01"	98	Not Applicable	Not Applicable
+	"Johnson County, KS"	"20091"	"75-84 years"	"75-84"	"Feb., 2020 "	"2020/02"	89	Not Applicable	Not Applicable
+	"Johnson County, KS"	"20091"	"75-84 years"	"75-84"	"Mar., 2020 "	"2020/03"	80	Not Applicable	Not Applicable
+	"Johnson County, KS"	"20091"	"75-84 years"	"75-84"	"Apr., 2020 "	"2020/04"	82	Not Applicable	Not Applicable
+	"Johnson County, KS"	"20091"	"75-84 years"	"75-84"	"May, 2020 "	"2020/05"	81	Not Applicable	Not Applicable
+	"Johnson County, KS"	"20091"	"75-84 years"	"75-84"	"Jun., 2020 "	"2020/06"	79	Not Applicable	Not Applicable
+	"Johnson County, KS"	"20091"	"75-84 years"	"75-84"	"Jul., 2020 "	"2020/07"	95	Not Applicable	Not Applicable
+	"Johnson County, KS"	"20091"	"75-84 years"	"75-84"	"Aug., 2020 "	"2020/08"	90	Not Applicable	Not Applicable
+	"Johnson County, KS"	"20091"	"75-84 years"	"75-84"	"Sep., 2020 "	"2020/09"	77	Not Applicable	Not Applicable
+	"Johnson County, KS"	"20091"	"75-84 years"	"75-84"	"Oct., 2020 "	"2020/10"	128	Not Applicable	Not Applicable
+	"Johnson County, KS"	"20091"	"75-84 years"	"75-84"	"Nov., 2020 "	"2020/11"	117	Not Applicable	Not Applicable
+	"Johnson County, KS"	"20091"	"75-84 years"	"75-84"	"Dec., 2020 "	"2020/12"	136	Not Applicable	Not Applicable
+	"Johnson County, KS"	"20091"	"85+ years"	"85+"	"Jan., 2019"	"2019/01"	141	Not Applicable	Not Applicable
+	"Johnson County, KS"	"20091"	"85+ years"	"85+"	"Feb., 2019"	"2019/02"	140	Not Applicable	Not Applicable
+	"Johnson County, KS"	"20091"	"85+ years"	"85+"	"Mar., 2019"	"2019/03"	173	Not Applicable	Not Applicable
+	"Johnson County, KS"	"20091"	"85+ years"	"85+"	"Apr., 2019"	"2019/04"	133	Not Applicable	Not Applicable
+	"Johnson County, KS"	"20091"	"85+ years"	"85+"	"May, 2019"	"2019/05"	148	Not Applicable	Not Applicable
+	"Johnson County, KS"	"20091"	"85+ years"	"85+"	"Jun., 2019"	"2019/06"	124	Not Applicable	Not Applicable
+	"Johnson County, KS"	"20091"	"85+ years"	"85+"	"Jul., 2019"	"2019/07"	158	Not Applicable	Not Applicable
+	"Johnson County, KS"	"20091"	"85+ years"	"85+"	"Aug., 2019"	"2019/08"	110	Not Applicable	Not Applicable
+	"Johnson County, KS"	"20091"	"85+ years"	"85+"	"Sep., 2019"	"2019/09"	152	Not Applicable	Not Applicable
+	"Johnson County, KS"	"20091"	"85+ years"	"85+"	"Oct., 2019"	"2019/10"	137	Not Applicable	Not Applicable
+	"Johnson County, KS"	"20091"	"85+ years"	"85+"	"Nov., 2019"	"2019/11"	141	Not Applicable	Not Applicable
+	"Johnson County, KS"	"20091"	"85+ years"	"85+"	"Dec., 2019"	"2019/12"	188	Not Applicable	Not Applicable
+	"Johnson County, KS"	"20091"	"85+ years"	"85+"	"Jan., 2020 "	"2020/01"	164	Not Applicable	Not Applicable
+	"Johnson County, KS"	"20091"	"85+ years"	"85+"	"Feb., 2020 "	"2020/02"	135	Not Applicable	Not Applicable
+	"Johnson County, KS"	"20091"	"85+ years"	"85+"	"Mar., 2020 "	"2020/03"	157	Not Applicable	Not Applicable
+	"Johnson County, KS"	"20091"	"85+ years"	"85+"	"Apr., 2020 "	"2020/04"	144	Not Applicable	Not Applicable
+	"Johnson County, KS"	"20091"	"85+ years"	"85+"	"May, 2020 "	"2020/05"	149	Not Applicable	Not Applicable
+	"Johnson County, KS"	"20091"	"85+ years"	"85+"	"Jun., 2020 "	"2020/06"	120	Not Applicable	Not Applicable
+	"Johnson County, KS"	"20091"	"85+ years"	"85+"	"Jul., 2020 "	"2020/07"	128	Not Applicable	Not Applicable
+	"Johnson County, KS"	"20091"	"85+ years"	"85+"	"Aug., 2020 "	"2020/08"	154	Not Applicable	Not Applicable
+	"Johnson County, KS"	"20091"	"85+ years"	"85+"	"Sep., 2020 "	"2020/09"	157	Not Applicable	Not Applicable
+	"Johnson County, KS"	"20091"	"85+ years"	"85+"	"Oct., 2020 "	"2020/10"	191	Not Applicable	Not Applicable
+	"Johnson County, KS"	"20091"	"85+ years"	"85+"	"Nov., 2020 "	"2020/11"	181	Not Applicable	Not Applicable
+	"Johnson County, KS"	"20091"	"85+ years"	"85+"	"Dec., 2020 "	"2020/12"	256	Not Applicable	Not Applicable
+	"Kingman County, KS"	"20095"	"65-74 years"	"65-74"	"Dec., 2020 "	"2020/12"	10	Not Applicable	Not Applicable
+	"Kingman County, KS"	"20095"	"85+ years"	"85+"	"Nov., 2020 "	"2020/11"	15	Not Applicable	Not Applicable
+	"Labette County, KS"	"20099"	"65-74 years"	"65-74"	"Jan., 2019"	"2019/01"	10	Not Applicable	Not Applicable
+	"Labette County, KS"	"20099"	"65-74 years"	"65-74"	"Sep., 2020 "	"2020/09"	10	Not Applicable	Not Applicable
+	"Labette County, KS"	"20099"	"75-84 years"	"75-84"	"Jan., 2019"	"2019/01"	11	Not Applicable	Not Applicable
+	"Labette County, KS"	"20099"	"85+ years"	"85+"	"Jan., 2019"	"2019/01"	15	Not Applicable	Not Applicable
+	"Labette County, KS"	"20099"	"85+ years"	"85+"	"May, 2019"	"2019/05"	11	Not Applicable	Not Applicable
+	"Labette County, KS"	"20099"	"85+ years"	"85+"	"Apr., 2020 "	"2020/04"	11	Not Applicable	Not Applicable
+	"Labette County, KS"	"20099"	"85+ years"	"85+"	"Dec., 2020 "	"2020/12"	12	Not Applicable	Not Applicable
+	"Leavenworth County, KS"	"20103"	"55-64 years"	"55-64"	"Jan., 2019"	"2019/01"	12	Not Applicable	Not Applicable
+	"Leavenworth County, KS"	"20103"	"55-64 years"	"55-64"	"Feb., 2019"	"2019/02"	10	Not Applicable	Not Applicable
+	"Leavenworth County, KS"	"20103"	"55-64 years"	"55-64"	"Mar., 2019"	"2019/03"	10	Not Applicable	Not Applicable
+	"Leavenworth County, KS"	"20103"	"55-64 years"	"55-64"	"Jul., 2019"	"2019/07"	11	Not Applicable	Not Applicable
+	"Leavenworth County, KS"	"20103"	"55-64 years"	"55-64"	"Aug., 2019"	"2019/08"	11	Not Applicable	Not Applicable
+	"Leavenworth County, KS"	"20103"	"55-64 years"	"55-64"	"Oct., 2019"	"2019/10"	12	Not Applicable	Not Applicable
+	"Leavenworth County, KS"	"20103"	"55-64 years"	"55-64"	"Jan., 2020 "	"2020/01"	18	Not Applicable	Not Applicable
+	"Leavenworth County, KS"	"20103"	"55-64 years"	"55-64"	"Apr., 2020 "	"2020/04"	13	Not Applicable	Not Applicable
+	"Leavenworth County, KS"	"20103"	"55-64 years"	"55-64"	"Jun., 2020 "	"2020/06"	12	Not Applicable	Not Applicable
+	"Leavenworth County, KS"	"20103"	"55-64 years"	"55-64"	"Aug., 2020 "	"2020/08"	10	Not Applicable	Not Applicable
+	"Leavenworth County, KS"	"20103"	"55-64 years"	"55-64"	"Oct., 2020 "	"2020/10"	14	Not Applicable	Not Applicable
+	"Leavenworth County, KS"	"20103"	"55-64 years"	"55-64"	"Nov., 2020 "	"2020/11"	15	Not Applicable	Not Applicable
+	"Leavenworth County, KS"	"20103"	"55-64 years"	"55-64"	"Dec., 2020 "	"2020/12"	13	Not Applicable	Not Applicable
+	"Leavenworth County, KS"	"20103"	"65-74 years"	"65-74"	"Jan., 2019"	"2019/01"	15	Not Applicable	Not Applicable
+	"Leavenworth County, KS"	"20103"	"65-74 years"	"65-74"	"Mar., 2019"	"2019/03"	12	Not Applicable	Not Applicable
+	"Leavenworth County, KS"	"20103"	"65-74 years"	"65-74"	"May, 2019"	"2019/05"	15	Not Applicable	Not Applicable
+	"Leavenworth County, KS"	"20103"	"65-74 years"	"65-74"	"Jun., 2019"	"2019/06"	16	Not Applicable	Not Applicable
+	"Leavenworth County, KS"	"20103"	"65-74 years"	"65-74"	"Jul., 2019"	"2019/07"	13	Not Applicable	Not Applicable
+	"Leavenworth County, KS"	"20103"	"65-74 years"	"65-74"	"Aug., 2019"	"2019/08"	14	Not Applicable	Not Applicable
+	"Leavenworth County, KS"	"20103"	"65-74 years"	"65-74"	"Sep., 2019"	"2019/09"	15	Not Applicable	Not Applicable
+	"Leavenworth County, KS"	"20103"	"65-74 years"	"65-74"	"Oct., 2019"	"2019/10"	16	Not Applicable	Not Applicable
+	"Leavenworth County, KS"	"20103"	"65-74 years"	"65-74"	"Nov., 2019"	"2019/11"	13	Not Applicable	Not Applicable
+	"Leavenworth County, KS"	"20103"	"65-74 years"	"65-74"	"Jan., 2020 "	"2020/01"	11	Not Applicable	Not Applicable
+	"Leavenworth County, KS"	"20103"	"65-74 years"	"65-74"	"Feb., 2020 "	"2020/02"	10	Not Applicable	Not Applicable
+	"Leavenworth County, KS"	"20103"	"65-74 years"	"65-74"	"Mar., 2020 "	"2020/03"	13	Not Applicable	Not Applicable
+	"Leavenworth County, KS"	"20103"	"65-74 years"	"65-74"	"Apr., 2020 "	"2020/04"	14	Not Applicable	Not Applicable
+	"Leavenworth County, KS"	"20103"	"65-74 years"	"65-74"	"May, 2020 "	"2020/05"	15	Not Applicable	Not Applicable
+	"Leavenworth County, KS"	"20103"	"65-74 years"	"65-74"	"Jul., 2020 "	"2020/07"	15	Not Applicable	Not Applicable
+	"Leavenworth County, KS"	"20103"	"65-74 years"	"65-74"	"Aug., 2020 "	"2020/08"	16	Not Applicable	Not Applicable
+	"Leavenworth County, KS"	"20103"	"65-74 years"	"65-74"	"Sep., 2020 "	"2020/09"	12	Not Applicable	Not Applicable
+	"Leavenworth County, KS"	"20103"	"65-74 years"	"65-74"	"Oct., 2020 "	"2020/10"	16	Not Applicable	Not Applicable
+	"Leavenworth County, KS"	"20103"	"65-74 years"	"65-74"	"Nov., 2020 "	"2020/11"	19	Not Applicable	Not Applicable
+	"Leavenworth County, KS"	"20103"	"65-74 years"	"65-74"	"Dec., 2020 "	"2020/12"	25	Not Applicable	Not Applicable
+	"Leavenworth County, KS"	"20103"	"75-84 years"	"75-84"	"Jan., 2019"	"2019/01"	16	Not Applicable	Not Applicable
+	"Leavenworth County, KS"	"20103"	"75-84 years"	"75-84"	"Feb., 2019"	"2019/02"	12	Not Applicable	Not Applicable
+	"Leavenworth County, KS"	"20103"	"75-84 years"	"75-84"	"Mar., 2019"	"2019/03"	14	Not Applicable	Not Applicable
+	"Leavenworth County, KS"	"20103"	"75-84 years"	"75-84"	"Apr., 2019"	"2019/04"	23	Not Applicable	Not Applicable
+	"Leavenworth County, KS"	"20103"	"75-84 years"	"75-84"	"May, 2019"	"2019/05"	15	Not Applicable	Not Applicable
+	"Leavenworth County, KS"	"20103"	"75-84 years"	"75-84"	"Jun., 2019"	"2019/06"	14	Not Applicable	Not Applicable
+	"Leavenworth County, KS"	"20103"	"75-84 years"	"75-84"	"Aug., 2019"	"2019/08"	18	Not Applicable	Not Applicable
+	"Leavenworth County, KS"	"20103"	"75-84 years"	"75-84"	"Sep., 2019"	"2019/09"	14	Not Applicable	Not Applicable
+	"Leavenworth County, KS"	"20103"	"75-84 years"	"75-84"	"Oct., 2019"	"2019/10"	15	Not Applicable	Not Applicable
+	"Leavenworth County, KS"	"20103"	"75-84 years"	"75-84"	"Nov., 2019"	"2019/11"	10	Not Applicable	Not Applicable
+	"Leavenworth County, KS"	"20103"	"75-84 years"	"75-84"	"Dec., 2019"	"2019/12"	11	Not Applicable	Not Applicable
+	"Leavenworth County, KS"	"20103"	"75-84 years"	"75-84"	"Jan., 2020 "	"2020/01"	12	Not Applicable	Not Applicable
+	"Leavenworth County, KS"	"20103"	"75-84 years"	"75-84"	"Feb., 2020 "	"2020/02"	18	Not Applicable	Not Applicable
+	"Leavenworth County, KS"	"20103"	"75-84 years"	"75-84"	"Mar., 2020 "	"2020/03"	16	Not Applicable	Not Applicable
+	"Leavenworth County, KS"	"20103"	"75-84 years"	"75-84"	"Apr., 2020 "	"2020/04"	11	Not Applicable	Not Applicable
+	"Leavenworth County, KS"	"20103"	"75-84 years"	"75-84"	"May, 2020 "	"2020/05"	23	Not Applicable	Not Applicable
+	"Leavenworth County, KS"	"20103"	"75-84 years"	"75-84"	"Jun., 2020 "	"2020/06"	12	Not Applicable	Not Applicable
+	"Leavenworth County, KS"	"20103"	"75-84 years"	"75-84"	"Jul., 2020 "	"2020/07"	14	Not Applicable	Not Applicable
+	"Leavenworth County, KS"	"20103"	"75-84 years"	"75-84"	"Aug., 2020 "	"2020/08"	16	Not Applicable	Not Applicable
+	"Leavenworth County, KS"	"20103"	"75-84 years"	"75-84"	"Sep., 2020 "	"2020/09"	15	Not Applicable	Not Applicable
+	"Leavenworth County, KS"	"20103"	"75-84 years"	"75-84"	"Oct., 2020 "	"2020/10"	25	Not Applicable	Not Applicable
+	"Leavenworth County, KS"	"20103"	"75-84 years"	"75-84"	"Nov., 2020 "	"2020/11"	10	Not Applicable	Not Applicable
+	"Leavenworth County, KS"	"20103"	"75-84 years"	"75-84"	"Dec., 2020 "	"2020/12"	20	Not Applicable	Not Applicable
+	"Leavenworth County, KS"	"20103"	"85+ years"	"85+"	"Feb., 2019"	"2019/02"	16	Not Applicable	Not Applicable
+	"Leavenworth County, KS"	"20103"	"85+ years"	"85+"	"Mar., 2019"	"2019/03"	21	Not Applicable	Not Applicable
+	"Leavenworth County, KS"	"20103"	"85+ years"	"85+"	"Apr., 2019"	"2019/04"	13	Not Applicable	Not Applicable
+	"Leavenworth County, KS"	"20103"	"85+ years"	"85+"	"May, 2019"	"2019/05"	15	Not Applicable	Not Applicable
+	"Leavenworth County, KS"	"20103"	"85+ years"	"85+"	"Jun., 2019"	"2019/06"	15	Not Applicable	Not Applicable
+	"Leavenworth County, KS"	"20103"	"85+ years"	"85+"	"Jul., 2019"	"2019/07"	12	Not Applicable	Not Applicable
+	"Leavenworth County, KS"	"20103"	"85+ years"	"85+"	"Sep., 2019"	"2019/09"	20	Not Applicable	Not Applicable
+	"Leavenworth County, KS"	"20103"	"85+ years"	"85+"	"Oct., 2019"	"2019/10"	12	Not Applicable	Not Applicable
+	"Leavenworth County, KS"	"20103"	"85+ years"	"85+"	"Nov., 2019"	"2019/11"	19	Not Applicable	Not Applicable
+	"Leavenworth County, KS"	"20103"	"85+ years"	"85+"	"Dec., 2019"	"2019/12"	11	Not Applicable	Not Applicable
+	"Leavenworth County, KS"	"20103"	"85+ years"	"85+"	"Jan., 2020 "	"2020/01"	19	Not Applicable	Not Applicable
+	"Leavenworth County, KS"	"20103"	"85+ years"	"85+"	"Feb., 2020 "	"2020/02"	14	Not Applicable	Not Applicable
+	"Leavenworth County, KS"	"20103"	"85+ years"	"85+"	"Mar., 2020 "	"2020/03"	11	Not Applicable	Not Applicable
+	"Leavenworth County, KS"	"20103"	"85+ years"	"85+"	"Apr., 2020 "	"2020/04"	14	Not Applicable	Not Applicable
+	"Leavenworth County, KS"	"20103"	"85+ years"	"85+"	"May, 2020 "	"2020/05"	17	Not Applicable	Not Applicable
+	"Leavenworth County, KS"	"20103"	"85+ years"	"85+"	"Jun., 2020 "	"2020/06"	23	Not Applicable	Not Applicable
+	"Leavenworth County, KS"	"20103"	"85+ years"	"85+"	"Jul., 2020 "	"2020/07"	12	Not Applicable	Not Applicable
+	"Leavenworth County, KS"	"20103"	"85+ years"	"85+"	"Aug., 2020 "	"2020/08"	16	Not Applicable	Not Applicable
+	"Leavenworth County, KS"	"20103"	"85+ years"	"85+"	"Oct., 2020 "	"2020/10"	26	Not Applicable	Not Applicable
+	"Leavenworth County, KS"	"20103"	"85+ years"	"85+"	"Nov., 2020 "	"2020/11"	19	Not Applicable	Not Applicable
+	"Leavenworth County, KS"	"20103"	"85+ years"	"85+"	"Dec., 2020 "	"2020/12"	21	Not Applicable	Not Applicable
+	"Lyon County, KS"	"20111"	"65-74 years"	"65-74"	"Apr., 2020 "	"2020/04"	13	Not Applicable	Not Applicable
+	"Lyon County, KS"	"20111"	"75-84 years"	"75-84"	"May, 2019"	"2019/05"	11	Not Applicable	Not Applicable
+	"Lyon County, KS"	"20111"	"75-84 years"	"75-84"	"Jul., 2019"	"2019/07"	12	Not Applicable	Not Applicable
+	"Lyon County, KS"	"20111"	"75-84 years"	"75-84"	"Apr., 2020 "	"2020/04"	10	Not Applicable	Not Applicable
+	"Lyon County, KS"	"20111"	"75-84 years"	"75-84"	"Aug., 2020 "	"2020/08"	18	Not Applicable	Not Applicable
+	"Lyon County, KS"	"20111"	"75-84 years"	"75-84"	"Sep., 2020 "	"2020/09"	10	Not Applicable	Not Applicable
+	"Lyon County, KS"	"20111"	"75-84 years"	"75-84"	"Oct., 2020 "	"2020/10"	12	Not Applicable	Not Applicable
+	"Lyon County, KS"	"20111"	"75-84 years"	"75-84"	"Dec., 2020 "	"2020/12"	12	Not Applicable	Not Applicable
+	"Lyon County, KS"	"20111"	"85+ years"	"85+"	"Mar., 2019"	"2019/03"	15	Not Applicable	Not Applicable
+	"Lyon County, KS"	"20111"	"85+ years"	"85+"	"Sep., 2019"	"2019/09"	13	Not Applicable	Not Applicable
+	"Lyon County, KS"	"20111"	"85+ years"	"85+"	"Mar., 2020 "	"2020/03"	13	Not Applicable	Not Applicable
+	"Lyon County, KS"	"20111"	"85+ years"	"85+"	"Apr., 2020 "	"2020/04"	10	Not Applicable	Not Applicable
+	"Lyon County, KS"	"20111"	"85+ years"	"85+"	"Aug., 2020 "	"2020/08"	18	Not Applicable	Not Applicable
+	"Lyon County, KS"	"20111"	"85+ years"	"85+"	"Dec., 2020 "	"2020/12"	11	Not Applicable	Not Applicable
+	"McPherson County, KS"	"20113"	"65-74 years"	"65-74"	"Jan., 2020 "	"2020/01"	10	Not Applicable	Not Applicable
+	"McPherson County, KS"	"20113"	"65-74 years"	"65-74"	"Jun., 2020 "	"2020/06"	10	Not Applicable	Not Applicable
+	"McPherson County, KS"	"20113"	"65-74 years"	"65-74"	"Dec., 2020 "	"2020/12"	10	Not Applicable	Not Applicable
+	"McPherson County, KS"	"20113"	"75-84 years"	"75-84"	"Jan., 2019"	"2019/01"	10	Not Applicable	Not Applicable
+	"McPherson County, KS"	"20113"	"75-84 years"	"75-84"	"Feb., 2019"	"2019/02"	14	Not Applicable	Not Applicable
+	"McPherson County, KS"	"20113"	"75-84 years"	"75-84"	"May, 2019"	"2019/05"	10	Not Applicable	Not Applicable
+	"McPherson County, KS"	"20113"	"75-84 years"	"75-84"	"Jan., 2020 "	"2020/01"	15	Not Applicable	Not Applicable
+	"McPherson County, KS"	"20113"	"75-84 years"	"75-84"	"Jun., 2020 "	"2020/06"	11	Not Applicable	Not Applicable
+	"McPherson County, KS"	"20113"	"75-84 years"	"75-84"	"Jul., 2020 "	"2020/07"	10	Not Applicable	Not Applicable
+	"McPherson County, KS"	"20113"	"75-84 years"	"75-84"	"Nov., 2020 "	"2020/11"	11	Not Applicable	Not Applicable
+	"McPherson County, KS"	"20113"	"75-84 years"	"75-84"	"Dec., 2020 "	"2020/12"	20	Not Applicable	Not Applicable
+	"McPherson County, KS"	"20113"	"85+ years"	"85+"	"Feb., 2019"	"2019/02"	19	Not Applicable	Not Applicable
+	"McPherson County, KS"	"20113"	"85+ years"	"85+"	"Mar., 2019"	"2019/03"	21	Not Applicable	Not Applicable
+	"McPherson County, KS"	"20113"	"85+ years"	"85+"	"Apr., 2019"	"2019/04"	15	Not Applicable	Not Applicable
+	"McPherson County, KS"	"20113"	"85+ years"	"85+"	"May, 2019"	"2019/05"	14	Not Applicable	Not Applicable
+	"McPherson County, KS"	"20113"	"85+ years"	"85+"	"Jun., 2019"	"2019/06"	11	Not Applicable	Not Applicable
+	"McPherson County, KS"	"20113"	"85+ years"	"85+"	"Jul., 2019"	"2019/07"	10	Not Applicable	Not Applicable
+	"McPherson County, KS"	"20113"	"85+ years"	"85+"	"Aug., 2019"	"2019/08"	15	Not Applicable	Not Applicable
+	"McPherson County, KS"	"20113"	"85+ years"	"85+"	"Sep., 2019"	"2019/09"	15	Not Applicable	Not Applicable
+	"McPherson County, KS"	"20113"	"85+ years"	"85+"	"Oct., 2019"	"2019/10"	17	Not Applicable	Not Applicable
+	"McPherson County, KS"	"20113"	"85+ years"	"85+"	"Nov., 2019"	"2019/11"	17	Not Applicable	Not Applicable
+	"McPherson County, KS"	"20113"	"85+ years"	"85+"	"Dec., 2019"	"2019/12"	14	Not Applicable	Not Applicable
+	"McPherson County, KS"	"20113"	"85+ years"	"85+"	"Jan., 2020 "	"2020/01"	18	Not Applicable	Not Applicable
+	"McPherson County, KS"	"20113"	"85+ years"	"85+"	"Feb., 2020 "	"2020/02"	13	Not Applicable	Not Applicable
+	"McPherson County, KS"	"20113"	"85+ years"	"85+"	"Mar., 2020 "	"2020/03"	11	Not Applicable	Not Applicable
+	"McPherson County, KS"	"20113"	"85+ years"	"85+"	"Apr., 2020 "	"2020/04"	15	Not Applicable	Not Applicable
+	"McPherson County, KS"	"20113"	"85+ years"	"85+"	"May, 2020 "	"2020/05"	17	Not Applicable	Not Applicable
+	"McPherson County, KS"	"20113"	"85+ years"	"85+"	"Jun., 2020 "	"2020/06"	10	Not Applicable	Not Applicable
+	"McPherson County, KS"	"20113"	"85+ years"	"85+"	"Jul., 2020 "	"2020/07"	14	Not Applicable	Not Applicable
+	"McPherson County, KS"	"20113"	"85+ years"	"85+"	"Aug., 2020 "	"2020/08"	10	Not Applicable	Not Applicable
+	"McPherson County, KS"	"20113"	"85+ years"	"85+"	"Sep., 2020 "	"2020/09"	19	Not Applicable	Not Applicable
+	"McPherson County, KS"	"20113"	"85+ years"	"85+"	"Oct., 2020 "	"2020/10"	13	Not Applicable	Not Applicable
+	"McPherson County, KS"	"20113"	"85+ years"	"85+"	"Nov., 2020 "	"2020/11"	17	Not Applicable	Not Applicable
+	"McPherson County, KS"	"20113"	"85+ years"	"85+"	"Dec., 2020 "	"2020/12"	30	Not Applicable	Not Applicable
+	"Marion County, KS"	"20115"	"85+ years"	"85+"	"Mar., 2019"	"2019/03"	10	Not Applicable	Not Applicable
+	"Marshall County, KS"	"20117"	"85+ years"	"85+"	"Dec., 2020 "	"2020/12"	11	Not Applicable	Not Applicable
+	"Miami County, KS"	"20121"	"55-64 years"	"55-64"	"Nov., 2020 "	"2020/11"	10	Not Applicable	Not Applicable
+	"Miami County, KS"	"20121"	"65-74 years"	"65-74"	"Sep., 2020 "	"2020/09"	11	Not Applicable	Not Applicable
+	"Miami County, KS"	"20121"	"65-74 years"	"65-74"	"Dec., 2020 "	"2020/12"	13	Not Applicable	Not Applicable
+	"Miami County, KS"	"20121"	"75-84 years"	"75-84"	"Nov., 2020 "	"2020/11"	12	Not Applicable	Not Applicable
+	"Miami County, KS"	"20121"	"75-84 years"	"75-84"	"Dec., 2020 "	"2020/12"	11	Not Applicable	Not Applicable
+	"Miami County, KS"	"20121"	"85+ years"	"85+"	"Apr., 2019"	"2019/04"	10	Not Applicable	Not Applicable
+	"Miami County, KS"	"20121"	"85+ years"	"85+"	"Oct., 2019"	"2019/10"	12	Not Applicable	Not Applicable
+	"Miami County, KS"	"20121"	"85+ years"	"85+"	"Jun., 2020 "	"2020/06"	13	Not Applicable	Not Applicable
+	"Miami County, KS"	"20121"	"85+ years"	"85+"	"Oct., 2020 "	"2020/10"	11	Not Applicable	Not Applicable
+	"Miami County, KS"	"20121"	"85+ years"	"85+"	"Nov., 2020 "	"2020/11"	13	Not Applicable	Not Applicable
+	"Miami County, KS"	"20121"	"85+ years"	"85+"	"Dec., 2020 "	"2020/12"	11	Not Applicable	Not Applicable
+	"Montgomery County, KS"	"20125"	"65-74 years"	"65-74"	"Jan., 2019"	"2019/01"	12	Not Applicable	Not Applicable
+	"Montgomery County, KS"	"20125"	"65-74 years"	"65-74"	"May, 2019"	"2019/05"	10	Not Applicable	Not Applicable
+	"Montgomery County, KS"	"20125"	"65-74 years"	"65-74"	"Sep., 2019"	"2019/09"	13	Not Applicable	Not Applicable
+	"Montgomery County, KS"	"20125"	"65-74 years"	"65-74"	"Jan., 2020 "	"2020/01"	13	Not Applicable	Not Applicable
+	"Montgomery County, KS"	"20125"	"65-74 years"	"65-74"	"Aug., 2020 "	"2020/08"	12	Not Applicable	Not Applicable
+	"Montgomery County, KS"	"20125"	"65-74 years"	"65-74"	"Sep., 2020 "	"2020/09"	11	Not Applicable	Not Applicable
+	"Montgomery County, KS"	"20125"	"65-74 years"	"65-74"	"Oct., 2020 "	"2020/10"	11	Not Applicable	Not Applicable
+	"Montgomery County, KS"	"20125"	"65-74 years"	"65-74"	"Nov., 2020 "	"2020/11"	10	Not Applicable	Not Applicable
+	"Montgomery County, KS"	"20125"	"65-74 years"	"65-74"	"Dec., 2020 "	"2020/12"	13	Not Applicable	Not Applicable
+	"Montgomery County, KS"	"20125"	"75-84 years"	"75-84"	"Jun., 2019"	"2019/06"	10	Not Applicable	Not Applicable
+	"Montgomery County, KS"	"20125"	"75-84 years"	"75-84"	"Sep., 2019"	"2019/09"	12	Not Applicable	Not Applicable
+	"Montgomery County, KS"	"20125"	"75-84 years"	"75-84"	"Nov., 2019"	"2019/11"	10	Not Applicable	Not Applicable
+	"Montgomery County, KS"	"20125"	"75-84 years"	"75-84"	"Dec., 2019"	"2019/12"	11	Not Applicable	Not Applicable
+	"Montgomery County, KS"	"20125"	"75-84 years"	"75-84"	"Apr., 2020 "	"2020/04"	12	Not Applicable	Not Applicable
+	"Montgomery County, KS"	"20125"	"75-84 years"	"75-84"	"Jun., 2020 "	"2020/06"	12	Not Applicable	Not Applicable
+	"Montgomery County, KS"	"20125"	"75-84 years"	"75-84"	"Jul., 2020 "	"2020/07"	11	Not Applicable	Not Applicable
+	"Montgomery County, KS"	"20125"	"75-84 years"	"75-84"	"Sep., 2020 "	"2020/09"	12	Not Applicable	Not Applicable
+	"Montgomery County, KS"	"20125"	"75-84 years"	"75-84"	"Nov., 2020 "	"2020/11"	10	Not Applicable	Not Applicable
+	"Montgomery County, KS"	"20125"	"75-84 years"	"75-84"	"Dec., 2020 "	"2020/12"	23	Not Applicable	Not Applicable
+	"Montgomery County, KS"	"20125"	"85+ years"	"85+"	"Jan., 2019"	"2019/01"	11	Not Applicable	Not Applicable
+	"Montgomery County, KS"	"20125"	"85+ years"	"85+"	"Mar., 2019"	"2019/03"	10	Not Applicable	Not Applicable
+	"Montgomery County, KS"	"20125"	"85+ years"	"85+"	"Apr., 2019"	"2019/04"	11	Not Applicable	Not Applicable
+	"Montgomery County, KS"	"20125"	"85+ years"	"85+"	"Sep., 2019"	"2019/09"	11	Not Applicable	Not Applicable
+	"Montgomery County, KS"	"20125"	"85+ years"	"85+"	"Oct., 2019"	"2019/10"	11	Not Applicable	Not Applicable
+	"Montgomery County, KS"	"20125"	"85+ years"	"85+"	"Dec., 2019"	"2019/12"	12	Not Applicable	Not Applicable
+	"Montgomery County, KS"	"20125"	"85+ years"	"85+"	"Feb., 2020 "	"2020/02"	10	Not Applicable	Not Applicable
+	"Montgomery County, KS"	"20125"	"85+ years"	"85+"	"Mar., 2020 "	"2020/03"	15	Not Applicable	Not Applicable
+	"Montgomery County, KS"	"20125"	"85+ years"	"85+"	"Apr., 2020 "	"2020/04"	13	Not Applicable	Not Applicable
+	"Montgomery County, KS"	"20125"	"85+ years"	"85+"	"Jun., 2020 "	"2020/06"	12	Not Applicable	Not Applicable
+	"Montgomery County, KS"	"20125"	"85+ years"	"85+"	"Jul., 2020 "	"2020/07"	12	Not Applicable	Not Applicable
+	"Montgomery County, KS"	"20125"	"85+ years"	"85+"	"Oct., 2020 "	"2020/10"	19	Not Applicable	Not Applicable
+	"Montgomery County, KS"	"20125"	"85+ years"	"85+"	"Dec., 2020 "	"2020/12"	25	Not Applicable	Not Applicable
+	"Morris County, KS"	"20127"	"85+ years"	"85+"	"Dec., 2020 "	"2020/12"	10	Not Applicable	Not Applicable
+	"Nemaha County, KS"	"20131"	"75-84 years"	"75-84"	"Nov., 2020 "	"2020/11"	11	Not Applicable	Not Applicable
+	"Nemaha County, KS"	"20131"	"85+ years"	"85+"	"Jan., 2019"	"2019/01"	10	Not Applicable	Not Applicable
+	"Nemaha County, KS"	"20131"	"85+ years"	"85+"	"Mar., 2019"	"2019/03"	11	Not Applicable	Not Applicable
+	"Nemaha County, KS"	"20131"	"85+ years"	"85+"	"Jun., 2019"	"2019/06"	10	Not Applicable	Not Applicable
+	"Nemaha County, KS"	"20131"	"85+ years"	"85+"	"Jul., 2020 "	"2020/07"	12	Not Applicable	Not Applicable
+	"Nemaha County, KS"	"20131"	"85+ years"	"85+"	"Nov., 2020 "	"2020/11"	17	Not Applicable	Not Applicable
+	"Nemaha County, KS"	"20131"	"85+ years"	"85+"	"Dec., 2020 "	"2020/12"	19	Not Applicable	Not Applicable
+	"Neosho County, KS"	"20133"	"65-74 years"	"65-74"	"Nov., 2020 "	"2020/11"	10	Not Applicable	Not Applicable
+	"Neosho County, KS"	"20133"	"85+ years"	"85+"	"Jul., 2019"	"2019/07"	10	Not Applicable	Not Applicable
+	"Neosho County, KS"	"20133"	"85+ years"	"85+"	"Aug., 2020 "	"2020/08"	12	Not Applicable	Not Applicable
+	"Neosho County, KS"	"20133"	"85+ years"	"85+"	"Oct., 2020 "	"2020/10"	10	Not Applicable	Not Applicable
+	"Norton County, KS"	"20137"	"85+ years"	"85+"	"Oct., 2020 "	"2020/10"	12	Not Applicable	Not Applicable
+	"Osage County, KS"	"20139"	"75-84 years"	"75-84"	"Dec., 2020 "	"2020/12"	11	Not Applicable	Not Applicable
+	"Osage County, KS"	"20139"	"85+ years"	"85+"	"Oct., 2020 "	"2020/10"	12	Not Applicable	Not Applicable
+	"Pottawatomie County, KS"	"20149"	"75-84 years"	"75-84"	"Dec., 2020 "	"2020/12"	12	Not Applicable	Not Applicable
+	"Pottawatomie County, KS"	"20149"	"85+ years"	"85+"	"Dec., 2020 "	"2020/12"	12	Not Applicable	Not Applicable
+	"Pratt County, KS"	"20151"	"85+ years"	"85+"	"Dec., 2019"	"2019/12"	10	Not Applicable	Not Applicable
+	"Pratt County, KS"	"20151"	"85+ years"	"85+"	"Nov., 2020 "	"2020/11"	13	Not Applicable	Not Applicable
+	"Pratt County, KS"	"20151"	"85+ years"	"85+"	"Dec., 2020 "	"2020/12"	12	Not Applicable	Not Applicable
+	"Reno County, KS"	"20155"	"55-64 years"	"55-64"	"Apr., 2019"	"2019/04"	10	Not Applicable	Not Applicable
+	"Reno County, KS"	"20155"	"55-64 years"	"55-64"	"May, 2019"	"2019/05"	11	Not Applicable	Not Applicable
+	"Reno County, KS"	"20155"	"55-64 years"	"55-64"	"Aug., 2019"	"2019/08"	10	Not Applicable	Not Applicable
+	"Reno County, KS"	"20155"	"55-64 years"	"55-64"	"Oct., 2019"	"2019/10"	11	Not Applicable	Not Applicable
+	"Reno County, KS"	"20155"	"55-64 years"	"55-64"	"Nov., 2019"	"2019/11"	10	Not Applicable	Not Applicable
+	"Reno County, KS"	"20155"	"55-64 years"	"55-64"	"Dec., 2019"	"2019/12"	10	Not Applicable	Not Applicable
+	"Reno County, KS"	"20155"	"55-64 years"	"55-64"	"Mar., 2020 "	"2020/03"	12	Not Applicable	Not Applicable
+	"Reno County, KS"	"20155"	"55-64 years"	"55-64"	"Apr., 2020 "	"2020/04"	11	Not Applicable	Not Applicable
+	"Reno County, KS"	"20155"	"55-64 years"	"55-64"	"Jun., 2020 "	"2020/06"	12	Not Applicable	Not Applicable
+	"Reno County, KS"	"20155"	"55-64 years"	"55-64"	"Aug., 2020 "	"2020/08"	13	Not Applicable	Not Applicable
+	"Reno County, KS"	"20155"	"55-64 years"	"55-64"	"Oct., 2020 "	"2020/10"	11	Not Applicable	Not Applicable
+	"Reno County, KS"	"20155"	"55-64 years"	"55-64"	"Dec., 2020 "	"2020/12"	14	Not Applicable	Not Applicable
+	"Reno County, KS"	"20155"	"65-74 years"	"65-74"	"Jan., 2019"	"2019/01"	11	Not Applicable	Not Applicable
+	"Reno County, KS"	"20155"	"65-74 years"	"65-74"	"Feb., 2019"	"2019/02"	15	Not Applicable	Not Applicable
+	"Reno County, KS"	"20155"	"65-74 years"	"65-74"	"Mar., 2019"	"2019/03"	13	Not Applicable	Not Applicable
+	"Reno County, KS"	"20155"	"65-74 years"	"65-74"	"Apr., 2019"	"2019/04"	12	Not Applicable	Not Applicable
+	"Reno County, KS"	"20155"	"65-74 years"	"65-74"	"Jun., 2019"	"2019/06"	15	Not Applicable	Not Applicable
+	"Reno County, KS"	"20155"	"65-74 years"	"65-74"	"Aug., 2019"	"2019/08"	10	Not Applicable	Not Applicable
+	"Reno County, KS"	"20155"	"65-74 years"	"65-74"	"Sep., 2019"	"2019/09"	12	Not Applicable	Not Applicable
+	"Reno County, KS"	"20155"	"65-74 years"	"65-74"	"Oct., 2019"	"2019/10"	14	Not Applicable	Not Applicable
+	"Reno County, KS"	"20155"	"65-74 years"	"65-74"	"Nov., 2019"	"2019/11"	11	Not Applicable	Not Applicable
+	"Reno County, KS"	"20155"	"65-74 years"	"65-74"	"Jan., 2020 "	"2020/01"	14	Not Applicable	Not Applicable
+	"Reno County, KS"	"20155"	"65-74 years"	"65-74"	"Feb., 2020 "	"2020/02"	12	Not Applicable	Not Applicable
+	"Reno County, KS"	"20155"	"65-74 years"	"65-74"	"Mar., 2020 "	"2020/03"	10	Not Applicable	Not Applicable
+	"Reno County, KS"	"20155"	"65-74 years"	"65-74"	"Apr., 2020 "	"2020/04"	15	Not Applicable	Not Applicable
+	"Reno County, KS"	"20155"	"65-74 years"	"65-74"	"Jul., 2020 "	"2020/07"	17	Not Applicable	Not Applicable
+	"Reno County, KS"	"20155"	"65-74 years"	"65-74"	"Aug., 2020 "	"2020/08"	11	Not Applicable	Not Applicable
+	"Reno County, KS"	"20155"	"65-74 years"	"65-74"	"Sep., 2020 "	"2020/09"	11	Not Applicable	Not Applicable
+	"Reno County, KS"	"20155"	"65-74 years"	"65-74"	"Oct., 2020 "	"2020/10"	18	Not Applicable	Not Applicable
+	"Reno County, KS"	"20155"	"65-74 years"	"65-74"	"Nov., 2020 "	"2020/11"	21	Not Applicable	Not Applicable
+	"Reno County, KS"	"20155"	"65-74 years"	"65-74"	"Dec., 2020 "	"2020/12"	15	Not Applicable	Not Applicable
+	"Reno County, KS"	"20155"	"75-84 years"	"75-84"	"Jan., 2019"	"2019/01"	20	Not Applicable	Not Applicable
+	"Reno County, KS"	"20155"	"75-84 years"	"75-84"	"Feb., 2019"	"2019/02"	14	Not Applicable	Not Applicable
+	"Reno County, KS"	"20155"	"75-84 years"	"75-84"	"Mar., 2019"	"2019/03"	14	Not Applicable	Not Applicable
+	"Reno County, KS"	"20155"	"75-84 years"	"75-84"	"Apr., 2019"	"2019/04"	13	Not Applicable	Not Applicable
+	"Reno County, KS"	"20155"	"75-84 years"	"75-84"	"May, 2019"	"2019/05"	10	Not Applicable	Not Applicable
+	"Reno County, KS"	"20155"	"75-84 years"	"75-84"	"Jun., 2019"	"2019/06"	18	Not Applicable	Not Applicable
+	"Reno County, KS"	"20155"	"75-84 years"	"75-84"	"Jul., 2019"	"2019/07"	16	Not Applicable	Not Applicable
+	"Reno County, KS"	"20155"	"75-84 years"	"75-84"	"Aug., 2019"	"2019/08"	17	Not Applicable	Not Applicable
+	"Reno County, KS"	"20155"	"75-84 years"	"75-84"	"Sep., 2019"	"2019/09"	15	Not Applicable	Not Applicable
+	"Reno County, KS"	"20155"	"75-84 years"	"75-84"	"Oct., 2019"	"2019/10"	13	Not Applicable	Not Applicable
+	"Reno County, KS"	"20155"	"75-84 years"	"75-84"	"Nov., 2019"	"2019/11"	14	Not Applicable	Not Applicable
+	"Reno County, KS"	"20155"	"75-84 years"	"75-84"	"Dec., 2019"	"2019/12"	18	Not Applicable	Not Applicable
+	"Reno County, KS"	"20155"	"75-84 years"	"75-84"	"Jan., 2020 "	"2020/01"	11	Not Applicable	Not Applicable
+	"Reno County, KS"	"20155"	"75-84 years"	"75-84"	"Feb., 2020 "	"2020/02"	11	Not Applicable	Not Applicable
+	"Reno County, KS"	"20155"	"75-84 years"	"75-84"	"Mar., 2020 "	"2020/03"	11	Not Applicable	Not Applicable
+	"Reno County, KS"	"20155"	"75-84 years"	"75-84"	"Apr., 2020 "	"2020/04"	13	Not Applicable	Not Applicable
+	"Reno County, KS"	"20155"	"75-84 years"	"75-84"	"May, 2020 "	"2020/05"	12	Not Applicable	Not Applicable
+	"Reno County, KS"	"20155"	"75-84 years"	"75-84"	"Jul., 2020 "	"2020/07"	16	Not Applicable	Not Applicable
+	"Reno County, KS"	"20155"	"75-84 years"	"75-84"	"Aug., 2020 "	"2020/08"	14	Not Applicable	Not Applicable
+	"Reno County, KS"	"20155"	"75-84 years"	"75-84"	"Sep., 2020 "	"2020/09"	15	Not Applicable	Not Applicable
+	"Reno County, KS"	"20155"	"75-84 years"	"75-84"	"Oct., 2020 "	"2020/10"	21	Not Applicable	Not Applicable
+	"Reno County, KS"	"20155"	"75-84 years"	"75-84"	"Nov., 2020 "	"2020/11"	37	Not Applicable	Not Applicable
+	"Reno County, KS"	"20155"	"75-84 years"	"75-84"	"Dec., 2020 "	"2020/12"	44	Not Applicable	Not Applicable
+	"Reno County, KS"	"20155"	"85+ years"	"85+"	"Jan., 2019"	"2019/01"	28	Not Applicable	Not Applicable
+	"Reno County, KS"	"20155"	"85+ years"	"85+"	"Feb., 2019"	"2019/02"	18	Not Applicable	Not Applicable
+	"Reno County, KS"	"20155"	"85+ years"	"85+"	"Mar., 2019"	"2019/03"	21	Not Applicable	Not Applicable
+	"Reno County, KS"	"20155"	"85+ years"	"85+"	"Apr., 2019"	"2019/04"	26	Not Applicable	Not Applicable
+	"Reno County, KS"	"20155"	"85+ years"	"85+"	"May, 2019"	"2019/05"	24	Not Applicable	Not Applicable
+	"Reno County, KS"	"20155"	"85+ years"	"85+"	"Jun., 2019"	"2019/06"	18	Not Applicable	Not Applicable
+	"Reno County, KS"	"20155"	"85+ years"	"85+"	"Jul., 2019"	"2019/07"	19	Not Applicable	Not Applicable
+	"Reno County, KS"	"20155"	"85+ years"	"85+"	"Aug., 2019"	"2019/08"	20	Not Applicable	Not Applicable
+	"Reno County, KS"	"20155"	"85+ years"	"85+"	"Sep., 2019"	"2019/09"	15	Not Applicable	Not Applicable
+	"Reno County, KS"	"20155"	"85+ years"	"85+"	"Oct., 2019"	"2019/10"	20	Not Applicable	Not Applicable
+	"Reno County, KS"	"20155"	"85+ years"	"85+"	"Nov., 2019"	"2019/11"	24	Not Applicable	Not Applicable
+	"Reno County, KS"	"20155"	"85+ years"	"85+"	"Dec., 2019"	"2019/12"	17	Not Applicable	Not Applicable
+	"Reno County, KS"	"20155"	"85+ years"	"85+"	"Jan., 2020 "	"2020/01"	27	Not Applicable	Not Applicable
+	"Reno County, KS"	"20155"	"85+ years"	"85+"	"Feb., 2020 "	"2020/02"	15	Not Applicable	Not Applicable
+	"Reno County, KS"	"20155"	"85+ years"	"85+"	"Mar., 2020 "	"2020/03"	13	Not Applicable	Not Applicable
+	"Reno County, KS"	"20155"	"85+ years"	"85+"	"Apr., 2020 "	"2020/04"	34	Not Applicable	Not Applicable
+	"Reno County, KS"	"20155"	"85+ years"	"85+"	"May, 2020 "	"2020/05"	13	Not Applicable	Not Applicable
+	"Reno County, KS"	"20155"	"85+ years"	"85+"	"Jun., 2020 "	"2020/06"	25	Not Applicable	Not Applicable
+	"Reno County, KS"	"20155"	"85+ years"	"85+"	"Jul., 2020 "	"2020/07"	20	Not Applicable	Not Applicable
+	"Reno County, KS"	"20155"	"85+ years"	"85+"	"Aug., 2020 "	"2020/08"	25	Not Applicable	Not Applicable
+	"Reno County, KS"	"20155"	"85+ years"	"85+"	"Sep., 2020 "	"2020/09"	24	Not Applicable	Not Applicable
+	"Reno County, KS"	"20155"	"85+ years"	"85+"	"Oct., 2020 "	"2020/10"	26	Not Applicable	Not Applicable
+	"Reno County, KS"	"20155"	"85+ years"	"85+"	"Nov., 2020 "	"2020/11"	32	Not Applicable	Not Applicable
+	"Reno County, KS"	"20155"	"85+ years"	"85+"	"Dec., 2020 "	"2020/12"	42	Not Applicable	Not Applicable
+	"Riley County, KS"	"20161"	"65-74 years"	"65-74"	"Apr., 2019"	"2019/04"	11	Not Applicable	Not Applicable
+	"Riley County, KS"	"20161"	"65-74 years"	"65-74"	"Jul., 2019"	"2019/07"	10	Not Applicable	Not Applicable
+	"Riley County, KS"	"20161"	"75-84 years"	"75-84"	"Feb., 2019"	"2019/02"	11	Not Applicable	Not Applicable
+	"Riley County, KS"	"20161"	"75-84 years"	"75-84"	"Dec., 2019"	"2019/12"	15	Not Applicable	Not Applicable
+	"Riley County, KS"	"20161"	"75-84 years"	"75-84"	"Apr., 2020 "	"2020/04"	10	Not Applicable	Not Applicable
+	"Riley County, KS"	"20161"	"75-84 years"	"75-84"	"Jul., 2020 "	"2020/07"	11	Not Applicable	Not Applicable
+	"Riley County, KS"	"20161"	"75-84 years"	"75-84"	"Oct., 2020 "	"2020/10"	10	Not Applicable	Not Applicable
+	"Riley County, KS"	"20161"	"75-84 years"	"75-84"	"Nov., 2020 "	"2020/11"	10	Not Applicable	Not Applicable
+	"Riley County, KS"	"20161"	"75-84 years"	"75-84"	"Dec., 2020 "	"2020/12"	11	Not Applicable	Not Applicable
+	"Riley County, KS"	"20161"	"85+ years"	"85+"	"Jan., 2019"	"2019/01"	14	Not Applicable	Not Applicable
+	"Riley County, KS"	"20161"	"85+ years"	"85+"	"Feb., 2019"	"2019/02"	12	Not Applicable	Not Applicable
+	"Riley County, KS"	"20161"	"85+ years"	"85+"	"Mar., 2019"	"2019/03"	11	Not Applicable	Not Applicable
+	"Riley County, KS"	"20161"	"85+ years"	"85+"	"Apr., 2019"	"2019/04"	11	Not Applicable	Not Applicable
+	"Riley County, KS"	"20161"	"85+ years"	"85+"	"Jul., 2019"	"2019/07"	11	Not Applicable	Not Applicable
+	"Riley County, KS"	"20161"	"85+ years"	"85+"	"Aug., 2019"	"2019/08"	13	Not Applicable	Not Applicable
+	"Riley County, KS"	"20161"	"85+ years"	"85+"	"Sep., 2019"	"2019/09"	12	Not Applicable	Not Applicable
+	"Riley County, KS"	"20161"	"85+ years"	"85+"	"Oct., 2019"	"2019/10"	15	Not Applicable	Not Applicable
+	"Riley County, KS"	"20161"	"85+ years"	"85+"	"Nov., 2019"	"2019/11"	18	Not Applicable	Not Applicable
+	"Riley County, KS"	"20161"	"85+ years"	"85+"	"Dec., 2019"	"2019/12"	14	Not Applicable	Not Applicable
+	"Riley County, KS"	"20161"	"85+ years"	"85+"	"Jan., 2020 "	"2020/01"	15	Not Applicable	Not Applicable
+	"Riley County, KS"	"20161"	"85+ years"	"85+"	"Feb., 2020 "	"2020/02"	11	Not Applicable	Not Applicable
+	"Riley County, KS"	"20161"	"85+ years"	"85+"	"Mar., 2020 "	"2020/03"	19	Not Applicable	Not Applicable
+	"Riley County, KS"	"20161"	"85+ years"	"85+"	"May, 2020 "	"2020/05"	12	Not Applicable	Not Applicable
+	"Riley County, KS"	"20161"	"85+ years"	"85+"	"Jun., 2020 "	"2020/06"	17	Not Applicable	Not Applicable
+	"Riley County, KS"	"20161"	"85+ years"	"85+"	"Jul., 2020 "	"2020/07"	17	Not Applicable	Not Applicable
+	"Riley County, KS"	"20161"	"85+ years"	"85+"	"Aug., 2020 "	"2020/08"	12	Not Applicable	Not Applicable
+	"Riley County, KS"	"20161"	"85+ years"	"85+"	"Oct., 2020 "	"2020/10"	12	Not Applicable	Not Applicable
+	"Riley County, KS"	"20161"	"85+ years"	"85+"	"Nov., 2020 "	"2020/11"	13	Not Applicable	Not Applicable
+	"Riley County, KS"	"20161"	"85+ years"	"85+"	"Dec., 2020 "	"2020/12"	20	Not Applicable	Not Applicable
+	"Russell County, KS"	"20167"	"85+ years"	"85+"	"Dec., 2020 "	"2020/12"	10	Not Applicable	Not Applicable
+	"Saline County, KS"	"20169"	"55-64 years"	"55-64"	"Jan., 2019"	"2019/01"	12	Not Applicable	Not Applicable
+	"Saline County, KS"	"20169"	"55-64 years"	"55-64"	"Aug., 2019"	"2019/08"	10	Not Applicable	Not Applicable
+	"Saline County, KS"	"20169"	"55-64 years"	"55-64"	"Oct., 2019"	"2019/10"	10	Not Applicable	Not Applicable
+	"Saline County, KS"	"20169"	"55-64 years"	"55-64"	"Dec., 2020 "	"2020/12"	17	Not Applicable	Not Applicable
+	"Saline County, KS"	"20169"	"65-74 years"	"65-74"	"Mar., 2019"	"2019/03"	14	Not Applicable	Not Applicable
+	"Saline County, KS"	"20169"	"65-74 years"	"65-74"	"May, 2019"	"2019/05"	10	Not Applicable	Not Applicable
+	"Saline County, KS"	"20169"	"65-74 years"	"65-74"	"Jun., 2019"	"2019/06"	10	Not Applicable	Not Applicable
+	"Saline County, KS"	"20169"	"65-74 years"	"65-74"	"Aug., 2019"	"2019/08"	13	Not Applicable	Not Applicable
+	"Saline County, KS"	"20169"	"65-74 years"	"65-74"	"Oct., 2019"	"2019/10"	10	Not Applicable	Not Applicable
+	"Saline County, KS"	"20169"	"65-74 years"	"65-74"	"Dec., 2019"	"2019/12"	12	Not Applicable	Not Applicable
+	"Saline County, KS"	"20169"	"65-74 years"	"65-74"	"Jan., 2020 "	"2020/01"	13	Not Applicable	Not Applicable
+	"Saline County, KS"	"20169"	"65-74 years"	"65-74"	"Feb., 2020 "	"2020/02"	15	Not Applicable	Not Applicable
+	"Saline County, KS"	"20169"	"65-74 years"	"65-74"	"Mar., 2020 "	"2020/03"	13	Not Applicable	Not Applicable
+	"Saline County, KS"	"20169"	"65-74 years"	"65-74"	"Nov., 2020 "	"2020/11"	14	Not Applicable	Not Applicable
+	"Saline County, KS"	"20169"	"65-74 years"	"65-74"	"Dec., 2020 "	"2020/12"	15	Not Applicable	Not Applicable
+	"Saline County, KS"	"20169"	"75-84 years"	"75-84"	"Jan., 2019"	"2019/01"	13	Not Applicable	Not Applicable
+	"Saline County, KS"	"20169"	"75-84 years"	"75-84"	"Feb., 2019"	"2019/02"	13	Not Applicable	Not Applicable
+	"Saline County, KS"	"20169"	"75-84 years"	"75-84"	"Mar., 2019"	"2019/03"	16	Not Applicable	Not Applicable
+	"Saline County, KS"	"20169"	"75-84 years"	"75-84"	"May, 2019"	"2019/05"	18	Not Applicable	Not Applicable
+	"Saline County, KS"	"20169"	"75-84 years"	"75-84"	"Jun., 2019"	"2019/06"	12	Not Applicable	Not Applicable
+	"Saline County, KS"	"20169"	"75-84 years"	"75-84"	"Jul., 2019"	"2019/07"	13	Not Applicable	Not Applicable
+	"Saline County, KS"	"20169"	"75-84 years"	"75-84"	"Aug., 2019"	"2019/08"	12	Not Applicable	Not Applicable
+	"Saline County, KS"	"20169"	"75-84 years"	"75-84"	"Oct., 2019"	"2019/10"	15	Not Applicable	Not Applicable
+	"Saline County, KS"	"20169"	"75-84 years"	"75-84"	"Dec., 2019"	"2019/12"	15	Not Applicable	Not Applicable
+	"Saline County, KS"	"20169"	"75-84 years"	"75-84"	"Feb., 2020 "	"2020/02"	11	Not Applicable	Not Applicable
+	"Saline County, KS"	"20169"	"75-84 years"	"75-84"	"Mar., 2020 "	"2020/03"	10	Not Applicable	Not Applicable
+	"Saline County, KS"	"20169"	"75-84 years"	"75-84"	"May, 2020 "	"2020/05"	16	Not Applicable	Not Applicable
+	"Saline County, KS"	"20169"	"75-84 years"	"75-84"	"Jun., 2020 "	"2020/06"	14	Not Applicable	Not Applicable
+	"Saline County, KS"	"20169"	"75-84 years"	"75-84"	"Aug., 2020 "	"2020/08"	18	Not Applicable	Not Applicable
+	"Saline County, KS"	"20169"	"75-84 years"	"75-84"	"Oct., 2020 "	"2020/10"	11	Not Applicable	Not Applicable
+	"Saline County, KS"	"20169"	"75-84 years"	"75-84"	"Nov., 2020 "	"2020/11"	23	Not Applicable	Not Applicable
+	"Saline County, KS"	"20169"	"75-84 years"	"75-84"	"Dec., 2020 "	"2020/12"	22	Not Applicable	Not Applicable
+	"Saline County, KS"	"20169"	"85+ years"	"85+"	"Jan., 2019"	"2019/01"	24	Not Applicable	Not Applicable
+	"Saline County, KS"	"20169"	"85+ years"	"85+"	"Feb., 2019"	"2019/02"	14	Not Applicable	Not Applicable
+	"Saline County, KS"	"20169"	"85+ years"	"85+"	"Mar., 2019"	"2019/03"	15	Not Applicable	Not Applicable
+	"Saline County, KS"	"20169"	"85+ years"	"85+"	"Apr., 2019"	"2019/04"	14	Not Applicable	Not Applicable
+	"Saline County, KS"	"20169"	"85+ years"	"85+"	"May, 2019"	"2019/05"	12	Not Applicable	Not Applicable
+	"Saline County, KS"	"20169"	"85+ years"	"85+"	"Jun., 2019"	"2019/06"	16	Not Applicable	Not Applicable
+	"Saline County, KS"	"20169"	"85+ years"	"85+"	"Jul., 2019"	"2019/07"	14	Not Applicable	Not Applicable
+	"Saline County, KS"	"20169"	"85+ years"	"85+"	"Aug., 2019"	"2019/08"	17	Not Applicable	Not Applicable
+	"Saline County, KS"	"20169"	"85+ years"	"85+"	"Sep., 2019"	"2019/09"	20	Not Applicable	Not Applicable
+	"Saline County, KS"	"20169"	"85+ years"	"85+"	"Oct., 2019"	"2019/10"	17	Not Applicable	Not Applicable
+	"Saline County, KS"	"20169"	"85+ years"	"85+"	"Nov., 2019"	"2019/11"	16	Not Applicable	Not Applicable
+	"Saline County, KS"	"20169"	"85+ years"	"85+"	"Dec., 2019"	"2019/12"	15	Not Applicable	Not Applicable
+	"Saline County, KS"	"20169"	"85+ years"	"85+"	"Jan., 2020 "	"2020/01"	17	Not Applicable	Not Applicable
+	"Saline County, KS"	"20169"	"85+ years"	"85+"	"Feb., 2020 "	"2020/02"	14	Not Applicable	Not Applicable
+	"Saline County, KS"	"20169"	"85+ years"	"85+"	"Mar., 2020 "	"2020/03"	21	Not Applicable	Not Applicable
+	"Saline County, KS"	"20169"	"85+ years"	"85+"	"Apr., 2020 "	"2020/04"	21	Not Applicable	Not Applicable
+	"Saline County, KS"	"20169"	"85+ years"	"85+"	"May, 2020 "	"2020/05"	10	Not Applicable	Not Applicable
+	"Saline County, KS"	"20169"	"85+ years"	"85+"	"Jun., 2020 "	"2020/06"	21	Not Applicable	Not Applicable
+	"Saline County, KS"	"20169"	"85+ years"	"85+"	"Jul., 2020 "	"2020/07"	18	Not Applicable	Not Applicable
+	"Saline County, KS"	"20169"	"85+ years"	"85+"	"Aug., 2020 "	"2020/08"	19	Not Applicable	Not Applicable
+	"Saline County, KS"	"20169"	"85+ years"	"85+"	"Oct., 2020 "	"2020/10"	17	Not Applicable	Not Applicable
+	"Saline County, KS"	"20169"	"85+ years"	"85+"	"Nov., 2020 "	"2020/11"	21	Not Applicable	Not Applicable
+	"Saline County, KS"	"20169"	"85+ years"	"85+"	"Dec., 2020 "	"2020/12"	35	Not Applicable	Not Applicable
+	"Scott County, KS"	"20171"	"85+ years"	"85+"	"Dec., 2020 "	"2020/12"	10	Not Applicable	Not Applicable
+	"Sedgwick County, KS"	"20173"	"55-64 years"	"55-64"	"Jan., 2019"	"2019/01"	65	Not Applicable	Not Applicable
+	"Sedgwick County, KS"	"20173"	"55-64 years"	"55-64"	"Feb., 2019"	"2019/02"	62	Not Applicable	Not Applicable
+	"Sedgwick County, KS"	"20173"	"55-64 years"	"55-64"	"Mar., 2019"	"2019/03"	62	Not Applicable	Not Applicable
+	"Sedgwick County, KS"	"20173"	"55-64 years"	"55-64"	"Apr., 2019"	"2019/04"	54	Not Applicable	Not Applicable
+	"Sedgwick County, KS"	"20173"	"55-64 years"	"55-64"	"May, 2019"	"2019/05"	42	Not Applicable	Not Applicable
+	"Sedgwick County, KS"	"20173"	"55-64 years"	"55-64"	"Jun., 2019"	"2019/06"	58	Not Applicable	Not Applicable
+	"Sedgwick County, KS"	"20173"	"55-64 years"	"55-64"	"Jul., 2019"	"2019/07"	50	Not Applicable	Not Applicable
+	"Sedgwick County, KS"	"20173"	"55-64 years"	"55-64"	"Aug., 2019"	"2019/08"	53	Not Applicable	Not Applicable
+	"Sedgwick County, KS"	"20173"	"55-64 years"	"55-64"	"Sep., 2019"	"2019/09"	65	Not Applicable	Not Applicable
+	"Sedgwick County, KS"	"20173"	"55-64 years"	"55-64"	"Oct., 2019"	"2019/10"	70	Not Applicable	Not Applicable
+	"Sedgwick County, KS"	"20173"	"55-64 years"	"55-64"	"Nov., 2019"	"2019/11"	63	Not Applicable	Not Applicable
+	"Sedgwick County, KS"	"20173"	"55-64 years"	"55-64"	"Dec., 2019"	"2019/12"	57	Not Applicable	Not Applicable
+	"Sedgwick County, KS"	"20173"	"55-64 years"	"55-64"	"Jan., 2020 "	"2020/01"	61	Not Applicable	Not Applicable
+	"Sedgwick County, KS"	"20173"	"55-64 years"	"55-64"	"Feb., 2020 "	"2020/02"	58	Not Applicable	Not Applicable
+	"Sedgwick County, KS"	"20173"	"55-64 years"	"55-64"	"Mar., 2020 "	"2020/03"	51	Not Applicable	Not Applicable
+	"Sedgwick County, KS"	"20173"	"55-64 years"	"55-64"	"Apr., 2020 "	"2020/04"	65	Not Applicable	Not Applicable
+	"Sedgwick County, KS"	"20173"	"55-64 years"	"55-64"	"May, 2020 "	"2020/05"	66	Not Applicable	Not Applicable
+	"Sedgwick County, KS"	"20173"	"55-64 years"	"55-64"	"Jun., 2020 "	"2020/06"	47	Not Applicable	Not Applicable
+	"Sedgwick County, KS"	"20173"	"55-64 years"	"55-64"	"Jul., 2020 "	"2020/07"	63	Not Applicable	Not Applicable
+	"Sedgwick County, KS"	"20173"	"55-64 years"	"55-64"	"Aug., 2020 "	"2020/08"	73	Not Applicable	Not Applicable
+	"Sedgwick County, KS"	"20173"	"55-64 years"	"55-64"	"Sep., 2020 "	"2020/09"	73	Not Applicable	Not Applicable
+	"Sedgwick County, KS"	"20173"	"55-64 years"	"55-64"	"Oct., 2020 "	"2020/10"	52	Not Applicable	Not Applicable
+	"Sedgwick County, KS"	"20173"	"55-64 years"	"55-64"	"Nov., 2020 "	"2020/11"	69	Not Applicable	Not Applicable
+	"Sedgwick County, KS"	"20173"	"55-64 years"	"55-64"	"Dec., 2020 "	"2020/12"	86	Not Applicable	Not Applicable
+	"Sedgwick County, KS"	"20173"	"65-74 years"	"65-74"	"Jan., 2019"	"2019/01"	75	Not Applicable	Not Applicable
+	"Sedgwick County, KS"	"20173"	"65-74 years"	"65-74"	"Feb., 2019"	"2019/02"	75	Not Applicable	Not Applicable
+	"Sedgwick County, KS"	"20173"	"65-74 years"	"65-74"	"Mar., 2019"	"2019/03"	85	Not Applicable	Not Applicable
+	"Sedgwick County, KS"	"20173"	"65-74 years"	"65-74"	"Apr., 2019"	"2019/04"	80	Not Applicable	Not Applicable
+	"Sedgwick County, KS"	"20173"	"65-74 years"	"65-74"	"May, 2019"	"2019/05"	85	Not Applicable	Not Applicable
+	"Sedgwick County, KS"	"20173"	"65-74 years"	"65-74"	"Jun., 2019"	"2019/06"	76	Not Applicable	Not Applicable
+	"Sedgwick County, KS"	"20173"	"65-74 years"	"65-74"	"Jul., 2019"	"2019/07"	81	Not Applicable	Not Applicable
+	"Sedgwick County, KS"	"20173"	"65-74 years"	"65-74"	"Aug., 2019"	"2019/08"	62	Not Applicable	Not Applicable
+	"Sedgwick County, KS"	"20173"	"65-74 years"	"65-74"	"Sep., 2019"	"2019/09"	60	Not Applicable	Not Applicable
+	"Sedgwick County, KS"	"20173"	"65-74 years"	"65-74"	"Oct., 2019"	"2019/10"	68	Not Applicable	Not Applicable
+	"Sedgwick County, KS"	"20173"	"65-74 years"	"65-74"	"Nov., 2019"	"2019/11"	89	Not Applicable	Not Applicable
+	"Sedgwick County, KS"	"20173"	"65-74 years"	"65-74"	"Dec., 2019"	"2019/12"	74	Not Applicable	Not Applicable
+	"Sedgwick County, KS"	"20173"	"65-74 years"	"65-74"	"Jan., 2020 "	"2020/01"	103	Not Applicable	Not Applicable
+	"Sedgwick County, KS"	"20173"	"65-74 years"	"65-74"	"Feb., 2020 "	"2020/02"	84	Not Applicable	Not Applicable
+	"Sedgwick County, KS"	"20173"	"65-74 years"	"65-74"	"Mar., 2020 "	"2020/03"	89	Not Applicable	Not Applicable
+	"Sedgwick County, KS"	"20173"	"65-74 years"	"65-74"	"Apr., 2020 "	"2020/04"	95	Not Applicable	Not Applicable
+	"Sedgwick County, KS"	"20173"	"65-74 years"	"65-74"	"May, 2020 "	"2020/05"	91	Not Applicable	Not Applicable
+	"Sedgwick County, KS"	"20173"	"65-74 years"	"65-74"	"Jun., 2020 "	"2020/06"	85	Not Applicable	Not Applicable
+	"Sedgwick County, KS"	"20173"	"65-74 years"	"65-74"	"Jul., 2020 "	"2020/07"	111	Not Applicable	Not Applicable
+	"Sedgwick County, KS"	"20173"	"65-74 years"	"65-74"	"Aug., 2020 "	"2020/08"	99	Not Applicable	Not Applicable
+	"Sedgwick County, KS"	"20173"	"65-74 years"	"65-74"	"Sep., 2020 "	"2020/09"	82	Not Applicable	Not Applicable
+	"Sedgwick County, KS"	"20173"	"65-74 years"	"65-74"	"Oct., 2020 "	"2020/10"	94	Not Applicable	Not Applicable
+	"Sedgwick County, KS"	"20173"	"65-74 years"	"65-74"	"Nov., 2020 "	"2020/11"	111	Not Applicable	Not Applicable
+	"Sedgwick County, KS"	"20173"	"65-74 years"	"65-74"	"Dec., 2020 "	"2020/12"	131	Not Applicable	Not Applicable
+	"Sedgwick County, KS"	"20173"	"75-84 years"	"75-84"	"Jan., 2019"	"2019/01"	116	Not Applicable	Not Applicable
+	"Sedgwick County, KS"	"20173"	"75-84 years"	"75-84"	"Feb., 2019"	"2019/02"	92	Not Applicable	Not Applicable
+	"Sedgwick County, KS"	"20173"	"75-84 years"	"75-84"	"Mar., 2019"	"2019/03"	80	Not Applicable	Not Applicable
+	"Sedgwick County, KS"	"20173"	"75-84 years"	"75-84"	"Apr., 2019"	"2019/04"	79	Not Applicable	Not Applicable
+	"Sedgwick County, KS"	"20173"	"75-84 years"	"75-84"	"May, 2019"	"2019/05"	90	Not Applicable	Not Applicable
+	"Sedgwick County, KS"	"20173"	"75-84 years"	"75-84"	"Jun., 2019"	"2019/06"	83	Not Applicable	Not Applicable
+	"Sedgwick County, KS"	"20173"	"75-84 years"	"75-84"	"Jul., 2019"	"2019/07"	98	Not Applicable	Not Applicable
+	"Sedgwick County, KS"	"20173"	"75-84 years"	"75-84"	"Aug., 2019"	"2019/08"	87	Not Applicable	Not Applicable
+	"Sedgwick County, KS"	"20173"	"75-84 years"	"75-84"	"Sep., 2019"	"2019/09"	64	Not Applicable	Not Applicable
+	"Sedgwick County, KS"	"20173"	"75-84 years"	"75-84"	"Oct., 2019"	"2019/10"	83	Not Applicable	Not Applicable
+	"Sedgwick County, KS"	"20173"	"75-84 years"	"75-84"	"Nov., 2019"	"2019/11"	81	Not Applicable	Not Applicable
+	"Sedgwick County, KS"	"20173"	"75-84 years"	"75-84"	"Dec., 2019"	"2019/12"	94	Not Applicable	Not Applicable
+	"Sedgwick County, KS"	"20173"	"75-84 years"	"75-84"	"Jan., 2020 "	"2020/01"	107	Not Applicable	Not Applicable
+	"Sedgwick County, KS"	"20173"	"75-84 years"	"75-84"	"Feb., 2020 "	"2020/02"	100	Not Applicable	Not Applicable
+	"Sedgwick County, KS"	"20173"	"75-84 years"	"75-84"	"Mar., 2020 "	"2020/03"	101	Not Applicable	Not Applicable
+	"Sedgwick County, KS"	"20173"	"75-84 years"	"75-84"	"Apr., 2020 "	"2020/04"	79	Not Applicable	Not Applicable
+	"Sedgwick County, KS"	"20173"	"75-84 years"	"75-84"	"May, 2020 "	"2020/05"	96	Not Applicable	Not Applicable
+	"Sedgwick County, KS"	"20173"	"75-84 years"	"75-84"	"Jun., 2020 "	"2020/06"	82	Not Applicable	Not Applicable
+	"Sedgwick County, KS"	"20173"	"75-84 years"	"75-84"	"Jul., 2020 "	"2020/07"	101	Not Applicable	Not Applicable
+	"Sedgwick County, KS"	"20173"	"75-84 years"	"75-84"	"Aug., 2020 "	"2020/08"	122	Not Applicable	Not Applicable
+	"Sedgwick County, KS"	"20173"	"75-84 years"	"75-84"	"Sep., 2020 "	"2020/09"	107	Not Applicable	Not Applicable
+	"Sedgwick County, KS"	"20173"	"75-84 years"	"75-84"	"Oct., 2020 "	"2020/10"	107	Not Applicable	Not Applicable
+	"Sedgwick County, KS"	"20173"	"75-84 years"	"75-84"	"Nov., 2020 "	"2020/11"	135	Not Applicable	Not Applicable
+	"Sedgwick County, KS"	"20173"	"75-84 years"	"75-84"	"Dec., 2020 "	"2020/12"	162	Not Applicable	Not Applicable
+	"Sedgwick County, KS"	"20173"	"85+ years"	"85+"	"Jan., 2019"	"2019/01"	129	Not Applicable	Not Applicable
+	"Sedgwick County, KS"	"20173"	"85+ years"	"85+"	"Feb., 2019"	"2019/02"	110	Not Applicable	Not Applicable
+	"Sedgwick County, KS"	"20173"	"85+ years"	"85+"	"Mar., 2019"	"2019/03"	134	Not Applicable	Not Applicable
+	"Sedgwick County, KS"	"20173"	"85+ years"	"85+"	"Apr., 2019"	"2019/04"	96	Not Applicable	Not Applicable
+	"Sedgwick County, KS"	"20173"	"85+ years"	"85+"	"May, 2019"	"2019/05"	111	Not Applicable	Not Applicable
+	"Sedgwick County, KS"	"20173"	"85+ years"	"85+"	"Jun., 2019"	"2019/06"	115	Not Applicable	Not Applicable
+	"Sedgwick County, KS"	"20173"	"85+ years"	"85+"	"Jul., 2019"	"2019/07"	93	Not Applicable	Not Applicable
+	"Sedgwick County, KS"	"20173"	"85+ years"	"85+"	"Aug., 2019"	"2019/08"	110	Not Applicable	Not Applicable
+	"Sedgwick County, KS"	"20173"	"85+ years"	"85+"	"Sep., 2019"	"2019/09"	121	Not Applicable	Not Applicable
+	"Sedgwick County, KS"	"20173"	"85+ years"	"85+"	"Oct., 2019"	"2019/10"	111	Not Applicable	Not Applicable
+	"Sedgwick County, KS"	"20173"	"85+ years"	"85+"	"Nov., 2019"	"2019/11"	105	Not Applicable	Not Applicable
+	"Sedgwick County, KS"	"20173"	"85+ years"	"85+"	"Dec., 2019"	"2019/12"	130	Not Applicable	Not Applicable
+	"Sedgwick County, KS"	"20173"	"85+ years"	"85+"	"Jan., 2020 "	"2020/01"	142	Not Applicable	Not Applicable
+	"Sedgwick County, KS"	"20173"	"85+ years"	"85+"	"Feb., 2020 "	"2020/02"	125	Not Applicable	Not Applicable
+	"Sedgwick County, KS"	"20173"	"85+ years"	"85+"	"Mar., 2020 "	"2020/03"	131	Not Applicable	Not Applicable
+	"Sedgwick County, KS"	"20173"	"85+ years"	"85+"	"Apr., 2020 "	"2020/04"	109	Not Applicable	Not Applicable
+	"Sedgwick County, KS"	"20173"	"85+ years"	"85+"	"May, 2020 "	"2020/05"	130	Not Applicable	Not Applicable
+	"Sedgwick County, KS"	"20173"	"85+ years"	"85+"	"Jun., 2020 "	"2020/06"	107	Not Applicable	Not Applicable
+	"Sedgwick County, KS"	"20173"	"85+ years"	"85+"	"Jul., 2020 "	"2020/07"	123	Not Applicable	Not Applicable
+	"Sedgwick County, KS"	"20173"	"85+ years"	"85+"	"Aug., 2020 "	"2020/08"	120	Not Applicable	Not Applicable
+	"Sedgwick County, KS"	"20173"	"85+ years"	"85+"	"Sep., 2020 "	"2020/09"	107	Not Applicable	Not Applicable
+	"Sedgwick County, KS"	"20173"	"85+ years"	"85+"	"Oct., 2020 "	"2020/10"	136	Not Applicable	Not Applicable
+	"Sedgwick County, KS"	"20173"	"85+ years"	"85+"	"Nov., 2020 "	"2020/11"	201	Not Applicable	Not Applicable
+	"Sedgwick County, KS"	"20173"	"85+ years"	"85+"	"Dec., 2020 "	"2020/12"	228	Not Applicable	Not Applicable
+	"Shawnee County, KS"	"20177"	"55-64 years"	"55-64"	"Jan., 2019"	"2019/01"	29	Not Applicable	Not Applicable
+	"Shawnee County, KS"	"20177"	"55-64 years"	"55-64"	"Feb., 2019"	"2019/02"	22	Not Applicable	Not Applicable
+	"Shawnee County, KS"	"20177"	"55-64 years"	"55-64"	"Mar., 2019"	"2019/03"	28	Not Applicable	Not Applicable
+	"Shawnee County, KS"	"20177"	"55-64 years"	"55-64"	"Apr., 2019"	"2019/04"	29	Not Applicable	Not Applicable
+	"Shawnee County, KS"	"20177"	"55-64 years"	"55-64"	"May, 2019"	"2019/05"	19	Not Applicable	Not Applicable
+	"Shawnee County, KS"	"20177"	"55-64 years"	"55-64"	"Jun., 2019"	"2019/06"	26	Not Applicable	Not Applicable
+	"Shawnee County, KS"	"20177"	"55-64 years"	"55-64"	"Jul., 2019"	"2019/07"	23	Not Applicable	Not Applicable
+	"Shawnee County, KS"	"20177"	"55-64 years"	"55-64"	"Aug., 2019"	"2019/08"	24	Not Applicable	Not Applicable
+	"Shawnee County, KS"	"20177"	"55-64 years"	"55-64"	"Sep., 2019"	"2019/09"	23	Not Applicable	Not Applicable
+	"Shawnee County, KS"	"20177"	"55-64 years"	"55-64"	"Oct., 2019"	"2019/10"	26	Not Applicable	Not Applicable
+	"Shawnee County, KS"	"20177"	"55-64 years"	"55-64"	"Nov., 2019"	"2019/11"	27	Not Applicable	Not Applicable
+	"Shawnee County, KS"	"20177"	"55-64 years"	"55-64"	"Dec., 2019"	"2019/12"	26	Not Applicable	Not Applicable
+	"Shawnee County, KS"	"20177"	"55-64 years"	"55-64"	"Jan., 2020 "	"2020/01"	30	Not Applicable	Not Applicable
+	"Shawnee County, KS"	"20177"	"55-64 years"	"55-64"	"Feb., 2020 "	"2020/02"	25	Not Applicable	Not Applicable
+	"Shawnee County, KS"	"20177"	"55-64 years"	"55-64"	"Mar., 2020 "	"2020/03"	28	Not Applicable	Not Applicable
+	"Shawnee County, KS"	"20177"	"55-64 years"	"55-64"	"Apr., 2020 "	"2020/04"	17	Not Applicable	Not Applicable
+	"Shawnee County, KS"	"20177"	"55-64 years"	"55-64"	"May, 2020 "	"2020/05"	23	Not Applicable	Not Applicable
+	"Shawnee County, KS"	"20177"	"55-64 years"	"55-64"	"Jun., 2020 "	"2020/06"	16	Not Applicable	Not Applicable
+	"Shawnee County, KS"	"20177"	"55-64 years"	"55-64"	"Jul., 2020 "	"2020/07"	19	Not Applicable	Not Applicable
+	"Shawnee County, KS"	"20177"	"55-64 years"	"55-64"	"Aug., 2020 "	"2020/08"	19	Not Applicable	Not Applicable
+	"Shawnee County, KS"	"20177"	"55-64 years"	"55-64"	"Sep., 2020 "	"2020/09"	27	Not Applicable	Not Applicable
+	"Shawnee County, KS"	"20177"	"55-64 years"	"55-64"	"Oct., 2020 "	"2020/10"	18	Not Applicable	Not Applicable
+	"Shawnee County, KS"	"20177"	"55-64 years"	"55-64"	"Nov., 2020 "	"2020/11"	21	Not Applicable	Not Applicable
+	"Shawnee County, KS"	"20177"	"55-64 years"	"55-64"	"Dec., 2020 "	"2020/12"	30	Not Applicable	Not Applicable
+	"Shawnee County, KS"	"20177"	"65-74 years"	"65-74"	"Jan., 2019"	"2019/01"	27	Not Applicable	Not Applicable
+	"Shawnee County, KS"	"20177"	"65-74 years"	"65-74"	"Feb., 2019"	"2019/02"	27	Not Applicable	Not Applicable
+	"Shawnee County, KS"	"20177"	"65-74 years"	"65-74"	"Mar., 2019"	"2019/03"	50	Not Applicable	Not Applicable
+	"Shawnee County, KS"	"20177"	"65-74 years"	"65-74"	"Apr., 2019"	"2019/04"	21	Not Applicable	Not Applicable
+	"Shawnee County, KS"	"20177"	"65-74 years"	"65-74"	"May, 2019"	"2019/05"	31	Not Applicable	Not Applicable
+	"Shawnee County, KS"	"20177"	"65-74 years"	"65-74"	"Jun., 2019"	"2019/06"	39	Not Applicable	Not Applicable
+	"Shawnee County, KS"	"20177"	"65-74 years"	"65-74"	"Jul., 2019"	"2019/07"	27	Not Applicable	Not Applicable
+	"Shawnee County, KS"	"20177"	"65-74 years"	"65-74"	"Aug., 2019"	"2019/08"	31	Not Applicable	Not Applicable
+	"Shawnee County, KS"	"20177"	"65-74 years"	"65-74"	"Sep., 2019"	"2019/09"	34	Not Applicable	Not Applicable
+	"Shawnee County, KS"	"20177"	"65-74 years"	"65-74"	"Oct., 2019"	"2019/10"	31	Not Applicable	Not Applicable
+	"Shawnee County, KS"	"20177"	"65-74 years"	"65-74"	"Nov., 2019"	"2019/11"	31	Not Applicable	Not Applicable
+	"Shawnee County, KS"	"20177"	"65-74 years"	"65-74"	"Dec., 2019"	"2019/12"	29	Not Applicable	Not Applicable
+	"Shawnee County, KS"	"20177"	"65-74 years"	"65-74"	"Jan., 2020 "	"2020/01"	39	Not Applicable	Not Applicable
+	"Shawnee County, KS"	"20177"	"65-74 years"	"65-74"	"Feb., 2020 "	"2020/02"	40	Not Applicable	Not Applicable
+	"Shawnee County, KS"	"20177"	"65-74 years"	"65-74"	"Mar., 2020 "	"2020/03"	37	Not Applicable	Not Applicable
+	"Shawnee County, KS"	"20177"	"65-74 years"	"65-74"	"Apr., 2020 "	"2020/04"	33	Not Applicable	Not Applicable
+	"Shawnee County, KS"	"20177"	"65-74 years"	"65-74"	"May, 2020 "	"2020/05"	27	Not Applicable	Not Applicable
+	"Shawnee County, KS"	"20177"	"65-74 years"	"65-74"	"Jun., 2020 "	"2020/06"	37	Not Applicable	Not Applicable
+	"Shawnee County, KS"	"20177"	"65-74 years"	"65-74"	"Jul., 2020 "	"2020/07"	38	Not Applicable	Not Applicable
+	"Shawnee County, KS"	"20177"	"65-74 years"	"65-74"	"Aug., 2020 "	"2020/08"	35	Not Applicable	Not Applicable
+	"Shawnee County, KS"	"20177"	"65-74 years"	"65-74"	"Sep., 2020 "	"2020/09"	46	Not Applicable	Not Applicable
+	"Shawnee County, KS"	"20177"	"65-74 years"	"65-74"	"Oct., 2020 "	"2020/10"	37	Not Applicable	Not Applicable
+	"Shawnee County, KS"	"20177"	"65-74 years"	"65-74"	"Nov., 2020 "	"2020/11"	47	Not Applicable	Not Applicable
+	"Shawnee County, KS"	"20177"	"65-74 years"	"65-74"	"Dec., 2020 "	"2020/12"	53	Not Applicable	Not Applicable
+	"Shawnee County, KS"	"20177"	"75-84 years"	"75-84"	"Jan., 2019"	"2019/01"	39	Not Applicable	Not Applicable
+	"Shawnee County, KS"	"20177"	"75-84 years"	"75-84"	"Feb., 2019"	"2019/02"	36	Not Applicable	Not Applicable
+	"Shawnee County, KS"	"20177"	"75-84 years"	"75-84"	"Mar., 2019"	"2019/03"	29	Not Applicable	Not Applicable
+	"Shawnee County, KS"	"20177"	"75-84 years"	"75-84"	"Apr., 2019"	"2019/04"	35	Not Applicable	Not Applicable
+	"Shawnee County, KS"	"20177"	"75-84 years"	"75-84"	"May, 2019"	"2019/05"	36	Not Applicable	Not Applicable
+	"Shawnee County, KS"	"20177"	"75-84 years"	"75-84"	"Jun., 2019"	"2019/06"	30	Not Applicable	Not Applicable
+	"Shawnee County, KS"	"20177"	"75-84 years"	"75-84"	"Jul., 2019"	"2019/07"	31	Not Applicable	Not Applicable
+	"Shawnee County, KS"	"20177"	"75-84 years"	"75-84"	"Aug., 2019"	"2019/08"	31	Not Applicable	Not Applicable
+	"Shawnee County, KS"	"20177"	"75-84 years"	"75-84"	"Sep., 2019"	"2019/09"	36	Not Applicable	Not Applicable
+	"Shawnee County, KS"	"20177"	"75-84 years"	"75-84"	"Oct., 2019"	"2019/10"	43	Not Applicable	Not Applicable
+	"Shawnee County, KS"	"20177"	"75-84 years"	"75-84"	"Nov., 2019"	"2019/11"	34	Not Applicable	Not Applicable
+	"Shawnee County, KS"	"20177"	"75-84 years"	"75-84"	"Dec., 2019"	"2019/12"	46	Not Applicable	Not Applicable
+	"Shawnee County, KS"	"20177"	"75-84 years"	"75-84"	"Jan., 2020 "	"2020/01"	42	Not Applicable	Not Applicable
+	"Shawnee County, KS"	"20177"	"75-84 years"	"75-84"	"Feb., 2020 "	"2020/02"	47	Not Applicable	Not Applicable
+	"Shawnee County, KS"	"20177"	"75-84 years"	"75-84"	"Mar., 2020 "	"2020/03"	40	Not Applicable	Not Applicable
+	"Shawnee County, KS"	"20177"	"75-84 years"	"75-84"	"Apr., 2020 "	"2020/04"	38	Not Applicable	Not Applicable
+	"Shawnee County, KS"	"20177"	"75-84 years"	"75-84"	"May, 2020 "	"2020/05"	34	Not Applicable	Not Applicable
+	"Shawnee County, KS"	"20177"	"75-84 years"	"75-84"	"Jun., 2020 "	"2020/06"	41	Not Applicable	Not Applicable
+	"Shawnee County, KS"	"20177"	"75-84 years"	"75-84"	"Jul., 2020 "	"2020/07"	27	Not Applicable	Not Applicable
+	"Shawnee County, KS"	"20177"	"75-84 years"	"75-84"	"Aug., 2020 "	"2020/08"	46	Not Applicable	Not Applicable
+	"Shawnee County, KS"	"20177"	"75-84 years"	"75-84"	"Sep., 2020 "	"2020/09"	46	Not Applicable	Not Applicable
+	"Shawnee County, KS"	"20177"	"75-84 years"	"75-84"	"Oct., 2020 "	"2020/10"	52	Not Applicable	Not Applicable
+	"Shawnee County, KS"	"20177"	"75-84 years"	"75-84"	"Nov., 2020 "	"2020/11"	82	Not Applicable	Not Applicable
+	"Shawnee County, KS"	"20177"	"75-84 years"	"75-84"	"Dec., 2020 "	"2020/12"	71	Not Applicable	Not Applicable
+	"Shawnee County, KS"	"20177"	"85+ years"	"85+"	"Jan., 2019"	"2019/01"	72	Not Applicable	Not Applicable
+	"Shawnee County, KS"	"20177"	"85+ years"	"85+"	"Feb., 2019"	"2019/02"	55	Not Applicable	Not Applicable
+	"Shawnee County, KS"	"20177"	"85+ years"	"85+"	"Mar., 2019"	"2019/03"	58	Not Applicable	Not Applicable
+	"Shawnee County, KS"	"20177"	"85+ years"	"85+"	"Apr., 2019"	"2019/04"	51	Not Applicable	Not Applicable
+	"Shawnee County, KS"	"20177"	"85+ years"	"85+"	"May, 2019"	"2019/05"	47	Not Applicable	Not Applicable
+	"Shawnee County, KS"	"20177"	"85+ years"	"85+"	"Jun., 2019"	"2019/06"	39	Not Applicable	Not Applicable
+	"Shawnee County, KS"	"20177"	"85+ years"	"85+"	"Jul., 2019"	"2019/07"	54	Not Applicable	Not Applicable
+	"Shawnee County, KS"	"20177"	"85+ years"	"85+"	"Aug., 2019"	"2019/08"	46	Not Applicable	Not Applicable
+	"Shawnee County, KS"	"20177"	"85+ years"	"85+"	"Sep., 2019"	"2019/09"	45	Not Applicable	Not Applicable
+	"Shawnee County, KS"	"20177"	"85+ years"	"85+"	"Oct., 2019"	"2019/10"	50	Not Applicable	Not Applicable
+	"Shawnee County, KS"	"20177"	"85+ years"	"85+"	"Nov., 2019"	"2019/11"	50	Not Applicable	Not Applicable
+	"Shawnee County, KS"	"20177"	"85+ years"	"85+"	"Dec., 2019"	"2019/12"	57	Not Applicable	Not Applicable
+	"Shawnee County, KS"	"20177"	"85+ years"	"85+"	"Jan., 2020 "	"2020/01"	74	Not Applicable	Not Applicable
+	"Shawnee County, KS"	"20177"	"85+ years"	"85+"	"Feb., 2020 "	"2020/02"	49	Not Applicable	Not Applicable
+	"Shawnee County, KS"	"20177"	"85+ years"	"85+"	"Mar., 2020 "	"2020/03"	51	Not Applicable	Not Applicable
+	"Shawnee County, KS"	"20177"	"85+ years"	"85+"	"Apr., 2020 "	"2020/04"	48	Not Applicable	Not Applicable
+	"Shawnee County, KS"	"20177"	"85+ years"	"85+"	"May, 2020 "	"2020/05"	62	Not Applicable	Not Applicable
+	"Shawnee County, KS"	"20177"	"85+ years"	"85+"	"Jun., 2020 "	"2020/06"	58	Not Applicable	Not Applicable
+	"Shawnee County, KS"	"20177"	"85+ years"	"85+"	"Jul., 2020 "	"2020/07"	46	Not Applicable	Not Applicable
+	"Shawnee County, KS"	"20177"	"85+ years"	"85+"	"Aug., 2020 "	"2020/08"	53	Not Applicable	Not Applicable
+	"Shawnee County, KS"	"20177"	"85+ years"	"85+"	"Sep., 2020 "	"2020/09"	60	Not Applicable	Not Applicable
+	"Shawnee County, KS"	"20177"	"85+ years"	"85+"	"Oct., 2020 "	"2020/10"	58	Not Applicable	Not Applicable
+	"Shawnee County, KS"	"20177"	"85+ years"	"85+"	"Nov., 2020 "	"2020/11"	86	Not Applicable	Not Applicable
+	"Shawnee County, KS"	"20177"	"85+ years"	"85+"	"Dec., 2020 "	"2020/12"	91	Not Applicable	Not Applicable
+	"Sumner County, KS"	"20191"	"65-74 years"	"65-74"	"Nov., 2020 "	"2020/11"	11	Not Applicable	Not Applicable
+	"Sumner County, KS"	"20191"	"75-84 years"	"75-84"	"Sep., 2020 "	"2020/09"	11	Not Applicable	Not Applicable
+	"Sumner County, KS"	"20191"	"75-84 years"	"75-84"	"Dec., 2020 "	"2020/12"	13	Not Applicable	Not Applicable
+	"Sumner County, KS"	"20191"	"85+ years"	"85+"	"Apr., 2019"	"2019/04"	11	Not Applicable	Not Applicable
+	"Sumner County, KS"	"20191"	"85+ years"	"85+"	"Jan., 2020 "	"2020/01"	10	Not Applicable	Not Applicable
+	"Sumner County, KS"	"20191"	"85+ years"	"85+"	"Feb., 2020 "	"2020/02"	10	Not Applicable	Not Applicable
+	"Sumner County, KS"	"20191"	"85+ years"	"85+"	"Jul., 2020 "	"2020/07"	11	Not Applicable	Not Applicable
+	"Sumner County, KS"	"20191"	"85+ years"	"85+"	"Nov., 2020 "	"2020/11"	14	Not Applicable	Not Applicable
+	"Sumner County, KS"	"20191"	"85+ years"	"85+"	"Dec., 2020 "	"2020/12"	19	Not Applicable	Not Applicable
+	"Wyandotte County, KS"	"20209"	"55-64 years"	"55-64"	"Jan., 2019"	"2019/01"	25	Not Applicable	Not Applicable
+	"Wyandotte County, KS"	"20209"	"55-64 years"	"55-64"	"Feb., 2019"	"2019/02"	14	Not Applicable	Not Applicable
+	"Wyandotte County, KS"	"20209"	"55-64 years"	"55-64"	"Mar., 2019"	"2019/03"	18	Not Applicable	Not Applicable
+	"Wyandotte County, KS"	"20209"	"55-64 years"	"55-64"	"Apr., 2019"	"2019/04"	19	Not Applicable	Not Applicable
+	"Wyandotte County, KS"	"20209"	"55-64 years"	"55-64"	"May, 2019"	"2019/05"	23	Not Applicable	Not Applicable
+	"Wyandotte County, KS"	"20209"	"55-64 years"	"55-64"	"Jun., 2019"	"2019/06"	23	Not Applicable	Not Applicable
+	"Wyandotte County, KS"	"20209"	"55-64 years"	"55-64"	"Jul., 2019"	"2019/07"	23	Not Applicable	Not Applicable
+	"Wyandotte County, KS"	"20209"	"55-64 years"	"55-64"	"Aug., 2019"	"2019/08"	20	Not Applicable	Not Applicable
+	"Wyandotte County, KS"	"20209"	"55-64 years"	"55-64"	"Sep., 2019"	"2019/09"	28	Not Applicable	Not Applicable
+	"Wyandotte County, KS"	"20209"	"55-64 years"	"55-64"	"Oct., 2019"	"2019/10"	18	Not Applicable	Not Applicable
+	"Wyandotte County, KS"	"20209"	"55-64 years"	"55-64"	"Nov., 2019"	"2019/11"	27	Not Applicable	Not Applicable
+	"Wyandotte County, KS"	"20209"	"55-64 years"	"55-64"	"Dec., 2019"	"2019/12"	17	Not Applicable	Not Applicable
+	"Wyandotte County, KS"	"20209"	"55-64 years"	"55-64"	"Jan., 2020 "	"2020/01"	13	Not Applicable	Not Applicable
+	"Wyandotte County, KS"	"20209"	"55-64 years"	"55-64"	"Feb., 2020 "	"2020/02"	30	Not Applicable	Not Applicable
+	"Wyandotte County, KS"	"20209"	"55-64 years"	"55-64"	"Mar., 2020 "	"2020/03"	25	Not Applicable	Not Applicable
+	"Wyandotte County, KS"	"20209"	"55-64 years"	"55-64"	"Apr., 2020 "	"2020/04"	26	Not Applicable	Not Applicable
+	"Wyandotte County, KS"	"20209"	"55-64 years"	"55-64"	"May, 2020 "	"2020/05"	39	Not Applicable	Not Applicable
+	"Wyandotte County, KS"	"20209"	"55-64 years"	"55-64"	"Jun., 2020 "	"2020/06"	24	Not Applicable	Not Applicable
+	"Wyandotte County, KS"	"20209"	"55-64 years"	"55-64"	"Jul., 2020 "	"2020/07"	19	Not Applicable	Not Applicable
+	"Wyandotte County, KS"	"20209"	"55-64 years"	"55-64"	"Aug., 2020 "	"2020/08"	29	Not Applicable	Not Applicable
+	"Wyandotte County, KS"	"20209"	"55-64 years"	"55-64"	"Sep., 2020 "	"2020/09"	21	Not Applicable	Not Applicable
+	"Wyandotte County, KS"	"20209"	"55-64 years"	"55-64"	"Oct., 2020 "	"2020/10"	26	Not Applicable	Not Applicable
+	"Wyandotte County, KS"	"20209"	"55-64 years"	"55-64"	"Nov., 2020 "	"2020/11"	25	Not Applicable	Not Applicable
+	"Wyandotte County, KS"	"20209"	"55-64 years"	"55-64"	"Dec., 2020 "	"2020/12"	20	Not Applicable	Not Applicable
+	"Wyandotte County, KS"	"20209"	"65-74 years"	"65-74"	"Jan., 2019"	"2019/01"	36	Not Applicable	Not Applicable
+	"Wyandotte County, KS"	"20209"	"65-74 years"	"65-74"	"Feb., 2019"	"2019/02"	26	Not Applicable	Not Applicable
+	"Wyandotte County, KS"	"20209"	"65-74 years"	"65-74"	"Mar., 2019"	"2019/03"	26	Not Applicable	Not Applicable
+	"Wyandotte County, KS"	"20209"	"65-74 years"	"65-74"	"Apr., 2019"	"2019/04"	27	Not Applicable	Not Applicable
+	"Wyandotte County, KS"	"20209"	"65-74 years"	"65-74"	"May, 2019"	"2019/05"	35	Not Applicable	Not Applicable
+	"Wyandotte County, KS"	"20209"	"65-74 years"	"65-74"	"Jun., 2019"	"2019/06"	28	Not Applicable	Not Applicable
+	"Wyandotte County, KS"	"20209"	"65-74 years"	"65-74"	"Jul., 2019"	"2019/07"	25	Not Applicable	Not Applicable
+	"Wyandotte County, KS"	"20209"	"65-74 years"	"65-74"	"Aug., 2019"	"2019/08"	29	Not Applicable	Not Applicable
+	"Wyandotte County, KS"	"20209"	"65-74 years"	"65-74"	"Sep., 2019"	"2019/09"	28	Not Applicable	Not Applicable
+	"Wyandotte County, KS"	"20209"	"65-74 years"	"65-74"	"Oct., 2019"	"2019/10"	25	Not Applicable	Not Applicable
+	"Wyandotte County, KS"	"20209"	"65-74 years"	"65-74"	"Nov., 2019"	"2019/11"	17	Not Applicable	Not Applicable
+	"Wyandotte County, KS"	"20209"	"65-74 years"	"65-74"	"Dec., 2019"	"2019/12"	25	Not Applicable	Not Applicable
+	"Wyandotte County, KS"	"20209"	"65-74 years"	"65-74"	"Jan., 2020 "	"2020/01"	27	Not Applicable	Not Applicable
+	"Wyandotte County, KS"	"20209"	"65-74 years"	"65-74"	"Feb., 2020 "	"2020/02"	23	Not Applicable	Not Applicable
+	"Wyandotte County, KS"	"20209"	"65-74 years"	"65-74"	"Mar., 2020 "	"2020/03"	32	Not Applicable	Not Applicable
+	"Wyandotte County, KS"	"20209"	"65-74 years"	"65-74"	"Apr., 2020 "	"2020/04"	29	Not Applicable	Not Applicable
+	"Wyandotte County, KS"	"20209"	"65-74 years"	"65-74"	"May, 2020 "	"2020/05"	35	Not Applicable	Not Applicable
+	"Wyandotte County, KS"	"20209"	"65-74 years"	"65-74"	"Jun., 2020 "	"2020/06"	24	Not Applicable	Not Applicable
+	"Wyandotte County, KS"	"20209"	"65-74 years"	"65-74"	"Jul., 2020 "	"2020/07"	34	Not Applicable	Not Applicable
+	"Wyandotte County, KS"	"20209"	"65-74 years"	"65-74"	"Aug., 2020 "	"2020/08"	22	Not Applicable	Not Applicable
+	"Wyandotte County, KS"	"20209"	"65-74 years"	"65-74"	"Sep., 2020 "	"2020/09"	31	Not Applicable	Not Applicable
+	"Wyandotte County, KS"	"20209"	"65-74 years"	"65-74"	"Oct., 2020 "	"2020/10"	37	Not Applicable	Not Applicable
+	"Wyandotte County, KS"	"20209"	"65-74 years"	"65-74"	"Nov., 2020 "	"2020/11"	34	Not Applicable	Not Applicable
+	"Wyandotte County, KS"	"20209"	"65-74 years"	"65-74"	"Dec., 2020 "	"2020/12"	43	Not Applicable	Not Applicable
+	"Wyandotte County, KS"	"20209"	"75-84 years"	"75-84"	"Jan., 2019"	"2019/01"	31	Not Applicable	Not Applicable
+	"Wyandotte County, KS"	"20209"	"75-84 years"	"75-84"	"Feb., 2019"	"2019/02"	25	Not Applicable	Not Applicable
+	"Wyandotte County, KS"	"20209"	"75-84 years"	"75-84"	"Mar., 2019"	"2019/03"	34	Not Applicable	Not Applicable
+	"Wyandotte County, KS"	"20209"	"75-84 years"	"75-84"	"Apr., 2019"	"2019/04"	26	Not Applicable	Not Applicable
+	"Wyandotte County, KS"	"20209"	"75-84 years"	"75-84"	"May, 2019"	"2019/05"	32	Not Applicable	Not Applicable
+	"Wyandotte County, KS"	"20209"	"75-84 years"	"75-84"	"Jun., 2019"	"2019/06"	28	Not Applicable	Not Applicable
+	"Wyandotte County, KS"	"20209"	"75-84 years"	"75-84"	"Jul., 2019"	"2019/07"	22	Not Applicable	Not Applicable
+	"Wyandotte County, KS"	"20209"	"75-84 years"	"75-84"	"Aug., 2019"	"2019/08"	21	Not Applicable	Not Applicable
+	"Wyandotte County, KS"	"20209"	"75-84 years"	"75-84"	"Sep., 2019"	"2019/09"	24	Not Applicable	Not Applicable
+	"Wyandotte County, KS"	"20209"	"75-84 years"	"75-84"	"Oct., 2019"	"2019/10"	20	Not Applicable	Not Applicable
+	"Wyandotte County, KS"	"20209"	"75-84 years"	"75-84"	"Nov., 2019"	"2019/11"	17	Not Applicable	Not Applicable
+	"Wyandotte County, KS"	"20209"	"75-84 years"	"75-84"	"Dec., 2019"	"2019/12"	32	Not Applicable	Not Applicable
+	"Wyandotte County, KS"	"20209"	"75-84 years"	"75-84"	"Jan., 2020 "	"2020/01"	32	Not Applicable	Not Applicable
+	"Wyandotte County, KS"	"20209"	"75-84 years"	"75-84"	"Feb., 2020 "	"2020/02"	20	Not Applicable	Not Applicable
+	"Wyandotte County, KS"	"20209"	"75-84 years"	"75-84"	"Mar., 2020 "	"2020/03"	23	Not Applicable	Not Applicable
+	"Wyandotte County, KS"	"20209"	"75-84 years"	"75-84"	"Apr., 2020 "	"2020/04"	45	Not Applicable	Not Applicable
+	"Wyandotte County, KS"	"20209"	"75-84 years"	"75-84"	"May, 2020 "	"2020/05"	29	Not Applicable	Not Applicable
+	"Wyandotte County, KS"	"20209"	"75-84 years"	"75-84"	"Jun., 2020 "	"2020/06"	19	Not Applicable	Not Applicable
+	"Wyandotte County, KS"	"20209"	"75-84 years"	"75-84"	"Jul., 2020 "	"2020/07"	25	Not Applicable	Not Applicable
+	"Wyandotte County, KS"	"20209"	"75-84 years"	"75-84"	"Aug., 2020 "	"2020/08"	26	Not Applicable	Not Applicable
+	"Wyandotte County, KS"	"20209"	"75-84 years"	"75-84"	"Sep., 2020 "	"2020/09"	29	Not Applicable	Not Applicable
+	"Wyandotte County, KS"	"20209"	"75-84 years"	"75-84"	"Oct., 2020 "	"2020/10"	31	Not Applicable	Not Applicable
+	"Wyandotte County, KS"	"20209"	"75-84 years"	"75-84"	"Nov., 2020 "	"2020/11"	35	Not Applicable	Not Applicable
+	"Wyandotte County, KS"	"20209"	"75-84 years"	"75-84"	"Dec., 2020 "	"2020/12"	40	Not Applicable	Not Applicable
+	"Wyandotte County, KS"	"20209"	"85+ years"	"85+"	"Jan., 2019"	"2019/01"	37	Not Applicable	Not Applicable
+	"Wyandotte County, KS"	"20209"	"85+ years"	"85+"	"Feb., 2019"	"2019/02"	24	Not Applicable	Not Applicable
+	"Wyandotte County, KS"	"20209"	"85+ years"	"85+"	"Mar., 2019"	"2019/03"	32	Not Applicable	Not Applicable
+	"Wyandotte County, KS"	"20209"	"85+ years"	"85+"	"Apr., 2019"	"2019/04"	32	Not Applicable	Not Applicable
+	"Wyandotte County, KS"	"20209"	"85+ years"	"85+"	"May, 2019"	"2019/05"	18	Not Applicable	Not Applicable
+	"Wyandotte County, KS"	"20209"	"85+ years"	"85+"	"Jun., 2019"	"2019/06"	24	Not Applicable	Not Applicable
+	"Wyandotte County, KS"	"20209"	"85+ years"	"85+"	"Jul., 2019"	"2019/07"	32	Not Applicable	Not Applicable
+	"Wyandotte County, KS"	"20209"	"85+ years"	"85+"	"Aug., 2019"	"2019/08"	28	Not Applicable	Not Applicable
+	"Wyandotte County, KS"	"20209"	"85+ years"	"85+"	"Sep., 2019"	"2019/09"	32	Not Applicable	Not Applicable
+	"Wyandotte County, KS"	"20209"	"85+ years"	"85+"	"Oct., 2019"	"2019/10"	24	Not Applicable	Not Applicable
+	"Wyandotte County, KS"	"20209"	"85+ years"	"85+"	"Nov., 2019"	"2019/11"	30	Not Applicable	Not Applicable
+	"Wyandotte County, KS"	"20209"	"85+ years"	"85+"	"Dec., 2019"	"2019/12"	31	Not Applicable	Not Applicable
+	"Wyandotte County, KS"	"20209"	"85+ years"	"85+"	"Jan., 2020 "	"2020/01"	32	Not Applicable	Not Applicable
+	"Wyandotte County, KS"	"20209"	"85+ years"	"85+"	"Feb., 2020 "	"2020/02"	26	Not Applicable	Not Applicable
+	"Wyandotte County, KS"	"20209"	"85+ years"	"85+"	"Mar., 2020 "	"2020/03"	28	Not Applicable	Not Applicable
+	"Wyandotte County, KS"	"20209"	"85+ years"	"85+"	"Apr., 2020 "	"2020/04"	47	Not Applicable	Not Applicable
+	"Wyandotte County, KS"	"20209"	"85+ years"	"85+"	"May, 2020 "	"2020/05"	24	Not Applicable	Not Applicable
+	"Wyandotte County, KS"	"20209"	"85+ years"	"85+"	"Jun., 2020 "	"2020/06"	23	Not Applicable	Not Applicable
+	"Wyandotte County, KS"	"20209"	"85+ years"	"85+"	"Jul., 2020 "	"2020/07"	28	Not Applicable	Not Applicable
+	"Wyandotte County, KS"	"20209"	"85+ years"	"85+"	"Aug., 2020 "	"2020/08"	26	Not Applicable	Not Applicable
+	"Wyandotte County, KS"	"20209"	"85+ years"	"85+"	"Sep., 2020 "	"2020/09"	33	Not Applicable	Not Applicable
+	"Wyandotte County, KS"	"20209"	"85+ years"	"85+"	"Oct., 2020 "	"2020/10"	32	Not Applicable	Not Applicable
+	"Wyandotte County, KS"	"20209"	"85+ years"	"85+"	"Nov., 2020 "	"2020/11"	33	Not Applicable	Not Applicable
+	"Wyandotte County, KS"	"20209"	"85+ years"	"85+"	"Dec., 2020 "	"2020/12"	43	Not Applicable	Not Applicable
+"---"
+"Dataset: Underlying Cause of Death, 1999-2020"
+"Query Parameters:"
+"Title: Kansas_2019-2020"
+"States: Kansas (20)"
+"Ten-Year Age Groups: 55-64 years; 65-74 years; 75-84 years; 85+ years"
+"Year/Month: 2019; 2020"
+"Group By: County; Ten-Year Age Groups; Month"
+"Show Totals: Disabled"
+"Show Zero Values: True"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/ucd.html for more information."
+"---"
+"Query Date: Oct 22, 2022 1:54:54 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Mortality 1999-2020 on CDC WONDER Online Database, released in 2021. Data are from the Multiple Cause of Death Files,"
+"1999-2020, as compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative"
+"Program. Accessed at http://wonder.cdc.gov/ucd-icd10.html on Oct 22, 2022 1:54:54 PM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"2. Rows with suppressed Deaths are hidden. Use Quick Options above to show suppressed rows."
+"---"
+Caveats:
+"1. Population and rates are labeled 'Not Applicable' when Autopsy, Place of Death, Weekday or Month are grouped by or limited,"
+"due to lack of a valid population. More information: http://wonder.cdc.gov/wonder/help/ucd.html#NotApplicableRates."
+"2. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Assurance of Confidentiality."
+"3. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Unreliable."
+"4. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,"
+"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Not Stated."
