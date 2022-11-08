@@ -1,0 +1,1678 @@
+"Notes"	"County"	"County Code"	"Ten-Year Age Groups"	"Ten-Year Age Groups Code"	"Month"	"Month Code"	Deaths	Population	Crude Rate
+"Total"	"Adams County, ND"	"38001"	"55-64 years"	"55-64"			34	Not Applicable	Not Applicable
+"Total"	"Adams County, ND"	"38001"	"65-74 years"	"65-74"			45	Not Applicable	Not Applicable
+"Total"	"Adams County, ND"	"38001"	"75-84 years"	"75-84"			76	Not Applicable	Not Applicable
+"Total"	"Adams County, ND"	"38001"	"85+ years"	"85+"			167	Not Applicable	Not Applicable
+"Total"	"Adams County, ND"	"38001"					322	Not Applicable	Not Applicable
+"Total"	"Barnes County, ND"	"38003"	"55-64 years"	"55-64"			159	Not Applicable	Not Applicable
+"Total"	"Barnes County, ND"	"38003"	"65-74 years"	"65-74"			222	Not Applicable	Not Applicable
+"Total"	"Barnes County, ND"	"38003"	"75-84 years"	"75-84"			393	Not Applicable	Not Applicable
+	"Barnes County, ND"	"38003"	"85+ years"	"85+"	"Jun., 2010"	"2010/06"	10	Not Applicable	Not Applicable
+	"Barnes County, ND"	"38003"	"85+ years"	"85+"	"Mar., 2014"	"2014/03"	10	Not Applicable	Not Applicable
+	"Barnes County, ND"	"38003"	"85+ years"	"85+"	"Nov., 2020 "	"2020/11"	11	Not Applicable	Not Applicable
+	"Barnes County, ND"	"38003"	"85+ years"	"85+"	"Dec., 2020 "	"2020/12"	10	Not Applicable	Not Applicable
+"Total"	"Barnes County, ND"	"38003"	"85+ years"	"85+"			573	Not Applicable	Not Applicable
+"Total"	"Barnes County, ND"	"38003"					1347	Not Applicable	Not Applicable
+"Total"	"Benson County, ND"	"38005"	"55-64 years"	"55-64"			99	Not Applicable	Not Applicable
+"Total"	"Benson County, ND"	"38005"	"65-74 years"	"65-74"			155	Not Applicable	Not Applicable
+"Total"	"Benson County, ND"	"38005"	"75-84 years"	"75-84"			149	Not Applicable	Not Applicable
+"Total"	"Benson County, ND"	"38005"	"85+ years"	"85+"			144	Not Applicable	Not Applicable
+"Total"	"Benson County, ND"	"38005"					547	Not Applicable	Not Applicable
+"Total"	"Billings County, ND"	"38007"	"55-64 years"	"55-64"			11	Not Applicable	Not Applicable
+"Total"	"Billings County, ND"	"38007"	"65-74 years"	"65-74"			12	Not Applicable	Not Applicable
+"Total"	"Billings County, ND"	"38007"	"75-84 years"	"75-84"			15	Not Applicable	Not Applicable
+"Total"	"Billings County, ND"	"38007"	"85+ years"	"85+"			16	Not Applicable	Not Applicable
+"Total"	"Billings County, ND"	"38007"					54	Not Applicable	Not Applicable
+"Total"	"Bottineau County, ND"	"38009"	"55-64 years"	"55-64"			85	Not Applicable	Not Applicable
+"Total"	"Bottineau County, ND"	"38009"	"65-74 years"	"65-74"			146	Not Applicable	Not Applicable
+"Total"	"Bottineau County, ND"	"38009"	"75-84 years"	"75-84"			227	Not Applicable	Not Applicable
+"Total"	"Bottineau County, ND"	"38009"	"85+ years"	"85+"			352	Not Applicable	Not Applicable
+"Total"	"Bottineau County, ND"	"38009"					810	Not Applicable	Not Applicable
+"Total"	"Bowman County, ND"	"38011"	"55-64 years"	"55-64"			41	Not Applicable	Not Applicable
+"Total"	"Bowman County, ND"	"38011"	"65-74 years"	"65-74"			60	Not Applicable	Not Applicable
+"Total"	"Bowman County, ND"	"38011"	"75-84 years"	"75-84"			129	Not Applicable	Not Applicable
+"Total"	"Bowman County, ND"	"38011"	"85+ years"	"85+"			208	Not Applicable	Not Applicable
+"Total"	"Bowman County, ND"	"38011"					438	Not Applicable	Not Applicable
+"Total"	"Burke County, ND"	"38013"	"55-64 years"	"55-64"			30	Not Applicable	Not Applicable
+"Total"	"Burke County, ND"	"38013"	"65-74 years"	"65-74"			52	Not Applicable	Not Applicable
+"Total"	"Burke County, ND"	"38013"	"75-84 years"	"75-84"			66	Not Applicable	Not Applicable
+"Total"	"Burke County, ND"	"38013"	"85+ years"	"85+"			69	Not Applicable	Not Applicable
+"Total"	"Burke County, ND"	"38013"					217	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"55-64 years"	"55-64"	"Mar., 2011"	"2011/03"	10	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"55-64 years"	"55-64"	"May, 2013"	"2013/05"	10	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"55-64 years"	"55-64"	"Mar., 2014"	"2014/03"	10	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"55-64 years"	"55-64"	"Sep., 2015"	"2015/09"	14	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"55-64 years"	"55-64"	"Nov., 2016"	"2016/11"	10	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"55-64 years"	"55-64"	"Oct., 2018"	"2018/10"	10	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"55-64 years"	"55-64"	"Jan., 2019"	"2019/01"	12	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"55-64 years"	"55-64"	"Nov., 2019"	"2019/11"	12	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"55-64 years"	"55-64"	"Apr., 2020 "	"2020/04"	10	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"55-64 years"	"55-64"	"Sep., 2020 "	"2020/09"	10	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"55-64 years"	"55-64"	"Oct., 2020 "	"2020/10"	10	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"55-64 years"	"55-64"	"Nov., 2020 "	"2020/11"	13	Not Applicable	Not Applicable
+"Total"	"Burleigh County, ND"	"38015"	"55-64 years"	"55-64"			807	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"65-74 years"	"65-74"	"Feb., 2011"	"2011/02"	10	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"65-74 years"	"65-74"	"May, 2011"	"2011/05"	12	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"65-74 years"	"65-74"	"Mar., 2012"	"2012/03"	10	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"65-74 years"	"65-74"	"Sep., 2012"	"2012/09"	11	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"65-74 years"	"65-74"	"Jan., 2013"	"2013/01"	10	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"65-74 years"	"65-74"	"Mar., 2013"	"2013/03"	13	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"65-74 years"	"65-74"	"Jun., 2013"	"2013/06"	13	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"65-74 years"	"65-74"	"Dec., 2013"	"2013/12"	10	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"65-74 years"	"65-74"	"Jan., 2014"	"2014/01"	10	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"65-74 years"	"65-74"	"Apr., 2014"	"2014/04"	10	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"65-74 years"	"65-74"	"Aug., 2014"	"2014/08"	11	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"65-74 years"	"65-74"	"Oct., 2014"	"2014/10"	10	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"65-74 years"	"65-74"	"Dec., 2014"	"2014/12"	14	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"65-74 years"	"65-74"	"Mar., 2015"	"2015/03"	11	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"65-74 years"	"65-74"	"Jun., 2015"	"2015/06"	10	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"65-74 years"	"65-74"	"Aug., 2015"	"2015/08"	11	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"65-74 years"	"65-74"	"Oct., 2015"	"2015/10"	11	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"65-74 years"	"65-74"	"Nov., 2015"	"2015/11"	12	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"65-74 years"	"65-74"	"Jan., 2016"	"2016/01"	10	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"65-74 years"	"65-74"	"Feb., 2016"	"2016/02"	14	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"65-74 years"	"65-74"	"Mar., 2016"	"2016/03"	11	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"65-74 years"	"65-74"	"Apr., 2016"	"2016/04"	13	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"65-74 years"	"65-74"	"May, 2016"	"2016/05"	10	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"65-74 years"	"65-74"	"Jun., 2016"	"2016/06"	13	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"65-74 years"	"65-74"	"Sep., 2016"	"2016/09"	10	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"65-74 years"	"65-74"	"Oct., 2016"	"2016/10"	11	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"65-74 years"	"65-74"	"Nov., 2016"	"2016/11"	19	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"65-74 years"	"65-74"	"Jan., 2017"	"2017/01"	13	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"65-74 years"	"65-74"	"Mar., 2017"	"2017/03"	12	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"65-74 years"	"65-74"	"May, 2017"	"2017/05"	14	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"65-74 years"	"65-74"	"Oct., 2017"	"2017/10"	11	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"65-74 years"	"65-74"	"Dec., 2017"	"2017/12"	21	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"65-74 years"	"65-74"	"Jan., 2018"	"2018/01"	12	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"65-74 years"	"65-74"	"Apr., 2018"	"2018/04"	16	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"65-74 years"	"65-74"	"May, 2018"	"2018/05"	12	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"65-74 years"	"65-74"	"Aug., 2018"	"2018/08"	16	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"65-74 years"	"65-74"	"Sep., 2018"	"2018/09"	13	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"65-74 years"	"65-74"	"Oct., 2018"	"2018/10"	11	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"65-74 years"	"65-74"	"Nov., 2018"	"2018/11"	12	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"65-74 years"	"65-74"	"Dec., 2018"	"2018/12"	10	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"65-74 years"	"65-74"	"Jan., 2019"	"2019/01"	10	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"65-74 years"	"65-74"	"Feb., 2019"	"2019/02"	10	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"65-74 years"	"65-74"	"Mar., 2019"	"2019/03"	16	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"65-74 years"	"65-74"	"May, 2019"	"2019/05"	11	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"65-74 years"	"65-74"	"Jul., 2019"	"2019/07"	11	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"65-74 years"	"65-74"	"Aug., 2019"	"2019/08"	12	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"65-74 years"	"65-74"	"Oct., 2019"	"2019/10"	11	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"65-74 years"	"65-74"	"Dec., 2019"	"2019/12"	10	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"65-74 years"	"65-74"	"Jan., 2020 "	"2020/01"	11	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"65-74 years"	"65-74"	"Feb., 2020 "	"2020/02"	15	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"65-74 years"	"65-74"	"May, 2020 "	"2020/05"	12	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"65-74 years"	"65-74"	"Jul., 2020 "	"2020/07"	13	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"65-74 years"	"65-74"	"Sep., 2020 "	"2020/09"	15	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"65-74 years"	"65-74"	"Oct., 2020 "	"2020/10"	24	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"65-74 years"	"65-74"	"Nov., 2020 "	"2020/11"	21	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"65-74 years"	"65-74"	"Dec., 2020 "	"2020/12"	20	Not Applicable	Not Applicable
+"Total"	"Burleigh County, ND"	"38015"	"65-74 years"	"65-74"			1200	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"75-84 years"	"75-84"	"Jan., 2010"	"2010/01"	15	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"75-84 years"	"75-84"	"Feb., 2010"	"2010/02"	14	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"75-84 years"	"75-84"	"Mar., 2010"	"2010/03"	12	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"75-84 years"	"75-84"	"Apr., 2010"	"2010/04"	10	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"75-84 years"	"75-84"	"May, 2010"	"2010/05"	14	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"75-84 years"	"75-84"	"Jun., 2010"	"2010/06"	14	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"75-84 years"	"75-84"	"Jul., 2010"	"2010/07"	17	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"75-84 years"	"75-84"	"Aug., 2010"	"2010/08"	14	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"75-84 years"	"75-84"	"Sep., 2010"	"2010/09"	11	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"75-84 years"	"75-84"	"Oct., 2010"	"2010/10"	16	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"75-84 years"	"75-84"	"Nov., 2010"	"2010/11"	14	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"75-84 years"	"75-84"	"Dec., 2010"	"2010/12"	15	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"75-84 years"	"75-84"	"Jan., 2011"	"2011/01"	18	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"75-84 years"	"75-84"	"Feb., 2011"	"2011/02"	11	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"75-84 years"	"75-84"	"Mar., 2011"	"2011/03"	21	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"75-84 years"	"75-84"	"Apr., 2011"	"2011/04"	19	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"75-84 years"	"75-84"	"May, 2011"	"2011/05"	12	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"75-84 years"	"75-84"	"Jul., 2011"	"2011/07"	16	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"75-84 years"	"75-84"	"Aug., 2011"	"2011/08"	11	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"75-84 years"	"75-84"	"Sep., 2011"	"2011/09"	18	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"75-84 years"	"75-84"	"Oct., 2011"	"2011/10"	12	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"75-84 years"	"75-84"	"Nov., 2011"	"2011/11"	16	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"75-84 years"	"75-84"	"Dec., 2011"	"2011/12"	17	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"75-84 years"	"75-84"	"Jan., 2012"	"2012/01"	18	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"75-84 years"	"75-84"	"Feb., 2012"	"2012/02"	20	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"75-84 years"	"75-84"	"Mar., 2012"	"2012/03"	28	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"75-84 years"	"75-84"	"Apr., 2012"	"2012/04"	12	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"75-84 years"	"75-84"	"May, 2012"	"2012/05"	14	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"75-84 years"	"75-84"	"Jun., 2012"	"2012/06"	14	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"75-84 years"	"75-84"	"Jul., 2012"	"2012/07"	11	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"75-84 years"	"75-84"	"Aug., 2012"	"2012/08"	12	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"75-84 years"	"75-84"	"Sep., 2012"	"2012/09"	16	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"75-84 years"	"75-84"	"Oct., 2012"	"2012/10"	11	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"75-84 years"	"75-84"	"Dec., 2012"	"2012/12"	21	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"75-84 years"	"75-84"	"Jan., 2013"	"2013/01"	21	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"75-84 years"	"75-84"	"Feb., 2013"	"2013/02"	14	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"75-84 years"	"75-84"	"Mar., 2013"	"2013/03"	17	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"75-84 years"	"75-84"	"Apr., 2013"	"2013/04"	17	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"75-84 years"	"75-84"	"May, 2013"	"2013/05"	10	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"75-84 years"	"75-84"	"Jul., 2013"	"2013/07"	13	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"75-84 years"	"75-84"	"Aug., 2013"	"2013/08"	14	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"75-84 years"	"75-84"	"Sep., 2013"	"2013/09"	14	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"75-84 years"	"75-84"	"Oct., 2013"	"2013/10"	16	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"75-84 years"	"75-84"	"Nov., 2013"	"2013/11"	12	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"75-84 years"	"75-84"	"Jan., 2014"	"2014/01"	11	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"75-84 years"	"75-84"	"Feb., 2014"	"2014/02"	13	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"75-84 years"	"75-84"	"Mar., 2014"	"2014/03"	15	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"75-84 years"	"75-84"	"Apr., 2014"	"2014/04"	17	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"75-84 years"	"75-84"	"May, 2014"	"2014/05"	10	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"75-84 years"	"75-84"	"Jun., 2014"	"2014/06"	17	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"75-84 years"	"75-84"	"Jul., 2014"	"2014/07"	14	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"75-84 years"	"75-84"	"Aug., 2014"	"2014/08"	13	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"75-84 years"	"75-84"	"Sep., 2014"	"2014/09"	14	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"75-84 years"	"75-84"	"Oct., 2014"	"2014/10"	12	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"75-84 years"	"75-84"	"Nov., 2014"	"2014/11"	16	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"75-84 years"	"75-84"	"Jan., 2015"	"2015/01"	14	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"75-84 years"	"75-84"	"Feb., 2015"	"2015/02"	13	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"75-84 years"	"75-84"	"Mar., 2015"	"2015/03"	15	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"75-84 years"	"75-84"	"Apr., 2015"	"2015/04"	18	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"75-84 years"	"75-84"	"May, 2015"	"2015/05"	12	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"75-84 years"	"75-84"	"Jun., 2015"	"2015/06"	12	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"75-84 years"	"75-84"	"Jul., 2015"	"2015/07"	12	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"75-84 years"	"75-84"	"Aug., 2015"	"2015/08"	14	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"75-84 years"	"75-84"	"Sep., 2015"	"2015/09"	17	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"75-84 years"	"75-84"	"Oct., 2015"	"2015/10"	15	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"75-84 years"	"75-84"	"Nov., 2015"	"2015/11"	15	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"75-84 years"	"75-84"	"Dec., 2015"	"2015/12"	18	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"75-84 years"	"75-84"	"Jan., 2016"	"2016/01"	10	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"75-84 years"	"75-84"	"Feb., 2016"	"2016/02"	11	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"75-84 years"	"75-84"	"Mar., 2016"	"2016/03"	14	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"75-84 years"	"75-84"	"Apr., 2016"	"2016/04"	12	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"75-84 years"	"75-84"	"May, 2016"	"2016/05"	14	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"75-84 years"	"75-84"	"Jun., 2016"	"2016/06"	10	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"75-84 years"	"75-84"	"Aug., 2016"	"2016/08"	12	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"75-84 years"	"75-84"	"Oct., 2016"	"2016/10"	16	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"75-84 years"	"75-84"	"Nov., 2016"	"2016/11"	16	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"75-84 years"	"75-84"	"Dec., 2016"	"2016/12"	13	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"75-84 years"	"75-84"	"Jan., 2017"	"2017/01"	12	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"75-84 years"	"75-84"	"Feb., 2017"	"2017/02"	10	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"75-84 years"	"75-84"	"Mar., 2017"	"2017/03"	14	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"75-84 years"	"75-84"	"Apr., 2017"	"2017/04"	12	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"75-84 years"	"75-84"	"May, 2017"	"2017/05"	18	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"75-84 years"	"75-84"	"Jun., 2017"	"2017/06"	12	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"75-84 years"	"75-84"	"Jul., 2017"	"2017/07"	16	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"75-84 years"	"75-84"	"Aug., 2017"	"2017/08"	13	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"75-84 years"	"75-84"	"Sep., 2017"	"2017/09"	15	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"75-84 years"	"75-84"	"Oct., 2017"	"2017/10"	20	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"75-84 years"	"75-84"	"Nov., 2017"	"2017/11"	13	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"75-84 years"	"75-84"	"Dec., 2017"	"2017/12"	11	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"75-84 years"	"75-84"	"Jan., 2018"	"2018/01"	23	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"75-84 years"	"75-84"	"Feb., 2018"	"2018/02"	15	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"75-84 years"	"75-84"	"Mar., 2018"	"2018/03"	17	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"75-84 years"	"75-84"	"Apr., 2018"	"2018/04"	14	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"75-84 years"	"75-84"	"May, 2018"	"2018/05"	16	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"75-84 years"	"75-84"	"Jun., 2018"	"2018/06"	11	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"75-84 years"	"75-84"	"Aug., 2018"	"2018/08"	10	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"75-84 years"	"75-84"	"Sep., 2018"	"2018/09"	11	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"75-84 years"	"75-84"	"Oct., 2018"	"2018/10"	17	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"75-84 years"	"75-84"	"Nov., 2018"	"2018/11"	16	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"75-84 years"	"75-84"	"Dec., 2018"	"2018/12"	10	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"75-84 years"	"75-84"	"Jan., 2019"	"2019/01"	13	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"75-84 years"	"75-84"	"Feb., 2019"	"2019/02"	15	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"75-84 years"	"75-84"	"Mar., 2019"	"2019/03"	12	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"75-84 years"	"75-84"	"Apr., 2019"	"2019/04"	23	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"75-84 years"	"75-84"	"May, 2019"	"2019/05"	16	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"75-84 years"	"75-84"	"Jun., 2019"	"2019/06"	14	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"75-84 years"	"75-84"	"Aug., 2019"	"2019/08"	14	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"75-84 years"	"75-84"	"Sep., 2019"	"2019/09"	10	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"75-84 years"	"75-84"	"Oct., 2019"	"2019/10"	20	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"75-84 years"	"75-84"	"Nov., 2019"	"2019/11"	19	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"75-84 years"	"75-84"	"Dec., 2019"	"2019/12"	13	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"75-84 years"	"75-84"	"Jan., 2020 "	"2020/01"	20	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"75-84 years"	"75-84"	"Feb., 2020 "	"2020/02"	23	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"75-84 years"	"75-84"	"Mar., 2020 "	"2020/03"	22	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"75-84 years"	"75-84"	"Apr., 2020 "	"2020/04"	18	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"75-84 years"	"75-84"	"May, 2020 "	"2020/05"	12	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"75-84 years"	"75-84"	"Jun., 2020 "	"2020/06"	16	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"75-84 years"	"75-84"	"Jul., 2020 "	"2020/07"	17	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"75-84 years"	"75-84"	"Aug., 2020 "	"2020/08"	13	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"75-84 years"	"75-84"	"Sep., 2020 "	"2020/09"	16	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"75-84 years"	"75-84"	"Oct., 2020 "	"2020/10"	24	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"75-84 years"	"75-84"	"Nov., 2020 "	"2020/11"	31	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"75-84 years"	"75-84"	"Dec., 2020 "	"2020/12"	23	Not Applicable	Not Applicable
+"Total"	"Burleigh County, ND"	"38015"	"75-84 years"	"75-84"			1918	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"85+ years"	"85+"	"Jan., 2010"	"2010/01"	21	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"85+ years"	"85+"	"Feb., 2010"	"2010/02"	17	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"85+ years"	"85+"	"Mar., 2010"	"2010/03"	24	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"85+ years"	"85+"	"Apr., 2010"	"2010/04"	24	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"85+ years"	"85+"	"May, 2010"	"2010/05"	18	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"85+ years"	"85+"	"Jun., 2010"	"2010/06"	18	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"85+ years"	"85+"	"Jul., 2010"	"2010/07"	15	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"85+ years"	"85+"	"Aug., 2010"	"2010/08"	15	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"85+ years"	"85+"	"Sep., 2010"	"2010/09"	16	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"85+ years"	"85+"	"Oct., 2010"	"2010/10"	26	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"85+ years"	"85+"	"Nov., 2010"	"2010/11"	19	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"85+ years"	"85+"	"Dec., 2010"	"2010/12"	29	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"85+ years"	"85+"	"Jan., 2011"	"2011/01"	31	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"85+ years"	"85+"	"Feb., 2011"	"2011/02"	15	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"85+ years"	"85+"	"Mar., 2011"	"2011/03"	24	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"85+ years"	"85+"	"Apr., 2011"	"2011/04"	24	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"85+ years"	"85+"	"May, 2011"	"2011/05"	29	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"85+ years"	"85+"	"Jun., 2011"	"2011/06"	20	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"85+ years"	"85+"	"Jul., 2011"	"2011/07"	14	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"85+ years"	"85+"	"Aug., 2011"	"2011/08"	20	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"85+ years"	"85+"	"Sep., 2011"	"2011/09"	11	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"85+ years"	"85+"	"Oct., 2011"	"2011/10"	21	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"85+ years"	"85+"	"Nov., 2011"	"2011/11"	23	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"85+ years"	"85+"	"Dec., 2011"	"2011/12"	27	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"85+ years"	"85+"	"Jan., 2012"	"2012/01"	24	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"85+ years"	"85+"	"Feb., 2012"	"2012/02"	28	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"85+ years"	"85+"	"Mar., 2012"	"2012/03"	22	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"85+ years"	"85+"	"Apr., 2012"	"2012/04"	20	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"85+ years"	"85+"	"May, 2012"	"2012/05"	18	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"85+ years"	"85+"	"Jun., 2012"	"2012/06"	18	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"85+ years"	"85+"	"Jul., 2012"	"2012/07"	18	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"85+ years"	"85+"	"Aug., 2012"	"2012/08"	16	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"85+ years"	"85+"	"Sep., 2012"	"2012/09"	14	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"85+ years"	"85+"	"Oct., 2012"	"2012/10"	26	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"85+ years"	"85+"	"Nov., 2012"	"2012/11"	23	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"85+ years"	"85+"	"Dec., 2012"	"2012/12"	22	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"85+ years"	"85+"	"Jan., 2013"	"2013/01"	30	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"85+ years"	"85+"	"Feb., 2013"	"2013/02"	18	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"85+ years"	"85+"	"Mar., 2013"	"2013/03"	21	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"85+ years"	"85+"	"Apr., 2013"	"2013/04"	19	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"85+ years"	"85+"	"May, 2013"	"2013/05"	20	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"85+ years"	"85+"	"Jun., 2013"	"2013/06"	15	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"85+ years"	"85+"	"Aug., 2013"	"2013/08"	19	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"85+ years"	"85+"	"Sep., 2013"	"2013/09"	16	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"85+ years"	"85+"	"Oct., 2013"	"2013/10"	31	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"85+ years"	"85+"	"Nov., 2013"	"2013/11"	28	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"85+ years"	"85+"	"Dec., 2013"	"2013/12"	19	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"85+ years"	"85+"	"Jan., 2014"	"2014/01"	29	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"85+ years"	"85+"	"Feb., 2014"	"2014/02"	21	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"85+ years"	"85+"	"Mar., 2014"	"2014/03"	29	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"85+ years"	"85+"	"Apr., 2014"	"2014/04"	19	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"85+ years"	"85+"	"May, 2014"	"2014/05"	17	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"85+ years"	"85+"	"Jun., 2014"	"2014/06"	18	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"85+ years"	"85+"	"Aug., 2014"	"2014/08"	25	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"85+ years"	"85+"	"Sep., 2014"	"2014/09"	27	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"85+ years"	"85+"	"Oct., 2014"	"2014/10"	19	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"85+ years"	"85+"	"Nov., 2014"	"2014/11"	24	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"85+ years"	"85+"	"Dec., 2014"	"2014/12"	37	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"85+ years"	"85+"	"Jan., 2015"	"2015/01"	29	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"85+ years"	"85+"	"Feb., 2015"	"2015/02"	20	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"85+ years"	"85+"	"Mar., 2015"	"2015/03"	32	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"85+ years"	"85+"	"Apr., 2015"	"2015/04"	26	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"85+ years"	"85+"	"May, 2015"	"2015/05"	17	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"85+ years"	"85+"	"Jun., 2015"	"2015/06"	27	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"85+ years"	"85+"	"Jul., 2015"	"2015/07"	17	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"85+ years"	"85+"	"Aug., 2015"	"2015/08"	17	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"85+ years"	"85+"	"Sep., 2015"	"2015/09"	21	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"85+ years"	"85+"	"Oct., 2015"	"2015/10"	14	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"85+ years"	"85+"	"Nov., 2015"	"2015/11"	28	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"85+ years"	"85+"	"Dec., 2015"	"2015/12"	21	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"85+ years"	"85+"	"Jan., 2016"	"2016/01"	23	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"85+ years"	"85+"	"Feb., 2016"	"2016/02"	29	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"85+ years"	"85+"	"Mar., 2016"	"2016/03"	20	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"85+ years"	"85+"	"Apr., 2016"	"2016/04"	21	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"85+ years"	"85+"	"May, 2016"	"2016/05"	13	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"85+ years"	"85+"	"Jun., 2016"	"2016/06"	23	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"85+ years"	"85+"	"Jul., 2016"	"2016/07"	24	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"85+ years"	"85+"	"Aug., 2016"	"2016/08"	17	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"85+ years"	"85+"	"Sep., 2016"	"2016/09"	17	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"85+ years"	"85+"	"Oct., 2016"	"2016/10"	21	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"85+ years"	"85+"	"Nov., 2016"	"2016/11"	27	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"85+ years"	"85+"	"Dec., 2016"	"2016/12"	39	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"85+ years"	"85+"	"Jan., 2017"	"2017/01"	23	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"85+ years"	"85+"	"Feb., 2017"	"2017/02"	34	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"85+ years"	"85+"	"Mar., 2017"	"2017/03"	16	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"85+ years"	"85+"	"Apr., 2017"	"2017/04"	20	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"85+ years"	"85+"	"May, 2017"	"2017/05"	16	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"85+ years"	"85+"	"Jun., 2017"	"2017/06"	27	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"85+ years"	"85+"	"Jul., 2017"	"2017/07"	22	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"85+ years"	"85+"	"Aug., 2017"	"2017/08"	14	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"85+ years"	"85+"	"Sep., 2017"	"2017/09"	27	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"85+ years"	"85+"	"Oct., 2017"	"2017/10"	29	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"85+ years"	"85+"	"Nov., 2017"	"2017/11"	29	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"85+ years"	"85+"	"Dec., 2017"	"2017/12"	27	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"85+ years"	"85+"	"Jan., 2018"	"2018/01"	23	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"85+ years"	"85+"	"Feb., 2018"	"2018/02"	23	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"85+ years"	"85+"	"Mar., 2018"	"2018/03"	25	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"85+ years"	"85+"	"Apr., 2018"	"2018/04"	33	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"85+ years"	"85+"	"May, 2018"	"2018/05"	20	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"85+ years"	"85+"	"Jun., 2018"	"2018/06"	22	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"85+ years"	"85+"	"Jul., 2018"	"2018/07"	20	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"85+ years"	"85+"	"Aug., 2018"	"2018/08"	20	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"85+ years"	"85+"	"Sep., 2018"	"2018/09"	23	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"85+ years"	"85+"	"Oct., 2018"	"2018/10"	29	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"85+ years"	"85+"	"Nov., 2018"	"2018/11"	19	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"85+ years"	"85+"	"Dec., 2018"	"2018/12"	16	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"85+ years"	"85+"	"Jan., 2019"	"2019/01"	27	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"85+ years"	"85+"	"Feb., 2019"	"2019/02"	22	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"85+ years"	"85+"	"Mar., 2019"	"2019/03"	29	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"85+ years"	"85+"	"Apr., 2019"	"2019/04"	33	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"85+ years"	"85+"	"May, 2019"	"2019/05"	33	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"85+ years"	"85+"	"Jun., 2019"	"2019/06"	31	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"85+ years"	"85+"	"Jul., 2019"	"2019/07"	19	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"85+ years"	"85+"	"Aug., 2019"	"2019/08"	27	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"85+ years"	"85+"	"Sep., 2019"	"2019/09"	24	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"85+ years"	"85+"	"Oct., 2019"	"2019/10"	26	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"85+ years"	"85+"	"Nov., 2019"	"2019/11"	19	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"85+ years"	"85+"	"Dec., 2019"	"2019/12"	26	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"85+ years"	"85+"	"Jan., 2020 "	"2020/01"	23	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"85+ years"	"85+"	"Feb., 2020 "	"2020/02"	19	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"85+ years"	"85+"	"Mar., 2020 "	"2020/03"	24	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"85+ years"	"85+"	"Apr., 2020 "	"2020/04"	38	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"85+ years"	"85+"	"May, 2020 "	"2020/05"	28	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"85+ years"	"85+"	"Jun., 2020 "	"2020/06"	26	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"85+ years"	"85+"	"Jul., 2020 "	"2020/07"	30	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"85+ years"	"85+"	"Aug., 2020 "	"2020/08"	29	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"85+ years"	"85+"	"Sep., 2020 "	"2020/09"	46	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"85+ years"	"85+"	"Oct., 2020 "	"2020/10"	44	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"85+ years"	"85+"	"Nov., 2020 "	"2020/11"	50	Not Applicable	Not Applicable
+	"Burleigh County, ND"	"38015"	"85+ years"	"85+"	"Dec., 2020 "	"2020/12"	49	Not Applicable	Not Applicable
+"Total"	"Burleigh County, ND"	"38015"	"85+ years"	"85+"			3088	Not Applicable	Not Applicable
+"Total"	"Burleigh County, ND"	"38015"					7013	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"55-64 years"	"55-64"	"Jan., 2010"	"2010/01"	10	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"55-64 years"	"55-64"	"May, 2010"	"2010/05"	10	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"55-64 years"	"55-64"	"Jun., 2010"	"2010/06"	12	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"55-64 years"	"55-64"	"Jul., 2010"	"2010/07"	14	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"55-64 years"	"55-64"	"Sep., 2010"	"2010/09"	10	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"55-64 years"	"55-64"	"Dec., 2010"	"2010/12"	13	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"55-64 years"	"55-64"	"May, 2011"	"2011/05"	10	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"55-64 years"	"55-64"	"Oct., 2011"	"2011/10"	10	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"55-64 years"	"55-64"	"Feb., 2012"	"2012/02"	10	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"55-64 years"	"55-64"	"Mar., 2012"	"2012/03"	11	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"55-64 years"	"55-64"	"May, 2012"	"2012/05"	11	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"55-64 years"	"55-64"	"Jun., 2012"	"2012/06"	14	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"55-64 years"	"55-64"	"Jul., 2012"	"2012/07"	13	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"55-64 years"	"55-64"	"Dec., 2012"	"2012/12"	11	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"55-64 years"	"55-64"	"Jan., 2013"	"2013/01"	12	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"55-64 years"	"55-64"	"Feb., 2013"	"2013/02"	14	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"55-64 years"	"55-64"	"Apr., 2013"	"2013/04"	14	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"55-64 years"	"55-64"	"May, 2013"	"2013/05"	11	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"55-64 years"	"55-64"	"Jun., 2013"	"2013/06"	11	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"55-64 years"	"55-64"	"Jul., 2013"	"2013/07"	12	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"55-64 years"	"55-64"	"Aug., 2013"	"2013/08"	11	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"55-64 years"	"55-64"	"Sep., 2013"	"2013/09"	14	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"55-64 years"	"55-64"	"Jan., 2014"	"2014/01"	10	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"55-64 years"	"55-64"	"Feb., 2014"	"2014/02"	10	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"55-64 years"	"55-64"	"Mar., 2014"	"2014/03"	12	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"55-64 years"	"55-64"	"Jul., 2014"	"2014/07"	11	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"55-64 years"	"55-64"	"Aug., 2014"	"2014/08"	16	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"55-64 years"	"55-64"	"Oct., 2014"	"2014/10"	19	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"55-64 years"	"55-64"	"Nov., 2014"	"2014/11"	11	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"55-64 years"	"55-64"	"Dec., 2014"	"2014/12"	15	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"55-64 years"	"55-64"	"Jan., 2015"	"2015/01"	10	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"55-64 years"	"55-64"	"Mar., 2015"	"2015/03"	14	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"55-64 years"	"55-64"	"Apr., 2015"	"2015/04"	10	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"55-64 years"	"55-64"	"May, 2015"	"2015/05"	11	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"55-64 years"	"55-64"	"Jun., 2015"	"2015/06"	14	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"55-64 years"	"55-64"	"Sep., 2015"	"2015/09"	10	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"55-64 years"	"55-64"	"Oct., 2015"	"2015/10"	13	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"55-64 years"	"55-64"	"Nov., 2015"	"2015/11"	12	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"55-64 years"	"55-64"	"Jan., 2016"	"2016/01"	16	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"55-64 years"	"55-64"	"Feb., 2016"	"2016/02"	13	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"55-64 years"	"55-64"	"Mar., 2016"	"2016/03"	12	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"55-64 years"	"55-64"	"Apr., 2016"	"2016/04"	15	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"55-64 years"	"55-64"	"Jun., 2016"	"2016/06"	11	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"55-64 years"	"55-64"	"Oct., 2016"	"2016/10"	10	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"55-64 years"	"55-64"	"Dec., 2016"	"2016/12"	14	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"55-64 years"	"55-64"	"Jan., 2017"	"2017/01"	12	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"55-64 years"	"55-64"	"Mar., 2017"	"2017/03"	12	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"55-64 years"	"55-64"	"Apr., 2017"	"2017/04"	21	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"55-64 years"	"55-64"	"Jun., 2017"	"2017/06"	13	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"55-64 years"	"55-64"	"Jul., 2017"	"2017/07"	17	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"55-64 years"	"55-64"	"Sep., 2017"	"2017/09"	13	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"55-64 years"	"55-64"	"Oct., 2017"	"2017/10"	11	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"55-64 years"	"55-64"	"Dec., 2017"	"2017/12"	10	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"55-64 years"	"55-64"	"Jan., 2018"	"2018/01"	10	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"55-64 years"	"55-64"	"Feb., 2018"	"2018/02"	12	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"55-64 years"	"55-64"	"Mar., 2018"	"2018/03"	12	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"55-64 years"	"55-64"	"Apr., 2018"	"2018/04"	15	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"55-64 years"	"55-64"	"May, 2018"	"2018/05"	16	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"55-64 years"	"55-64"	"Jun., 2018"	"2018/06"	13	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"55-64 years"	"55-64"	"Aug., 2018"	"2018/08"	10	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"55-64 years"	"55-64"	"Sep., 2018"	"2018/09"	11	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"55-64 years"	"55-64"	"Oct., 2018"	"2018/10"	21	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"55-64 years"	"55-64"	"Nov., 2018"	"2018/11"	12	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"55-64 years"	"55-64"	"Dec., 2018"	"2018/12"	10	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"55-64 years"	"55-64"	"Jan., 2019"	"2019/01"	10	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"55-64 years"	"55-64"	"Feb., 2019"	"2019/02"	11	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"55-64 years"	"55-64"	"Apr., 2019"	"2019/04"	13	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"55-64 years"	"55-64"	"May, 2019"	"2019/05"	15	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"55-64 years"	"55-64"	"Jun., 2019"	"2019/06"	15	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"55-64 years"	"55-64"	"Jul., 2019"	"2019/07"	10	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"55-64 years"	"55-64"	"Aug., 2019"	"2019/08"	13	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"55-64 years"	"55-64"	"Sep., 2019"	"2019/09"	14	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"55-64 years"	"55-64"	"Oct., 2019"	"2019/10"	14	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"55-64 years"	"55-64"	"Nov., 2019"	"2019/11"	16	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"55-64 years"	"55-64"	"Dec., 2019"	"2019/12"	14	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"55-64 years"	"55-64"	"Jan., 2020 "	"2020/01"	18	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"55-64 years"	"55-64"	"Mar., 2020 "	"2020/03"	10	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"55-64 years"	"55-64"	"Apr., 2020 "	"2020/04"	11	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"55-64 years"	"55-64"	"Jun., 2020 "	"2020/06"	16	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"55-64 years"	"55-64"	"Oct., 2020 "	"2020/10"	18	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"55-64 years"	"55-64"	"Nov., 2020 "	"2020/11"	26	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"55-64 years"	"55-64"	"Dec., 2020 "	"2020/12"	19	Not Applicable	Not Applicable
+"Total"	"Cass County, ND"	"38017"	"55-64 years"	"55-64"			1421	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"65-74 years"	"65-74"	"Feb., 2010"	"2010/02"	11	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"65-74 years"	"65-74"	"Apr., 2010"	"2010/04"	14	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"65-74 years"	"65-74"	"May, 2010"	"2010/05"	13	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"65-74 years"	"65-74"	"Jun., 2010"	"2010/06"	12	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"65-74 years"	"65-74"	"Jul., 2010"	"2010/07"	10	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"65-74 years"	"65-74"	"Sep., 2010"	"2010/09"	14	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"65-74 years"	"65-74"	"Oct., 2010"	"2010/10"	10	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"65-74 years"	"65-74"	"Nov., 2010"	"2010/11"	18	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"65-74 years"	"65-74"	"Dec., 2010"	"2010/12"	13	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"65-74 years"	"65-74"	"Jan., 2011"	"2011/01"	14	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"65-74 years"	"65-74"	"Feb., 2011"	"2011/02"	11	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"65-74 years"	"65-74"	"Mar., 2011"	"2011/03"	13	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"65-74 years"	"65-74"	"Apr., 2011"	"2011/04"	15	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"65-74 years"	"65-74"	"Jun., 2011"	"2011/06"	15	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"65-74 years"	"65-74"	"Oct., 2011"	"2011/10"	10	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"65-74 years"	"65-74"	"Jan., 2012"	"2012/01"	12	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"65-74 years"	"65-74"	"Oct., 2012"	"2012/10"	14	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"65-74 years"	"65-74"	"Nov., 2012"	"2012/11"	10	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"65-74 years"	"65-74"	"Dec., 2012"	"2012/12"	13	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"65-74 years"	"65-74"	"Jan., 2013"	"2013/01"	10	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"65-74 years"	"65-74"	"Feb., 2013"	"2013/02"	13	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"65-74 years"	"65-74"	"Mar., 2013"	"2013/03"	12	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"65-74 years"	"65-74"	"Apr., 2013"	"2013/04"	20	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"65-74 years"	"65-74"	"May, 2013"	"2013/05"	10	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"65-74 years"	"65-74"	"Jun., 2013"	"2013/06"	10	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"65-74 years"	"65-74"	"Jul., 2013"	"2013/07"	16	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"65-74 years"	"65-74"	"Aug., 2013"	"2013/08"	14	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"65-74 years"	"65-74"	"Nov., 2013"	"2013/11"	15	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"65-74 years"	"65-74"	"Dec., 2013"	"2013/12"	10	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"65-74 years"	"65-74"	"Jan., 2014"	"2014/01"	12	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"65-74 years"	"65-74"	"Mar., 2014"	"2014/03"	20	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"65-74 years"	"65-74"	"Apr., 2014"	"2014/04"	10	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"65-74 years"	"65-74"	"May, 2014"	"2014/05"	10	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"65-74 years"	"65-74"	"Jun., 2014"	"2014/06"	12	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"65-74 years"	"65-74"	"Jul., 2014"	"2014/07"	14	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"65-74 years"	"65-74"	"Aug., 2014"	"2014/08"	11	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"65-74 years"	"65-74"	"Sep., 2014"	"2014/09"	11	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"65-74 years"	"65-74"	"Oct., 2014"	"2014/10"	10	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"65-74 years"	"65-74"	"Dec., 2014"	"2014/12"	15	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"65-74 years"	"65-74"	"Jan., 2015"	"2015/01"	22	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"65-74 years"	"65-74"	"Feb., 2015"	"2015/02"	16	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"65-74 years"	"65-74"	"Mar., 2015"	"2015/03"	17	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"65-74 years"	"65-74"	"May, 2015"	"2015/05"	12	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"65-74 years"	"65-74"	"Jun., 2015"	"2015/06"	11	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"65-74 years"	"65-74"	"Jul., 2015"	"2015/07"	13	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"65-74 years"	"65-74"	"Aug., 2015"	"2015/08"	12	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"65-74 years"	"65-74"	"Sep., 2015"	"2015/09"	10	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"65-74 years"	"65-74"	"Oct., 2015"	"2015/10"	15	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"65-74 years"	"65-74"	"Nov., 2015"	"2015/11"	18	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"65-74 years"	"65-74"	"Dec., 2015"	"2015/12"	13	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"65-74 years"	"65-74"	"Jan., 2016"	"2016/01"	19	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"65-74 years"	"65-74"	"Feb., 2016"	"2016/02"	14	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"65-74 years"	"65-74"	"Mar., 2016"	"2016/03"	13	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"65-74 years"	"65-74"	"Apr., 2016"	"2016/04"	18	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"65-74 years"	"65-74"	"May, 2016"	"2016/05"	20	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"65-74 years"	"65-74"	"Jun., 2016"	"2016/06"	18	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"65-74 years"	"65-74"	"Jul., 2016"	"2016/07"	24	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"65-74 years"	"65-74"	"Aug., 2016"	"2016/08"	12	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"65-74 years"	"65-74"	"Sep., 2016"	"2016/09"	11	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"65-74 years"	"65-74"	"Nov., 2016"	"2016/11"	12	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"65-74 years"	"65-74"	"Dec., 2016"	"2016/12"	16	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"65-74 years"	"65-74"	"Jan., 2017"	"2017/01"	10	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"65-74 years"	"65-74"	"Feb., 2017"	"2017/02"	14	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"65-74 years"	"65-74"	"Mar., 2017"	"2017/03"	12	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"65-74 years"	"65-74"	"Apr., 2017"	"2017/04"	12	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"65-74 years"	"65-74"	"May, 2017"	"2017/05"	10	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"65-74 years"	"65-74"	"Jun., 2017"	"2017/06"	14	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"65-74 years"	"65-74"	"Jul., 2017"	"2017/07"	17	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"65-74 years"	"65-74"	"Aug., 2017"	"2017/08"	21	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"65-74 years"	"65-74"	"Sep., 2017"	"2017/09"	17	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"65-74 years"	"65-74"	"Oct., 2017"	"2017/10"	15	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"65-74 years"	"65-74"	"Nov., 2017"	"2017/11"	23	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"65-74 years"	"65-74"	"Dec., 2017"	"2017/12"	13	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"65-74 years"	"65-74"	"Jan., 2018"	"2018/01"	16	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"65-74 years"	"65-74"	"Mar., 2018"	"2018/03"	10	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"65-74 years"	"65-74"	"Apr., 2018"	"2018/04"	11	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"65-74 years"	"65-74"	"May, 2018"	"2018/05"	19	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"65-74 years"	"65-74"	"Jun., 2018"	"2018/06"	16	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"65-74 years"	"65-74"	"Jul., 2018"	"2018/07"	22	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"65-74 years"	"65-74"	"Aug., 2018"	"2018/08"	15	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"65-74 years"	"65-74"	"Sep., 2018"	"2018/09"	18	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"65-74 years"	"65-74"	"Oct., 2018"	"2018/10"	14	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"65-74 years"	"65-74"	"Nov., 2018"	"2018/11"	14	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"65-74 years"	"65-74"	"Dec., 2018"	"2018/12"	19	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"65-74 years"	"65-74"	"Jan., 2019"	"2019/01"	19	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"65-74 years"	"65-74"	"Feb., 2019"	"2019/02"	19	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"65-74 years"	"65-74"	"Mar., 2019"	"2019/03"	12	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"65-74 years"	"65-74"	"Apr., 2019"	"2019/04"	12	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"65-74 years"	"65-74"	"May, 2019"	"2019/05"	16	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"65-74 years"	"65-74"	"Jun., 2019"	"2019/06"	16	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"65-74 years"	"65-74"	"Jul., 2019"	"2019/07"	19	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"65-74 years"	"65-74"	"Aug., 2019"	"2019/08"	28	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"65-74 years"	"65-74"	"Sep., 2019"	"2019/09"	19	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"65-74 years"	"65-74"	"Oct., 2019"	"2019/10"	16	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"65-74 years"	"65-74"	"Nov., 2019"	"2019/11"	10	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"65-74 years"	"65-74"	"Dec., 2019"	"2019/12"	20	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"65-74 years"	"65-74"	"Jan., 2020 "	"2020/01"	18	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"65-74 years"	"65-74"	"Feb., 2020 "	"2020/02"	19	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"65-74 years"	"65-74"	"Mar., 2020 "	"2020/03"	17	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"65-74 years"	"65-74"	"Apr., 2020 "	"2020/04"	25	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"65-74 years"	"65-74"	"May, 2020 "	"2020/05"	25	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"65-74 years"	"65-74"	"Jun., 2020 "	"2020/06"	23	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"65-74 years"	"65-74"	"Jul., 2020 "	"2020/07"	18	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"65-74 years"	"65-74"	"Aug., 2020 "	"2020/08"	12	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"65-74 years"	"65-74"	"Sep., 2020 "	"2020/09"	18	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"65-74 years"	"65-74"	"Oct., 2020 "	"2020/10"	19	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"65-74 years"	"65-74"	"Nov., 2020 "	"2020/11"	25	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"65-74 years"	"65-74"	"Dec., 2020 "	"2020/12"	35	Not Applicable	Not Applicable
+"Total"	"Cass County, ND"	"38017"	"65-74 years"	"65-74"			1817	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"75-84 years"	"75-84"	"Jan., 2010"	"2010/01"	22	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"75-84 years"	"75-84"	"Feb., 2010"	"2010/02"	22	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"75-84 years"	"75-84"	"Mar., 2010"	"2010/03"	19	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"75-84 years"	"75-84"	"Apr., 2010"	"2010/04"	16	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"75-84 years"	"75-84"	"May, 2010"	"2010/05"	18	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"75-84 years"	"75-84"	"Jun., 2010"	"2010/06"	23	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"75-84 years"	"75-84"	"Jul., 2010"	"2010/07"	14	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"75-84 years"	"75-84"	"Aug., 2010"	"2010/08"	22	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"75-84 years"	"75-84"	"Sep., 2010"	"2010/09"	16	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"75-84 years"	"75-84"	"Oct., 2010"	"2010/10"	15	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"75-84 years"	"75-84"	"Nov., 2010"	"2010/11"	23	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"75-84 years"	"75-84"	"Dec., 2010"	"2010/12"	18	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"75-84 years"	"75-84"	"Jan., 2011"	"2011/01"	18	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"75-84 years"	"75-84"	"Feb., 2011"	"2011/02"	22	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"75-84 years"	"75-84"	"Mar., 2011"	"2011/03"	19	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"75-84 years"	"75-84"	"Apr., 2011"	"2011/04"	15	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"75-84 years"	"75-84"	"May, 2011"	"2011/05"	11	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"75-84 years"	"75-84"	"Jun., 2011"	"2011/06"	13	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"75-84 years"	"75-84"	"Jul., 2011"	"2011/07"	17	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"75-84 years"	"75-84"	"Aug., 2011"	"2011/08"	14	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"75-84 years"	"75-84"	"Sep., 2011"	"2011/09"	15	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"75-84 years"	"75-84"	"Oct., 2011"	"2011/10"	18	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"75-84 years"	"75-84"	"Nov., 2011"	"2011/11"	20	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"75-84 years"	"75-84"	"Dec., 2011"	"2011/12"	19	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"75-84 years"	"75-84"	"Jan., 2012"	"2012/01"	15	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"75-84 years"	"75-84"	"Feb., 2012"	"2012/02"	17	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"75-84 years"	"75-84"	"Mar., 2012"	"2012/03"	18	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"75-84 years"	"75-84"	"Apr., 2012"	"2012/04"	21	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"75-84 years"	"75-84"	"May, 2012"	"2012/05"	13	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"75-84 years"	"75-84"	"Jun., 2012"	"2012/06"	20	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"75-84 years"	"75-84"	"Jul., 2012"	"2012/07"	18	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"75-84 years"	"75-84"	"Aug., 2012"	"2012/08"	11	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"75-84 years"	"75-84"	"Sep., 2012"	"2012/09"	22	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"75-84 years"	"75-84"	"Oct., 2012"	"2012/10"	17	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"75-84 years"	"75-84"	"Nov., 2012"	"2012/11"	13	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"75-84 years"	"75-84"	"Dec., 2012"	"2012/12"	17	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"75-84 years"	"75-84"	"Jan., 2013"	"2013/01"	24	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"75-84 years"	"75-84"	"Feb., 2013"	"2013/02"	21	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"75-84 years"	"75-84"	"Mar., 2013"	"2013/03"	18	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"75-84 years"	"75-84"	"Apr., 2013"	"2013/04"	17	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"75-84 years"	"75-84"	"May, 2013"	"2013/05"	16	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"75-84 years"	"75-84"	"Jun., 2013"	"2013/06"	15	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"75-84 years"	"75-84"	"Jul., 2013"	"2013/07"	14	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"75-84 years"	"75-84"	"Aug., 2013"	"2013/08"	22	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"75-84 years"	"75-84"	"Sep., 2013"	"2013/09"	15	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"75-84 years"	"75-84"	"Oct., 2013"	"2013/10"	21	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"75-84 years"	"75-84"	"Nov., 2013"	"2013/11"	20	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"75-84 years"	"75-84"	"Dec., 2013"	"2013/12"	22	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"75-84 years"	"75-84"	"Jan., 2014"	"2014/01"	21	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"75-84 years"	"75-84"	"Feb., 2014"	"2014/02"	25	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"75-84 years"	"75-84"	"Mar., 2014"	"2014/03"	11	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"75-84 years"	"75-84"	"Apr., 2014"	"2014/04"	19	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"75-84 years"	"75-84"	"May, 2014"	"2014/05"	21	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"75-84 years"	"75-84"	"Jun., 2014"	"2014/06"	19	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"75-84 years"	"75-84"	"Jul., 2014"	"2014/07"	14	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"75-84 years"	"75-84"	"Aug., 2014"	"2014/08"	16	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"75-84 years"	"75-84"	"Sep., 2014"	"2014/09"	10	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"75-84 years"	"75-84"	"Oct., 2014"	"2014/10"	16	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"75-84 years"	"75-84"	"Nov., 2014"	"2014/11"	21	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"75-84 years"	"75-84"	"Dec., 2014"	"2014/12"	28	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"75-84 years"	"75-84"	"Jan., 2015"	"2015/01"	19	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"75-84 years"	"75-84"	"Feb., 2015"	"2015/02"	17	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"75-84 years"	"75-84"	"Mar., 2015"	"2015/03"	24	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"75-84 years"	"75-84"	"Apr., 2015"	"2015/04"	19	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"75-84 years"	"75-84"	"May, 2015"	"2015/05"	21	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"75-84 years"	"75-84"	"Jun., 2015"	"2015/06"	11	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"75-84 years"	"75-84"	"Jul., 2015"	"2015/07"	25	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"75-84 years"	"75-84"	"Aug., 2015"	"2015/08"	18	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"75-84 years"	"75-84"	"Sep., 2015"	"2015/09"	20	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"75-84 years"	"75-84"	"Oct., 2015"	"2015/10"	20	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"75-84 years"	"75-84"	"Nov., 2015"	"2015/11"	22	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"75-84 years"	"75-84"	"Dec., 2015"	"2015/12"	19	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"75-84 years"	"75-84"	"Jan., 2016"	"2016/01"	12	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"75-84 years"	"75-84"	"Feb., 2016"	"2016/02"	21	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"75-84 years"	"75-84"	"Mar., 2016"	"2016/03"	19	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"75-84 years"	"75-84"	"Apr., 2016"	"2016/04"	25	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"75-84 years"	"75-84"	"May, 2016"	"2016/05"	21	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"75-84 years"	"75-84"	"Jun., 2016"	"2016/06"	23	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"75-84 years"	"75-84"	"Jul., 2016"	"2016/07"	18	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"75-84 years"	"75-84"	"Aug., 2016"	"2016/08"	20	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"75-84 years"	"75-84"	"Sep., 2016"	"2016/09"	19	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"75-84 years"	"75-84"	"Oct., 2016"	"2016/10"	31	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"75-84 years"	"75-84"	"Nov., 2016"	"2016/11"	13	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"75-84 years"	"75-84"	"Dec., 2016"	"2016/12"	17	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"75-84 years"	"75-84"	"Jan., 2017"	"2017/01"	16	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"75-84 years"	"75-84"	"Feb., 2017"	"2017/02"	14	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"75-84 years"	"75-84"	"Mar., 2017"	"2017/03"	19	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"75-84 years"	"75-84"	"Apr., 2017"	"2017/04"	24	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"75-84 years"	"75-84"	"May, 2017"	"2017/05"	23	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"75-84 years"	"75-84"	"Jun., 2017"	"2017/06"	12	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"75-84 years"	"75-84"	"Jul., 2017"	"2017/07"	18	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"75-84 years"	"75-84"	"Aug., 2017"	"2017/08"	21	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"75-84 years"	"75-84"	"Sep., 2017"	"2017/09"	17	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"75-84 years"	"75-84"	"Oct., 2017"	"2017/10"	26	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"75-84 years"	"75-84"	"Nov., 2017"	"2017/11"	11	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"75-84 years"	"75-84"	"Dec., 2017"	"2017/12"	28	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"75-84 years"	"75-84"	"Jan., 2018"	"2018/01"	24	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"75-84 years"	"75-84"	"Feb., 2018"	"2018/02"	20	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"75-84 years"	"75-84"	"Mar., 2018"	"2018/03"	20	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"75-84 years"	"75-84"	"Apr., 2018"	"2018/04"	19	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"75-84 years"	"75-84"	"May, 2018"	"2018/05"	13	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"75-84 years"	"75-84"	"Jun., 2018"	"2018/06"	19	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"75-84 years"	"75-84"	"Jul., 2018"	"2018/07"	14	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"75-84 years"	"75-84"	"Aug., 2018"	"2018/08"	25	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"75-84 years"	"75-84"	"Sep., 2018"	"2018/09"	22	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"75-84 years"	"75-84"	"Oct., 2018"	"2018/10"	24	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"75-84 years"	"75-84"	"Nov., 2018"	"2018/11"	16	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"75-84 years"	"75-84"	"Dec., 2018"	"2018/12"	27	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"75-84 years"	"75-84"	"Jan., 2019"	"2019/01"	32	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"75-84 years"	"75-84"	"Feb., 2019"	"2019/02"	23	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"75-84 years"	"75-84"	"Mar., 2019"	"2019/03"	23	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"75-84 years"	"75-84"	"Apr., 2019"	"2019/04"	24	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"75-84 years"	"75-84"	"May, 2019"	"2019/05"	21	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"75-84 years"	"75-84"	"Jun., 2019"	"2019/06"	14	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"75-84 years"	"75-84"	"Jul., 2019"	"2019/07"	18	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"75-84 years"	"75-84"	"Aug., 2019"	"2019/08"	28	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"75-84 years"	"75-84"	"Sep., 2019"	"2019/09"	26	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"75-84 years"	"75-84"	"Oct., 2019"	"2019/10"	29	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"75-84 years"	"75-84"	"Nov., 2019"	"2019/11"	23	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"75-84 years"	"75-84"	"Dec., 2019"	"2019/12"	26	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"75-84 years"	"75-84"	"Jan., 2020 "	"2020/01"	31	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"75-84 years"	"75-84"	"Feb., 2020 "	"2020/02"	20	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"75-84 years"	"75-84"	"Mar., 2020 "	"2020/03"	29	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"75-84 years"	"75-84"	"Apr., 2020 "	"2020/04"	27	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"75-84 years"	"75-84"	"May, 2020 "	"2020/05"	30	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"75-84 years"	"75-84"	"Jun., 2020 "	"2020/06"	21	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"75-84 years"	"75-84"	"Jul., 2020 "	"2020/07"	19	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"75-84 years"	"75-84"	"Aug., 2020 "	"2020/08"	15	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"75-84 years"	"75-84"	"Sep., 2020 "	"2020/09"	30	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"75-84 years"	"75-84"	"Oct., 2020 "	"2020/10"	34	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"75-84 years"	"75-84"	"Nov., 2020 "	"2020/11"	28	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"75-84 years"	"75-84"	"Dec., 2020 "	"2020/12"	33	Not Applicable	Not Applicable
+"Total"	"Cass County, ND"	"38017"	"75-84 years"	"75-84"			2627	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"85+ years"	"85+"	"Jan., 2010"	"2010/01"	23	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"85+ years"	"85+"	"Feb., 2010"	"2010/02"	18	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"85+ years"	"85+"	"Mar., 2010"	"2010/03"	18	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"85+ years"	"85+"	"Apr., 2010"	"2010/04"	23	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"85+ years"	"85+"	"May, 2010"	"2010/05"	26	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"85+ years"	"85+"	"Jun., 2010"	"2010/06"	26	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"85+ years"	"85+"	"Jul., 2010"	"2010/07"	20	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"85+ years"	"85+"	"Aug., 2010"	"2010/08"	21	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"85+ years"	"85+"	"Sep., 2010"	"2010/09"	25	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"85+ years"	"85+"	"Oct., 2010"	"2010/10"	31	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"85+ years"	"85+"	"Nov., 2010"	"2010/11"	28	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"85+ years"	"85+"	"Dec., 2010"	"2010/12"	24	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"85+ years"	"85+"	"Jan., 2011"	"2011/01"	25	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"85+ years"	"85+"	"Feb., 2011"	"2011/02"	23	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"85+ years"	"85+"	"Mar., 2011"	"2011/03"	25	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"85+ years"	"85+"	"Apr., 2011"	"2011/04"	34	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"85+ years"	"85+"	"May, 2011"	"2011/05"	24	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"85+ years"	"85+"	"Jun., 2011"	"2011/06"	22	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"85+ years"	"85+"	"Jul., 2011"	"2011/07"	23	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"85+ years"	"85+"	"Aug., 2011"	"2011/08"	20	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"85+ years"	"85+"	"Sep., 2011"	"2011/09"	22	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"85+ years"	"85+"	"Oct., 2011"	"2011/10"	32	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"85+ years"	"85+"	"Nov., 2011"	"2011/11"	23	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"85+ years"	"85+"	"Dec., 2011"	"2011/12"	24	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"85+ years"	"85+"	"Jan., 2012"	"2012/01"	26	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"85+ years"	"85+"	"Feb., 2012"	"2012/02"	27	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"85+ years"	"85+"	"Mar., 2012"	"2012/03"	31	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"85+ years"	"85+"	"Apr., 2012"	"2012/04"	28	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"85+ years"	"85+"	"May, 2012"	"2012/05"	30	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"85+ years"	"85+"	"Jun., 2012"	"2012/06"	25	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"85+ years"	"85+"	"Jul., 2012"	"2012/07"	22	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"85+ years"	"85+"	"Aug., 2012"	"2012/08"	25	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"85+ years"	"85+"	"Sep., 2012"	"2012/09"	31	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"85+ years"	"85+"	"Oct., 2012"	"2012/10"	30	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"85+ years"	"85+"	"Nov., 2012"	"2012/11"	24	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"85+ years"	"85+"	"Dec., 2012"	"2012/12"	31	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"85+ years"	"85+"	"Jan., 2013"	"2013/01"	54	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"85+ years"	"85+"	"Feb., 2013"	"2013/02"	37	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"85+ years"	"85+"	"Mar., 2013"	"2013/03"	26	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"85+ years"	"85+"	"Apr., 2013"	"2013/04"	31	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"85+ years"	"85+"	"May, 2013"	"2013/05"	28	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"85+ years"	"85+"	"Jun., 2013"	"2013/06"	24	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"85+ years"	"85+"	"Jul., 2013"	"2013/07"	35	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"85+ years"	"85+"	"Aug., 2013"	"2013/08"	40	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"85+ years"	"85+"	"Sep., 2013"	"2013/09"	32	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"85+ years"	"85+"	"Oct., 2013"	"2013/10"	27	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"85+ years"	"85+"	"Nov., 2013"	"2013/11"	28	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"85+ years"	"85+"	"Dec., 2013"	"2013/12"	33	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"85+ years"	"85+"	"Jan., 2014"	"2014/01"	37	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"85+ years"	"85+"	"Feb., 2014"	"2014/02"	31	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"85+ years"	"85+"	"Mar., 2014"	"2014/03"	45	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"85+ years"	"85+"	"Apr., 2014"	"2014/04"	31	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"85+ years"	"85+"	"May, 2014"	"2014/05"	28	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"85+ years"	"85+"	"Jun., 2014"	"2014/06"	29	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"85+ years"	"85+"	"Jul., 2014"	"2014/07"	37	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"85+ years"	"85+"	"Aug., 2014"	"2014/08"	22	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"85+ years"	"85+"	"Sep., 2014"	"2014/09"	34	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"85+ years"	"85+"	"Oct., 2014"	"2014/10"	31	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"85+ years"	"85+"	"Nov., 2014"	"2014/11"	38	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"85+ years"	"85+"	"Dec., 2014"	"2014/12"	46	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"85+ years"	"85+"	"Jan., 2015"	"2015/01"	44	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"85+ years"	"85+"	"Feb., 2015"	"2015/02"	33	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"85+ years"	"85+"	"Mar., 2015"	"2015/03"	21	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"85+ years"	"85+"	"Apr., 2015"	"2015/04"	37	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"85+ years"	"85+"	"May, 2015"	"2015/05"	42	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"85+ years"	"85+"	"Jun., 2015"	"2015/06"	30	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"85+ years"	"85+"	"Jul., 2015"	"2015/07"	28	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"85+ years"	"85+"	"Aug., 2015"	"2015/08"	26	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"85+ years"	"85+"	"Sep., 2015"	"2015/09"	32	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"85+ years"	"85+"	"Oct., 2015"	"2015/10"	26	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"85+ years"	"85+"	"Nov., 2015"	"2015/11"	28	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"85+ years"	"85+"	"Dec., 2015"	"2015/12"	21	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"85+ years"	"85+"	"Jan., 2016"	"2016/01"	35	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"85+ years"	"85+"	"Feb., 2016"	"2016/02"	32	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"85+ years"	"85+"	"Mar., 2016"	"2016/03"	32	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"85+ years"	"85+"	"Apr., 2016"	"2016/04"	32	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"85+ years"	"85+"	"May, 2016"	"2016/05"	29	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"85+ years"	"85+"	"Jun., 2016"	"2016/06"	28	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"85+ years"	"85+"	"Jul., 2016"	"2016/07"	29	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"85+ years"	"85+"	"Aug., 2016"	"2016/08"	32	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"85+ years"	"85+"	"Sep., 2016"	"2016/09"	28	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"85+ years"	"85+"	"Oct., 2016"	"2016/10"	37	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"85+ years"	"85+"	"Nov., 2016"	"2016/11"	43	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"85+ years"	"85+"	"Dec., 2016"	"2016/12"	37	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"85+ years"	"85+"	"Jan., 2017"	"2017/01"	45	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"85+ years"	"85+"	"Feb., 2017"	"2017/02"	29	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"85+ years"	"85+"	"Mar., 2017"	"2017/03"	43	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"85+ years"	"85+"	"Apr., 2017"	"2017/04"	32	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"85+ years"	"85+"	"May, 2017"	"2017/05"	32	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"85+ years"	"85+"	"Jun., 2017"	"2017/06"	37	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"85+ years"	"85+"	"Jul., 2017"	"2017/07"	38	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"85+ years"	"85+"	"Aug., 2017"	"2017/08"	25	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"85+ years"	"85+"	"Sep., 2017"	"2017/09"	31	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"85+ years"	"85+"	"Oct., 2017"	"2017/10"	40	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"85+ years"	"85+"	"Nov., 2017"	"2017/11"	34	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"85+ years"	"85+"	"Dec., 2017"	"2017/12"	46	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"85+ years"	"85+"	"Jan., 2018"	"2018/01"	35	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"85+ years"	"85+"	"Feb., 2018"	"2018/02"	25	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"85+ years"	"85+"	"Mar., 2018"	"2018/03"	24	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"85+ years"	"85+"	"Apr., 2018"	"2018/04"	34	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"85+ years"	"85+"	"May, 2018"	"2018/05"	36	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"85+ years"	"85+"	"Jun., 2018"	"2018/06"	21	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"85+ years"	"85+"	"Jul., 2018"	"2018/07"	39	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"85+ years"	"85+"	"Aug., 2018"	"2018/08"	29	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"85+ years"	"85+"	"Sep., 2018"	"2018/09"	34	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"85+ years"	"85+"	"Oct., 2018"	"2018/10"	31	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"85+ years"	"85+"	"Nov., 2018"	"2018/11"	36	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"85+ years"	"85+"	"Dec., 2018"	"2018/12"	39	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"85+ years"	"85+"	"Jan., 2019"	"2019/01"	30	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"85+ years"	"85+"	"Feb., 2019"	"2019/02"	41	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"85+ years"	"85+"	"Mar., 2019"	"2019/03"	46	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"85+ years"	"85+"	"Apr., 2019"	"2019/04"	41	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"85+ years"	"85+"	"May, 2019"	"2019/05"	42	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"85+ years"	"85+"	"Jun., 2019"	"2019/06"	41	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"85+ years"	"85+"	"Jul., 2019"	"2019/07"	45	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"85+ years"	"85+"	"Aug., 2019"	"2019/08"	33	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"85+ years"	"85+"	"Sep., 2019"	"2019/09"	31	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"85+ years"	"85+"	"Oct., 2019"	"2019/10"	31	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"85+ years"	"85+"	"Nov., 2019"	"2019/11"	39	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"85+ years"	"85+"	"Dec., 2019"	"2019/12"	39	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"85+ years"	"85+"	"Jan., 2020 "	"2020/01"	50	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"85+ years"	"85+"	"Feb., 2020 "	"2020/02"	42	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"85+ years"	"85+"	"Mar., 2020 "	"2020/03"	41	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"85+ years"	"85+"	"Apr., 2020 "	"2020/04"	41	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"85+ years"	"85+"	"May, 2020 "	"2020/05"	54	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"85+ years"	"85+"	"Jun., 2020 "	"2020/06"	43	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"85+ years"	"85+"	"Jul., 2020 "	"2020/07"	33	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"85+ years"	"85+"	"Aug., 2020 "	"2020/08"	36	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"85+ years"	"85+"	"Sep., 2020 "	"2020/09"	24	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"85+ years"	"85+"	"Oct., 2020 "	"2020/10"	36	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"85+ years"	"85+"	"Nov., 2020 "	"2020/11"	50	Not Applicable	Not Applicable
+	"Cass County, ND"	"38017"	"85+ years"	"85+"	"Dec., 2020 "	"2020/12"	50	Not Applicable	Not Applicable
+"Total"	"Cass County, ND"	"38017"	"85+ years"	"85+"			4250	Not Applicable	Not Applicable
+"Total"	"Cass County, ND"	"38017"					10115	Not Applicable	Not Applicable
+"Total"	"Cavalier County, ND"	"38019"	"55-64 years"	"55-64"			41	Not Applicable	Not Applicable
+"Total"	"Cavalier County, ND"	"38019"	"65-74 years"	"65-74"			73	Not Applicable	Not Applicable
+"Total"	"Cavalier County, ND"	"38019"	"75-84 years"	"75-84"			143	Not Applicable	Not Applicable
+"Total"	"Cavalier County, ND"	"38019"	"85+ years"	"85+"			248	Not Applicable	Not Applicable
+"Total"	"Cavalier County, ND"	"38019"					505	Not Applicable	Not Applicable
+"Total"	"Dickey County, ND"	"38021"	"55-64 years"	"55-64"			63	Not Applicable	Not Applicable
+"Total"	"Dickey County, ND"	"38021"	"65-74 years"	"65-74"			119	Not Applicable	Not Applicable
+"Total"	"Dickey County, ND"	"38021"	"75-84 years"	"75-84"			193	Not Applicable	Not Applicable
+	"Dickey County, ND"	"38021"	"85+ years"	"85+"	"Nov., 2020 "	"2020/11"	18	Not Applicable	Not Applicable
+"Total"	"Dickey County, ND"	"38021"	"85+ years"	"85+"			392	Not Applicable	Not Applicable
+"Total"	"Dickey County, ND"	"38021"					767	Not Applicable	Not Applicable
+"Total"	"Divide County, ND"	"38023"	"55-64 years"	"55-64"			27	Not Applicable	Not Applicable
+"Total"	"Divide County, ND"	"38023"	"65-74 years"	"65-74"			35	Not Applicable	Not Applicable
+"Total"	"Divide County, ND"	"38023"	"75-84 years"	"75-84"			52	Not Applicable	Not Applicable
+"Total"	"Divide County, ND"	"38023"	"85+ years"	"85+"			158	Not Applicable	Not Applicable
+"Total"	"Divide County, ND"	"38023"					272	Not Applicable	Not Applicable
+"Total"	"Dunn County, ND"	"38025"	"55-64 years"	"55-64"			36	Not Applicable	Not Applicable
+"Total"	"Dunn County, ND"	"38025"	"65-74 years"	"65-74"			62	Not Applicable	Not Applicable
+"Total"	"Dunn County, ND"	"38025"	"75-84 years"	"75-84"			85	Not Applicable	Not Applicable
+"Total"	"Dunn County, ND"	"38025"	"85+ years"	"85+"			131	Not Applicable	Not Applicable
+"Total"	"Dunn County, ND"	"38025"					314	Not Applicable	Not Applicable
+"Total"	"Eddy County, ND"	"38027"	"55-64 years"	"55-64"			35	Not Applicable	Not Applicable
+"Total"	"Eddy County, ND"	"38027"	"65-74 years"	"65-74"			63	Not Applicable	Not Applicable
+"Total"	"Eddy County, ND"	"38027"	"75-84 years"	"75-84"			130	Not Applicable	Not Applicable
+"Total"	"Eddy County, ND"	"38027"	"85+ years"	"85+"			226	Not Applicable	Not Applicable
+"Total"	"Eddy County, ND"	"38027"					454	Not Applicable	Not Applicable
+"Total"	"Emmons County, ND"	"38029"	"55-64 years"	"55-64"			42	Not Applicable	Not Applicable
+"Total"	"Emmons County, ND"	"38029"	"65-74 years"	"65-74"			75	Not Applicable	Not Applicable
+"Total"	"Emmons County, ND"	"38029"	"75-84 years"	"75-84"			142	Not Applicable	Not Applicable
+"Total"	"Emmons County, ND"	"38029"	"85+ years"	"85+"			245	Not Applicable	Not Applicable
+"Total"	"Emmons County, ND"	"38029"					504	Not Applicable	Not Applicable
+"Total"	"Foster County, ND"	"38031"	"55-64 years"	"55-64"			28	Not Applicable	Not Applicable
+"Total"	"Foster County, ND"	"38031"	"65-74 years"	"65-74"			55	Not Applicable	Not Applicable
+"Total"	"Foster County, ND"	"38031"	"75-84 years"	"75-84"			139	Not Applicable	Not Applicable
+	"Foster County, ND"	"38031"	"85+ years"	"85+"	"Nov., 2020 "	"2020/11"	11	Not Applicable	Not Applicable
+"Total"	"Foster County, ND"	"38031"	"85+ years"	"85+"			229	Not Applicable	Not Applicable
+"Total"	"Foster County, ND"	"38031"					451	Not Applicable	Not Applicable
+"Total"	"Golden Valley County, ND"	"38033"	"55-64 years"	"55-64"			20	Not Applicable	Not Applicable
+"Total"	"Golden Valley County, ND"	"38033"	"65-74 years"	"65-74"			35	Not Applicable	Not Applicable
+"Total"	"Golden Valley County, ND"	"38033"	"75-84 years"	"75-84"			43	Not Applicable	Not Applicable
+"Total"	"Golden Valley County, ND"	"38033"	"85+ years"	"85+"			66	Not Applicable	Not Applicable
+"Total"	"Golden Valley County, ND"	"38033"					164	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"55-64 years"	"55-64"	"Aug., 2010"	"2010/08"	11	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"55-64 years"	"55-64"	"Dec., 2018"	"2018/12"	10	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"55-64 years"	"55-64"	"May, 2019"	"2019/05"	10	Not Applicable	Not Applicable
+"Total"	"Grand Forks County, ND"	"38035"	"55-64 years"	"55-64"			662	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"65-74 years"	"65-74"	"Jul., 2010"	"2010/07"	10	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"65-74 years"	"65-74"	"Dec., 2011"	"2011/12"	19	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"65-74 years"	"65-74"	"Jan., 2013"	"2013/01"	13	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"65-74 years"	"65-74"	"Oct., 2014"	"2014/10"	11	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"65-74 years"	"65-74"	"Jul., 2015"	"2015/07"	12	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"65-74 years"	"65-74"	"Jan., 2016"	"2016/01"	10	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"65-74 years"	"65-74"	"Dec., 2016"	"2016/12"	11	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"65-74 years"	"65-74"	"Aug., 2017"	"2017/08"	10	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"65-74 years"	"65-74"	"Jan., 2018"	"2018/01"	11	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"65-74 years"	"65-74"	"Apr., 2018"	"2018/04"	12	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"65-74 years"	"65-74"	"Sep., 2018"	"2018/09"	13	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"65-74 years"	"65-74"	"Oct., 2018"	"2018/10"	11	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"65-74 years"	"65-74"	"Nov., 2018"	"2018/11"	11	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"65-74 years"	"65-74"	"Apr., 2019"	"2019/04"	12	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"65-74 years"	"65-74"	"Jun., 2019"	"2019/06"	10	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"65-74 years"	"65-74"	"Jul., 2019"	"2019/07"	12	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"65-74 years"	"65-74"	"Dec., 2019"	"2019/12"	12	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"65-74 years"	"65-74"	"Feb., 2020 "	"2020/02"	10	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"65-74 years"	"65-74"	"Apr., 2020 "	"2020/04"	11	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"65-74 years"	"65-74"	"May, 2020 "	"2020/05"	10	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"65-74 years"	"65-74"	"Aug., 2020 "	"2020/08"	11	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"65-74 years"	"65-74"	"Sep., 2020 "	"2020/09"	10	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"65-74 years"	"65-74"	"Oct., 2020 "	"2020/10"	11	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"65-74 years"	"65-74"	"Nov., 2020 "	"2020/11"	13	Not Applicable	Not Applicable
+"Total"	"Grand Forks County, ND"	"38035"	"65-74 years"	"65-74"			912	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"75-84 years"	"75-84"	"May, 2010"	"2010/05"	13	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"75-84 years"	"75-84"	"Jun., 2010"	"2010/06"	11	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"75-84 years"	"75-84"	"Jul., 2010"	"2010/07"	10	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"75-84 years"	"75-84"	"Aug., 2010"	"2010/08"	12	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"75-84 years"	"75-84"	"Oct., 2010"	"2010/10"	12	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"75-84 years"	"75-84"	"Nov., 2010"	"2010/11"	10	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"75-84 years"	"75-84"	"Jan., 2011"	"2011/01"	13	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"75-84 years"	"75-84"	"Mar., 2011"	"2011/03"	13	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"75-84 years"	"75-84"	"May, 2011"	"2011/05"	12	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"75-84 years"	"75-84"	"Jun., 2011"	"2011/06"	10	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"75-84 years"	"75-84"	"Jul., 2011"	"2011/07"	11	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"75-84 years"	"75-84"	"Aug., 2011"	"2011/08"	13	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"75-84 years"	"75-84"	"Oct., 2011"	"2011/10"	10	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"75-84 years"	"75-84"	"Dec., 2011"	"2011/12"	11	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"75-84 years"	"75-84"	"Apr., 2012"	"2012/04"	19	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"75-84 years"	"75-84"	"Jun., 2012"	"2012/06"	11	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"75-84 years"	"75-84"	"Aug., 2012"	"2012/08"	13	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"75-84 years"	"75-84"	"Nov., 2012"	"2012/11"	16	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"75-84 years"	"75-84"	"Dec., 2012"	"2012/12"	14	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"75-84 years"	"75-84"	"Jan., 2013"	"2013/01"	14	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"75-84 years"	"75-84"	"Feb., 2013"	"2013/02"	10	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"75-84 years"	"75-84"	"Apr., 2013"	"2013/04"	15	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"75-84 years"	"75-84"	"Aug., 2013"	"2013/08"	10	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"75-84 years"	"75-84"	"Jan., 2014"	"2014/01"	12	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"75-84 years"	"75-84"	"Apr., 2014"	"2014/04"	11	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"75-84 years"	"75-84"	"Jul., 2014"	"2014/07"	13	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"75-84 years"	"75-84"	"Oct., 2014"	"2014/10"	11	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"75-84 years"	"75-84"	"Apr., 2015"	"2015/04"	10	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"75-84 years"	"75-84"	"Jun., 2015"	"2015/06"	10	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"75-84 years"	"75-84"	"Oct., 2015"	"2015/10"	12	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"75-84 years"	"75-84"	"Jan., 2016"	"2016/01"	11	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"75-84 years"	"75-84"	"Mar., 2016"	"2016/03"	12	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"75-84 years"	"75-84"	"Apr., 2016"	"2016/04"	14	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"75-84 years"	"75-84"	"Jul., 2016"	"2016/07"	12	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"75-84 years"	"75-84"	"Sep., 2016"	"2016/09"	14	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"75-84 years"	"75-84"	"Oct., 2016"	"2016/10"	13	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"75-84 years"	"75-84"	"Nov., 2016"	"2016/11"	10	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"75-84 years"	"75-84"	"Jan., 2017"	"2017/01"	10	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"75-84 years"	"75-84"	"Apr., 2017"	"2017/04"	10	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"75-84 years"	"75-84"	"Jun., 2017"	"2017/06"	12	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"75-84 years"	"75-84"	"Jul., 2017"	"2017/07"	10	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"75-84 years"	"75-84"	"Aug., 2017"	"2017/08"	16	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"75-84 years"	"75-84"	"Oct., 2017"	"2017/10"	10	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"75-84 years"	"75-84"	"Nov., 2017"	"2017/11"	12	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"75-84 years"	"75-84"	"Jan., 2018"	"2018/01"	14	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"75-84 years"	"75-84"	"Mar., 2018"	"2018/03"	13	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"75-84 years"	"75-84"	"Aug., 2018"	"2018/08"	12	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"75-84 years"	"75-84"	"Dec., 2018"	"2018/12"	11	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"75-84 years"	"75-84"	"Feb., 2019"	"2019/02"	13	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"75-84 years"	"75-84"	"May, 2019"	"2019/05"	16	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"75-84 years"	"75-84"	"Jun., 2019"	"2019/06"	14	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"75-84 years"	"75-84"	"Aug., 2019"	"2019/08"	10	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"75-84 years"	"75-84"	"Dec., 2019"	"2019/12"	12	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"75-84 years"	"75-84"	"Jan., 2020 "	"2020/01"	12	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"75-84 years"	"75-84"	"Mar., 2020 "	"2020/03"	14	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"75-84 years"	"75-84"	"Apr., 2020 "	"2020/04"	17	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"75-84 years"	"75-84"	"Jul., 2020 "	"2020/07"	10	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"75-84 years"	"75-84"	"Sep., 2020 "	"2020/09"	10	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"75-84 years"	"75-84"	"Oct., 2020 "	"2020/10"	15	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"75-84 years"	"75-84"	"Nov., 2020 "	"2020/11"	18	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"75-84 years"	"75-84"	"Dec., 2020 "	"2020/12"	16	Not Applicable	Not Applicable
+"Total"	"Grand Forks County, ND"	"38035"	"75-84 years"	"75-84"			1269	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"85+ years"	"85+"	"Jan., 2010"	"2010/01"	16	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"85+ years"	"85+"	"Feb., 2010"	"2010/02"	15	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"85+ years"	"85+"	"Mar., 2010"	"2010/03"	14	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"85+ years"	"85+"	"Apr., 2010"	"2010/04"	16	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"85+ years"	"85+"	"May, 2010"	"2010/05"	18	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"85+ years"	"85+"	"Jun., 2010"	"2010/06"	13	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"85+ years"	"85+"	"Aug., 2010"	"2010/08"	11	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"85+ years"	"85+"	"Sep., 2010"	"2010/09"	10	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"85+ years"	"85+"	"Oct., 2010"	"2010/10"	20	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"85+ years"	"85+"	"Nov., 2010"	"2010/11"	17	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"85+ years"	"85+"	"Dec., 2010"	"2010/12"	12	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"85+ years"	"85+"	"Jan., 2011"	"2011/01"	12	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"85+ years"	"85+"	"Feb., 2011"	"2011/02"	23	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"85+ years"	"85+"	"Mar., 2011"	"2011/03"	14	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"85+ years"	"85+"	"Apr., 2011"	"2011/04"	13	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"85+ years"	"85+"	"May, 2011"	"2011/05"	11	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"85+ years"	"85+"	"Jul., 2011"	"2011/07"	13	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"85+ years"	"85+"	"Aug., 2011"	"2011/08"	12	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"85+ years"	"85+"	"Nov., 2011"	"2011/11"	13	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"85+ years"	"85+"	"Dec., 2011"	"2011/12"	17	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"85+ years"	"85+"	"Jan., 2012"	"2012/01"	12	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"85+ years"	"85+"	"Feb., 2012"	"2012/02"	16	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"85+ years"	"85+"	"Mar., 2012"	"2012/03"	25	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"85+ years"	"85+"	"Apr., 2012"	"2012/04"	12	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"85+ years"	"85+"	"May, 2012"	"2012/05"	14	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"85+ years"	"85+"	"Jun., 2012"	"2012/06"	14	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"85+ years"	"85+"	"Jul., 2012"	"2012/07"	12	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"85+ years"	"85+"	"Aug., 2012"	"2012/08"	15	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"85+ years"	"85+"	"Oct., 2012"	"2012/10"	14	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"85+ years"	"85+"	"Nov., 2012"	"2012/11"	14	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"85+ years"	"85+"	"Dec., 2012"	"2012/12"	16	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"85+ years"	"85+"	"Jan., 2013"	"2013/01"	16	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"85+ years"	"85+"	"Feb., 2013"	"2013/02"	11	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"85+ years"	"85+"	"Mar., 2013"	"2013/03"	17	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"85+ years"	"85+"	"Apr., 2013"	"2013/04"	14	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"85+ years"	"85+"	"May, 2013"	"2013/05"	19	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"85+ years"	"85+"	"Jun., 2013"	"2013/06"	12	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"85+ years"	"85+"	"Jul., 2013"	"2013/07"	14	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"85+ years"	"85+"	"Aug., 2013"	"2013/08"	14	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"85+ years"	"85+"	"Oct., 2013"	"2013/10"	18	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"85+ years"	"85+"	"Nov., 2013"	"2013/11"	17	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"85+ years"	"85+"	"Dec., 2013"	"2013/12"	17	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"85+ years"	"85+"	"Jan., 2014"	"2014/01"	15	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"85+ years"	"85+"	"Feb., 2014"	"2014/02"	11	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"85+ years"	"85+"	"Mar., 2014"	"2014/03"	18	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"85+ years"	"85+"	"Apr., 2014"	"2014/04"	17	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"85+ years"	"85+"	"May, 2014"	"2014/05"	10	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"85+ years"	"85+"	"Jun., 2014"	"2014/06"	14	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"85+ years"	"85+"	"Jul., 2014"	"2014/07"	20	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"85+ years"	"85+"	"Aug., 2014"	"2014/08"	10	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"85+ years"	"85+"	"Sep., 2014"	"2014/09"	11	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"85+ years"	"85+"	"Oct., 2014"	"2014/10"	15	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"85+ years"	"85+"	"Nov., 2014"	"2014/11"	15	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"85+ years"	"85+"	"Dec., 2014"	"2014/12"	14	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"85+ years"	"85+"	"Jan., 2015"	"2015/01"	16	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"85+ years"	"85+"	"Feb., 2015"	"2015/02"	10	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"85+ years"	"85+"	"Mar., 2015"	"2015/03"	17	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"85+ years"	"85+"	"Apr., 2015"	"2015/04"	12	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"85+ years"	"85+"	"May, 2015"	"2015/05"	19	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"85+ years"	"85+"	"Jun., 2015"	"2015/06"	12	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"85+ years"	"85+"	"Jul., 2015"	"2015/07"	11	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"85+ years"	"85+"	"Aug., 2015"	"2015/08"	17	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"85+ years"	"85+"	"Sep., 2015"	"2015/09"	14	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"85+ years"	"85+"	"Oct., 2015"	"2015/10"	13	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"85+ years"	"85+"	"Nov., 2015"	"2015/11"	14	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"85+ years"	"85+"	"Dec., 2015"	"2015/12"	21	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"85+ years"	"85+"	"Jan., 2016"	"2016/01"	13	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"85+ years"	"85+"	"Feb., 2016"	"2016/02"	14	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"85+ years"	"85+"	"Mar., 2016"	"2016/03"	12	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"85+ years"	"85+"	"Apr., 2016"	"2016/04"	17	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"85+ years"	"85+"	"May, 2016"	"2016/05"	19	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"85+ years"	"85+"	"Jul., 2016"	"2016/07"	14	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"85+ years"	"85+"	"Aug., 2016"	"2016/08"	14	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"85+ years"	"85+"	"Sep., 2016"	"2016/09"	12	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"85+ years"	"85+"	"Oct., 2016"	"2016/10"	20	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"85+ years"	"85+"	"Nov., 2016"	"2016/11"	18	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"85+ years"	"85+"	"Dec., 2016"	"2016/12"	13	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"85+ years"	"85+"	"Jan., 2017"	"2017/01"	18	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"85+ years"	"85+"	"Feb., 2017"	"2017/02"	15	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"85+ years"	"85+"	"Mar., 2017"	"2017/03"	18	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"85+ years"	"85+"	"Apr., 2017"	"2017/04"	25	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"85+ years"	"85+"	"May, 2017"	"2017/05"	17	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"85+ years"	"85+"	"Jun., 2017"	"2017/06"	22	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"85+ years"	"85+"	"Jul., 2017"	"2017/07"	15	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"85+ years"	"85+"	"Aug., 2017"	"2017/08"	14	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"85+ years"	"85+"	"Sep., 2017"	"2017/09"	10	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"85+ years"	"85+"	"Oct., 2017"	"2017/10"	19	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"85+ years"	"85+"	"Nov., 2017"	"2017/11"	14	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"85+ years"	"85+"	"Dec., 2017"	"2017/12"	14	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"85+ years"	"85+"	"Jan., 2018"	"2018/01"	16	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"85+ years"	"85+"	"Feb., 2018"	"2018/02"	14	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"85+ years"	"85+"	"Mar., 2018"	"2018/03"	20	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"85+ years"	"85+"	"Apr., 2018"	"2018/04"	10	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"85+ years"	"85+"	"May, 2018"	"2018/05"	14	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"85+ years"	"85+"	"Jun., 2018"	"2018/06"	16	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"85+ years"	"85+"	"Jul., 2018"	"2018/07"	11	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"85+ years"	"85+"	"Aug., 2018"	"2018/08"	12	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"85+ years"	"85+"	"Sep., 2018"	"2018/09"	16	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"85+ years"	"85+"	"Oct., 2018"	"2018/10"	17	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"85+ years"	"85+"	"Nov., 2018"	"2018/11"	14	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"85+ years"	"85+"	"Dec., 2018"	"2018/12"	21	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"85+ years"	"85+"	"Jan., 2019"	"2019/01"	11	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"85+ years"	"85+"	"Apr., 2019"	"2019/04"	13	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"85+ years"	"85+"	"May, 2019"	"2019/05"	24	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"85+ years"	"85+"	"Jun., 2019"	"2019/06"	18	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"85+ years"	"85+"	"Jul., 2019"	"2019/07"	11	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"85+ years"	"85+"	"Aug., 2019"	"2019/08"	20	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"85+ years"	"85+"	"Sep., 2019"	"2019/09"	20	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"85+ years"	"85+"	"Oct., 2019"	"2019/10"	18	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"85+ years"	"85+"	"Dec., 2019"	"2019/12"	18	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"85+ years"	"85+"	"Jan., 2020 "	"2020/01"	27	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"85+ years"	"85+"	"Feb., 2020 "	"2020/02"	21	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"85+ years"	"85+"	"Mar., 2020 "	"2020/03"	19	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"85+ years"	"85+"	"Apr., 2020 "	"2020/04"	14	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"85+ years"	"85+"	"May, 2020 "	"2020/05"	22	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"85+ years"	"85+"	"Jul., 2020 "	"2020/07"	15	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"85+ years"	"85+"	"Aug., 2020 "	"2020/08"	14	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"85+ years"	"85+"	"Sep., 2020 "	"2020/09"	15	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"85+ years"	"85+"	"Oct., 2020 "	"2020/10"	14	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"85+ years"	"85+"	"Nov., 2020 "	"2020/11"	24	Not Applicable	Not Applicable
+	"Grand Forks County, ND"	"38035"	"85+ years"	"85+"	"Dec., 2020 "	"2020/12"	25	Not Applicable	Not Applicable
+"Total"	"Grand Forks County, ND"	"38035"	"85+ years"	"85+"			1960	Not Applicable	Not Applicable
+"Total"	"Grand Forks County, ND"	"38035"					4803	Not Applicable	Not Applicable
+"Total"	"Grant County, ND"	"38037"	"55-64 years"	"55-64"			27	Not Applicable	Not Applicable
+"Total"	"Grant County, ND"	"38037"	"65-74 years"	"65-74"			58	Not Applicable	Not Applicable
+"Total"	"Grant County, ND"	"38037"	"75-84 years"	"75-84"			84	Not Applicable	Not Applicable
+"Total"	"Grant County, ND"	"38037"	"85+ years"	"85+"			154	Not Applicable	Not Applicable
+"Total"	"Grant County, ND"	"38037"					323	Not Applicable	Not Applicable
+"Total"	"Griggs County, ND"	"38039"	"55-64 years"	"55-64"			31	Not Applicable	Not Applicable
+"Total"	"Griggs County, ND"	"38039"	"65-74 years"	"65-74"			73	Not Applicable	Not Applicable
+"Total"	"Griggs County, ND"	"38039"	"75-84 years"	"75-84"			85	Not Applicable	Not Applicable
+"Total"	"Griggs County, ND"	"38039"	"85+ years"	"85+"			215	Not Applicable	Not Applicable
+"Total"	"Griggs County, ND"	"38039"					404	Not Applicable	Not Applicable
+"Total"	"Hettinger County, ND"	"38041"	"55-64 years"	"55-64"			28	Not Applicable	Not Applicable
+"Total"	"Hettinger County, ND"	"38041"	"65-74 years"	"65-74"			56	Not Applicable	Not Applicable
+"Total"	"Hettinger County, ND"	"38041"	"75-84 years"	"75-84"			104	Not Applicable	Not Applicable
+"Total"	"Hettinger County, ND"	"38041"	"85+ years"	"85+"			173	Not Applicable	Not Applicable
+"Total"	"Hettinger County, ND"	"38041"					361	Not Applicable	Not Applicable
+"Total"	"Kidder County, ND"	"38043"	"55-64 years"	"55-64"			22	Not Applicable	Not Applicable
+"Total"	"Kidder County, ND"	"38043"	"65-74 years"	"65-74"			47	Not Applicable	Not Applicable
+"Total"	"Kidder County, ND"	"38043"	"75-84 years"	"75-84"			64	Not Applicable	Not Applicable
+"Total"	"Kidder County, ND"	"38043"	"85+ years"	"85+"			68	Not Applicable	Not Applicable
+"Total"	"Kidder County, ND"	"38043"					201	Not Applicable	Not Applicable
+"Total"	"LaMoure County, ND"	"38045"	"55-64 years"	"55-64"			39	Not Applicable	Not Applicable
+"Total"	"LaMoure County, ND"	"38045"	"65-74 years"	"65-74"			71	Not Applicable	Not Applicable
+"Total"	"LaMoure County, ND"	"38045"	"75-84 years"	"75-84"			129	Not Applicable	Not Applicable
+"Total"	"LaMoure County, ND"	"38045"	"85+ years"	"85+"			208	Not Applicable	Not Applicable
+"Total"	"LaMoure County, ND"	"38045"					447	Not Applicable	Not Applicable
+"Total"	"Logan County, ND"	"38047"	"55-64 years"	"55-64"			35	Not Applicable	Not Applicable
+"Total"	"Logan County, ND"	"38047"	"65-74 years"	"65-74"			26	Not Applicable	Not Applicable
+"Total"	"Logan County, ND"	"38047"	"75-84 years"	"75-84"			76	Not Applicable	Not Applicable
+"Total"	"Logan County, ND"	"38047"	"85+ years"	"85+"			140	Not Applicable	Not Applicable
+"Total"	"Logan County, ND"	"38047"					277	Not Applicable	Not Applicable
+"Total"	"McHenry County, ND"	"38049"	"55-64 years"	"55-64"			64	Not Applicable	Not Applicable
+"Total"	"McHenry County, ND"	"38049"	"65-74 years"	"65-74"			108	Not Applicable	Not Applicable
+"Total"	"McHenry County, ND"	"38049"	"75-84 years"	"75-84"			201	Not Applicable	Not Applicable
+"Total"	"McHenry County, ND"	"38049"	"85+ years"	"85+"			266	Not Applicable	Not Applicable
+"Total"	"McHenry County, ND"	"38049"					639	Not Applicable	Not Applicable
+"Total"	"McIntosh County, ND"	"38051"	"55-64 years"	"55-64"			37	Not Applicable	Not Applicable
+"Total"	"McIntosh County, ND"	"38051"	"65-74 years"	"65-74"			53	Not Applicable	Not Applicable
+"Total"	"McIntosh County, ND"	"38051"	"75-84 years"	"75-84"			144	Not Applicable	Not Applicable
+"Total"	"McIntosh County, ND"	"38051"	"85+ years"	"85+"			341	Not Applicable	Not Applicable
+"Total"	"McIntosh County, ND"	"38051"					575	Not Applicable	Not Applicable
+"Total"	"McKenzie County, ND"	"38053"	"55-64 years"	"55-64"			106	Not Applicable	Not Applicable
+"Total"	"McKenzie County, ND"	"38053"	"65-74 years"	"65-74"			120	Not Applicable	Not Applicable
+"Total"	"McKenzie County, ND"	"38053"	"75-84 years"	"75-84"			135	Not Applicable	Not Applicable
+"Total"	"McKenzie County, ND"	"38053"	"85+ years"	"85+"			168	Not Applicable	Not Applicable
+"Total"	"McKenzie County, ND"	"38053"					529	Not Applicable	Not Applicable
+"Total"	"McLean County, ND"	"38055"	"55-64 years"	"55-64"			138	Not Applicable	Not Applicable
+"Total"	"McLean County, ND"	"38055"	"65-74 years"	"65-74"			220	Not Applicable	Not Applicable
+"Total"	"McLean County, ND"	"38055"	"75-84 years"	"75-84"			304	Not Applicable	Not Applicable
+"Total"	"McLean County, ND"	"38055"	"85+ years"	"85+"			444	Not Applicable	Not Applicable
+"Total"	"McLean County, ND"	"38055"					1106	Not Applicable	Not Applicable
+"Total"	"Mercer County, ND"	"38057"	"55-64 years"	"55-64"			97	Not Applicable	Not Applicable
+"Total"	"Mercer County, ND"	"38057"	"65-74 years"	"65-74"			156	Not Applicable	Not Applicable
+"Total"	"Mercer County, ND"	"38057"	"75-84 years"	"75-84"			204	Not Applicable	Not Applicable
+"Total"	"Mercer County, ND"	"38057"	"85+ years"	"85+"			325	Not Applicable	Not Applicable
+"Total"	"Mercer County, ND"	"38057"					782	Not Applicable	Not Applicable
+"Total"	"Morton County, ND"	"38059"	"55-64 years"	"55-64"			358	Not Applicable	Not Applicable
+	"Morton County, ND"	"38059"	"65-74 years"	"65-74"	"Apr., 2010"	"2010/04"	10	Not Applicable	Not Applicable
+"Total"	"Morton County, ND"	"38059"	"65-74 years"	"65-74"			524	Not Applicable	Not Applicable
+	"Morton County, ND"	"38059"	"75-84 years"	"75-84"	"Jun., 2016"	"2016/06"	11	Not Applicable	Not Applicable
+	"Morton County, ND"	"38059"	"75-84 years"	"75-84"	"Mar., 2017"	"2017/03"	11	Not Applicable	Not Applicable
+	"Morton County, ND"	"38059"	"75-84 years"	"75-84"	"May, 2018"	"2018/05"	10	Not Applicable	Not Applicable
+	"Morton County, ND"	"38059"	"75-84 years"	"75-84"	"Aug., 2019"	"2019/08"	13	Not Applicable	Not Applicable
+	"Morton County, ND"	"38059"	"75-84 years"	"75-84"	"Sep., 2020 "	"2020/09"	11	Not Applicable	Not Applicable
+	"Morton County, ND"	"38059"	"75-84 years"	"75-84"	"Nov., 2020 "	"2020/11"	11	Not Applicable	Not Applicable
+	"Morton County, ND"	"38059"	"75-84 years"	"75-84"	"Dec., 2020 "	"2020/12"	11	Not Applicable	Not Applicable
+"Total"	"Morton County, ND"	"38059"	"75-84 years"	"75-84"			764	Not Applicable	Not Applicable
+	"Morton County, ND"	"38059"	"85+ years"	"85+"	"Mar., 2010"	"2010/03"	10	Not Applicable	Not Applicable
+	"Morton County, ND"	"38059"	"85+ years"	"85+"	"Apr., 2011"	"2011/04"	12	Not Applicable	Not Applicable
+	"Morton County, ND"	"38059"	"85+ years"	"85+"	"Jun., 2011"	"2011/06"	13	Not Applicable	Not Applicable
+	"Morton County, ND"	"38059"	"85+ years"	"85+"	"Sep., 2011"	"2011/09"	11	Not Applicable	Not Applicable
+	"Morton County, ND"	"38059"	"85+ years"	"85+"	"Oct., 2011"	"2011/10"	11	Not Applicable	Not Applicable
+	"Morton County, ND"	"38059"	"85+ years"	"85+"	"May, 2012"	"2012/05"	11	Not Applicable	Not Applicable
+	"Morton County, ND"	"38059"	"85+ years"	"85+"	"Aug., 2012"	"2012/08"	13	Not Applicable	Not Applicable
+	"Morton County, ND"	"38059"	"85+ years"	"85+"	"Oct., 2013"	"2013/10"	15	Not Applicable	Not Applicable
+	"Morton County, ND"	"38059"	"85+ years"	"85+"	"Dec., 2013"	"2013/12"	15	Not Applicable	Not Applicable
+	"Morton County, ND"	"38059"	"85+ years"	"85+"	"Jan., 2014"	"2014/01"	11	Not Applicable	Not Applicable
+	"Morton County, ND"	"38059"	"85+ years"	"85+"	"May, 2014"	"2014/05"	13	Not Applicable	Not Applicable
+	"Morton County, ND"	"38059"	"85+ years"	"85+"	"Jul., 2014"	"2014/07"	12	Not Applicable	Not Applicable
+	"Morton County, ND"	"38059"	"85+ years"	"85+"	"Aug., 2014"	"2014/08"	10	Not Applicable	Not Applicable
+	"Morton County, ND"	"38059"	"85+ years"	"85+"	"Mar., 2015"	"2015/03"	10	Not Applicable	Not Applicable
+	"Morton County, ND"	"38059"	"85+ years"	"85+"	"Apr., 2015"	"2015/04"	11	Not Applicable	Not Applicable
+	"Morton County, ND"	"38059"	"85+ years"	"85+"	"May, 2015"	"2015/05"	11	Not Applicable	Not Applicable
+	"Morton County, ND"	"38059"	"85+ years"	"85+"	"Oct., 2015"	"2015/10"	11	Not Applicable	Not Applicable
+	"Morton County, ND"	"38059"	"85+ years"	"85+"	"Jan., 2016"	"2016/01"	13	Not Applicable	Not Applicable
+	"Morton County, ND"	"38059"	"85+ years"	"85+"	"Sep., 2016"	"2016/09"	11	Not Applicable	Not Applicable
+	"Morton County, ND"	"38059"	"85+ years"	"85+"	"Oct., 2016"	"2016/10"	15	Not Applicable	Not Applicable
+	"Morton County, ND"	"38059"	"85+ years"	"85+"	"Nov., 2016"	"2016/11"	10	Not Applicable	Not Applicable
+	"Morton County, ND"	"38059"	"85+ years"	"85+"	"Jan., 2017"	"2017/01"	12	Not Applicable	Not Applicable
+	"Morton County, ND"	"38059"	"85+ years"	"85+"	"Feb., 2017"	"2017/02"	19	Not Applicable	Not Applicable
+	"Morton County, ND"	"38059"	"85+ years"	"85+"	"Apr., 2017"	"2017/04"	12	Not Applicable	Not Applicable
+	"Morton County, ND"	"38059"	"85+ years"	"85+"	"Jun., 2017"	"2017/06"	11	Not Applicable	Not Applicable
+	"Morton County, ND"	"38059"	"85+ years"	"85+"	"Oct., 2017"	"2017/10"	10	Not Applicable	Not Applicable
+	"Morton County, ND"	"38059"	"85+ years"	"85+"	"Nov., 2017"	"2017/11"	11	Not Applicable	Not Applicable
+	"Morton County, ND"	"38059"	"85+ years"	"85+"	"Dec., 2017"	"2017/12"	16	Not Applicable	Not Applicable
+	"Morton County, ND"	"38059"	"85+ years"	"85+"	"Jan., 2018"	"2018/01"	12	Not Applicable	Not Applicable
+	"Morton County, ND"	"38059"	"85+ years"	"85+"	"Feb., 2018"	"2018/02"	12	Not Applicable	Not Applicable
+	"Morton County, ND"	"38059"	"85+ years"	"85+"	"Apr., 2018"	"2018/04"	11	Not Applicable	Not Applicable
+	"Morton County, ND"	"38059"	"85+ years"	"85+"	"May, 2018"	"2018/05"	11	Not Applicable	Not Applicable
+	"Morton County, ND"	"38059"	"85+ years"	"85+"	"Jun., 2018"	"2018/06"	10	Not Applicable	Not Applicable
+	"Morton County, ND"	"38059"	"85+ years"	"85+"	"Nov., 2018"	"2018/11"	10	Not Applicable	Not Applicable
+	"Morton County, ND"	"38059"	"85+ years"	"85+"	"Dec., 2018"	"2018/12"	12	Not Applicable	Not Applicable
+	"Morton County, ND"	"38059"	"85+ years"	"85+"	"Jan., 2019"	"2019/01"	20	Not Applicable	Not Applicable
+	"Morton County, ND"	"38059"	"85+ years"	"85+"	"May, 2019"	"2019/05"	10	Not Applicable	Not Applicable
+	"Morton County, ND"	"38059"	"85+ years"	"85+"	"Jul., 2019"	"2019/07"	11	Not Applicable	Not Applicable
+	"Morton County, ND"	"38059"	"85+ years"	"85+"	"Aug., 2019"	"2019/08"	12	Not Applicable	Not Applicable
+	"Morton County, ND"	"38059"	"85+ years"	"85+"	"Sep., 2019"	"2019/09"	13	Not Applicable	Not Applicable
+	"Morton County, ND"	"38059"	"85+ years"	"85+"	"Nov., 2019"	"2019/11"	13	Not Applicable	Not Applicable
+	"Morton County, ND"	"38059"	"85+ years"	"85+"	"Dec., 2019"	"2019/12"	11	Not Applicable	Not Applicable
+	"Morton County, ND"	"38059"	"85+ years"	"85+"	"Jan., 2020 "	"2020/01"	19	Not Applicable	Not Applicable
+	"Morton County, ND"	"38059"	"85+ years"	"85+"	"Feb., 2020 "	"2020/02"	10	Not Applicable	Not Applicable
+	"Morton County, ND"	"38059"	"85+ years"	"85+"	"Mar., 2020 "	"2020/03"	17	Not Applicable	Not Applicable
+	"Morton County, ND"	"38059"	"85+ years"	"85+"	"Apr., 2020 "	"2020/04"	14	Not Applicable	Not Applicable
+	"Morton County, ND"	"38059"	"85+ years"	"85+"	"May, 2020 "	"2020/05"	12	Not Applicable	Not Applicable
+	"Morton County, ND"	"38059"	"85+ years"	"85+"	"Aug., 2020 "	"2020/08"	11	Not Applicable	Not Applicable
+	"Morton County, ND"	"38059"	"85+ years"	"85+"	"Sep., 2020 "	"2020/09"	25	Not Applicable	Not Applicable
+	"Morton County, ND"	"38059"	"85+ years"	"85+"	"Oct., 2020 "	"2020/10"	18	Not Applicable	Not Applicable
+	"Morton County, ND"	"38059"	"85+ years"	"85+"	"Nov., 2020 "	"2020/11"	16	Not Applicable	Not Applicable
+	"Morton County, ND"	"38059"	"85+ years"	"85+"	"Dec., 2020 "	"2020/12"	16	Not Applicable	Not Applicable
+"Total"	"Morton County, ND"	"38059"	"85+ years"	"85+"			1193	Not Applicable	Not Applicable
+"Total"	"Morton County, ND"	"38059"					2839	Not Applicable	Not Applicable
+"Total"	"Mountrail County, ND"	"38061"	"55-64 years"	"55-64"			119	Not Applicable	Not Applicable
+"Total"	"Mountrail County, ND"	"38061"	"65-74 years"	"65-74"			147	Not Applicable	Not Applicable
+"Total"	"Mountrail County, ND"	"38061"	"75-84 years"	"75-84"			196	Not Applicable	Not Applicable
+"Total"	"Mountrail County, ND"	"38061"	"85+ years"	"85+"			262	Not Applicable	Not Applicable
+"Total"	"Mountrail County, ND"	"38061"					724	Not Applicable	Not Applicable
+"Total"	"Nelson County, ND"	"38063"	"55-64 years"	"55-64"			51	Not Applicable	Not Applicable
+"Total"	"Nelson County, ND"	"38063"	"65-74 years"	"65-74"			105	Not Applicable	Not Applicable
+"Total"	"Nelson County, ND"	"38063"	"75-84 years"	"75-84"			169	Not Applicable	Not Applicable
+"Total"	"Nelson County, ND"	"38063"	"85+ years"	"85+"			309	Not Applicable	Not Applicable
+"Total"	"Nelson County, ND"	"38063"					634	Not Applicable	Not Applicable
+"Total"	"Oliver County, ND"	"38065"	"55-64 years"	"55-64"			20	Not Applicable	Not Applicable
+"Total"	"Oliver County, ND"	"38065"	"65-74 years"	"65-74"			39	Not Applicable	Not Applicable
+"Total"	"Oliver County, ND"	"38065"	"75-84 years"	"75-84"			30	Not Applicable	Not Applicable
+"Total"	"Oliver County, ND"	"38065"	"85+ years"	"85+"			34	Not Applicable	Not Applicable
+"Total"	"Oliver County, ND"	"38065"					123	Not Applicable	Not Applicable
+"Total"	"Pembina County, ND"	"38067"	"55-64 years"	"55-64"			91	Not Applicable	Not Applicable
+"Total"	"Pembina County, ND"	"38067"	"65-74 years"	"65-74"			125	Not Applicable	Not Applicable
+"Total"	"Pembina County, ND"	"38067"	"75-84 years"	"75-84"			225	Not Applicable	Not Applicable
+"Total"	"Pembina County, ND"	"38067"	"85+ years"	"85+"			398	Not Applicable	Not Applicable
+"Total"	"Pembina County, ND"	"38067"					839	Not Applicable	Not Applicable
+"Total"	"Pierce County, ND"	"38069"	"55-64 years"	"55-64"			54	Not Applicable	Not Applicable
+"Total"	"Pierce County, ND"	"38069"	"65-74 years"	"65-74"			90	Not Applicable	Not Applicable
+"Total"	"Pierce County, ND"	"38069"	"75-84 years"	"75-84"			150	Not Applicable	Not Applicable
+	"Pierce County, ND"	"38069"	"85+ years"	"85+"	"Nov., 2020 "	"2020/11"	14	Not Applicable	Not Applicable
+"Total"	"Pierce County, ND"	"38069"	"85+ years"	"85+"			339	Not Applicable	Not Applicable
+"Total"	"Pierce County, ND"	"38069"					633	Not Applicable	Not Applicable
+"Total"	"Ramsey County, ND"	"38071"	"55-64 years"	"55-64"			145	Not Applicable	Not Applicable
+"Total"	"Ramsey County, ND"	"38071"	"65-74 years"	"65-74"			245	Not Applicable	Not Applicable
+"Total"	"Ramsey County, ND"	"38071"	"75-84 years"	"75-84"			357	Not Applicable	Not Applicable
+	"Ramsey County, ND"	"38071"	"85+ years"	"85+"	"Feb., 2011"	"2011/02"	10	Not Applicable	Not Applicable
+	"Ramsey County, ND"	"38071"	"85+ years"	"85+"	"Apr., 2012"	"2012/04"	11	Not Applicable	Not Applicable
+	"Ramsey County, ND"	"38071"	"85+ years"	"85+"	"Jan., 2015"	"2015/01"	10	Not Applicable	Not Applicable
+	"Ramsey County, ND"	"38071"	"85+ years"	"85+"	"Jul., 2018"	"2018/07"	11	Not Applicable	Not Applicable
+	"Ramsey County, ND"	"38071"	"85+ years"	"85+"	"Nov., 2020 "	"2020/11"	13	Not Applicable	Not Applicable
+"Total"	"Ramsey County, ND"	"38071"	"85+ years"	"85+"			616	Not Applicable	Not Applicable
+"Total"	"Ramsey County, ND"	"38071"					1363	Not Applicable	Not Applicable
+"Total"	"Ransom County, ND"	"38073"	"55-64 years"	"55-64"			68	Not Applicable	Not Applicable
+"Total"	"Ransom County, ND"	"38073"	"65-74 years"	"65-74"			126	Not Applicable	Not Applicable
+"Total"	"Ransom County, ND"	"38073"	"75-84 years"	"75-84"			194	Not Applicable	Not Applicable
+"Total"	"Ransom County, ND"	"38073"	"85+ years"	"85+"			438	Not Applicable	Not Applicable
+"Total"	"Ransom County, ND"	"38073"					826	Not Applicable	Not Applicable
+"Total"	"Renville County, ND"	"38075"	"55-64 years"	"55-64"			26	Not Applicable	Not Applicable
+"Total"	"Renville County, ND"	"38075"	"65-74 years"	"65-74"			54	Not Applicable	Not Applicable
+"Total"	"Renville County, ND"	"38075"	"75-84 years"	"75-84"			79	Not Applicable	Not Applicable
+"Total"	"Renville County, ND"	"38075"	"85+ years"	"85+"			143	Not Applicable	Not Applicable
+"Total"	"Renville County, ND"	"38075"					302	Not Applicable	Not Applicable
+"Total"	"Richland County, ND"	"38077"	"55-64 years"	"55-64"			212	Not Applicable	Not Applicable
+"Total"	"Richland County, ND"	"38077"	"65-74 years"	"65-74"			246	Not Applicable	Not Applicable
+"Total"	"Richland County, ND"	"38077"	"75-84 years"	"75-84"			354	Not Applicable	Not Applicable
+	"Richland County, ND"	"38077"	"85+ years"	"85+"	"Dec., 2011"	"2011/12"	11	Not Applicable	Not Applicable
+	"Richland County, ND"	"38077"	"85+ years"	"85+"	"Mar., 2016"	"2016/03"	11	Not Applicable	Not Applicable
+	"Richland County, ND"	"38077"	"85+ years"	"85+"	"Nov., 2017"	"2017/11"	10	Not Applicable	Not Applicable
+	"Richland County, ND"	"38077"	"85+ years"	"85+"	"Jan., 2019"	"2019/01"	10	Not Applicable	Not Applicable
+"Total"	"Richland County, ND"	"38077"	"85+ years"	"85+"			594	Not Applicable	Not Applicable
+"Total"	"Richland County, ND"	"38077"					1406	Not Applicable	Not Applicable
+"Total"	"Rolette County, ND"	"38079"	"55-64 years"	"55-64"			285	Not Applicable	Not Applicable
+"Total"	"Rolette County, ND"	"38079"	"65-74 years"	"65-74"			296	Not Applicable	Not Applicable
+"Total"	"Rolette County, ND"	"38079"	"75-84 years"	"75-84"			303	Not Applicable	Not Applicable
+"Total"	"Rolette County, ND"	"38079"	"85+ years"	"85+"			250	Not Applicable	Not Applicable
+"Total"	"Rolette County, ND"	"38079"					1134	Not Applicable	Not Applicable
+"Total"	"Sargent County, ND"	"38081"	"55-64 years"	"55-64"			49	Not Applicable	Not Applicable
+"Total"	"Sargent County, ND"	"38081"	"65-74 years"	"65-74"			76	Not Applicable	Not Applicable
+"Total"	"Sargent County, ND"	"38081"	"75-84 years"	"75-84"			107	Not Applicable	Not Applicable
+"Total"	"Sargent County, ND"	"38081"	"85+ years"	"85+"			133	Not Applicable	Not Applicable
+"Total"	"Sargent County, ND"	"38081"					365	Not Applicable	Not Applicable
+"Total"	"Sheridan County, ND"	"38083"	"55-64 years"	"55-64"			11	Not Applicable	Not Applicable
+"Total"	"Sheridan County, ND"	"38083"	"65-74 years"	"65-74"			25	Not Applicable	Not Applicable
+"Total"	"Sheridan County, ND"	"38083"	"75-84 years"	"75-84"			43	Not Applicable	Not Applicable
+"Total"	"Sheridan County, ND"	"38083"	"85+ years"	"85+"			35	Not Applicable	Not Applicable
+"Total"	"Sheridan County, ND"	"38083"					114	Not Applicable	Not Applicable
+"Total"	"Sioux County, ND"	"38085"	"55-64 years"	"55-64"			81	Not Applicable	Not Applicable
+"Total"	"Sioux County, ND"	"38085"	"65-74 years"	"65-74"			86	Not Applicable	Not Applicable
+"Total"	"Sioux County, ND"	"38085"	"75-84 years"	"75-84"			63	Not Applicable	Not Applicable
+"Total"	"Sioux County, ND"	"38085"	"85+ years"	"85+"			27	Not Applicable	Not Applicable
+"Total"	"Sioux County, ND"	"38085"					257	Not Applicable	Not Applicable
+"Total"	"Slope County, ND"	"38087"	"75-84 years"	"75-84"			16	Not Applicable	Not Applicable
+"Total"	"Slope County, ND"	"38087"	"85+ years"	"85+"			13	Not Applicable	Not Applicable
+"Total"	"Slope County, ND"	"38087"					41	Not Applicable	Not Applicable
+"Total"	"Stark County, ND"	"38089"	"55-64 years"	"55-64"			255	Not Applicable	Not Applicable
+	"Stark County, ND"	"38089"	"65-74 years"	"65-74"	"Oct., 2020 "	"2020/10"	11	Not Applicable	Not Applicable
+"Total"	"Stark County, ND"	"38089"	"65-74 years"	"65-74"			287	Not Applicable	Not Applicable
+	"Stark County, ND"	"38089"	"75-84 years"	"75-84"	"Jan., 2012"	"2012/01"	10	Not Applicable	Not Applicable
+	"Stark County, ND"	"38089"	"75-84 years"	"75-84"	"Jan., 2016"	"2016/01"	10	Not Applicable	Not Applicable
+	"Stark County, ND"	"38089"	"75-84 years"	"75-84"	"Nov., 2020 "	"2020/11"	10	Not Applicable	Not Applicable
+"Total"	"Stark County, ND"	"38089"	"75-84 years"	"75-84"			622	Not Applicable	Not Applicable
+	"Stark County, ND"	"38089"	"85+ years"	"85+"	"Jan., 2010"	"2010/01"	13	Not Applicable	Not Applicable
+	"Stark County, ND"	"38089"	"85+ years"	"85+"	"Jul., 2010"	"2010/07"	11	Not Applicable	Not Applicable
+	"Stark County, ND"	"38089"	"85+ years"	"85+"	"Feb., 2011"	"2011/02"	12	Not Applicable	Not Applicable
+	"Stark County, ND"	"38089"	"85+ years"	"85+"	"Mar., 2011"	"2011/03"	14	Not Applicable	Not Applicable
+	"Stark County, ND"	"38089"	"85+ years"	"85+"	"Apr., 2011"	"2011/04"	10	Not Applicable	Not Applicable
+	"Stark County, ND"	"38089"	"85+ years"	"85+"	"Feb., 2012"	"2012/02"	10	Not Applicable	Not Applicable
+	"Stark County, ND"	"38089"	"85+ years"	"85+"	"Aug., 2012"	"2012/08"	10	Not Applicable	Not Applicable
+	"Stark County, ND"	"38089"	"85+ years"	"85+"	"Jan., 2013"	"2013/01"	15	Not Applicable	Not Applicable
+	"Stark County, ND"	"38089"	"85+ years"	"85+"	"Feb., 2013"	"2013/02"	11	Not Applicable	Not Applicable
+	"Stark County, ND"	"38089"	"85+ years"	"85+"	"Mar., 2013"	"2013/03"	14	Not Applicable	Not Applicable
+	"Stark County, ND"	"38089"	"85+ years"	"85+"	"Sep., 2013"	"2013/09"	11	Not Applicable	Not Applicable
+	"Stark County, ND"	"38089"	"85+ years"	"85+"	"Dec., 2013"	"2013/12"	16	Not Applicable	Not Applicable
+	"Stark County, ND"	"38089"	"85+ years"	"85+"	"Aug., 2014"	"2014/08"	12	Not Applicable	Not Applicable
+	"Stark County, ND"	"38089"	"85+ years"	"85+"	"Sep., 2014"	"2014/09"	10	Not Applicable	Not Applicable
+	"Stark County, ND"	"38089"	"85+ years"	"85+"	"Jan., 2015"	"2015/01"	14	Not Applicable	Not Applicable
+	"Stark County, ND"	"38089"	"85+ years"	"85+"	"Feb., 2015"	"2015/02"	11	Not Applicable	Not Applicable
+	"Stark County, ND"	"38089"	"85+ years"	"85+"	"Mar., 2015"	"2015/03"	12	Not Applicable	Not Applicable
+	"Stark County, ND"	"38089"	"85+ years"	"85+"	"Jan., 2016"	"2016/01"	12	Not Applicable	Not Applicable
+	"Stark County, ND"	"38089"	"85+ years"	"85+"	"Feb., 2016"	"2016/02"	11	Not Applicable	Not Applicable
+	"Stark County, ND"	"38089"	"85+ years"	"85+"	"May, 2016"	"2016/05"	11	Not Applicable	Not Applicable
+	"Stark County, ND"	"38089"	"85+ years"	"85+"	"Apr., 2017"	"2017/04"	10	Not Applicable	Not Applicable
+	"Stark County, ND"	"38089"	"85+ years"	"85+"	"Sep., 2017"	"2017/09"	11	Not Applicable	Not Applicable
+	"Stark County, ND"	"38089"	"85+ years"	"85+"	"Oct., 2017"	"2017/10"	11	Not Applicable	Not Applicable
+	"Stark County, ND"	"38089"	"85+ years"	"85+"	"Jan., 2018"	"2018/01"	10	Not Applicable	Not Applicable
+	"Stark County, ND"	"38089"	"85+ years"	"85+"	"Feb., 2018"	"2018/02"	11	Not Applicable	Not Applicable
+	"Stark County, ND"	"38089"	"85+ years"	"85+"	"Mar., 2018"	"2018/03"	14	Not Applicable	Not Applicable
+	"Stark County, ND"	"38089"	"85+ years"	"85+"	"Apr., 2018"	"2018/04"	12	Not Applicable	Not Applicable
+	"Stark County, ND"	"38089"	"85+ years"	"85+"	"Aug., 2018"	"2018/08"	14	Not Applicable	Not Applicable
+	"Stark County, ND"	"38089"	"85+ years"	"85+"	"Oct., 2018"	"2018/10"	11	Not Applicable	Not Applicable
+	"Stark County, ND"	"38089"	"85+ years"	"85+"	"Dec., 2018"	"2018/12"	14	Not Applicable	Not Applicable
+	"Stark County, ND"	"38089"	"85+ years"	"85+"	"Aug., 2019"	"2019/08"	10	Not Applicable	Not Applicable
+	"Stark County, ND"	"38089"	"85+ years"	"85+"	"Oct., 2019"	"2019/10"	11	Not Applicable	Not Applicable
+	"Stark County, ND"	"38089"	"85+ years"	"85+"	"Nov., 2019"	"2019/11"	11	Not Applicable	Not Applicable
+	"Stark County, ND"	"38089"	"85+ years"	"85+"	"Dec., 2019"	"2019/12"	10	Not Applicable	Not Applicable
+	"Stark County, ND"	"38089"	"85+ years"	"85+"	"Mar., 2020 "	"2020/03"	13	Not Applicable	Not Applicable
+	"Stark County, ND"	"38089"	"85+ years"	"85+"	"Jul., 2020 "	"2020/07"	10	Not Applicable	Not Applicable
+	"Stark County, ND"	"38089"	"85+ years"	"85+"	"Aug., 2020 "	"2020/08"	12	Not Applicable	Not Applicable
+	"Stark County, ND"	"38089"	"85+ years"	"85+"	"Sep., 2020 "	"2020/09"	16	Not Applicable	Not Applicable
+	"Stark County, ND"	"38089"	"85+ years"	"85+"	"Oct., 2020 "	"2020/10"	20	Not Applicable	Not Applicable
+	"Stark County, ND"	"38089"	"85+ years"	"85+"	"Nov., 2020 "	"2020/11"	10	Not Applicable	Not Applicable
+	"Stark County, ND"	"38089"	"85+ years"	"85+"	"Dec., 2020 "	"2020/12"	10	Not Applicable	Not Applicable
+"Total"	"Stark County, ND"	"38089"	"85+ years"	"85+"			1114	Not Applicable	Not Applicable
+"Total"	"Stark County, ND"	"38089"					2278	Not Applicable	Not Applicable
+"Total"	"Steele County, ND"	"38091"	"55-64 years"	"55-64"			16	Not Applicable	Not Applicable
+"Total"	"Steele County, ND"	"38091"	"65-74 years"	"65-74"			36	Not Applicable	Not Applicable
+"Total"	"Steele County, ND"	"38091"	"75-84 years"	"75-84"			59	Not Applicable	Not Applicable
+"Total"	"Steele County, ND"	"38091"	"85+ years"	"85+"			75	Not Applicable	Not Applicable
+"Total"	"Steele County, ND"	"38091"					186	Not Applicable	Not Applicable
+"Total"	"Stutsman County, ND"	"38093"	"55-64 years"	"55-64"			279	Not Applicable	Not Applicable
+	"Stutsman County, ND"	"38093"	"65-74 years"	"65-74"	"Dec., 2019"	"2019/12"	10	Not Applicable	Not Applicable
+	"Stutsman County, ND"	"38093"	"65-74 years"	"65-74"	"Nov., 2020 "	"2020/11"	10	Not Applicable	Not Applicable
+"Total"	"Stutsman County, ND"	"38093"	"65-74 years"	"65-74"			415	Not Applicable	Not Applicable
+	"Stutsman County, ND"	"38093"	"75-84 years"	"75-84"	"Nov., 2011"	"2011/11"	11	Not Applicable	Not Applicable
+"Total"	"Stutsman County, ND"	"38093"	"75-84 years"	"75-84"			652	Not Applicable	Not Applicable
+	"Stutsman County, ND"	"38093"	"85+ years"	"85+"	"Jan., 2010"	"2010/01"	12	Not Applicable	Not Applicable
+	"Stutsman County, ND"	"38093"	"85+ years"	"85+"	"Oct., 2010"	"2010/10"	10	Not Applicable	Not Applicable
+	"Stutsman County, ND"	"38093"	"85+ years"	"85+"	"Nov., 2010"	"2010/11"	12	Not Applicable	Not Applicable
+	"Stutsman County, ND"	"38093"	"85+ years"	"85+"	"Dec., 2010"	"2010/12"	14	Not Applicable	Not Applicable
+	"Stutsman County, ND"	"38093"	"85+ years"	"85+"	"Jun., 2011"	"2011/06"	11	Not Applicable	Not Applicable
+	"Stutsman County, ND"	"38093"	"85+ years"	"85+"	"Nov., 2011"	"2011/11"	10	Not Applicable	Not Applicable
+	"Stutsman County, ND"	"38093"	"85+ years"	"85+"	"Feb., 2012"	"2012/02"	11	Not Applicable	Not Applicable
+	"Stutsman County, ND"	"38093"	"85+ years"	"85+"	"Mar., 2012"	"2012/03"	14	Not Applicable	Not Applicable
+	"Stutsman County, ND"	"38093"	"85+ years"	"85+"	"Aug., 2012"	"2012/08"	11	Not Applicable	Not Applicable
+	"Stutsman County, ND"	"38093"	"85+ years"	"85+"	"Dec., 2012"	"2012/12"	10	Not Applicable	Not Applicable
+	"Stutsman County, ND"	"38093"	"85+ years"	"85+"	"Jan., 2013"	"2013/01"	12	Not Applicable	Not Applicable
+	"Stutsman County, ND"	"38093"	"85+ years"	"85+"	"Feb., 2013"	"2013/02"	10	Not Applicable	Not Applicable
+	"Stutsman County, ND"	"38093"	"85+ years"	"85+"	"Mar., 2013"	"2013/03"	14	Not Applicable	Not Applicable
+	"Stutsman County, ND"	"38093"	"85+ years"	"85+"	"Apr., 2013"	"2013/04"	12	Not Applicable	Not Applicable
+	"Stutsman County, ND"	"38093"	"85+ years"	"85+"	"Jul., 2013"	"2013/07"	14	Not Applicable	Not Applicable
+	"Stutsman County, ND"	"38093"	"85+ years"	"85+"	"Feb., 2014"	"2014/02"	11	Not Applicable	Not Applicable
+	"Stutsman County, ND"	"38093"	"85+ years"	"85+"	"Aug., 2014"	"2014/08"	11	Not Applicable	Not Applicable
+	"Stutsman County, ND"	"38093"	"85+ years"	"85+"	"Jan., 2015"	"2015/01"	11	Not Applicable	Not Applicable
+	"Stutsman County, ND"	"38093"	"85+ years"	"85+"	"Jun., 2016"	"2016/06"	11	Not Applicable	Not Applicable
+	"Stutsman County, ND"	"38093"	"85+ years"	"85+"	"Jul., 2016"	"2016/07"	10	Not Applicable	Not Applicable
+	"Stutsman County, ND"	"38093"	"85+ years"	"85+"	"Nov., 2016"	"2016/11"	11	Not Applicable	Not Applicable
+	"Stutsman County, ND"	"38093"	"85+ years"	"85+"	"Mar., 2017"	"2017/03"	14	Not Applicable	Not Applicable
+	"Stutsman County, ND"	"38093"	"85+ years"	"85+"	"Apr., 2017"	"2017/04"	11	Not Applicable	Not Applicable
+	"Stutsman County, ND"	"38093"	"85+ years"	"85+"	"May, 2017"	"2017/05"	15	Not Applicable	Not Applicable
+	"Stutsman County, ND"	"38093"	"85+ years"	"85+"	"Jun., 2017"	"2017/06"	12	Not Applicable	Not Applicable
+	"Stutsman County, ND"	"38093"	"85+ years"	"85+"	"Aug., 2017"	"2017/08"	11	Not Applicable	Not Applicable
+	"Stutsman County, ND"	"38093"	"85+ years"	"85+"	"Jan., 2018"	"2018/01"	10	Not Applicable	Not Applicable
+	"Stutsman County, ND"	"38093"	"85+ years"	"85+"	"Feb., 2018"	"2018/02"	10	Not Applicable	Not Applicable
+	"Stutsman County, ND"	"38093"	"85+ years"	"85+"	"Apr., 2018"	"2018/04"	11	Not Applicable	Not Applicable
+	"Stutsman County, ND"	"38093"	"85+ years"	"85+"	"May, 2018"	"2018/05"	11	Not Applicable	Not Applicable
+	"Stutsman County, ND"	"38093"	"85+ years"	"85+"	"Jan., 2019"	"2019/01"	11	Not Applicable	Not Applicable
+	"Stutsman County, ND"	"38093"	"85+ years"	"85+"	"Apr., 2019"	"2019/04"	11	Not Applicable	Not Applicable
+	"Stutsman County, ND"	"38093"	"85+ years"	"85+"	"Jul., 2019"	"2019/07"	10	Not Applicable	Not Applicable
+	"Stutsman County, ND"	"38093"	"85+ years"	"85+"	"Sep., 2019"	"2019/09"	11	Not Applicable	Not Applicable
+	"Stutsman County, ND"	"38093"	"85+ years"	"85+"	"Feb., 2020 "	"2020/02"	12	Not Applicable	Not Applicable
+	"Stutsman County, ND"	"38093"	"85+ years"	"85+"	"Jun., 2020 "	"2020/06"	10	Not Applicable	Not Applicable
+	"Stutsman County, ND"	"38093"	"85+ years"	"85+"	"Sep., 2020 "	"2020/09"	11	Not Applicable	Not Applicable
+	"Stutsman County, ND"	"38093"	"85+ years"	"85+"	"Oct., 2020 "	"2020/10"	15	Not Applicable	Not Applicable
+	"Stutsman County, ND"	"38093"	"85+ years"	"85+"	"Nov., 2020 "	"2020/11"	39	Not Applicable	Not Applicable
+	"Stutsman County, ND"	"38093"	"85+ years"	"85+"	"Dec., 2020 "	"2020/12"	14	Not Applicable	Not Applicable
+"Total"	"Stutsman County, ND"	"38093"	"85+ years"	"85+"			1111	Not Applicable	Not Applicable
+"Total"	"Stutsman County, ND"	"38093"					2457	Not Applicable	Not Applicable
+"Total"	"Towner County, ND"	"38095"	"55-64 years"	"55-64"			27	Not Applicable	Not Applicable
+"Total"	"Towner County, ND"	"38095"	"65-74 years"	"65-74"			62	Not Applicable	Not Applicable
+"Total"	"Towner County, ND"	"38095"	"75-84 years"	"75-84"			79	Not Applicable	Not Applicable
+"Total"	"Towner County, ND"	"38095"	"85+ years"	"85+"			141	Not Applicable	Not Applicable
+"Total"	"Towner County, ND"	"38095"					309	Not Applicable	Not Applicable
+"Total"	"Traill County, ND"	"38097"	"55-64 years"	"55-64"			89	Not Applicable	Not Applicable
+"Total"	"Traill County, ND"	"38097"	"65-74 years"	"65-74"			150	Not Applicable	Not Applicable
+"Total"	"Traill County, ND"	"38097"	"75-84 years"	"75-84"			255	Not Applicable	Not Applicable
+	"Traill County, ND"	"38097"	"85+ years"	"85+"	"Dec., 2014"	"2014/12"	10	Not Applicable	Not Applicable
+	"Traill County, ND"	"38097"	"85+ years"	"85+"	"Oct., 2020 "	"2020/10"	12	Not Applicable	Not Applicable
+"Total"	"Traill County, ND"	"38097"	"85+ years"	"85+"			464	Not Applicable	Not Applicable
+"Total"	"Traill County, ND"	"38097"					958	Not Applicable	Not Applicable
+"Total"	"Walsh County, ND"	"38099"	"55-64 years"	"55-64"			182	Not Applicable	Not Applicable
+"Total"	"Walsh County, ND"	"38099"	"65-74 years"	"65-74"			248	Not Applicable	Not Applicable
+"Total"	"Walsh County, ND"	"38099"	"75-84 years"	"75-84"			368	Not Applicable	Not Applicable
+	"Walsh County, ND"	"38099"	"85+ years"	"85+"	"Oct., 2014"	"2014/10"	10	Not Applicable	Not Applicable
+	"Walsh County, ND"	"38099"	"85+ years"	"85+"	"May, 2016"	"2016/05"	10	Not Applicable	Not Applicable
+	"Walsh County, ND"	"38099"	"85+ years"	"85+"	"Jan., 2018"	"2018/01"	12	Not Applicable	Not Applicable
+	"Walsh County, ND"	"38099"	"85+ years"	"85+"	"Nov., 2020 "	"2020/11"	20	Not Applicable	Not Applicable
+"Total"	"Walsh County, ND"	"38099"	"85+ years"	"85+"			666	Not Applicable	Not Applicable
+"Total"	"Walsh County, ND"	"38099"					1464	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"55-64 years"	"55-64"	"Jul., 2020 "	"2020/07"	13	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"55-64 years"	"55-64"	"Dec., 2020 "	"2020/12"	10	Not Applicable	Not Applicable
+"Total"	"Ward County, ND"	"38101"	"55-64 years"	"55-64"			611	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"65-74 years"	"65-74"	"Sep., 2011"	"2011/09"	12	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"65-74 years"	"65-74"	"Dec., 2012"	"2012/12"	11	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"65-74 years"	"65-74"	"Dec., 2013"	"2013/12"	14	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"65-74 years"	"65-74"	"Dec., 2017"	"2017/12"	13	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"65-74 years"	"65-74"	"Jan., 2018"	"2018/01"	12	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"65-74 years"	"65-74"	"Oct., 2019"	"2019/10"	12	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"65-74 years"	"65-74"	"Sep., 2020 "	"2020/09"	13	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"65-74 years"	"65-74"	"Oct., 2020 "	"2020/10"	15	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"65-74 years"	"65-74"	"Nov., 2020 "	"2020/11"	13	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"65-74 years"	"65-74"	"Dec., 2020 "	"2020/12"	11	Not Applicable	Not Applicable
+"Total"	"Ward County, ND"	"38101"	"65-74 years"	"65-74"			804	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"75-84 years"	"75-84"	"Feb., 2010"	"2010/02"	11	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"75-84 years"	"75-84"	"Mar., 2010"	"2010/03"	14	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"75-84 years"	"75-84"	"May, 2010"	"2010/05"	14	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"75-84 years"	"75-84"	"Jun., 2010"	"2010/06"	10	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"75-84 years"	"75-84"	"Aug., 2010"	"2010/08"	10	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"75-84 years"	"75-84"	"Sep., 2010"	"2010/09"	12	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"75-84 years"	"75-84"	"Oct., 2010"	"2010/10"	15	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"75-84 years"	"75-84"	"Nov., 2010"	"2010/11"	17	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"75-84 years"	"75-84"	"Dec., 2010"	"2010/12"	19	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"75-84 years"	"75-84"	"Jan., 2011"	"2011/01"	11	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"75-84 years"	"75-84"	"Mar., 2011"	"2011/03"	10	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"75-84 years"	"75-84"	"May, 2011"	"2011/05"	14	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"75-84 years"	"75-84"	"Jun., 2011"	"2011/06"	13	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"75-84 years"	"75-84"	"Jul., 2011"	"2011/07"	14	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"75-84 years"	"75-84"	"Sep., 2011"	"2011/09"	10	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"75-84 years"	"75-84"	"Nov., 2011"	"2011/11"	11	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"75-84 years"	"75-84"	"Dec., 2011"	"2011/12"	11	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"75-84 years"	"75-84"	"Jan., 2012"	"2012/01"	13	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"75-84 years"	"75-84"	"Feb., 2012"	"2012/02"	11	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"75-84 years"	"75-84"	"Mar., 2012"	"2012/03"	15	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"75-84 years"	"75-84"	"Apr., 2012"	"2012/04"	10	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"75-84 years"	"75-84"	"Aug., 2012"	"2012/08"	13	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"75-84 years"	"75-84"	"Oct., 2012"	"2012/10"	15	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"75-84 years"	"75-84"	"Dec., 2012"	"2012/12"	16	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"75-84 years"	"75-84"	"Jan., 2013"	"2013/01"	11	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"75-84 years"	"75-84"	"Feb., 2013"	"2013/02"	15	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"75-84 years"	"75-84"	"Jun., 2013"	"2013/06"	11	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"75-84 years"	"75-84"	"Jul., 2013"	"2013/07"	11	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"75-84 years"	"75-84"	"Aug., 2013"	"2013/08"	12	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"75-84 years"	"75-84"	"Nov., 2013"	"2013/11"	12	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"75-84 years"	"75-84"	"Jan., 2014"	"2014/01"	16	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"75-84 years"	"75-84"	"Mar., 2014"	"2014/03"	14	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"75-84 years"	"75-84"	"May, 2014"	"2014/05"	16	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"75-84 years"	"75-84"	"Jul., 2014"	"2014/07"	15	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"75-84 years"	"75-84"	"Oct., 2014"	"2014/10"	11	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"75-84 years"	"75-84"	"Jan., 2015"	"2015/01"	14	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"75-84 years"	"75-84"	"Feb., 2015"	"2015/02"	10	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"75-84 years"	"75-84"	"Oct., 2015"	"2015/10"	17	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"75-84 years"	"75-84"	"Jan., 2016"	"2016/01"	10	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"75-84 years"	"75-84"	"Mar., 2016"	"2016/03"	14	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"75-84 years"	"75-84"	"May, 2016"	"2016/05"	12	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"75-84 years"	"75-84"	"Jun., 2016"	"2016/06"	10	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"75-84 years"	"75-84"	"Sep., 2016"	"2016/09"	11	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"75-84 years"	"75-84"	"Dec., 2016"	"2016/12"	12	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"75-84 years"	"75-84"	"Jan., 2017"	"2017/01"	12	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"75-84 years"	"75-84"	"Feb., 2017"	"2017/02"	12	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"75-84 years"	"75-84"	"Mar., 2017"	"2017/03"	11	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"75-84 years"	"75-84"	"May, 2017"	"2017/05"	10	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"75-84 years"	"75-84"	"Jun., 2017"	"2017/06"	11	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"75-84 years"	"75-84"	"Oct., 2017"	"2017/10"	12	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"75-84 years"	"75-84"	"Nov., 2017"	"2017/11"	14	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"75-84 years"	"75-84"	"Dec., 2017"	"2017/12"	13	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"75-84 years"	"75-84"	"Jan., 2018"	"2018/01"	10	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"75-84 years"	"75-84"	"Apr., 2018"	"2018/04"	11	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"75-84 years"	"75-84"	"Jul., 2018"	"2018/07"	12	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"75-84 years"	"75-84"	"Aug., 2018"	"2018/08"	11	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"75-84 years"	"75-84"	"Oct., 2018"	"2018/10"	14	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"75-84 years"	"75-84"	"Jan., 2019"	"2019/01"	10	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"75-84 years"	"75-84"	"Apr., 2019"	"2019/04"	10	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"75-84 years"	"75-84"	"May, 2019"	"2019/05"	12	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"75-84 years"	"75-84"	"Jul., 2019"	"2019/07"	15	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"75-84 years"	"75-84"	"Oct., 2019"	"2019/10"	10	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"75-84 years"	"75-84"	"Dec., 2019"	"2019/12"	12	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"75-84 years"	"75-84"	"Feb., 2020 "	"2020/02"	12	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"75-84 years"	"75-84"	"Mar., 2020 "	"2020/03"	13	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"75-84 years"	"75-84"	"Apr., 2020 "	"2020/04"	13	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"75-84 years"	"75-84"	"May, 2020 "	"2020/05"	11	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"75-84 years"	"75-84"	"Jun., 2020 "	"2020/06"	11	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"75-84 years"	"75-84"	"Sep., 2020 "	"2020/09"	11	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"75-84 years"	"75-84"	"Oct., 2020 "	"2020/10"	22	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"75-84 years"	"75-84"	"Nov., 2020 "	"2020/11"	30	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"75-84 years"	"75-84"	"Dec., 2020 "	"2020/12"	21	Not Applicable	Not Applicable
+"Total"	"Ward County, ND"	"38101"	"75-84 years"	"75-84"			1355	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"85+ years"	"85+"	"Jan., 2010"	"2010/01"	22	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"85+ years"	"85+"	"Feb., 2010"	"2010/02"	16	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"85+ years"	"85+"	"Mar., 2010"	"2010/03"	15	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"85+ years"	"85+"	"Apr., 2010"	"2010/04"	20	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"85+ years"	"85+"	"May, 2010"	"2010/05"	15	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"85+ years"	"85+"	"Jun., 2010"	"2010/06"	14	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"85+ years"	"85+"	"Jul., 2010"	"2010/07"	15	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"85+ years"	"85+"	"Aug., 2010"	"2010/08"	12	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"85+ years"	"85+"	"Sep., 2010"	"2010/09"	16	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"85+ years"	"85+"	"Oct., 2010"	"2010/10"	16	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"85+ years"	"85+"	"Nov., 2010"	"2010/11"	20	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"85+ years"	"85+"	"Dec., 2010"	"2010/12"	19	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"85+ years"	"85+"	"Feb., 2011"	"2011/02"	19	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"85+ years"	"85+"	"Mar., 2011"	"2011/03"	20	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"85+ years"	"85+"	"Apr., 2011"	"2011/04"	16	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"85+ years"	"85+"	"May, 2011"	"2011/05"	16	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"85+ years"	"85+"	"Jun., 2011"	"2011/06"	12	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"85+ years"	"85+"	"Jul., 2011"	"2011/07"	11	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"85+ years"	"85+"	"Aug., 2011"	"2011/08"	13	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"85+ years"	"85+"	"Sep., 2011"	"2011/09"	13	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"85+ years"	"85+"	"Oct., 2011"	"2011/10"	14	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"85+ years"	"85+"	"Nov., 2011"	"2011/11"	17	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"85+ years"	"85+"	"Dec., 2011"	"2011/12"	17	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"85+ years"	"85+"	"Jan., 2012"	"2012/01"	15	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"85+ years"	"85+"	"Feb., 2012"	"2012/02"	18	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"85+ years"	"85+"	"Mar., 2012"	"2012/03"	14	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"85+ years"	"85+"	"May, 2012"	"2012/05"	17	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"85+ years"	"85+"	"Jun., 2012"	"2012/06"	11	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"85+ years"	"85+"	"Jul., 2012"	"2012/07"	15	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"85+ years"	"85+"	"Aug., 2012"	"2012/08"	20	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"85+ years"	"85+"	"Sep., 2012"	"2012/09"	17	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"85+ years"	"85+"	"Nov., 2012"	"2012/11"	17	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"85+ years"	"85+"	"Dec., 2012"	"2012/12"	23	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"85+ years"	"85+"	"Jan., 2013"	"2013/01"	24	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"85+ years"	"85+"	"Feb., 2013"	"2013/02"	17	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"85+ years"	"85+"	"Mar., 2013"	"2013/03"	12	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"85+ years"	"85+"	"Apr., 2013"	"2013/04"	14	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"85+ years"	"85+"	"May, 2013"	"2013/05"	12	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"85+ years"	"85+"	"Jun., 2013"	"2013/06"	12	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"85+ years"	"85+"	"Jul., 2013"	"2013/07"	14	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"85+ years"	"85+"	"Aug., 2013"	"2013/08"	17	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"85+ years"	"85+"	"Sep., 2013"	"2013/09"	12	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"85+ years"	"85+"	"Oct., 2013"	"2013/10"	14	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"85+ years"	"85+"	"Nov., 2013"	"2013/11"	13	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"85+ years"	"85+"	"Dec., 2013"	"2013/12"	15	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"85+ years"	"85+"	"Jan., 2014"	"2014/01"	19	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"85+ years"	"85+"	"Feb., 2014"	"2014/02"	19	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"85+ years"	"85+"	"Mar., 2014"	"2014/03"	13	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"85+ years"	"85+"	"Apr., 2014"	"2014/04"	12	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"85+ years"	"85+"	"May, 2014"	"2014/05"	13	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"85+ years"	"85+"	"Jun., 2014"	"2014/06"	13	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"85+ years"	"85+"	"Jul., 2014"	"2014/07"	14	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"85+ years"	"85+"	"Sep., 2014"	"2014/09"	13	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"85+ years"	"85+"	"Oct., 2014"	"2014/10"	19	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"85+ years"	"85+"	"Nov., 2014"	"2014/11"	10	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"85+ years"	"85+"	"Dec., 2014"	"2014/12"	19	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"85+ years"	"85+"	"Jan., 2015"	"2015/01"	22	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"85+ years"	"85+"	"Feb., 2015"	"2015/02"	16	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"85+ years"	"85+"	"Mar., 2015"	"2015/03"	13	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"85+ years"	"85+"	"Apr., 2015"	"2015/04"	14	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"85+ years"	"85+"	"May, 2015"	"2015/05"	14	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"85+ years"	"85+"	"Jun., 2015"	"2015/06"	13	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"85+ years"	"85+"	"Aug., 2015"	"2015/08"	16	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"85+ years"	"85+"	"Sep., 2015"	"2015/09"	12	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"85+ years"	"85+"	"Dec., 2015"	"2015/12"	13	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"85+ years"	"85+"	"Jan., 2016"	"2016/01"	15	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"85+ years"	"85+"	"Feb., 2016"	"2016/02"	14	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"85+ years"	"85+"	"Apr., 2016"	"2016/04"	15	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"85+ years"	"85+"	"May, 2016"	"2016/05"	13	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"85+ years"	"85+"	"Jul., 2016"	"2016/07"	17	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"85+ years"	"85+"	"Sep., 2016"	"2016/09"	14	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"85+ years"	"85+"	"Oct., 2016"	"2016/10"	19	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"85+ years"	"85+"	"Nov., 2016"	"2016/11"	10	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"85+ years"	"85+"	"Dec., 2016"	"2016/12"	11	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"85+ years"	"85+"	"Jan., 2017"	"2017/01"	15	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"85+ years"	"85+"	"Feb., 2017"	"2017/02"	10	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"85+ years"	"85+"	"Mar., 2017"	"2017/03"	16	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"85+ years"	"85+"	"Apr., 2017"	"2017/04"	18	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"85+ years"	"85+"	"May, 2017"	"2017/05"	17	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"85+ years"	"85+"	"Jun., 2017"	"2017/06"	11	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"85+ years"	"85+"	"Aug., 2017"	"2017/08"	12	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"85+ years"	"85+"	"Sep., 2017"	"2017/09"	15	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"85+ years"	"85+"	"Nov., 2017"	"2017/11"	20	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"85+ years"	"85+"	"Dec., 2017"	"2017/12"	19	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"85+ years"	"85+"	"Jan., 2018"	"2018/01"	23	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"85+ years"	"85+"	"Feb., 2018"	"2018/02"	17	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"85+ years"	"85+"	"Mar., 2018"	"2018/03"	20	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"85+ years"	"85+"	"Apr., 2018"	"2018/04"	16	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"85+ years"	"85+"	"May, 2018"	"2018/05"	13	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"85+ years"	"85+"	"Jun., 2018"	"2018/06"	10	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"85+ years"	"85+"	"Jul., 2018"	"2018/07"	19	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"85+ years"	"85+"	"Aug., 2018"	"2018/08"	13	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"85+ years"	"85+"	"Sep., 2018"	"2018/09"	12	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"85+ years"	"85+"	"Oct., 2018"	"2018/10"	17	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"85+ years"	"85+"	"Nov., 2018"	"2018/11"	17	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"85+ years"	"85+"	"Dec., 2018"	"2018/12"	15	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"85+ years"	"85+"	"Jan., 2019"	"2019/01"	15	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"85+ years"	"85+"	"Feb., 2019"	"2019/02"	14	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"85+ years"	"85+"	"Mar., 2019"	"2019/03"	18	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"85+ years"	"85+"	"Apr., 2019"	"2019/04"	13	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"85+ years"	"85+"	"May, 2019"	"2019/05"	20	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"85+ years"	"85+"	"Jun., 2019"	"2019/06"	16	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"85+ years"	"85+"	"Aug., 2019"	"2019/08"	13	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"85+ years"	"85+"	"Sep., 2019"	"2019/09"	16	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"85+ years"	"85+"	"Oct., 2019"	"2019/10"	19	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"85+ years"	"85+"	"Nov., 2019"	"2019/11"	15	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"85+ years"	"85+"	"Dec., 2019"	"2019/12"	12	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"85+ years"	"85+"	"Jan., 2020 "	"2020/01"	19	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"85+ years"	"85+"	"Feb., 2020 "	"2020/02"	12	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"85+ years"	"85+"	"Mar., 2020 "	"2020/03"	17	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"85+ years"	"85+"	"Apr., 2020 "	"2020/04"	18	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"85+ years"	"85+"	"May, 2020 "	"2020/05"	15	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"85+ years"	"85+"	"Jun., 2020 "	"2020/06"	20	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"85+ years"	"85+"	"Jul., 2020 "	"2020/07"	16	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"85+ years"	"85+"	"Aug., 2020 "	"2020/08"	14	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"85+ years"	"85+"	"Sep., 2020 "	"2020/09"	17	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"85+ years"	"85+"	"Oct., 2020 "	"2020/10"	46	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"85+ years"	"85+"	"Nov., 2020 "	"2020/11"	64	Not Applicable	Not Applicable
+	"Ward County, ND"	"38101"	"85+ years"	"85+"	"Dec., 2020 "	"2020/12"	32	Not Applicable	Not Applicable
+"Total"	"Ward County, ND"	"38101"	"85+ years"	"85+"			2049	Not Applicable	Not Applicable
+"Total"	"Ward County, ND"	"38101"					4819	Not Applicable	Not Applicable
+"Total"	"Wells County, ND"	"38103"	"55-64 years"	"55-64"			55	Not Applicable	Not Applicable
+"Total"	"Wells County, ND"	"38103"	"65-74 years"	"65-74"			113	Not Applicable	Not Applicable
+"Total"	"Wells County, ND"	"38103"	"75-84 years"	"75-84"			181	Not Applicable	Not Applicable
+"Total"	"Wells County, ND"	"38103"	"85+ years"	"85+"			365	Not Applicable	Not Applicable
+"Total"	"Wells County, ND"	"38103"					714	Not Applicable	Not Applicable
+"Total"	"Williams County, ND"	"38105"	"55-64 years"	"55-64"			334	Not Applicable	Not Applicable
+	"Williams County, ND"	"38105"	"65-74 years"	"65-74"	"Nov., 2019"	"2019/11"	10	Not Applicable	Not Applicable
+"Total"	"Williams County, ND"	"38105"	"65-74 years"	"65-74"			392	Not Applicable	Not Applicable
+	"Williams County, ND"	"38105"	"75-84 years"	"75-84"	"Jan., 2015"	"2015/01"	10	Not Applicable	Not Applicable
+	"Williams County, ND"	"38105"	"75-84 years"	"75-84"	"Oct., 2018"	"2018/10"	10	Not Applicable	Not Applicable
+"Total"	"Williams County, ND"	"38105"	"75-84 years"	"75-84"			552	Not Applicable	Not Applicable
+	"Williams County, ND"	"38105"	"85+ years"	"85+"	"Mar., 2010"	"2010/03"	11	Not Applicable	Not Applicable
+	"Williams County, ND"	"38105"	"85+ years"	"85+"	"Apr., 2010"	"2010/04"	13	Not Applicable	Not Applicable
+	"Williams County, ND"	"38105"	"85+ years"	"85+"	"Nov., 2010"	"2010/11"	13	Not Applicable	Not Applicable
+	"Williams County, ND"	"38105"	"85+ years"	"85+"	"Jul., 2011"	"2011/07"	10	Not Applicable	Not Applicable
+	"Williams County, ND"	"38105"	"85+ years"	"85+"	"Jan., 2012"	"2012/01"	10	Not Applicable	Not Applicable
+	"Williams County, ND"	"38105"	"85+ years"	"85+"	"Apr., 2012"	"2012/04"	11	Not Applicable	Not Applicable
+	"Williams County, ND"	"38105"	"85+ years"	"85+"	"Feb., 2013"	"2013/02"	10	Not Applicable	Not Applicable
+	"Williams County, ND"	"38105"	"85+ years"	"85+"	"Oct., 2014"	"2014/10"	11	Not Applicable	Not Applicable
+	"Williams County, ND"	"38105"	"85+ years"	"85+"	"Jan., 2015"	"2015/01"	11	Not Applicable	Not Applicable
+	"Williams County, ND"	"38105"	"85+ years"	"85+"	"Jan., 2018"	"2018/01"	11	Not Applicable	Not Applicable
+	"Williams County, ND"	"38105"	"85+ years"	"85+"	"Sep., 2018"	"2018/09"	11	Not Applicable	Not Applicable
+	"Williams County, ND"	"38105"	"85+ years"	"85+"	"Jan., 2019"	"2019/01"	13	Not Applicable	Not Applicable
+	"Williams County, ND"	"38105"	"85+ years"	"85+"	"Sep., 2020 "	"2020/09"	10	Not Applicable	Not Applicable
+	"Williams County, ND"	"38105"	"85+ years"	"85+"	"Nov., 2020 "	"2020/11"	10	Not Applicable	Not Applicable
+"Total"	"Williams County, ND"	"38105"	"85+ years"	"85+"			845	Not Applicable	Not Applicable
+"Total"	"Williams County, ND"	"38105"					2123	Not Applicable	Not Applicable
+"Total"							61649	Not Applicable	Not Applicable
+"---"
+"Dataset: Underlying Cause of Death, 1999-2020"
+"Query Parameters:"
+"Title: North Dakota"
+"States: North Dakota (38)"
+"Ten-Year Age Groups: 55-64 years; 65-74 years; 75-84 years; 85+ years"
+"Year/Month: 2010; 2011; 2012; 2013; 2014; 2015; 2016; 2017; 2018; 2019; 2020"
+"Group By: County; Ten-Year Age Groups; Month"
+"Show Totals: True"
+"Show Zero Values: True"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/ucd.html for more information."
+"---"
+"Query Date: Oct 22, 2022 3:28:49 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Mortality 1999-2020 on CDC WONDER Online Database, released in 2021. Data are from the Multiple Cause of Death Files,"
+"1999-2020, as compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative"
+"Program. Accessed at http://wonder.cdc.gov/ucd-icd10.html on Oct 22, 2022 3:28:49 PM"
+"---"
+Messages:
+"1. Rows with suppressed Deaths are hidden, but the Deaths and Population values in those rows are included in the totals. Use"
+"Quick Options above to show suppressed rows."
+"---"
+Caveats:
+"1. Population and rates are labeled 'Not Applicable' when Autopsy, Place of Death, Weekday or Month are grouped by or limited,"
+"due to lack of a valid population. More information: http://wonder.cdc.gov/wonder/help/ucd.html#NotApplicableRates."
+"2. As of April 3, 2017, the underlying cause of death has been revised for 125 deaths in 2014. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#2014-Revision."
+"3. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Assurance of Confidentiality."
+"4. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Unreliable."
+"5. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,"
+"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Not Stated."

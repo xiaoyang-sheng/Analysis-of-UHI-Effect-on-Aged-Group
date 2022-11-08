@@ -1,0 +1,821 @@
+"Notes"	"County"	"County Code"	"Ten-Year Age Groups"	"Ten-Year Age Groups Code"	"Month"	"Month Code"	Deaths	Population	Crude Rate
+	"Adams County, NE"	"31001"	"65-74 years"	"65-74"	"Nov., 2017"	"2017/11"	12	Not Applicable	Not Applicable
+	"Adams County, NE"	"31001"	"75-84 years"	"75-84"	"Aug., 2017"	"2017/08"	10	Not Applicable	Not Applicable
+	"Adams County, NE"	"31001"	"75-84 years"	"75-84"	"Dec., 2017"	"2017/12"	11	Not Applicable	Not Applicable
+	"Adams County, NE"	"31001"	"75-84 years"	"75-84"	"Dec., 2018"	"2018/12"	12	Not Applicable	Not Applicable
+	"Adams County, NE"	"31001"	"85+ years"	"85+"	"Jan., 2016"	"2016/01"	17	Not Applicable	Not Applicable
+	"Adams County, NE"	"31001"	"85+ years"	"85+"	"Mar., 2016"	"2016/03"	10	Not Applicable	Not Applicable
+	"Adams County, NE"	"31001"	"85+ years"	"85+"	"Apr., 2016"	"2016/04"	12	Not Applicable	Not Applicable
+	"Adams County, NE"	"31001"	"85+ years"	"85+"	"May, 2016"	"2016/05"	11	Not Applicable	Not Applicable
+	"Adams County, NE"	"31001"	"85+ years"	"85+"	"Sep., 2016"	"2016/09"	12	Not Applicable	Not Applicable
+	"Adams County, NE"	"31001"	"85+ years"	"85+"	"Oct., 2016"	"2016/10"	10	Not Applicable	Not Applicable
+	"Adams County, NE"	"31001"	"85+ years"	"85+"	"Nov., 2016"	"2016/11"	11	Not Applicable	Not Applicable
+	"Adams County, NE"	"31001"	"85+ years"	"85+"	"Jan., 2017"	"2017/01"	15	Not Applicable	Not Applicable
+	"Adams County, NE"	"31001"	"85+ years"	"85+"	"Feb., 2017"	"2017/02"	13	Not Applicable	Not Applicable
+	"Adams County, NE"	"31001"	"85+ years"	"85+"	"Jul., 2017"	"2017/07"	11	Not Applicable	Not Applicable
+	"Adams County, NE"	"31001"	"85+ years"	"85+"	"Sep., 2017"	"2017/09"	15	Not Applicable	Not Applicable
+	"Adams County, NE"	"31001"	"85+ years"	"85+"	"Dec., 2017"	"2017/12"	12	Not Applicable	Not Applicable
+	"Adams County, NE"	"31001"	"85+ years"	"85+"	"Mar., 2018"	"2018/03"	19	Not Applicable	Not Applicable
+	"Adams County, NE"	"31001"	"85+ years"	"85+"	"Apr., 2018"	"2018/04"	11	Not Applicable	Not Applicable
+	"Adams County, NE"	"31001"	"85+ years"	"85+"	"Dec., 2018"	"2018/12"	11	Not Applicable	Not Applicable
+	"Buffalo County, NE"	"31019"	"65-74 years"	"65-74"	"Dec., 2017"	"2017/12"	12	Not Applicable	Not Applicable
+	"Buffalo County, NE"	"31019"	"75-84 years"	"75-84"	"Aug., 2016"	"2016/08"	10	Not Applicable	Not Applicable
+	"Buffalo County, NE"	"31019"	"75-84 years"	"75-84"	"Mar., 2017"	"2017/03"	10	Not Applicable	Not Applicable
+	"Buffalo County, NE"	"31019"	"75-84 years"	"75-84"	"Nov., 2017"	"2017/11"	11	Not Applicable	Not Applicable
+	"Buffalo County, NE"	"31019"	"75-84 years"	"75-84"	"Jan., 2018"	"2018/01"	11	Not Applicable	Not Applicable
+	"Buffalo County, NE"	"31019"	"75-84 years"	"75-84"	"Mar., 2018"	"2018/03"	12	Not Applicable	Not Applicable
+	"Buffalo County, NE"	"31019"	"75-84 years"	"75-84"	"Apr., 2018"	"2018/04"	10	Not Applicable	Not Applicable
+	"Buffalo County, NE"	"31019"	"75-84 years"	"75-84"	"Aug., 2018"	"2018/08"	10	Not Applicable	Not Applicable
+	"Buffalo County, NE"	"31019"	"85+ years"	"85+"	"Jan., 2016"	"2016/01"	17	Not Applicable	Not Applicable
+	"Buffalo County, NE"	"31019"	"85+ years"	"85+"	"Feb., 2016"	"2016/02"	13	Not Applicable	Not Applicable
+	"Buffalo County, NE"	"31019"	"85+ years"	"85+"	"Apr., 2016"	"2016/04"	10	Not Applicable	Not Applicable
+	"Buffalo County, NE"	"31019"	"85+ years"	"85+"	"May, 2016"	"2016/05"	11	Not Applicable	Not Applicable
+	"Buffalo County, NE"	"31019"	"85+ years"	"85+"	"Jun., 2016"	"2016/06"	14	Not Applicable	Not Applicable
+	"Buffalo County, NE"	"31019"	"85+ years"	"85+"	"Aug., 2016"	"2016/08"	11	Not Applicable	Not Applicable
+	"Buffalo County, NE"	"31019"	"85+ years"	"85+"	"Sep., 2016"	"2016/09"	15	Not Applicable	Not Applicable
+	"Buffalo County, NE"	"31019"	"85+ years"	"85+"	"Oct., 2016"	"2016/10"	13	Not Applicable	Not Applicable
+	"Buffalo County, NE"	"31019"	"85+ years"	"85+"	"Jan., 2017"	"2017/01"	15	Not Applicable	Not Applicable
+	"Buffalo County, NE"	"31019"	"85+ years"	"85+"	"Mar., 2017"	"2017/03"	10	Not Applicable	Not Applicable
+	"Buffalo County, NE"	"31019"	"85+ years"	"85+"	"May, 2017"	"2017/05"	12	Not Applicable	Not Applicable
+	"Buffalo County, NE"	"31019"	"85+ years"	"85+"	"Jun., 2017"	"2017/06"	14	Not Applicable	Not Applicable
+	"Buffalo County, NE"	"31019"	"85+ years"	"85+"	"Jul., 2017"	"2017/07"	11	Not Applicable	Not Applicable
+	"Buffalo County, NE"	"31019"	"85+ years"	"85+"	"Sep., 2017"	"2017/09"	14	Not Applicable	Not Applicable
+	"Buffalo County, NE"	"31019"	"85+ years"	"85+"	"Nov., 2017"	"2017/11"	22	Not Applicable	Not Applicable
+	"Buffalo County, NE"	"31019"	"85+ years"	"85+"	"Dec., 2017"	"2017/12"	10	Not Applicable	Not Applicable
+	"Buffalo County, NE"	"31019"	"85+ years"	"85+"	"Jan., 2018"	"2018/01"	12	Not Applicable	Not Applicable
+	"Buffalo County, NE"	"31019"	"85+ years"	"85+"	"Feb., 2018"	"2018/02"	10	Not Applicable	Not Applicable
+	"Buffalo County, NE"	"31019"	"85+ years"	"85+"	"Mar., 2018"	"2018/03"	13	Not Applicable	Not Applicable
+	"Buffalo County, NE"	"31019"	"85+ years"	"85+"	"Apr., 2018"	"2018/04"	13	Not Applicable	Not Applicable
+	"Buffalo County, NE"	"31019"	"85+ years"	"85+"	"May, 2018"	"2018/05"	13	Not Applicable	Not Applicable
+	"Buffalo County, NE"	"31019"	"85+ years"	"85+"	"Jun., 2018"	"2018/06"	12	Not Applicable	Not Applicable
+	"Buffalo County, NE"	"31019"	"85+ years"	"85+"	"Jul., 2018"	"2018/07"	10	Not Applicable	Not Applicable
+	"Buffalo County, NE"	"31019"	"85+ years"	"85+"	"Sep., 2018"	"2018/09"	11	Not Applicable	Not Applicable
+	"Buffalo County, NE"	"31019"	"85+ years"	"85+"	"Oct., 2018"	"2018/10"	16	Not Applicable	Not Applicable
+	"Buffalo County, NE"	"31019"	"85+ years"	"85+"	"Nov., 2018"	"2018/11"	12	Not Applicable	Not Applicable
+	"Cass County, NE"	"31025"	"85+ years"	"85+"	"Jul., 2016"	"2016/07"	10	Not Applicable	Not Applicable
+	"Cass County, NE"	"31025"	"85+ years"	"85+"	"Dec., 2017"	"2017/12"	10	Not Applicable	Not Applicable
+	"Cass County, NE"	"31025"	"85+ years"	"85+"	"Dec., 2018"	"2018/12"	11	Not Applicable	Not Applicable
+	"Cuming County, NE"	"31039"	"85+ years"	"85+"	"Apr., 2016"	"2016/04"	10	Not Applicable	Not Applicable
+	"Custer County, NE"	"31041"	"85+ years"	"85+"	"Dec., 2017"	"2017/12"	10	Not Applicable	Not Applicable
+	"Dakota County, NE"	"31043"	"85+ years"	"85+"	"Dec., 2016"	"2016/12"	10	Not Applicable	Not Applicable
+	"Dakota County, NE"	"31043"	"85+ years"	"85+"	"Mar., 2017"	"2017/03"	10	Not Applicable	Not Applicable
+	"Dawson County, NE"	"31047"	"85+ years"	"85+"	"Aug., 2017"	"2017/08"	14	Not Applicable	Not Applicable
+	"Dawson County, NE"	"31047"	"85+ years"	"85+"	"Dec., 2018"	"2018/12"	10	Not Applicable	Not Applicable
+	"Dodge County, NE"	"31053"	"65-74 years"	"65-74"	"Mar., 2017"	"2017/03"	10	Not Applicable	Not Applicable
+	"Dodge County, NE"	"31053"	"65-74 years"	"65-74"	"May, 2017"	"2017/05"	10	Not Applicable	Not Applicable
+	"Dodge County, NE"	"31053"	"65-74 years"	"65-74"	"Feb., 2018"	"2018/02"	13	Not Applicable	Not Applicable
+	"Dodge County, NE"	"31053"	"75-84 years"	"75-84"	"Jan., 2016"	"2016/01"	11	Not Applicable	Not Applicable
+	"Dodge County, NE"	"31053"	"75-84 years"	"75-84"	"Jun., 2016"	"2016/06"	15	Not Applicable	Not Applicable
+	"Dodge County, NE"	"31053"	"75-84 years"	"75-84"	"Aug., 2016"	"2016/08"	11	Not Applicable	Not Applicable
+	"Dodge County, NE"	"31053"	"75-84 years"	"75-84"	"Sep., 2016"	"2016/09"	10	Not Applicable	Not Applicable
+	"Dodge County, NE"	"31053"	"75-84 years"	"75-84"	"Oct., 2016"	"2016/10"	13	Not Applicable	Not Applicable
+	"Dodge County, NE"	"31053"	"75-84 years"	"75-84"	"Nov., 2016"	"2016/11"	12	Not Applicable	Not Applicable
+	"Dodge County, NE"	"31053"	"75-84 years"	"75-84"	"Mar., 2017"	"2017/03"	11	Not Applicable	Not Applicable
+	"Dodge County, NE"	"31053"	"75-84 years"	"75-84"	"Apr., 2017"	"2017/04"	11	Not Applicable	Not Applicable
+	"Dodge County, NE"	"31053"	"75-84 years"	"75-84"	"Aug., 2017"	"2017/08"	15	Not Applicable	Not Applicable
+	"Dodge County, NE"	"31053"	"75-84 years"	"75-84"	"Oct., 2017"	"2017/10"	12	Not Applicable	Not Applicable
+	"Dodge County, NE"	"31053"	"75-84 years"	"75-84"	"Jan., 2018"	"2018/01"	13	Not Applicable	Not Applicable
+	"Dodge County, NE"	"31053"	"75-84 years"	"75-84"	"May, 2018"	"2018/05"	12	Not Applicable	Not Applicable
+	"Dodge County, NE"	"31053"	"75-84 years"	"75-84"	"Jun., 2018"	"2018/06"	10	Not Applicable	Not Applicable
+	"Dodge County, NE"	"31053"	"75-84 years"	"75-84"	"Jul., 2018"	"2018/07"	14	Not Applicable	Not Applicable
+	"Dodge County, NE"	"31053"	"75-84 years"	"75-84"	"Oct., 2018"	"2018/10"	12	Not Applicable	Not Applicable
+	"Dodge County, NE"	"31053"	"75-84 years"	"75-84"	"Dec., 2018"	"2018/12"	11	Not Applicable	Not Applicable
+	"Dodge County, NE"	"31053"	"85+ years"	"85+"	"Jan., 2016"	"2016/01"	23	Not Applicable	Not Applicable
+	"Dodge County, NE"	"31053"	"85+ years"	"85+"	"Feb., 2016"	"2016/02"	13	Not Applicable	Not Applicable
+	"Dodge County, NE"	"31053"	"85+ years"	"85+"	"Mar., 2016"	"2016/03"	12	Not Applicable	Not Applicable
+	"Dodge County, NE"	"31053"	"85+ years"	"85+"	"Apr., 2016"	"2016/04"	12	Not Applicable	Not Applicable
+	"Dodge County, NE"	"31053"	"85+ years"	"85+"	"May, 2016"	"2016/05"	12	Not Applicable	Not Applicable
+	"Dodge County, NE"	"31053"	"85+ years"	"85+"	"Jun., 2016"	"2016/06"	17	Not Applicable	Not Applicable
+	"Dodge County, NE"	"31053"	"85+ years"	"85+"	"Jul., 2016"	"2016/07"	16	Not Applicable	Not Applicable
+	"Dodge County, NE"	"31053"	"85+ years"	"85+"	"Aug., 2016"	"2016/08"	13	Not Applicable	Not Applicable
+	"Dodge County, NE"	"31053"	"85+ years"	"85+"	"Sep., 2016"	"2016/09"	16	Not Applicable	Not Applicable
+	"Dodge County, NE"	"31053"	"85+ years"	"85+"	"Oct., 2016"	"2016/10"	12	Not Applicable	Not Applicable
+	"Dodge County, NE"	"31053"	"85+ years"	"85+"	"Nov., 2016"	"2016/11"	15	Not Applicable	Not Applicable
+	"Dodge County, NE"	"31053"	"85+ years"	"85+"	"Dec., 2016"	"2016/12"	15	Not Applicable	Not Applicable
+	"Dodge County, NE"	"31053"	"85+ years"	"85+"	"Jan., 2017"	"2017/01"	12	Not Applicable	Not Applicable
+	"Dodge County, NE"	"31053"	"85+ years"	"85+"	"Feb., 2017"	"2017/02"	17	Not Applicable	Not Applicable
+	"Dodge County, NE"	"31053"	"85+ years"	"85+"	"Mar., 2017"	"2017/03"	14	Not Applicable	Not Applicable
+	"Dodge County, NE"	"31053"	"85+ years"	"85+"	"May, 2017"	"2017/05"	11	Not Applicable	Not Applicable
+	"Dodge County, NE"	"31053"	"85+ years"	"85+"	"Jun., 2017"	"2017/06"	12	Not Applicable	Not Applicable
+	"Dodge County, NE"	"31053"	"85+ years"	"85+"	"Jul., 2017"	"2017/07"	11	Not Applicable	Not Applicable
+	"Dodge County, NE"	"31053"	"85+ years"	"85+"	"Aug., 2017"	"2017/08"	10	Not Applicable	Not Applicable
+	"Dodge County, NE"	"31053"	"85+ years"	"85+"	"Sep., 2017"	"2017/09"	15	Not Applicable	Not Applicable
+	"Dodge County, NE"	"31053"	"85+ years"	"85+"	"Oct., 2017"	"2017/10"	21	Not Applicable	Not Applicable
+	"Dodge County, NE"	"31053"	"85+ years"	"85+"	"Nov., 2017"	"2017/11"	17	Not Applicable	Not Applicable
+	"Dodge County, NE"	"31053"	"85+ years"	"85+"	"Dec., 2017"	"2017/12"	18	Not Applicable	Not Applicable
+	"Dodge County, NE"	"31053"	"85+ years"	"85+"	"Jan., 2018"	"2018/01"	23	Not Applicable	Not Applicable
+	"Dodge County, NE"	"31053"	"85+ years"	"85+"	"Feb., 2018"	"2018/02"	16	Not Applicable	Not Applicable
+	"Dodge County, NE"	"31053"	"85+ years"	"85+"	"Mar., 2018"	"2018/03"	18	Not Applicable	Not Applicable
+	"Dodge County, NE"	"31053"	"85+ years"	"85+"	"Apr., 2018"	"2018/04"	18	Not Applicable	Not Applicable
+	"Dodge County, NE"	"31053"	"85+ years"	"85+"	"May, 2018"	"2018/05"	10	Not Applicable	Not Applicable
+	"Dodge County, NE"	"31053"	"85+ years"	"85+"	"Jun., 2018"	"2018/06"	13	Not Applicable	Not Applicable
+	"Dodge County, NE"	"31053"	"85+ years"	"85+"	"Jul., 2018"	"2018/07"	13	Not Applicable	Not Applicable
+	"Dodge County, NE"	"31053"	"85+ years"	"85+"	"Sep., 2018"	"2018/09"	16	Not Applicable	Not Applicable
+	"Dodge County, NE"	"31053"	"85+ years"	"85+"	"Oct., 2018"	"2018/10"	13	Not Applicable	Not Applicable
+	"Dodge County, NE"	"31053"	"85+ years"	"85+"	"Nov., 2018"	"2018/11"	17	Not Applicable	Not Applicable
+	"Dodge County, NE"	"31053"	"85+ years"	"85+"	"Dec., 2018"	"2018/12"	10	Not Applicable	Not Applicable
+	"Douglas County, NE"	"31055"	"55-64 years"	"55-64"	"Jan., 2016"	"2016/01"	49	Not Applicable	Not Applicable
+	"Douglas County, NE"	"31055"	"55-64 years"	"55-64"	"Feb., 2016"	"2016/02"	49	Not Applicable	Not Applicable
+	"Douglas County, NE"	"31055"	"55-64 years"	"55-64"	"Mar., 2016"	"2016/03"	56	Not Applicable	Not Applicable
+	"Douglas County, NE"	"31055"	"55-64 years"	"55-64"	"Apr., 2016"	"2016/04"	43	Not Applicable	Not Applicable
+	"Douglas County, NE"	"31055"	"55-64 years"	"55-64"	"May, 2016"	"2016/05"	41	Not Applicable	Not Applicable
+	"Douglas County, NE"	"31055"	"55-64 years"	"55-64"	"Jun., 2016"	"2016/06"	44	Not Applicable	Not Applicable
+	"Douglas County, NE"	"31055"	"55-64 years"	"55-64"	"Jul., 2016"	"2016/07"	47	Not Applicable	Not Applicable
+	"Douglas County, NE"	"31055"	"55-64 years"	"55-64"	"Aug., 2016"	"2016/08"	43	Not Applicable	Not Applicable
+	"Douglas County, NE"	"31055"	"55-64 years"	"55-64"	"Sep., 2016"	"2016/09"	45	Not Applicable	Not Applicable
+	"Douglas County, NE"	"31055"	"55-64 years"	"55-64"	"Oct., 2016"	"2016/10"	40	Not Applicable	Not Applicable
+	"Douglas County, NE"	"31055"	"55-64 years"	"55-64"	"Nov., 2016"	"2016/11"	51	Not Applicable	Not Applicable
+	"Douglas County, NE"	"31055"	"55-64 years"	"55-64"	"Dec., 2016"	"2016/12"	56	Not Applicable	Not Applicable
+	"Douglas County, NE"	"31055"	"55-64 years"	"55-64"	"Jan., 2017"	"2017/01"	60	Not Applicable	Not Applicable
+	"Douglas County, NE"	"31055"	"55-64 years"	"55-64"	"Feb., 2017"	"2017/02"	49	Not Applicable	Not Applicable
+	"Douglas County, NE"	"31055"	"55-64 years"	"55-64"	"Mar., 2017"	"2017/03"	58	Not Applicable	Not Applicable
+	"Douglas County, NE"	"31055"	"55-64 years"	"55-64"	"Apr., 2017"	"2017/04"	60	Not Applicable	Not Applicable
+	"Douglas County, NE"	"31055"	"55-64 years"	"55-64"	"May, 2017"	"2017/05"	43	Not Applicable	Not Applicable
+	"Douglas County, NE"	"31055"	"55-64 years"	"55-64"	"Jun., 2017"	"2017/06"	57	Not Applicable	Not Applicable
+	"Douglas County, NE"	"31055"	"55-64 years"	"55-64"	"Jul., 2017"	"2017/07"	49	Not Applicable	Not Applicable
+	"Douglas County, NE"	"31055"	"55-64 years"	"55-64"	"Aug., 2017"	"2017/08"	51	Not Applicable	Not Applicable
+	"Douglas County, NE"	"31055"	"55-64 years"	"55-64"	"Sep., 2017"	"2017/09"	47	Not Applicable	Not Applicable
+	"Douglas County, NE"	"31055"	"55-64 years"	"55-64"	"Oct., 2017"	"2017/10"	41	Not Applicable	Not Applicable
+	"Douglas County, NE"	"31055"	"55-64 years"	"55-64"	"Nov., 2017"	"2017/11"	52	Not Applicable	Not Applicable
+	"Douglas County, NE"	"31055"	"55-64 years"	"55-64"	"Dec., 2017"	"2017/12"	45	Not Applicable	Not Applicable
+	"Douglas County, NE"	"31055"	"55-64 years"	"55-64"	"Jan., 2018"	"2018/01"	57	Not Applicable	Not Applicable
+	"Douglas County, NE"	"31055"	"55-64 years"	"55-64"	"Feb., 2018"	"2018/02"	55	Not Applicable	Not Applicable
+	"Douglas County, NE"	"31055"	"55-64 years"	"55-64"	"Mar., 2018"	"2018/03"	60	Not Applicable	Not Applicable
+	"Douglas County, NE"	"31055"	"55-64 years"	"55-64"	"Apr., 2018"	"2018/04"	45	Not Applicable	Not Applicable
+	"Douglas County, NE"	"31055"	"55-64 years"	"55-64"	"May, 2018"	"2018/05"	54	Not Applicable	Not Applicable
+	"Douglas County, NE"	"31055"	"55-64 years"	"55-64"	"Jun., 2018"	"2018/06"	48	Not Applicable	Not Applicable
+	"Douglas County, NE"	"31055"	"55-64 years"	"55-64"	"Jul., 2018"	"2018/07"	58	Not Applicable	Not Applicable
+	"Douglas County, NE"	"31055"	"55-64 years"	"55-64"	"Aug., 2018"	"2018/08"	46	Not Applicable	Not Applicable
+	"Douglas County, NE"	"31055"	"55-64 years"	"55-64"	"Sep., 2018"	"2018/09"	50	Not Applicable	Not Applicable
+	"Douglas County, NE"	"31055"	"55-64 years"	"55-64"	"Oct., 2018"	"2018/10"	40	Not Applicable	Not Applicable
+	"Douglas County, NE"	"31055"	"55-64 years"	"55-64"	"Nov., 2018"	"2018/11"	38	Not Applicable	Not Applicable
+	"Douglas County, NE"	"31055"	"55-64 years"	"55-64"	"Dec., 2018"	"2018/12"	40	Not Applicable	Not Applicable
+	"Douglas County, NE"	"31055"	"65-74 years"	"65-74"	"Jan., 2016"	"2016/01"	49	Not Applicable	Not Applicable
+	"Douglas County, NE"	"31055"	"65-74 years"	"65-74"	"Feb., 2016"	"2016/02"	59	Not Applicable	Not Applicable
+	"Douglas County, NE"	"31055"	"65-74 years"	"65-74"	"Mar., 2016"	"2016/03"	64	Not Applicable	Not Applicable
+	"Douglas County, NE"	"31055"	"65-74 years"	"65-74"	"Apr., 2016"	"2016/04"	55	Not Applicable	Not Applicable
+	"Douglas County, NE"	"31055"	"65-74 years"	"65-74"	"May, 2016"	"2016/05"	56	Not Applicable	Not Applicable
+	"Douglas County, NE"	"31055"	"65-74 years"	"65-74"	"Jun., 2016"	"2016/06"	49	Not Applicable	Not Applicable
+	"Douglas County, NE"	"31055"	"65-74 years"	"65-74"	"Jul., 2016"	"2016/07"	53	Not Applicable	Not Applicable
+	"Douglas County, NE"	"31055"	"65-74 years"	"65-74"	"Aug., 2016"	"2016/08"	60	Not Applicable	Not Applicable
+	"Douglas County, NE"	"31055"	"65-74 years"	"65-74"	"Sep., 2016"	"2016/09"	52	Not Applicable	Not Applicable
+	"Douglas County, NE"	"31055"	"65-74 years"	"65-74"	"Oct., 2016"	"2016/10"	59	Not Applicable	Not Applicable
+	"Douglas County, NE"	"31055"	"65-74 years"	"65-74"	"Nov., 2016"	"2016/11"	60	Not Applicable	Not Applicable
+	"Douglas County, NE"	"31055"	"65-74 years"	"65-74"	"Dec., 2016"	"2016/12"	69	Not Applicable	Not Applicable
+	"Douglas County, NE"	"31055"	"65-74 years"	"65-74"	"Jan., 2017"	"2017/01"	83	Not Applicable	Not Applicable
+	"Douglas County, NE"	"31055"	"65-74 years"	"65-74"	"Feb., 2017"	"2017/02"	78	Not Applicable	Not Applicable
+	"Douglas County, NE"	"31055"	"65-74 years"	"65-74"	"Mar., 2017"	"2017/03"	51	Not Applicable	Not Applicable
+	"Douglas County, NE"	"31055"	"65-74 years"	"65-74"	"Apr., 2017"	"2017/04"	61	Not Applicable	Not Applicable
+	"Douglas County, NE"	"31055"	"65-74 years"	"65-74"	"May, 2017"	"2017/05"	47	Not Applicable	Not Applicable
+	"Douglas County, NE"	"31055"	"65-74 years"	"65-74"	"Jun., 2017"	"2017/06"	54	Not Applicable	Not Applicable
+	"Douglas County, NE"	"31055"	"65-74 years"	"65-74"	"Jul., 2017"	"2017/07"	64	Not Applicable	Not Applicable
+	"Douglas County, NE"	"31055"	"65-74 years"	"65-74"	"Aug., 2017"	"2017/08"	70	Not Applicable	Not Applicable
+	"Douglas County, NE"	"31055"	"65-74 years"	"65-74"	"Sep., 2017"	"2017/09"	56	Not Applicable	Not Applicable
+	"Douglas County, NE"	"31055"	"65-74 years"	"65-74"	"Oct., 2017"	"2017/10"	54	Not Applicable	Not Applicable
+	"Douglas County, NE"	"31055"	"65-74 years"	"65-74"	"Nov., 2017"	"2017/11"	70	Not Applicable	Not Applicable
+	"Douglas County, NE"	"31055"	"65-74 years"	"65-74"	"Dec., 2017"	"2017/12"	71	Not Applicable	Not Applicable
+	"Douglas County, NE"	"31055"	"65-74 years"	"65-74"	"Jan., 2018"	"2018/01"	77	Not Applicable	Not Applicable
+	"Douglas County, NE"	"31055"	"65-74 years"	"65-74"	"Feb., 2018"	"2018/02"	62	Not Applicable	Not Applicable
+	"Douglas County, NE"	"31055"	"65-74 years"	"65-74"	"Mar., 2018"	"2018/03"	78	Not Applicable	Not Applicable
+	"Douglas County, NE"	"31055"	"65-74 years"	"65-74"	"Apr., 2018"	"2018/04"	79	Not Applicable	Not Applicable
+	"Douglas County, NE"	"31055"	"65-74 years"	"65-74"	"May, 2018"	"2018/05"	56	Not Applicable	Not Applicable
+	"Douglas County, NE"	"31055"	"65-74 years"	"65-74"	"Jun., 2018"	"2018/06"	69	Not Applicable	Not Applicable
+	"Douglas County, NE"	"31055"	"65-74 years"	"65-74"	"Jul., 2018"	"2018/07"	69	Not Applicable	Not Applicable
+	"Douglas County, NE"	"31055"	"65-74 years"	"65-74"	"Aug., 2018"	"2018/08"	55	Not Applicable	Not Applicable
+	"Douglas County, NE"	"31055"	"65-74 years"	"65-74"	"Sep., 2018"	"2018/09"	63	Not Applicable	Not Applicable
+	"Douglas County, NE"	"31055"	"65-74 years"	"65-74"	"Oct., 2018"	"2018/10"	57	Not Applicable	Not Applicable
+	"Douglas County, NE"	"31055"	"65-74 years"	"65-74"	"Nov., 2018"	"2018/11"	58	Not Applicable	Not Applicable
+	"Douglas County, NE"	"31055"	"65-74 years"	"65-74"	"Dec., 2018"	"2018/12"	71	Not Applicable	Not Applicable
+	"Douglas County, NE"	"31055"	"75-84 years"	"75-84"	"Jan., 2016"	"2016/01"	75	Not Applicable	Not Applicable
+	"Douglas County, NE"	"31055"	"75-84 years"	"75-84"	"Feb., 2016"	"2016/02"	73	Not Applicable	Not Applicable
+	"Douglas County, NE"	"31055"	"75-84 years"	"75-84"	"Mar., 2016"	"2016/03"	65	Not Applicable	Not Applicable
+	"Douglas County, NE"	"31055"	"75-84 years"	"75-84"	"Apr., 2016"	"2016/04"	89	Not Applicable	Not Applicable
+	"Douglas County, NE"	"31055"	"75-84 years"	"75-84"	"May, 2016"	"2016/05"	83	Not Applicable	Not Applicable
+	"Douglas County, NE"	"31055"	"75-84 years"	"75-84"	"Jun., 2016"	"2016/06"	69	Not Applicable	Not Applicable
+	"Douglas County, NE"	"31055"	"75-84 years"	"75-84"	"Jul., 2016"	"2016/07"	71	Not Applicable	Not Applicable
+	"Douglas County, NE"	"31055"	"75-84 years"	"75-84"	"Aug., 2016"	"2016/08"	76	Not Applicable	Not Applicable
+	"Douglas County, NE"	"31055"	"75-84 years"	"75-84"	"Sep., 2016"	"2016/09"	74	Not Applicable	Not Applicable
+	"Douglas County, NE"	"31055"	"75-84 years"	"75-84"	"Oct., 2016"	"2016/10"	69	Not Applicable	Not Applicable
+	"Douglas County, NE"	"31055"	"75-84 years"	"75-84"	"Nov., 2016"	"2016/11"	65	Not Applicable	Not Applicable
+	"Douglas County, NE"	"31055"	"75-84 years"	"75-84"	"Dec., 2016"	"2016/12"	74	Not Applicable	Not Applicable
+	"Douglas County, NE"	"31055"	"75-84 years"	"75-84"	"Jan., 2017"	"2017/01"	88	Not Applicable	Not Applicable
+	"Douglas County, NE"	"31055"	"75-84 years"	"75-84"	"Feb., 2017"	"2017/02"	83	Not Applicable	Not Applicable
+	"Douglas County, NE"	"31055"	"75-84 years"	"75-84"	"Mar., 2017"	"2017/03"	81	Not Applicable	Not Applicable
+	"Douglas County, NE"	"31055"	"75-84 years"	"75-84"	"Apr., 2017"	"2017/04"	72	Not Applicable	Not Applicable
+	"Douglas County, NE"	"31055"	"75-84 years"	"75-84"	"May, 2017"	"2017/05"	72	Not Applicable	Not Applicable
+	"Douglas County, NE"	"31055"	"75-84 years"	"75-84"	"Jun., 2017"	"2017/06"	66	Not Applicable	Not Applicable
+	"Douglas County, NE"	"31055"	"75-84 years"	"75-84"	"Jul., 2017"	"2017/07"	92	Not Applicable	Not Applicable
+	"Douglas County, NE"	"31055"	"75-84 years"	"75-84"	"Aug., 2017"	"2017/08"	62	Not Applicable	Not Applicable
+	"Douglas County, NE"	"31055"	"75-84 years"	"75-84"	"Sep., 2017"	"2017/09"	66	Not Applicable	Not Applicable
+	"Douglas County, NE"	"31055"	"75-84 years"	"75-84"	"Oct., 2017"	"2017/10"	86	Not Applicable	Not Applicable
+	"Douglas County, NE"	"31055"	"75-84 years"	"75-84"	"Nov., 2017"	"2017/11"	67	Not Applicable	Not Applicable
+	"Douglas County, NE"	"31055"	"75-84 years"	"75-84"	"Dec., 2017"	"2017/12"	91	Not Applicable	Not Applicable
+	"Douglas County, NE"	"31055"	"75-84 years"	"75-84"	"Jan., 2018"	"2018/01"	97	Not Applicable	Not Applicable
+	"Douglas County, NE"	"31055"	"75-84 years"	"75-84"	"Feb., 2018"	"2018/02"	83	Not Applicable	Not Applicable
+	"Douglas County, NE"	"31055"	"75-84 years"	"75-84"	"Mar., 2018"	"2018/03"	75	Not Applicable	Not Applicable
+	"Douglas County, NE"	"31055"	"75-84 years"	"75-84"	"Apr., 2018"	"2018/04"	84	Not Applicable	Not Applicable
+	"Douglas County, NE"	"31055"	"75-84 years"	"75-84"	"May, 2018"	"2018/05"	77	Not Applicable	Not Applicable
+	"Douglas County, NE"	"31055"	"75-84 years"	"75-84"	"Jun., 2018"	"2018/06"	68	Not Applicable	Not Applicable
+	"Douglas County, NE"	"31055"	"75-84 years"	"75-84"	"Jul., 2018"	"2018/07"	57	Not Applicable	Not Applicable
+	"Douglas County, NE"	"31055"	"75-84 years"	"75-84"	"Aug., 2018"	"2018/08"	87	Not Applicable	Not Applicable
+	"Douglas County, NE"	"31055"	"75-84 years"	"75-84"	"Sep., 2018"	"2018/09"	69	Not Applicable	Not Applicable
+	"Douglas County, NE"	"31055"	"75-84 years"	"75-84"	"Oct., 2018"	"2018/10"	58	Not Applicable	Not Applicable
+	"Douglas County, NE"	"31055"	"75-84 years"	"75-84"	"Nov., 2018"	"2018/11"	70	Not Applicable	Not Applicable
+	"Douglas County, NE"	"31055"	"75-84 years"	"75-84"	"Dec., 2018"	"2018/12"	95	Not Applicable	Not Applicable
+	"Douglas County, NE"	"31055"	"85+ years"	"85+"	"Jan., 2016"	"2016/01"	113	Not Applicable	Not Applicable
+	"Douglas County, NE"	"31055"	"85+ years"	"85+"	"Feb., 2016"	"2016/02"	94	Not Applicable	Not Applicable
+	"Douglas County, NE"	"31055"	"85+ years"	"85+"	"Mar., 2016"	"2016/03"	124	Not Applicable	Not Applicable
+	"Douglas County, NE"	"31055"	"85+ years"	"85+"	"Apr., 2016"	"2016/04"	112	Not Applicable	Not Applicable
+	"Douglas County, NE"	"31055"	"85+ years"	"85+"	"May, 2016"	"2016/05"	96	Not Applicable	Not Applicable
+	"Douglas County, NE"	"31055"	"85+ years"	"85+"	"Jun., 2016"	"2016/06"	86	Not Applicable	Not Applicable
+	"Douglas County, NE"	"31055"	"85+ years"	"85+"	"Jul., 2016"	"2016/07"	86	Not Applicable	Not Applicable
+	"Douglas County, NE"	"31055"	"85+ years"	"85+"	"Aug., 2016"	"2016/08"	108	Not Applicable	Not Applicable
+	"Douglas County, NE"	"31055"	"85+ years"	"85+"	"Sep., 2016"	"2016/09"	112	Not Applicable	Not Applicable
+	"Douglas County, NE"	"31055"	"85+ years"	"85+"	"Oct., 2016"	"2016/10"	117	Not Applicable	Not Applicable
+	"Douglas County, NE"	"31055"	"85+ years"	"85+"	"Nov., 2016"	"2016/11"	96	Not Applicable	Not Applicable
+	"Douglas County, NE"	"31055"	"85+ years"	"85+"	"Dec., 2016"	"2016/12"	115	Not Applicable	Not Applicable
+	"Douglas County, NE"	"31055"	"85+ years"	"85+"	"Jan., 2017"	"2017/01"	144	Not Applicable	Not Applicable
+	"Douglas County, NE"	"31055"	"85+ years"	"85+"	"Feb., 2017"	"2017/02"	122	Not Applicable	Not Applicable
+	"Douglas County, NE"	"31055"	"85+ years"	"85+"	"Mar., 2017"	"2017/03"	129	Not Applicable	Not Applicable
+	"Douglas County, NE"	"31055"	"85+ years"	"85+"	"Apr., 2017"	"2017/04"	99	Not Applicable	Not Applicable
+	"Douglas County, NE"	"31055"	"85+ years"	"85+"	"May, 2017"	"2017/05"	111	Not Applicable	Not Applicable
+	"Douglas County, NE"	"31055"	"85+ years"	"85+"	"Jun., 2017"	"2017/06"	94	Not Applicable	Not Applicable
+	"Douglas County, NE"	"31055"	"85+ years"	"85+"	"Jul., 2017"	"2017/07"	96	Not Applicable	Not Applicable
+	"Douglas County, NE"	"31055"	"85+ years"	"85+"	"Aug., 2017"	"2017/08"	106	Not Applicable	Not Applicable
+	"Douglas County, NE"	"31055"	"85+ years"	"85+"	"Sep., 2017"	"2017/09"	82	Not Applicable	Not Applicable
+	"Douglas County, NE"	"31055"	"85+ years"	"85+"	"Oct., 2017"	"2017/10"	90	Not Applicable	Not Applicable
+	"Douglas County, NE"	"31055"	"85+ years"	"85+"	"Nov., 2017"	"2017/11"	101	Not Applicable	Not Applicable
+	"Douglas County, NE"	"31055"	"85+ years"	"85+"	"Dec., 2017"	"2017/12"	105	Not Applicable	Not Applicable
+	"Douglas County, NE"	"31055"	"85+ years"	"85+"	"Jan., 2018"	"2018/01"	145	Not Applicable	Not Applicable
+	"Douglas County, NE"	"31055"	"85+ years"	"85+"	"Feb., 2018"	"2018/02"	100	Not Applicable	Not Applicable
+	"Douglas County, NE"	"31055"	"85+ years"	"85+"	"Mar., 2018"	"2018/03"	130	Not Applicable	Not Applicable
+	"Douglas County, NE"	"31055"	"85+ years"	"85+"	"Apr., 2018"	"2018/04"	107	Not Applicable	Not Applicable
+	"Douglas County, NE"	"31055"	"85+ years"	"85+"	"May, 2018"	"2018/05"	93	Not Applicable	Not Applicable
+	"Douglas County, NE"	"31055"	"85+ years"	"85+"	"Jun., 2018"	"2018/06"	88	Not Applicable	Not Applicable
+	"Douglas County, NE"	"31055"	"85+ years"	"85+"	"Jul., 2018"	"2018/07"	97	Not Applicable	Not Applicable
+	"Douglas County, NE"	"31055"	"85+ years"	"85+"	"Aug., 2018"	"2018/08"	123	Not Applicable	Not Applicable
+	"Douglas County, NE"	"31055"	"85+ years"	"85+"	"Sep., 2018"	"2018/09"	98	Not Applicable	Not Applicable
+	"Douglas County, NE"	"31055"	"85+ years"	"85+"	"Oct., 2018"	"2018/10"	112	Not Applicable	Not Applicable
+	"Douglas County, NE"	"31055"	"85+ years"	"85+"	"Nov., 2018"	"2018/11"	107	Not Applicable	Not Applicable
+	"Douglas County, NE"	"31055"	"85+ years"	"85+"	"Dec., 2018"	"2018/12"	116	Not Applicable	Not Applicable
+	"Gage County, NE"	"31067"	"75-84 years"	"75-84"	"Jun., 2016"	"2016/06"	10	Not Applicable	Not Applicable
+	"Gage County, NE"	"31067"	"75-84 years"	"75-84"	"Feb., 2017"	"2017/02"	11	Not Applicable	Not Applicable
+	"Gage County, NE"	"31067"	"75-84 years"	"75-84"	"Sep., 2017"	"2017/09"	11	Not Applicable	Not Applicable
+	"Gage County, NE"	"31067"	"75-84 years"	"75-84"	"Jun., 2018"	"2018/06"	10	Not Applicable	Not Applicable
+	"Gage County, NE"	"31067"	"85+ years"	"85+"	"Jan., 2016"	"2016/01"	10	Not Applicable	Not Applicable
+	"Gage County, NE"	"31067"	"85+ years"	"85+"	"Apr., 2016"	"2016/04"	10	Not Applicable	Not Applicable
+	"Gage County, NE"	"31067"	"85+ years"	"85+"	"Oct., 2016"	"2016/10"	10	Not Applicable	Not Applicable
+	"Gage County, NE"	"31067"	"85+ years"	"85+"	"Nov., 2016"	"2016/11"	12	Not Applicable	Not Applicable
+	"Gage County, NE"	"31067"	"85+ years"	"85+"	"Dec., 2016"	"2016/12"	11	Not Applicable	Not Applicable
+	"Gage County, NE"	"31067"	"85+ years"	"85+"	"Apr., 2017"	"2017/04"	11	Not Applicable	Not Applicable
+	"Gage County, NE"	"31067"	"85+ years"	"85+"	"Jun., 2017"	"2017/06"	11	Not Applicable	Not Applicable
+	"Gage County, NE"	"31067"	"85+ years"	"85+"	"Sep., 2017"	"2017/09"	10	Not Applicable	Not Applicable
+	"Gage County, NE"	"31067"	"85+ years"	"85+"	"Nov., 2017"	"2017/11"	10	Not Applicable	Not Applicable
+	"Gage County, NE"	"31067"	"85+ years"	"85+"	"Apr., 2018"	"2018/04"	10	Not Applicable	Not Applicable
+	"Gage County, NE"	"31067"	"85+ years"	"85+"	"May, 2018"	"2018/05"	10	Not Applicable	Not Applicable
+	"Gage County, NE"	"31067"	"85+ years"	"85+"	"Jun., 2018"	"2018/06"	14	Not Applicable	Not Applicable
+	"Gage County, NE"	"31067"	"85+ years"	"85+"	"Jul., 2018"	"2018/07"	12	Not Applicable	Not Applicable
+	"Gage County, NE"	"31067"	"85+ years"	"85+"	"Nov., 2018"	"2018/11"	11	Not Applicable	Not Applicable
+	"Gage County, NE"	"31067"	"85+ years"	"85+"	"Dec., 2018"	"2018/12"	12	Not Applicable	Not Applicable
+	"Hall County, NE"	"31079"	"55-64 years"	"55-64"	"Dec., 2016"	"2016/12"	12	Not Applicable	Not Applicable
+	"Hall County, NE"	"31079"	"55-64 years"	"55-64"	"Dec., 2018"	"2018/12"	11	Not Applicable	Not Applicable
+	"Hall County, NE"	"31079"	"65-74 years"	"65-74"	"Jan., 2016"	"2016/01"	11	Not Applicable	Not Applicable
+	"Hall County, NE"	"31079"	"65-74 years"	"65-74"	"Jun., 2016"	"2016/06"	13	Not Applicable	Not Applicable
+	"Hall County, NE"	"31079"	"65-74 years"	"65-74"	"Sep., 2016"	"2016/09"	10	Not Applicable	Not Applicable
+	"Hall County, NE"	"31079"	"65-74 years"	"65-74"	"Dec., 2016"	"2016/12"	11	Not Applicable	Not Applicable
+	"Hall County, NE"	"31079"	"65-74 years"	"65-74"	"Jan., 2017"	"2017/01"	15	Not Applicable	Not Applicable
+	"Hall County, NE"	"31079"	"65-74 years"	"65-74"	"Feb., 2017"	"2017/02"	10	Not Applicable	Not Applicable
+	"Hall County, NE"	"31079"	"65-74 years"	"65-74"	"Jun., 2017"	"2017/06"	10	Not Applicable	Not Applicable
+	"Hall County, NE"	"31079"	"65-74 years"	"65-74"	"Jul., 2017"	"2017/07"	10	Not Applicable	Not Applicable
+	"Hall County, NE"	"31079"	"65-74 years"	"65-74"	"Sep., 2017"	"2017/09"	10	Not Applicable	Not Applicable
+	"Hall County, NE"	"31079"	"65-74 years"	"65-74"	"Nov., 2017"	"2017/11"	10	Not Applicable	Not Applicable
+	"Hall County, NE"	"31079"	"65-74 years"	"65-74"	"Dec., 2017"	"2017/12"	14	Not Applicable	Not Applicable
+	"Hall County, NE"	"31079"	"65-74 years"	"65-74"	"Jan., 2018"	"2018/01"	11	Not Applicable	Not Applicable
+	"Hall County, NE"	"31079"	"65-74 years"	"65-74"	"Feb., 2018"	"2018/02"	11	Not Applicable	Not Applicable
+	"Hall County, NE"	"31079"	"65-74 years"	"65-74"	"Nov., 2018"	"2018/11"	13	Not Applicable	Not Applicable
+	"Hall County, NE"	"31079"	"75-84 years"	"75-84"	"Jan., 2016"	"2016/01"	15	Not Applicable	Not Applicable
+	"Hall County, NE"	"31079"	"75-84 years"	"75-84"	"Mar., 2016"	"2016/03"	11	Not Applicable	Not Applicable
+	"Hall County, NE"	"31079"	"75-84 years"	"75-84"	"Jun., 2016"	"2016/06"	10	Not Applicable	Not Applicable
+	"Hall County, NE"	"31079"	"75-84 years"	"75-84"	"Sep., 2016"	"2016/09"	14	Not Applicable	Not Applicable
+	"Hall County, NE"	"31079"	"75-84 years"	"75-84"	"Nov., 2016"	"2016/11"	17	Not Applicable	Not Applicable
+	"Hall County, NE"	"31079"	"75-84 years"	"75-84"	"Dec., 2016"	"2016/12"	17	Not Applicable	Not Applicable
+	"Hall County, NE"	"31079"	"75-84 years"	"75-84"	"Jan., 2017"	"2017/01"	11	Not Applicable	Not Applicable
+	"Hall County, NE"	"31079"	"75-84 years"	"75-84"	"Feb., 2017"	"2017/02"	15	Not Applicable	Not Applicable
+	"Hall County, NE"	"31079"	"75-84 years"	"75-84"	"May, 2017"	"2017/05"	11	Not Applicable	Not Applicable
+	"Hall County, NE"	"31079"	"75-84 years"	"75-84"	"Aug., 2017"	"2017/08"	11	Not Applicable	Not Applicable
+	"Hall County, NE"	"31079"	"75-84 years"	"75-84"	"Sep., 2017"	"2017/09"	11	Not Applicable	Not Applicable
+	"Hall County, NE"	"31079"	"75-84 years"	"75-84"	"Oct., 2017"	"2017/10"	11	Not Applicable	Not Applicable
+	"Hall County, NE"	"31079"	"75-84 years"	"75-84"	"Nov., 2017"	"2017/11"	15	Not Applicable	Not Applicable
+	"Hall County, NE"	"31079"	"75-84 years"	"75-84"	"Dec., 2017"	"2017/12"	11	Not Applicable	Not Applicable
+	"Hall County, NE"	"31079"	"75-84 years"	"75-84"	"Jan., 2018"	"2018/01"	10	Not Applicable	Not Applicable
+	"Hall County, NE"	"31079"	"75-84 years"	"75-84"	"May, 2018"	"2018/05"	11	Not Applicable	Not Applicable
+	"Hall County, NE"	"31079"	"75-84 years"	"75-84"	"Jul., 2018"	"2018/07"	10	Not Applicable	Not Applicable
+	"Hall County, NE"	"31079"	"75-84 years"	"75-84"	"Aug., 2018"	"2018/08"	10	Not Applicable	Not Applicable
+	"Hall County, NE"	"31079"	"75-84 years"	"75-84"	"Oct., 2018"	"2018/10"	11	Not Applicable	Not Applicable
+	"Hall County, NE"	"31079"	"75-84 years"	"75-84"	"Nov., 2018"	"2018/11"	17	Not Applicable	Not Applicable
+	"Hall County, NE"	"31079"	"75-84 years"	"75-84"	"Dec., 2018"	"2018/12"	11	Not Applicable	Not Applicable
+	"Hall County, NE"	"31079"	"85+ years"	"85+"	"Jan., 2016"	"2016/01"	18	Not Applicable	Not Applicable
+	"Hall County, NE"	"31079"	"85+ years"	"85+"	"Feb., 2016"	"2016/02"	14	Not Applicable	Not Applicable
+	"Hall County, NE"	"31079"	"85+ years"	"85+"	"Mar., 2016"	"2016/03"	11	Not Applicable	Not Applicable
+	"Hall County, NE"	"31079"	"85+ years"	"85+"	"Apr., 2016"	"2016/04"	18	Not Applicable	Not Applicable
+	"Hall County, NE"	"31079"	"85+ years"	"85+"	"May, 2016"	"2016/05"	16	Not Applicable	Not Applicable
+	"Hall County, NE"	"31079"	"85+ years"	"85+"	"Jul., 2016"	"2016/07"	25	Not Applicable	Not Applicable
+	"Hall County, NE"	"31079"	"85+ years"	"85+"	"Aug., 2016"	"2016/08"	21	Not Applicable	Not Applicable
+	"Hall County, NE"	"31079"	"85+ years"	"85+"	"Sep., 2016"	"2016/09"	22	Not Applicable	Not Applicable
+	"Hall County, NE"	"31079"	"85+ years"	"85+"	"Oct., 2016"	"2016/10"	19	Not Applicable	Not Applicable
+	"Hall County, NE"	"31079"	"85+ years"	"85+"	"Nov., 2016"	"2016/11"	16	Not Applicable	Not Applicable
+	"Hall County, NE"	"31079"	"85+ years"	"85+"	"Dec., 2016"	"2016/12"	11	Not Applicable	Not Applicable
+	"Hall County, NE"	"31079"	"85+ years"	"85+"	"Jan., 2017"	"2017/01"	19	Not Applicable	Not Applicable
+	"Hall County, NE"	"31079"	"85+ years"	"85+"	"Feb., 2017"	"2017/02"	18	Not Applicable	Not Applicable
+	"Hall County, NE"	"31079"	"85+ years"	"85+"	"Mar., 2017"	"2017/03"	20	Not Applicable	Not Applicable
+	"Hall County, NE"	"31079"	"85+ years"	"85+"	"Apr., 2017"	"2017/04"	15	Not Applicable	Not Applicable
+	"Hall County, NE"	"31079"	"85+ years"	"85+"	"May, 2017"	"2017/05"	20	Not Applicable	Not Applicable
+	"Hall County, NE"	"31079"	"85+ years"	"85+"	"Jun., 2017"	"2017/06"	21	Not Applicable	Not Applicable
+	"Hall County, NE"	"31079"	"85+ years"	"85+"	"Aug., 2017"	"2017/08"	22	Not Applicable	Not Applicable
+	"Hall County, NE"	"31079"	"85+ years"	"85+"	"Sep., 2017"	"2017/09"	21	Not Applicable	Not Applicable
+	"Hall County, NE"	"31079"	"85+ years"	"85+"	"Oct., 2017"	"2017/10"	28	Not Applicable	Not Applicable
+	"Hall County, NE"	"31079"	"85+ years"	"85+"	"Nov., 2017"	"2017/11"	18	Not Applicable	Not Applicable
+	"Hall County, NE"	"31079"	"85+ years"	"85+"	"Dec., 2017"	"2017/12"	13	Not Applicable	Not Applicable
+	"Hall County, NE"	"31079"	"85+ years"	"85+"	"Jan., 2018"	"2018/01"	20	Not Applicable	Not Applicable
+	"Hall County, NE"	"31079"	"85+ years"	"85+"	"Feb., 2018"	"2018/02"	16	Not Applicable	Not Applicable
+	"Hall County, NE"	"31079"	"85+ years"	"85+"	"Mar., 2018"	"2018/03"	23	Not Applicable	Not Applicable
+	"Hall County, NE"	"31079"	"85+ years"	"85+"	"Apr., 2018"	"2018/04"	14	Not Applicable	Not Applicable
+	"Hall County, NE"	"31079"	"85+ years"	"85+"	"May, 2018"	"2018/05"	20	Not Applicable	Not Applicable
+	"Hall County, NE"	"31079"	"85+ years"	"85+"	"Jul., 2018"	"2018/07"	12	Not Applicable	Not Applicable
+	"Hall County, NE"	"31079"	"85+ years"	"85+"	"Aug., 2018"	"2018/08"	21	Not Applicable	Not Applicable
+	"Hall County, NE"	"31079"	"85+ years"	"85+"	"Sep., 2018"	"2018/09"	25	Not Applicable	Not Applicable
+	"Hall County, NE"	"31079"	"85+ years"	"85+"	"Oct., 2018"	"2018/10"	25	Not Applicable	Not Applicable
+	"Hall County, NE"	"31079"	"85+ years"	"85+"	"Nov., 2018"	"2018/11"	17	Not Applicable	Not Applicable
+	"Hall County, NE"	"31079"	"85+ years"	"85+"	"Dec., 2018"	"2018/12"	15	Not Applicable	Not Applicable
+	"Knox County, NE"	"31107"	"85+ years"	"85+"	"Feb., 2017"	"2017/02"	10	Not Applicable	Not Applicable
+	"Lancaster County, NE"	"31109"	"55-64 years"	"55-64"	"Jan., 2016"	"2016/01"	15	Not Applicable	Not Applicable
+	"Lancaster County, NE"	"31109"	"55-64 years"	"55-64"	"Feb., 2016"	"2016/02"	17	Not Applicable	Not Applicable
+	"Lancaster County, NE"	"31109"	"55-64 years"	"55-64"	"Mar., 2016"	"2016/03"	26	Not Applicable	Not Applicable
+	"Lancaster County, NE"	"31109"	"55-64 years"	"55-64"	"Apr., 2016"	"2016/04"	22	Not Applicable	Not Applicable
+	"Lancaster County, NE"	"31109"	"55-64 years"	"55-64"	"May, 2016"	"2016/05"	25	Not Applicable	Not Applicable
+	"Lancaster County, NE"	"31109"	"55-64 years"	"55-64"	"Jun., 2016"	"2016/06"	22	Not Applicable	Not Applicable
+	"Lancaster County, NE"	"31109"	"55-64 years"	"55-64"	"Jul., 2016"	"2016/07"	22	Not Applicable	Not Applicable
+	"Lancaster County, NE"	"31109"	"55-64 years"	"55-64"	"Aug., 2016"	"2016/08"	23	Not Applicable	Not Applicable
+	"Lancaster County, NE"	"31109"	"55-64 years"	"55-64"	"Sep., 2016"	"2016/09"	12	Not Applicable	Not Applicable
+	"Lancaster County, NE"	"31109"	"55-64 years"	"55-64"	"Oct., 2016"	"2016/10"	27	Not Applicable	Not Applicable
+	"Lancaster County, NE"	"31109"	"55-64 years"	"55-64"	"Nov., 2016"	"2016/11"	32	Not Applicable	Not Applicable
+	"Lancaster County, NE"	"31109"	"55-64 years"	"55-64"	"Dec., 2016"	"2016/12"	28	Not Applicable	Not Applicable
+	"Lancaster County, NE"	"31109"	"55-64 years"	"55-64"	"Jan., 2017"	"2017/01"	15	Not Applicable	Not Applicable
+	"Lancaster County, NE"	"31109"	"55-64 years"	"55-64"	"Feb., 2017"	"2017/02"	23	Not Applicable	Not Applicable
+	"Lancaster County, NE"	"31109"	"55-64 years"	"55-64"	"Mar., 2017"	"2017/03"	22	Not Applicable	Not Applicable
+	"Lancaster County, NE"	"31109"	"55-64 years"	"55-64"	"Apr., 2017"	"2017/04"	29	Not Applicable	Not Applicable
+	"Lancaster County, NE"	"31109"	"55-64 years"	"55-64"	"May, 2017"	"2017/05"	20	Not Applicable	Not Applicable
+	"Lancaster County, NE"	"31109"	"55-64 years"	"55-64"	"Jun., 2017"	"2017/06"	27	Not Applicable	Not Applicable
+	"Lancaster County, NE"	"31109"	"55-64 years"	"55-64"	"Jul., 2017"	"2017/07"	23	Not Applicable	Not Applicable
+	"Lancaster County, NE"	"31109"	"55-64 years"	"55-64"	"Aug., 2017"	"2017/08"	21	Not Applicable	Not Applicable
+	"Lancaster County, NE"	"31109"	"55-64 years"	"55-64"	"Sep., 2017"	"2017/09"	10	Not Applicable	Not Applicable
+	"Lancaster County, NE"	"31109"	"55-64 years"	"55-64"	"Oct., 2017"	"2017/10"	24	Not Applicable	Not Applicable
+	"Lancaster County, NE"	"31109"	"55-64 years"	"55-64"	"Nov., 2017"	"2017/11"	26	Not Applicable	Not Applicable
+	"Lancaster County, NE"	"31109"	"55-64 years"	"55-64"	"Dec., 2017"	"2017/12"	18	Not Applicable	Not Applicable
+	"Lancaster County, NE"	"31109"	"55-64 years"	"55-64"	"Jan., 2018"	"2018/01"	29	Not Applicable	Not Applicable
+	"Lancaster County, NE"	"31109"	"55-64 years"	"55-64"	"Feb., 2018"	"2018/02"	21	Not Applicable	Not Applicable
+	"Lancaster County, NE"	"31109"	"55-64 years"	"55-64"	"Mar., 2018"	"2018/03"	21	Not Applicable	Not Applicable
+	"Lancaster County, NE"	"31109"	"55-64 years"	"55-64"	"Apr., 2018"	"2018/04"	23	Not Applicable	Not Applicable
+	"Lancaster County, NE"	"31109"	"55-64 years"	"55-64"	"May, 2018"	"2018/05"	29	Not Applicable	Not Applicable
+	"Lancaster County, NE"	"31109"	"55-64 years"	"55-64"	"Jun., 2018"	"2018/06"	28	Not Applicable	Not Applicable
+	"Lancaster County, NE"	"31109"	"55-64 years"	"55-64"	"Jul., 2018"	"2018/07"	22	Not Applicable	Not Applicable
+	"Lancaster County, NE"	"31109"	"55-64 years"	"55-64"	"Aug., 2018"	"2018/08"	18	Not Applicable	Not Applicable
+	"Lancaster County, NE"	"31109"	"55-64 years"	"55-64"	"Sep., 2018"	"2018/09"	12	Not Applicable	Not Applicable
+	"Lancaster County, NE"	"31109"	"55-64 years"	"55-64"	"Oct., 2018"	"2018/10"	18	Not Applicable	Not Applicable
+	"Lancaster County, NE"	"31109"	"55-64 years"	"55-64"	"Nov., 2018"	"2018/11"	30	Not Applicable	Not Applicable
+	"Lancaster County, NE"	"31109"	"55-64 years"	"55-64"	"Dec., 2018"	"2018/12"	22	Not Applicable	Not Applicable
+	"Lancaster County, NE"	"31109"	"65-74 years"	"65-74"	"Jan., 2016"	"2016/01"	25	Not Applicable	Not Applicable
+	"Lancaster County, NE"	"31109"	"65-74 years"	"65-74"	"Feb., 2016"	"2016/02"	26	Not Applicable	Not Applicable
+	"Lancaster County, NE"	"31109"	"65-74 years"	"65-74"	"Mar., 2016"	"2016/03"	31	Not Applicable	Not Applicable
+	"Lancaster County, NE"	"31109"	"65-74 years"	"65-74"	"Apr., 2016"	"2016/04"	38	Not Applicable	Not Applicable
+	"Lancaster County, NE"	"31109"	"65-74 years"	"65-74"	"May, 2016"	"2016/05"	39	Not Applicable	Not Applicable
+	"Lancaster County, NE"	"31109"	"65-74 years"	"65-74"	"Jun., 2016"	"2016/06"	25	Not Applicable	Not Applicable
+	"Lancaster County, NE"	"31109"	"65-74 years"	"65-74"	"Jul., 2016"	"2016/07"	25	Not Applicable	Not Applicable
+	"Lancaster County, NE"	"31109"	"65-74 years"	"65-74"	"Aug., 2016"	"2016/08"	35	Not Applicable	Not Applicable
+	"Lancaster County, NE"	"31109"	"65-74 years"	"65-74"	"Sep., 2016"	"2016/09"	35	Not Applicable	Not Applicable
+	"Lancaster County, NE"	"31109"	"65-74 years"	"65-74"	"Oct., 2016"	"2016/10"	25	Not Applicable	Not Applicable
+	"Lancaster County, NE"	"31109"	"65-74 years"	"65-74"	"Nov., 2016"	"2016/11"	27	Not Applicable	Not Applicable
+	"Lancaster County, NE"	"31109"	"65-74 years"	"65-74"	"Dec., 2016"	"2016/12"	33	Not Applicable	Not Applicable
+	"Lancaster County, NE"	"31109"	"65-74 years"	"65-74"	"Jan., 2017"	"2017/01"	38	Not Applicable	Not Applicable
+	"Lancaster County, NE"	"31109"	"65-74 years"	"65-74"	"Feb., 2017"	"2017/02"	31	Not Applicable	Not Applicable
+	"Lancaster County, NE"	"31109"	"65-74 years"	"65-74"	"Mar., 2017"	"2017/03"	31	Not Applicable	Not Applicable
+	"Lancaster County, NE"	"31109"	"65-74 years"	"65-74"	"Apr., 2017"	"2017/04"	24	Not Applicable	Not Applicable
+	"Lancaster County, NE"	"31109"	"65-74 years"	"65-74"	"May, 2017"	"2017/05"	25	Not Applicable	Not Applicable
+	"Lancaster County, NE"	"31109"	"65-74 years"	"65-74"	"Jun., 2017"	"2017/06"	41	Not Applicable	Not Applicable
+	"Lancaster County, NE"	"31109"	"65-74 years"	"65-74"	"Jul., 2017"	"2017/07"	23	Not Applicable	Not Applicable
+	"Lancaster County, NE"	"31109"	"65-74 years"	"65-74"	"Aug., 2017"	"2017/08"	31	Not Applicable	Not Applicable
+	"Lancaster County, NE"	"31109"	"65-74 years"	"65-74"	"Sep., 2017"	"2017/09"	31	Not Applicable	Not Applicable
+	"Lancaster County, NE"	"31109"	"65-74 years"	"65-74"	"Oct., 2017"	"2017/10"	38	Not Applicable	Not Applicable
+	"Lancaster County, NE"	"31109"	"65-74 years"	"65-74"	"Nov., 2017"	"2017/11"	28	Not Applicable	Not Applicable
+	"Lancaster County, NE"	"31109"	"65-74 years"	"65-74"	"Dec., 2017"	"2017/12"	49	Not Applicable	Not Applicable
+	"Lancaster County, NE"	"31109"	"65-74 years"	"65-74"	"Jan., 2018"	"2018/01"	51	Not Applicable	Not Applicable
+	"Lancaster County, NE"	"31109"	"65-74 years"	"65-74"	"Feb., 2018"	"2018/02"	40	Not Applicable	Not Applicable
+	"Lancaster County, NE"	"31109"	"65-74 years"	"65-74"	"Mar., 2018"	"2018/03"	46	Not Applicable	Not Applicable
+	"Lancaster County, NE"	"31109"	"65-74 years"	"65-74"	"Apr., 2018"	"2018/04"	33	Not Applicable	Not Applicable
+	"Lancaster County, NE"	"31109"	"65-74 years"	"65-74"	"May, 2018"	"2018/05"	40	Not Applicable	Not Applicable
+	"Lancaster County, NE"	"31109"	"65-74 years"	"65-74"	"Jun., 2018"	"2018/06"	31	Not Applicable	Not Applicable
+	"Lancaster County, NE"	"31109"	"65-74 years"	"65-74"	"Jul., 2018"	"2018/07"	41	Not Applicable	Not Applicable
+	"Lancaster County, NE"	"31109"	"65-74 years"	"65-74"	"Aug., 2018"	"2018/08"	39	Not Applicable	Not Applicable
+	"Lancaster County, NE"	"31109"	"65-74 years"	"65-74"	"Sep., 2018"	"2018/09"	39	Not Applicable	Not Applicable
+	"Lancaster County, NE"	"31109"	"65-74 years"	"65-74"	"Oct., 2018"	"2018/10"	31	Not Applicable	Not Applicable
+	"Lancaster County, NE"	"31109"	"65-74 years"	"65-74"	"Nov., 2018"	"2018/11"	43	Not Applicable	Not Applicable
+	"Lancaster County, NE"	"31109"	"65-74 years"	"65-74"	"Dec., 2018"	"2018/12"	34	Not Applicable	Not Applicable
+	"Lancaster County, NE"	"31109"	"75-84 years"	"75-84"	"Jan., 2016"	"2016/01"	44	Not Applicable	Not Applicable
+	"Lancaster County, NE"	"31109"	"75-84 years"	"75-84"	"Feb., 2016"	"2016/02"	46	Not Applicable	Not Applicable
+	"Lancaster County, NE"	"31109"	"75-84 years"	"75-84"	"Mar., 2016"	"2016/03"	50	Not Applicable	Not Applicable
+	"Lancaster County, NE"	"31109"	"75-84 years"	"75-84"	"Apr., 2016"	"2016/04"	35	Not Applicable	Not Applicable
+	"Lancaster County, NE"	"31109"	"75-84 years"	"75-84"	"May, 2016"	"2016/05"	44	Not Applicable	Not Applicable
+	"Lancaster County, NE"	"31109"	"75-84 years"	"75-84"	"Jun., 2016"	"2016/06"	40	Not Applicable	Not Applicable
+	"Lancaster County, NE"	"31109"	"75-84 years"	"75-84"	"Jul., 2016"	"2016/07"	48	Not Applicable	Not Applicable
+	"Lancaster County, NE"	"31109"	"75-84 years"	"75-84"	"Aug., 2016"	"2016/08"	47	Not Applicable	Not Applicable
+	"Lancaster County, NE"	"31109"	"75-84 years"	"75-84"	"Sep., 2016"	"2016/09"	40	Not Applicable	Not Applicable
+	"Lancaster County, NE"	"31109"	"75-84 years"	"75-84"	"Oct., 2016"	"2016/10"	40	Not Applicable	Not Applicable
+	"Lancaster County, NE"	"31109"	"75-84 years"	"75-84"	"Nov., 2016"	"2016/11"	46	Not Applicable	Not Applicable
+	"Lancaster County, NE"	"31109"	"75-84 years"	"75-84"	"Dec., 2016"	"2016/12"	56	Not Applicable	Not Applicable
+	"Lancaster County, NE"	"31109"	"75-84 years"	"75-84"	"Jan., 2017"	"2017/01"	44	Not Applicable	Not Applicable
+	"Lancaster County, NE"	"31109"	"75-84 years"	"75-84"	"Feb., 2017"	"2017/02"	44	Not Applicable	Not Applicable
+	"Lancaster County, NE"	"31109"	"75-84 years"	"75-84"	"Mar., 2017"	"2017/03"	43	Not Applicable	Not Applicable
+	"Lancaster County, NE"	"31109"	"75-84 years"	"75-84"	"Apr., 2017"	"2017/04"	32	Not Applicable	Not Applicable
+	"Lancaster County, NE"	"31109"	"75-84 years"	"75-84"	"May, 2017"	"2017/05"	39	Not Applicable	Not Applicable
+	"Lancaster County, NE"	"31109"	"75-84 years"	"75-84"	"Jun., 2017"	"2017/06"	48	Not Applicable	Not Applicable
+	"Lancaster County, NE"	"31109"	"75-84 years"	"75-84"	"Jul., 2017"	"2017/07"	43	Not Applicable	Not Applicable
+	"Lancaster County, NE"	"31109"	"75-84 years"	"75-84"	"Aug., 2017"	"2017/08"	43	Not Applicable	Not Applicable
+	"Lancaster County, NE"	"31109"	"75-84 years"	"75-84"	"Sep., 2017"	"2017/09"	39	Not Applicable	Not Applicable
+	"Lancaster County, NE"	"31109"	"75-84 years"	"75-84"	"Oct., 2017"	"2017/10"	36	Not Applicable	Not Applicable
+	"Lancaster County, NE"	"31109"	"75-84 years"	"75-84"	"Nov., 2017"	"2017/11"	37	Not Applicable	Not Applicable
+	"Lancaster County, NE"	"31109"	"75-84 years"	"75-84"	"Dec., 2017"	"2017/12"	43	Not Applicable	Not Applicable
+	"Lancaster County, NE"	"31109"	"75-84 years"	"75-84"	"Jan., 2018"	"2018/01"	42	Not Applicable	Not Applicable
+	"Lancaster County, NE"	"31109"	"75-84 years"	"75-84"	"Feb., 2018"	"2018/02"	38	Not Applicable	Not Applicable
+	"Lancaster County, NE"	"31109"	"75-84 years"	"75-84"	"Mar., 2018"	"2018/03"	46	Not Applicable	Not Applicable
+	"Lancaster County, NE"	"31109"	"75-84 years"	"75-84"	"Apr., 2018"	"2018/04"	36	Not Applicable	Not Applicable
+	"Lancaster County, NE"	"31109"	"75-84 years"	"75-84"	"May, 2018"	"2018/05"	40	Not Applicable	Not Applicable
+	"Lancaster County, NE"	"31109"	"75-84 years"	"75-84"	"Jun., 2018"	"2018/06"	34	Not Applicable	Not Applicable
+	"Lancaster County, NE"	"31109"	"75-84 years"	"75-84"	"Jul., 2018"	"2018/07"	43	Not Applicable	Not Applicable
+	"Lancaster County, NE"	"31109"	"75-84 years"	"75-84"	"Aug., 2018"	"2018/08"	35	Not Applicable	Not Applicable
+	"Lancaster County, NE"	"31109"	"75-84 years"	"75-84"	"Sep., 2018"	"2018/09"	42	Not Applicable	Not Applicable
+	"Lancaster County, NE"	"31109"	"75-84 years"	"75-84"	"Oct., 2018"	"2018/10"	48	Not Applicable	Not Applicable
+	"Lancaster County, NE"	"31109"	"75-84 years"	"75-84"	"Nov., 2018"	"2018/11"	34	Not Applicable	Not Applicable
+	"Lancaster County, NE"	"31109"	"75-84 years"	"75-84"	"Dec., 2018"	"2018/12"	50	Not Applicable	Not Applicable
+	"Lancaster County, NE"	"31109"	"85+ years"	"85+"	"Jan., 2016"	"2016/01"	58	Not Applicable	Not Applicable
+	"Lancaster County, NE"	"31109"	"85+ years"	"85+"	"Feb., 2016"	"2016/02"	50	Not Applicable	Not Applicable
+	"Lancaster County, NE"	"31109"	"85+ years"	"85+"	"Mar., 2016"	"2016/03"	81	Not Applicable	Not Applicable
+	"Lancaster County, NE"	"31109"	"85+ years"	"85+"	"Apr., 2016"	"2016/04"	68	Not Applicable	Not Applicable
+	"Lancaster County, NE"	"31109"	"85+ years"	"85+"	"May, 2016"	"2016/05"	66	Not Applicable	Not Applicable
+	"Lancaster County, NE"	"31109"	"85+ years"	"85+"	"Jun., 2016"	"2016/06"	66	Not Applicable	Not Applicable
+	"Lancaster County, NE"	"31109"	"85+ years"	"85+"	"Jul., 2016"	"2016/07"	64	Not Applicable	Not Applicable
+	"Lancaster County, NE"	"31109"	"85+ years"	"85+"	"Aug., 2016"	"2016/08"	61	Not Applicable	Not Applicable
+	"Lancaster County, NE"	"31109"	"85+ years"	"85+"	"Sep., 2016"	"2016/09"	69	Not Applicable	Not Applicable
+	"Lancaster County, NE"	"31109"	"85+ years"	"85+"	"Oct., 2016"	"2016/10"	56	Not Applicable	Not Applicable
+	"Lancaster County, NE"	"31109"	"85+ years"	"85+"	"Nov., 2016"	"2016/11"	60	Not Applicable	Not Applicable
+	"Lancaster County, NE"	"31109"	"85+ years"	"85+"	"Dec., 2016"	"2016/12"	79	Not Applicable	Not Applicable
+	"Lancaster County, NE"	"31109"	"85+ years"	"85+"	"Jan., 2017"	"2017/01"	84	Not Applicable	Not Applicable
+	"Lancaster County, NE"	"31109"	"85+ years"	"85+"	"Feb., 2017"	"2017/02"	63	Not Applicable	Not Applicable
+	"Lancaster County, NE"	"31109"	"85+ years"	"85+"	"Mar., 2017"	"2017/03"	71	Not Applicable	Not Applicable
+	"Lancaster County, NE"	"31109"	"85+ years"	"85+"	"Apr., 2017"	"2017/04"	63	Not Applicable	Not Applicable
+	"Lancaster County, NE"	"31109"	"85+ years"	"85+"	"May, 2017"	"2017/05"	62	Not Applicable	Not Applicable
+	"Lancaster County, NE"	"31109"	"85+ years"	"85+"	"Jun., 2017"	"2017/06"	75	Not Applicable	Not Applicable
+	"Lancaster County, NE"	"31109"	"85+ years"	"85+"	"Jul., 2017"	"2017/07"	56	Not Applicable	Not Applicable
+	"Lancaster County, NE"	"31109"	"85+ years"	"85+"	"Aug., 2017"	"2017/08"	63	Not Applicable	Not Applicable
+	"Lancaster County, NE"	"31109"	"85+ years"	"85+"	"Sep., 2017"	"2017/09"	71	Not Applicable	Not Applicable
+	"Lancaster County, NE"	"31109"	"85+ years"	"85+"	"Oct., 2017"	"2017/10"	78	Not Applicable	Not Applicable
+	"Lancaster County, NE"	"31109"	"85+ years"	"85+"	"Nov., 2017"	"2017/11"	74	Not Applicable	Not Applicable
+	"Lancaster County, NE"	"31109"	"85+ years"	"85+"	"Dec., 2017"	"2017/12"	81	Not Applicable	Not Applicable
+	"Lancaster County, NE"	"31109"	"85+ years"	"85+"	"Jan., 2018"	"2018/01"	79	Not Applicable	Not Applicable
+	"Lancaster County, NE"	"31109"	"85+ years"	"85+"	"Feb., 2018"	"2018/02"	69	Not Applicable	Not Applicable
+	"Lancaster County, NE"	"31109"	"85+ years"	"85+"	"Mar., 2018"	"2018/03"	69	Not Applicable	Not Applicable
+	"Lancaster County, NE"	"31109"	"85+ years"	"85+"	"Apr., 2018"	"2018/04"	52	Not Applicable	Not Applicable
+	"Lancaster County, NE"	"31109"	"85+ years"	"85+"	"May, 2018"	"2018/05"	65	Not Applicable	Not Applicable
+	"Lancaster County, NE"	"31109"	"85+ years"	"85+"	"Jun., 2018"	"2018/06"	64	Not Applicable	Not Applicable
+	"Lancaster County, NE"	"31109"	"85+ years"	"85+"	"Jul., 2018"	"2018/07"	62	Not Applicable	Not Applicable
+	"Lancaster County, NE"	"31109"	"85+ years"	"85+"	"Aug., 2018"	"2018/08"	59	Not Applicable	Not Applicable
+	"Lancaster County, NE"	"31109"	"85+ years"	"85+"	"Sep., 2018"	"2018/09"	63	Not Applicable	Not Applicable
+	"Lancaster County, NE"	"31109"	"85+ years"	"85+"	"Oct., 2018"	"2018/10"	68	Not Applicable	Not Applicable
+	"Lancaster County, NE"	"31109"	"85+ years"	"85+"	"Nov., 2018"	"2018/11"	78	Not Applicable	Not Applicable
+	"Lancaster County, NE"	"31109"	"85+ years"	"85+"	"Dec., 2018"	"2018/12"	87	Not Applicable	Not Applicable
+	"Lincoln County, NE"	"31111"	"65-74 years"	"65-74"	"Aug., 2016"	"2016/08"	10	Not Applicable	Not Applicable
+	"Lincoln County, NE"	"31111"	"65-74 years"	"65-74"	"Nov., 2016"	"2016/11"	10	Not Applicable	Not Applicable
+	"Lincoln County, NE"	"31111"	"65-74 years"	"65-74"	"Aug., 2017"	"2017/08"	10	Not Applicable	Not Applicable
+	"Lincoln County, NE"	"31111"	"65-74 years"	"65-74"	"Apr., 2018"	"2018/04"	10	Not Applicable	Not Applicable
+	"Lincoln County, NE"	"31111"	"75-84 years"	"75-84"	"Jul., 2016"	"2016/07"	10	Not Applicable	Not Applicable
+	"Lincoln County, NE"	"31111"	"75-84 years"	"75-84"	"Aug., 2016"	"2016/08"	14	Not Applicable	Not Applicable
+	"Lincoln County, NE"	"31111"	"75-84 years"	"75-84"	"Sep., 2016"	"2016/09"	11	Not Applicable	Not Applicable
+	"Lincoln County, NE"	"31111"	"75-84 years"	"75-84"	"Mar., 2017"	"2017/03"	12	Not Applicable	Not Applicable
+	"Lincoln County, NE"	"31111"	"75-84 years"	"75-84"	"May, 2017"	"2017/05"	10	Not Applicable	Not Applicable
+	"Lincoln County, NE"	"31111"	"75-84 years"	"75-84"	"Jun., 2017"	"2017/06"	10	Not Applicable	Not Applicable
+	"Lincoln County, NE"	"31111"	"75-84 years"	"75-84"	"Jun., 2018"	"2018/06"	11	Not Applicable	Not Applicable
+	"Lincoln County, NE"	"31111"	"75-84 years"	"75-84"	"Sep., 2018"	"2018/09"	10	Not Applicable	Not Applicable
+	"Lincoln County, NE"	"31111"	"75-84 years"	"75-84"	"Dec., 2018"	"2018/12"	13	Not Applicable	Not Applicable
+	"Lincoln County, NE"	"31111"	"85+ years"	"85+"	"Jan., 2016"	"2016/01"	11	Not Applicable	Not Applicable
+	"Lincoln County, NE"	"31111"	"85+ years"	"85+"	"Feb., 2016"	"2016/02"	10	Not Applicable	Not Applicable
+	"Lincoln County, NE"	"31111"	"85+ years"	"85+"	"Mar., 2016"	"2016/03"	15	Not Applicable	Not Applicable
+	"Lincoln County, NE"	"31111"	"85+ years"	"85+"	"Apr., 2016"	"2016/04"	12	Not Applicable	Not Applicable
+	"Lincoln County, NE"	"31111"	"85+ years"	"85+"	"May, 2016"	"2016/05"	11	Not Applicable	Not Applicable
+	"Lincoln County, NE"	"31111"	"85+ years"	"85+"	"Aug., 2016"	"2016/08"	12	Not Applicable	Not Applicable
+	"Lincoln County, NE"	"31111"	"85+ years"	"85+"	"Sep., 2016"	"2016/09"	14	Not Applicable	Not Applicable
+	"Lincoln County, NE"	"31111"	"85+ years"	"85+"	"Nov., 2016"	"2016/11"	10	Not Applicable	Not Applicable
+	"Lincoln County, NE"	"31111"	"85+ years"	"85+"	"Dec., 2016"	"2016/12"	14	Not Applicable	Not Applicable
+	"Lincoln County, NE"	"31111"	"85+ years"	"85+"	"Jan., 2017"	"2017/01"	17	Not Applicable	Not Applicable
+	"Lincoln County, NE"	"31111"	"85+ years"	"85+"	"Feb., 2017"	"2017/02"	10	Not Applicable	Not Applicable
+	"Lincoln County, NE"	"31111"	"85+ years"	"85+"	"Mar., 2017"	"2017/03"	12	Not Applicable	Not Applicable
+	"Lincoln County, NE"	"31111"	"85+ years"	"85+"	"May, 2017"	"2017/05"	13	Not Applicable	Not Applicable
+	"Lincoln County, NE"	"31111"	"85+ years"	"85+"	"Jun., 2017"	"2017/06"	10	Not Applicable	Not Applicable
+	"Lincoln County, NE"	"31111"	"85+ years"	"85+"	"Jul., 2017"	"2017/07"	15	Not Applicable	Not Applicable
+	"Lincoln County, NE"	"31111"	"85+ years"	"85+"	"Aug., 2017"	"2017/08"	10	Not Applicable	Not Applicable
+	"Lincoln County, NE"	"31111"	"85+ years"	"85+"	"Nov., 2017"	"2017/11"	13	Not Applicable	Not Applicable
+	"Lincoln County, NE"	"31111"	"85+ years"	"85+"	"Jan., 2018"	"2018/01"	13	Not Applicable	Not Applicable
+	"Lincoln County, NE"	"31111"	"85+ years"	"85+"	"Feb., 2018"	"2018/02"	12	Not Applicable	Not Applicable
+	"Lincoln County, NE"	"31111"	"85+ years"	"85+"	"Mar., 2018"	"2018/03"	10	Not Applicable	Not Applicable
+	"Lincoln County, NE"	"31111"	"85+ years"	"85+"	"Apr., 2018"	"2018/04"	12	Not Applicable	Not Applicable
+	"Lincoln County, NE"	"31111"	"85+ years"	"85+"	"Aug., 2018"	"2018/08"	13	Not Applicable	Not Applicable
+	"Lincoln County, NE"	"31111"	"85+ years"	"85+"	"Sep., 2018"	"2018/09"	16	Not Applicable	Not Applicable
+	"Lincoln County, NE"	"31111"	"85+ years"	"85+"	"Oct., 2018"	"2018/10"	13	Not Applicable	Not Applicable
+	"Madison County, NE"	"31119"	"75-84 years"	"75-84"	"Jan., 2016"	"2016/01"	10	Not Applicable	Not Applicable
+	"Madison County, NE"	"31119"	"75-84 years"	"75-84"	"Mar., 2016"	"2016/03"	10	Not Applicable	Not Applicable
+	"Madison County, NE"	"31119"	"75-84 years"	"75-84"	"Aug., 2016"	"2016/08"	10	Not Applicable	Not Applicable
+	"Madison County, NE"	"31119"	"75-84 years"	"75-84"	"Dec., 2016"	"2016/12"	10	Not Applicable	Not Applicable
+	"Madison County, NE"	"31119"	"75-84 years"	"75-84"	"Jun., 2017"	"2017/06"	11	Not Applicable	Not Applicable
+	"Madison County, NE"	"31119"	"75-84 years"	"75-84"	"Dec., 2017"	"2017/12"	11	Not Applicable	Not Applicable
+	"Madison County, NE"	"31119"	"85+ years"	"85+"	"Jan., 2016"	"2016/01"	10	Not Applicable	Not Applicable
+	"Madison County, NE"	"31119"	"85+ years"	"85+"	"Feb., 2016"	"2016/02"	15	Not Applicable	Not Applicable
+	"Madison County, NE"	"31119"	"85+ years"	"85+"	"Apr., 2016"	"2016/04"	15	Not Applicable	Not Applicable
+	"Madison County, NE"	"31119"	"85+ years"	"85+"	"May, 2016"	"2016/05"	20	Not Applicable	Not Applicable
+	"Madison County, NE"	"31119"	"85+ years"	"85+"	"Jun., 2016"	"2016/06"	10	Not Applicable	Not Applicable
+	"Madison County, NE"	"31119"	"85+ years"	"85+"	"Jul., 2016"	"2016/07"	10	Not Applicable	Not Applicable
+	"Madison County, NE"	"31119"	"85+ years"	"85+"	"Aug., 2016"	"2016/08"	12	Not Applicable	Not Applicable
+	"Madison County, NE"	"31119"	"85+ years"	"85+"	"Dec., 2016"	"2016/12"	18	Not Applicable	Not Applicable
+	"Madison County, NE"	"31119"	"85+ years"	"85+"	"Jan., 2017"	"2017/01"	18	Not Applicable	Not Applicable
+	"Madison County, NE"	"31119"	"85+ years"	"85+"	"Feb., 2017"	"2017/02"	16	Not Applicable	Not Applicable
+	"Madison County, NE"	"31119"	"85+ years"	"85+"	"Mar., 2017"	"2017/03"	21	Not Applicable	Not Applicable
+	"Madison County, NE"	"31119"	"85+ years"	"85+"	"Apr., 2017"	"2017/04"	17	Not Applicable	Not Applicable
+	"Madison County, NE"	"31119"	"85+ years"	"85+"	"May, 2017"	"2017/05"	13	Not Applicable	Not Applicable
+	"Madison County, NE"	"31119"	"85+ years"	"85+"	"Jun., 2017"	"2017/06"	14	Not Applicable	Not Applicable
+	"Madison County, NE"	"31119"	"85+ years"	"85+"	"Jul., 2017"	"2017/07"	19	Not Applicable	Not Applicable
+	"Madison County, NE"	"31119"	"85+ years"	"85+"	"Aug., 2017"	"2017/08"	11	Not Applicable	Not Applicable
+	"Madison County, NE"	"31119"	"85+ years"	"85+"	"Sep., 2017"	"2017/09"	15	Not Applicable	Not Applicable
+	"Madison County, NE"	"31119"	"85+ years"	"85+"	"Oct., 2017"	"2017/10"	13	Not Applicable	Not Applicable
+	"Madison County, NE"	"31119"	"85+ years"	"85+"	"Nov., 2017"	"2017/11"	13	Not Applicable	Not Applicable
+	"Madison County, NE"	"31119"	"85+ years"	"85+"	"Dec., 2017"	"2017/12"	16	Not Applicable	Not Applicable
+	"Madison County, NE"	"31119"	"85+ years"	"85+"	"Jan., 2018"	"2018/01"	11	Not Applicable	Not Applicable
+	"Madison County, NE"	"31119"	"85+ years"	"85+"	"Feb., 2018"	"2018/02"	16	Not Applicable	Not Applicable
+	"Madison County, NE"	"31119"	"85+ years"	"85+"	"Mar., 2018"	"2018/03"	12	Not Applicable	Not Applicable
+	"Madison County, NE"	"31119"	"85+ years"	"85+"	"Apr., 2018"	"2018/04"	13	Not Applicable	Not Applicable
+	"Madison County, NE"	"31119"	"85+ years"	"85+"	"May, 2018"	"2018/05"	10	Not Applicable	Not Applicable
+	"Madison County, NE"	"31119"	"85+ years"	"85+"	"Jun., 2018"	"2018/06"	10	Not Applicable	Not Applicable
+	"Madison County, NE"	"31119"	"85+ years"	"85+"	"Jul., 2018"	"2018/07"	17	Not Applicable	Not Applicable
+	"Madison County, NE"	"31119"	"85+ years"	"85+"	"Aug., 2018"	"2018/08"	12	Not Applicable	Not Applicable
+	"Madison County, NE"	"31119"	"85+ years"	"85+"	"Sep., 2018"	"2018/09"	15	Not Applicable	Not Applicable
+	"Madison County, NE"	"31119"	"85+ years"	"85+"	"Oct., 2018"	"2018/10"	23	Not Applicable	Not Applicable
+	"Madison County, NE"	"31119"	"85+ years"	"85+"	"Nov., 2018"	"2018/11"	19	Not Applicable	Not Applicable
+	"Madison County, NE"	"31119"	"85+ years"	"85+"	"Dec., 2018"	"2018/12"	11	Not Applicable	Not Applicable
+	"Otoe County, NE"	"31131"	"75-84 years"	"75-84"	"Mar., 2016"	"2016/03"	10	Not Applicable	Not Applicable
+	"Otoe County, NE"	"31131"	"85+ years"	"85+"	"May, 2016"	"2016/05"	10	Not Applicable	Not Applicable
+	"Otoe County, NE"	"31131"	"85+ years"	"85+"	"Jul., 2016"	"2016/07"	11	Not Applicable	Not Applicable
+	"Otoe County, NE"	"31131"	"85+ years"	"85+"	"Aug., 2016"	"2016/08"	15	Not Applicable	Not Applicable
+	"Otoe County, NE"	"31131"	"85+ years"	"85+"	"Jul., 2018"	"2018/07"	12	Not Applicable	Not Applicable
+	"Phelps County, NE"	"31137"	"85+ years"	"85+"	"Apr., 2017"	"2017/04"	10	Not Applicable	Not Applicable
+	"Platte County, NE"	"31141"	"75-84 years"	"75-84"	"Jan., 2018"	"2018/01"	12	Not Applicable	Not Applicable
+	"Platte County, NE"	"31141"	"75-84 years"	"75-84"	"Mar., 2018"	"2018/03"	10	Not Applicable	Not Applicable
+	"Platte County, NE"	"31141"	"85+ years"	"85+"	"Jan., 2016"	"2016/01"	12	Not Applicable	Not Applicable
+	"Platte County, NE"	"31141"	"85+ years"	"85+"	"Mar., 2016"	"2016/03"	13	Not Applicable	Not Applicable
+	"Platte County, NE"	"31141"	"85+ years"	"85+"	"May, 2016"	"2016/05"	13	Not Applicable	Not Applicable
+	"Platte County, NE"	"31141"	"85+ years"	"85+"	"Jul., 2016"	"2016/07"	13	Not Applicable	Not Applicable
+	"Platte County, NE"	"31141"	"85+ years"	"85+"	"Aug., 2016"	"2016/08"	14	Not Applicable	Not Applicable
+	"Platte County, NE"	"31141"	"85+ years"	"85+"	"Sep., 2016"	"2016/09"	11	Not Applicable	Not Applicable
+	"Platte County, NE"	"31141"	"85+ years"	"85+"	"Oct., 2016"	"2016/10"	14	Not Applicable	Not Applicable
+	"Platte County, NE"	"31141"	"85+ years"	"85+"	"Jan., 2017"	"2017/01"	10	Not Applicable	Not Applicable
+	"Platte County, NE"	"31141"	"85+ years"	"85+"	"Feb., 2017"	"2017/02"	20	Not Applicable	Not Applicable
+	"Platte County, NE"	"31141"	"85+ years"	"85+"	"Apr., 2017"	"2017/04"	10	Not Applicable	Not Applicable
+	"Platte County, NE"	"31141"	"85+ years"	"85+"	"May, 2017"	"2017/05"	13	Not Applicable	Not Applicable
+	"Platte County, NE"	"31141"	"85+ years"	"85+"	"Jun., 2017"	"2017/06"	12	Not Applicable	Not Applicable
+	"Platte County, NE"	"31141"	"85+ years"	"85+"	"Nov., 2017"	"2017/11"	10	Not Applicable	Not Applicable
+	"Platte County, NE"	"31141"	"85+ years"	"85+"	"Jan., 2018"	"2018/01"	10	Not Applicable	Not Applicable
+	"Platte County, NE"	"31141"	"85+ years"	"85+"	"Feb., 2018"	"2018/02"	13	Not Applicable	Not Applicable
+	"Platte County, NE"	"31141"	"85+ years"	"85+"	"Mar., 2018"	"2018/03"	11	Not Applicable	Not Applicable
+	"Platte County, NE"	"31141"	"85+ years"	"85+"	"Apr., 2018"	"2018/04"	11	Not Applicable	Not Applicable
+	"Platte County, NE"	"31141"	"85+ years"	"85+"	"May, 2018"	"2018/05"	10	Not Applicable	Not Applicable
+	"Platte County, NE"	"31141"	"85+ years"	"85+"	"Jul., 2018"	"2018/07"	10	Not Applicable	Not Applicable
+	"Platte County, NE"	"31141"	"85+ years"	"85+"	"Aug., 2018"	"2018/08"	13	Not Applicable	Not Applicable
+	"Platte County, NE"	"31141"	"85+ years"	"85+"	"Oct., 2018"	"2018/10"	10	Not Applicable	Not Applicable
+	"Platte County, NE"	"31141"	"85+ years"	"85+"	"Nov., 2018"	"2018/11"	13	Not Applicable	Not Applicable
+	"Richardson County, NE"	"31147"	"85+ years"	"85+"	"Jan., 2016"	"2016/01"	10	Not Applicable	Not Applicable
+	"Saline County, NE"	"31151"	"85+ years"	"85+"	"Jun., 2017"	"2017/06"	10	Not Applicable	Not Applicable
+	"Sarpy County, NE"	"31153"	"55-64 years"	"55-64"	"Jan., 2016"	"2016/01"	11	Not Applicable	Not Applicable
+	"Sarpy County, NE"	"31153"	"55-64 years"	"55-64"	"Jun., 2016"	"2016/06"	12	Not Applicable	Not Applicable
+	"Sarpy County, NE"	"31153"	"55-64 years"	"55-64"	"Jul., 2016"	"2016/07"	12	Not Applicable	Not Applicable
+	"Sarpy County, NE"	"31153"	"55-64 years"	"55-64"	"Aug., 2016"	"2016/08"	12	Not Applicable	Not Applicable
+	"Sarpy County, NE"	"31153"	"55-64 years"	"55-64"	"Oct., 2016"	"2016/10"	11	Not Applicable	Not Applicable
+	"Sarpy County, NE"	"31153"	"55-64 years"	"55-64"	"Nov., 2016"	"2016/11"	15	Not Applicable	Not Applicable
+	"Sarpy County, NE"	"31153"	"55-64 years"	"55-64"	"Dec., 2016"	"2016/12"	14	Not Applicable	Not Applicable
+	"Sarpy County, NE"	"31153"	"55-64 years"	"55-64"	"Mar., 2017"	"2017/03"	12	Not Applicable	Not Applicable
+	"Sarpy County, NE"	"31153"	"55-64 years"	"55-64"	"Aug., 2017"	"2017/08"	17	Not Applicable	Not Applicable
+	"Sarpy County, NE"	"31153"	"55-64 years"	"55-64"	"Oct., 2017"	"2017/10"	11	Not Applicable	Not Applicable
+	"Sarpy County, NE"	"31153"	"55-64 years"	"55-64"	"Dec., 2017"	"2017/12"	14	Not Applicable	Not Applicable
+	"Sarpy County, NE"	"31153"	"55-64 years"	"55-64"	"Jan., 2018"	"2018/01"	11	Not Applicable	Not Applicable
+	"Sarpy County, NE"	"31153"	"55-64 years"	"55-64"	"Feb., 2018"	"2018/02"	11	Not Applicable	Not Applicable
+	"Sarpy County, NE"	"31153"	"55-64 years"	"55-64"	"Apr., 2018"	"2018/04"	14	Not Applicable	Not Applicable
+	"Sarpy County, NE"	"31153"	"55-64 years"	"55-64"	"Jul., 2018"	"2018/07"	13	Not Applicable	Not Applicable
+	"Sarpy County, NE"	"31153"	"55-64 years"	"55-64"	"Aug., 2018"	"2018/08"	11	Not Applicable	Not Applicable
+	"Sarpy County, NE"	"31153"	"55-64 years"	"55-64"	"Oct., 2018"	"2018/10"	15	Not Applicable	Not Applicable
+	"Sarpy County, NE"	"31153"	"55-64 years"	"55-64"	"Dec., 2018"	"2018/12"	13	Not Applicable	Not Applicable
+	"Sarpy County, NE"	"31153"	"65-74 years"	"65-74"	"Jan., 2016"	"2016/01"	17	Not Applicable	Not Applicable
+	"Sarpy County, NE"	"31153"	"65-74 years"	"65-74"	"Feb., 2016"	"2016/02"	15	Not Applicable	Not Applicable
+	"Sarpy County, NE"	"31153"	"65-74 years"	"65-74"	"Mar., 2016"	"2016/03"	10	Not Applicable	Not Applicable
+	"Sarpy County, NE"	"31153"	"65-74 years"	"65-74"	"Apr., 2016"	"2016/04"	13	Not Applicable	Not Applicable
+	"Sarpy County, NE"	"31153"	"65-74 years"	"65-74"	"May, 2016"	"2016/05"	12	Not Applicable	Not Applicable
+	"Sarpy County, NE"	"31153"	"65-74 years"	"65-74"	"Jun., 2016"	"2016/06"	13	Not Applicable	Not Applicable
+	"Sarpy County, NE"	"31153"	"65-74 years"	"65-74"	"Aug., 2016"	"2016/08"	21	Not Applicable	Not Applicable
+	"Sarpy County, NE"	"31153"	"65-74 years"	"65-74"	"Sep., 2016"	"2016/09"	15	Not Applicable	Not Applicable
+	"Sarpy County, NE"	"31153"	"65-74 years"	"65-74"	"Oct., 2016"	"2016/10"	16	Not Applicable	Not Applicable
+	"Sarpy County, NE"	"31153"	"65-74 years"	"65-74"	"Nov., 2016"	"2016/11"	18	Not Applicable	Not Applicable
+	"Sarpy County, NE"	"31153"	"65-74 years"	"65-74"	"Dec., 2016"	"2016/12"	18	Not Applicable	Not Applicable
+	"Sarpy County, NE"	"31153"	"65-74 years"	"65-74"	"Jan., 2017"	"2017/01"	17	Not Applicable	Not Applicable
+	"Sarpy County, NE"	"31153"	"65-74 years"	"65-74"	"Feb., 2017"	"2017/02"	18	Not Applicable	Not Applicable
+	"Sarpy County, NE"	"31153"	"65-74 years"	"65-74"	"Mar., 2017"	"2017/03"	10	Not Applicable	Not Applicable
+	"Sarpy County, NE"	"31153"	"65-74 years"	"65-74"	"Apr., 2017"	"2017/04"	16	Not Applicable	Not Applicable
+	"Sarpy County, NE"	"31153"	"65-74 years"	"65-74"	"May, 2017"	"2017/05"	15	Not Applicable	Not Applicable
+	"Sarpy County, NE"	"31153"	"65-74 years"	"65-74"	"Jun., 2017"	"2017/06"	16	Not Applicable	Not Applicable
+	"Sarpy County, NE"	"31153"	"65-74 years"	"65-74"	"Jul., 2017"	"2017/07"	11	Not Applicable	Not Applicable
+	"Sarpy County, NE"	"31153"	"65-74 years"	"65-74"	"Aug., 2017"	"2017/08"	12	Not Applicable	Not Applicable
+	"Sarpy County, NE"	"31153"	"65-74 years"	"65-74"	"Sep., 2017"	"2017/09"	10	Not Applicable	Not Applicable
+	"Sarpy County, NE"	"31153"	"65-74 years"	"65-74"	"Oct., 2017"	"2017/10"	23	Not Applicable	Not Applicable
+	"Sarpy County, NE"	"31153"	"65-74 years"	"65-74"	"Nov., 2017"	"2017/11"	11	Not Applicable	Not Applicable
+	"Sarpy County, NE"	"31153"	"65-74 years"	"65-74"	"Dec., 2017"	"2017/12"	12	Not Applicable	Not Applicable
+	"Sarpy County, NE"	"31153"	"65-74 years"	"65-74"	"Jan., 2018"	"2018/01"	18	Not Applicable	Not Applicable
+	"Sarpy County, NE"	"31153"	"65-74 years"	"65-74"	"Feb., 2018"	"2018/02"	10	Not Applicable	Not Applicable
+	"Sarpy County, NE"	"31153"	"65-74 years"	"65-74"	"Mar., 2018"	"2018/03"	15	Not Applicable	Not Applicable
+	"Sarpy County, NE"	"31153"	"65-74 years"	"65-74"	"Apr., 2018"	"2018/04"	14	Not Applicable	Not Applicable
+	"Sarpy County, NE"	"31153"	"65-74 years"	"65-74"	"May, 2018"	"2018/05"	13	Not Applicable	Not Applicable
+	"Sarpy County, NE"	"31153"	"65-74 years"	"65-74"	"Jun., 2018"	"2018/06"	18	Not Applicable	Not Applicable
+	"Sarpy County, NE"	"31153"	"65-74 years"	"65-74"	"Jul., 2018"	"2018/07"	17	Not Applicable	Not Applicable
+	"Sarpy County, NE"	"31153"	"65-74 years"	"65-74"	"Aug., 2018"	"2018/08"	10	Not Applicable	Not Applicable
+	"Sarpy County, NE"	"31153"	"65-74 years"	"65-74"	"Sep., 2018"	"2018/09"	20	Not Applicable	Not Applicable
+	"Sarpy County, NE"	"31153"	"65-74 years"	"65-74"	"Oct., 2018"	"2018/10"	20	Not Applicable	Not Applicable
+	"Sarpy County, NE"	"31153"	"65-74 years"	"65-74"	"Nov., 2018"	"2018/11"	20	Not Applicable	Not Applicable
+	"Sarpy County, NE"	"31153"	"65-74 years"	"65-74"	"Dec., 2018"	"2018/12"	19	Not Applicable	Not Applicable
+	"Sarpy County, NE"	"31153"	"75-84 years"	"75-84"	"Jan., 2016"	"2016/01"	26	Not Applicable	Not Applicable
+	"Sarpy County, NE"	"31153"	"75-84 years"	"75-84"	"Feb., 2016"	"2016/02"	18	Not Applicable	Not Applicable
+	"Sarpy County, NE"	"31153"	"75-84 years"	"75-84"	"Mar., 2016"	"2016/03"	19	Not Applicable	Not Applicable
+	"Sarpy County, NE"	"31153"	"75-84 years"	"75-84"	"Apr., 2016"	"2016/04"	23	Not Applicable	Not Applicable
+	"Sarpy County, NE"	"31153"	"75-84 years"	"75-84"	"May, 2016"	"2016/05"	19	Not Applicable	Not Applicable
+	"Sarpy County, NE"	"31153"	"75-84 years"	"75-84"	"Jun., 2016"	"2016/06"	14	Not Applicable	Not Applicable
+	"Sarpy County, NE"	"31153"	"75-84 years"	"75-84"	"Jul., 2016"	"2016/07"	21	Not Applicable	Not Applicable
+	"Sarpy County, NE"	"31153"	"75-84 years"	"75-84"	"Aug., 2016"	"2016/08"	20	Not Applicable	Not Applicable
+	"Sarpy County, NE"	"31153"	"75-84 years"	"75-84"	"Sep., 2016"	"2016/09"	21	Not Applicable	Not Applicable
+	"Sarpy County, NE"	"31153"	"75-84 years"	"75-84"	"Oct., 2016"	"2016/10"	20	Not Applicable	Not Applicable
+	"Sarpy County, NE"	"31153"	"75-84 years"	"75-84"	"Nov., 2016"	"2016/11"	24	Not Applicable	Not Applicable
+	"Sarpy County, NE"	"31153"	"75-84 years"	"75-84"	"Dec., 2016"	"2016/12"	16	Not Applicable	Not Applicable
+	"Sarpy County, NE"	"31153"	"75-84 years"	"75-84"	"Jan., 2017"	"2017/01"	27	Not Applicable	Not Applicable
+	"Sarpy County, NE"	"31153"	"75-84 years"	"75-84"	"Feb., 2017"	"2017/02"	31	Not Applicable	Not Applicable
+	"Sarpy County, NE"	"31153"	"75-84 years"	"75-84"	"Mar., 2017"	"2017/03"	19	Not Applicable	Not Applicable
+	"Sarpy County, NE"	"31153"	"75-84 years"	"75-84"	"Apr., 2017"	"2017/04"	25	Not Applicable	Not Applicable
+	"Sarpy County, NE"	"31153"	"75-84 years"	"75-84"	"May, 2017"	"2017/05"	26	Not Applicable	Not Applicable
+	"Sarpy County, NE"	"31153"	"75-84 years"	"75-84"	"Jun., 2017"	"2017/06"	22	Not Applicable	Not Applicable
+	"Sarpy County, NE"	"31153"	"75-84 years"	"75-84"	"Jul., 2017"	"2017/07"	18	Not Applicable	Not Applicable
+	"Sarpy County, NE"	"31153"	"75-84 years"	"75-84"	"Aug., 2017"	"2017/08"	25	Not Applicable	Not Applicable
+	"Sarpy County, NE"	"31153"	"75-84 years"	"75-84"	"Sep., 2017"	"2017/09"	21	Not Applicable	Not Applicable
+	"Sarpy County, NE"	"31153"	"75-84 years"	"75-84"	"Oct., 2017"	"2017/10"	15	Not Applicable	Not Applicable
+	"Sarpy County, NE"	"31153"	"75-84 years"	"75-84"	"Nov., 2017"	"2017/11"	18	Not Applicable	Not Applicable
+	"Sarpy County, NE"	"31153"	"75-84 years"	"75-84"	"Dec., 2017"	"2017/12"	30	Not Applicable	Not Applicable
+	"Sarpy County, NE"	"31153"	"75-84 years"	"75-84"	"Jan., 2018"	"2018/01"	30	Not Applicable	Not Applicable
+	"Sarpy County, NE"	"31153"	"75-84 years"	"75-84"	"Feb., 2018"	"2018/02"	23	Not Applicable	Not Applicable
+	"Sarpy County, NE"	"31153"	"75-84 years"	"75-84"	"Mar., 2018"	"2018/03"	23	Not Applicable	Not Applicable
+	"Sarpy County, NE"	"31153"	"75-84 years"	"75-84"	"Apr., 2018"	"2018/04"	25	Not Applicable	Not Applicable
+	"Sarpy County, NE"	"31153"	"75-84 years"	"75-84"	"May, 2018"	"2018/05"	16	Not Applicable	Not Applicable
+	"Sarpy County, NE"	"31153"	"75-84 years"	"75-84"	"Jun., 2018"	"2018/06"	14	Not Applicable	Not Applicable
+	"Sarpy County, NE"	"31153"	"75-84 years"	"75-84"	"Jul., 2018"	"2018/07"	19	Not Applicable	Not Applicable
+	"Sarpy County, NE"	"31153"	"75-84 years"	"75-84"	"Aug., 2018"	"2018/08"	17	Not Applicable	Not Applicable
+	"Sarpy County, NE"	"31153"	"75-84 years"	"75-84"	"Sep., 2018"	"2018/09"	26	Not Applicable	Not Applicable
+	"Sarpy County, NE"	"31153"	"75-84 years"	"75-84"	"Oct., 2018"	"2018/10"	19	Not Applicable	Not Applicable
+	"Sarpy County, NE"	"31153"	"75-84 years"	"75-84"	"Nov., 2018"	"2018/11"	24	Not Applicable	Not Applicable
+	"Sarpy County, NE"	"31153"	"75-84 years"	"75-84"	"Dec., 2018"	"2018/12"	27	Not Applicable	Not Applicable
+	"Sarpy County, NE"	"31153"	"85+ years"	"85+"	"Jan., 2016"	"2016/01"	19	Not Applicable	Not Applicable
+	"Sarpy County, NE"	"31153"	"85+ years"	"85+"	"Feb., 2016"	"2016/02"	19	Not Applicable	Not Applicable
+	"Sarpy County, NE"	"31153"	"85+ years"	"85+"	"Mar., 2016"	"2016/03"	23	Not Applicable	Not Applicable
+	"Sarpy County, NE"	"31153"	"85+ years"	"85+"	"Apr., 2016"	"2016/04"	22	Not Applicable	Not Applicable
+	"Sarpy County, NE"	"31153"	"85+ years"	"85+"	"May, 2016"	"2016/05"	18	Not Applicable	Not Applicable
+	"Sarpy County, NE"	"31153"	"85+ years"	"85+"	"Jun., 2016"	"2016/06"	14	Not Applicable	Not Applicable
+	"Sarpy County, NE"	"31153"	"85+ years"	"85+"	"Jul., 2016"	"2016/07"	23	Not Applicable	Not Applicable
+	"Sarpy County, NE"	"31153"	"85+ years"	"85+"	"Aug., 2016"	"2016/08"	23	Not Applicable	Not Applicable
+	"Sarpy County, NE"	"31153"	"85+ years"	"85+"	"Sep., 2016"	"2016/09"	29	Not Applicable	Not Applicable
+	"Sarpy County, NE"	"31153"	"85+ years"	"85+"	"Oct., 2016"	"2016/10"	21	Not Applicable	Not Applicable
+	"Sarpy County, NE"	"31153"	"85+ years"	"85+"	"Nov., 2016"	"2016/11"	28	Not Applicable	Not Applicable
+	"Sarpy County, NE"	"31153"	"85+ years"	"85+"	"Dec., 2016"	"2016/12"	31	Not Applicable	Not Applicable
+	"Sarpy County, NE"	"31153"	"85+ years"	"85+"	"Jan., 2017"	"2017/01"	30	Not Applicable	Not Applicable
+	"Sarpy County, NE"	"31153"	"85+ years"	"85+"	"Feb., 2017"	"2017/02"	26	Not Applicable	Not Applicable
+	"Sarpy County, NE"	"31153"	"85+ years"	"85+"	"Mar., 2017"	"2017/03"	29	Not Applicable	Not Applicable
+	"Sarpy County, NE"	"31153"	"85+ years"	"85+"	"Apr., 2017"	"2017/04"	28	Not Applicable	Not Applicable
+	"Sarpy County, NE"	"31153"	"85+ years"	"85+"	"May, 2017"	"2017/05"	30	Not Applicable	Not Applicable
+	"Sarpy County, NE"	"31153"	"85+ years"	"85+"	"Jun., 2017"	"2017/06"	27	Not Applicable	Not Applicable
+	"Sarpy County, NE"	"31153"	"85+ years"	"85+"	"Jul., 2017"	"2017/07"	25	Not Applicable	Not Applicable
+	"Sarpy County, NE"	"31153"	"85+ years"	"85+"	"Aug., 2017"	"2017/08"	23	Not Applicable	Not Applicable
+	"Sarpy County, NE"	"31153"	"85+ years"	"85+"	"Sep., 2017"	"2017/09"	25	Not Applicable	Not Applicable
+	"Sarpy County, NE"	"31153"	"85+ years"	"85+"	"Oct., 2017"	"2017/10"	24	Not Applicable	Not Applicable
+	"Sarpy County, NE"	"31153"	"85+ years"	"85+"	"Nov., 2017"	"2017/11"	24	Not Applicable	Not Applicable
+	"Sarpy County, NE"	"31153"	"85+ years"	"85+"	"Dec., 2017"	"2017/12"	34	Not Applicable	Not Applicable
+	"Sarpy County, NE"	"31153"	"85+ years"	"85+"	"Jan., 2018"	"2018/01"	42	Not Applicable	Not Applicable
+	"Sarpy County, NE"	"31153"	"85+ years"	"85+"	"Feb., 2018"	"2018/02"	28	Not Applicable	Not Applicable
+	"Sarpy County, NE"	"31153"	"85+ years"	"85+"	"Mar., 2018"	"2018/03"	26	Not Applicable	Not Applicable
+	"Sarpy County, NE"	"31153"	"85+ years"	"85+"	"Apr., 2018"	"2018/04"	22	Not Applicable	Not Applicable
+	"Sarpy County, NE"	"31153"	"85+ years"	"85+"	"May, 2018"	"2018/05"	28	Not Applicable	Not Applicable
+	"Sarpy County, NE"	"31153"	"85+ years"	"85+"	"Jun., 2018"	"2018/06"	29	Not Applicable	Not Applicable
+	"Sarpy County, NE"	"31153"	"85+ years"	"85+"	"Jul., 2018"	"2018/07"	24	Not Applicable	Not Applicable
+	"Sarpy County, NE"	"31153"	"85+ years"	"85+"	"Aug., 2018"	"2018/08"	32	Not Applicable	Not Applicable
+	"Sarpy County, NE"	"31153"	"85+ years"	"85+"	"Sep., 2018"	"2018/09"	33	Not Applicable	Not Applicable
+	"Sarpy County, NE"	"31153"	"85+ years"	"85+"	"Oct., 2018"	"2018/10"	31	Not Applicable	Not Applicable
+	"Sarpy County, NE"	"31153"	"85+ years"	"85+"	"Nov., 2018"	"2018/11"	27	Not Applicable	Not Applicable
+	"Sarpy County, NE"	"31153"	"85+ years"	"85+"	"Dec., 2018"	"2018/12"	21	Not Applicable	Not Applicable
+	"Saunders County, NE"	"31155"	"85+ years"	"85+"	"Jan., 2016"	"2016/01"	14	Not Applicable	Not Applicable
+	"Saunders County, NE"	"31155"	"85+ years"	"85+"	"Jan., 2018"	"2018/01"	18	Not Applicable	Not Applicable
+	"Saunders County, NE"	"31155"	"85+ years"	"85+"	"Dec., 2018"	"2018/12"	11	Not Applicable	Not Applicable
+	"Scotts Bluff County, NE"	"31157"	"65-74 years"	"65-74"	"Feb., 2016"	"2016/02"	10	Not Applicable	Not Applicable
+	"Scotts Bluff County, NE"	"31157"	"65-74 years"	"65-74"	"Nov., 2016"	"2016/11"	11	Not Applicable	Not Applicable
+	"Scotts Bluff County, NE"	"31157"	"65-74 years"	"65-74"	"Mar., 2017"	"2017/03"	10	Not Applicable	Not Applicable
+	"Scotts Bluff County, NE"	"31157"	"65-74 years"	"65-74"	"Oct., 2017"	"2017/10"	11	Not Applicable	Not Applicable
+	"Scotts Bluff County, NE"	"31157"	"65-74 years"	"65-74"	"Nov., 2018"	"2018/11"	13	Not Applicable	Not Applicable
+	"Scotts Bluff County, NE"	"31157"	"75-84 years"	"75-84"	"Mar., 2016"	"2016/03"	10	Not Applicable	Not Applicable
+	"Scotts Bluff County, NE"	"31157"	"75-84 years"	"75-84"	"Apr., 2016"	"2016/04"	12	Not Applicable	Not Applicable
+	"Scotts Bluff County, NE"	"31157"	"75-84 years"	"75-84"	"Jun., 2016"	"2016/06"	10	Not Applicable	Not Applicable
+	"Scotts Bluff County, NE"	"31157"	"75-84 years"	"75-84"	"Sep., 2016"	"2016/09"	10	Not Applicable	Not Applicable
+	"Scotts Bluff County, NE"	"31157"	"75-84 years"	"75-84"	"Oct., 2016"	"2016/10"	11	Not Applicable	Not Applicable
+	"Scotts Bluff County, NE"	"31157"	"75-84 years"	"75-84"	"Jan., 2017"	"2017/01"	10	Not Applicable	Not Applicable
+	"Scotts Bluff County, NE"	"31157"	"75-84 years"	"75-84"	"May, 2017"	"2017/05"	10	Not Applicable	Not Applicable
+	"Scotts Bluff County, NE"	"31157"	"75-84 years"	"75-84"	"Jul., 2017"	"2017/07"	11	Not Applicable	Not Applicable
+	"Scotts Bluff County, NE"	"31157"	"75-84 years"	"75-84"	"Jan., 2018"	"2018/01"	10	Not Applicable	Not Applicable
+	"Scotts Bluff County, NE"	"31157"	"75-84 years"	"75-84"	"Sep., 2018"	"2018/09"	10	Not Applicable	Not Applicable
+	"Scotts Bluff County, NE"	"31157"	"85+ years"	"85+"	"Jan., 2016"	"2016/01"	12	Not Applicable	Not Applicable
+	"Scotts Bluff County, NE"	"31157"	"85+ years"	"85+"	"Feb., 2016"	"2016/02"	13	Not Applicable	Not Applicable
+	"Scotts Bluff County, NE"	"31157"	"85+ years"	"85+"	"Mar., 2016"	"2016/03"	10	Not Applicable	Not Applicable
+	"Scotts Bluff County, NE"	"31157"	"85+ years"	"85+"	"Apr., 2016"	"2016/04"	11	Not Applicable	Not Applicable
+	"Scotts Bluff County, NE"	"31157"	"85+ years"	"85+"	"May, 2016"	"2016/05"	10	Not Applicable	Not Applicable
+	"Scotts Bluff County, NE"	"31157"	"85+ years"	"85+"	"Jun., 2016"	"2016/06"	11	Not Applicable	Not Applicable
+	"Scotts Bluff County, NE"	"31157"	"85+ years"	"85+"	"Sep., 2016"	"2016/09"	17	Not Applicable	Not Applicable
+	"Scotts Bluff County, NE"	"31157"	"85+ years"	"85+"	"Dec., 2016"	"2016/12"	18	Not Applicable	Not Applicable
+	"Scotts Bluff County, NE"	"31157"	"85+ years"	"85+"	"Jan., 2017"	"2017/01"	18	Not Applicable	Not Applicable
+	"Scotts Bluff County, NE"	"31157"	"85+ years"	"85+"	"Feb., 2017"	"2017/02"	17	Not Applicable	Not Applicable
+	"Scotts Bluff County, NE"	"31157"	"85+ years"	"85+"	"Mar., 2017"	"2017/03"	14	Not Applicable	Not Applicable
+	"Scotts Bluff County, NE"	"31157"	"85+ years"	"85+"	"Apr., 2017"	"2017/04"	11	Not Applicable	Not Applicable
+	"Scotts Bluff County, NE"	"31157"	"85+ years"	"85+"	"May, 2017"	"2017/05"	16	Not Applicable	Not Applicable
+	"Scotts Bluff County, NE"	"31157"	"85+ years"	"85+"	"Jun., 2017"	"2017/06"	11	Not Applicable	Not Applicable
+	"Scotts Bluff County, NE"	"31157"	"85+ years"	"85+"	"Jul., 2017"	"2017/07"	18	Not Applicable	Not Applicable
+	"Scotts Bluff County, NE"	"31157"	"85+ years"	"85+"	"Aug., 2017"	"2017/08"	14	Not Applicable	Not Applicable
+	"Scotts Bluff County, NE"	"31157"	"85+ years"	"85+"	"Sep., 2017"	"2017/09"	12	Not Applicable	Not Applicable
+	"Scotts Bluff County, NE"	"31157"	"85+ years"	"85+"	"Oct., 2017"	"2017/10"	17	Not Applicable	Not Applicable
+	"Scotts Bluff County, NE"	"31157"	"85+ years"	"85+"	"Nov., 2017"	"2017/11"	11	Not Applicable	Not Applicable
+	"Scotts Bluff County, NE"	"31157"	"85+ years"	"85+"	"Dec., 2017"	"2017/12"	17	Not Applicable	Not Applicable
+	"Scotts Bluff County, NE"	"31157"	"85+ years"	"85+"	"Jan., 2018"	"2018/01"	12	Not Applicable	Not Applicable
+	"Scotts Bluff County, NE"	"31157"	"85+ years"	"85+"	"Feb., 2018"	"2018/02"	17	Not Applicable	Not Applicable
+	"Scotts Bluff County, NE"	"31157"	"85+ years"	"85+"	"Mar., 2018"	"2018/03"	10	Not Applicable	Not Applicable
+	"Scotts Bluff County, NE"	"31157"	"85+ years"	"85+"	"Apr., 2018"	"2018/04"	14	Not Applicable	Not Applicable
+	"Scotts Bluff County, NE"	"31157"	"85+ years"	"85+"	"May, 2018"	"2018/05"	11	Not Applicable	Not Applicable
+	"Scotts Bluff County, NE"	"31157"	"85+ years"	"85+"	"Jun., 2018"	"2018/06"	14	Not Applicable	Not Applicable
+	"Scotts Bluff County, NE"	"31157"	"85+ years"	"85+"	"Jul., 2018"	"2018/07"	13	Not Applicable	Not Applicable
+	"Scotts Bluff County, NE"	"31157"	"85+ years"	"85+"	"Aug., 2018"	"2018/08"	15	Not Applicable	Not Applicable
+	"Scotts Bluff County, NE"	"31157"	"85+ years"	"85+"	"Sep., 2018"	"2018/09"	10	Not Applicable	Not Applicable
+	"Scotts Bluff County, NE"	"31157"	"85+ years"	"85+"	"Oct., 2018"	"2018/10"	11	Not Applicable	Not Applicable
+	"Scotts Bluff County, NE"	"31157"	"85+ years"	"85+"	"Nov., 2018"	"2018/11"	12	Not Applicable	Not Applicable
+	"Seward County, NE"	"31159"	"75-84 years"	"75-84"	"Feb., 2016"	"2016/02"	10	Not Applicable	Not Applicable
+	"Seward County, NE"	"31159"	"85+ years"	"85+"	"Jan., 2016"	"2016/01"	11	Not Applicable	Not Applicable
+	"Washington County, NE"	"31177"	"85+ years"	"85+"	"Apr., 2017"	"2017/04"	11	Not Applicable	Not Applicable
+	"Wayne County, NE"	"31179"	"85+ years"	"85+"	"Mar., 2016"	"2016/03"	10	Not Applicable	Not Applicable
+	"York County, NE"	"31185"	"85+ years"	"85+"	"Mar., 2016"	"2016/03"	10	Not Applicable	Not Applicable
+	"York County, NE"	"31185"	"85+ years"	"85+"	"Apr., 2016"	"2016/04"	10	Not Applicable	Not Applicable
+	"York County, NE"	"31185"	"85+ years"	"85+"	"Aug., 2016"	"2016/08"	11	Not Applicable	Not Applicable
+	"York County, NE"	"31185"	"85+ years"	"85+"	"Dec., 2018"	"2018/12"	10	Not Applicable	Not Applicable
+"---"
+"Dataset: Underlying Cause of Death, 1999-2020"
+"Query Parameters:"
+"Title: Nebraska_2016-2018"
+"States: Nebraska (31)"
+"Ten-Year Age Groups: 55-64 years; 65-74 years; 75-84 years; 85+ years"
+"Year/Month: 2016; 2017; 2018"
+"Group By: County; Ten-Year Age Groups; Month"
+"Show Totals: Disabled"
+"Show Zero Values: True"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/ucd.html for more information."
+"---"
+"Query Date: Oct 22, 2022 3:01:36 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Mortality 1999-2020 on CDC WONDER Online Database, released in 2021. Data are from the Multiple Cause of Death Files,"
+"1999-2020, as compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative"
+"Program. Accessed at http://wonder.cdc.gov/ucd-icd10.html on Oct 22, 2022 3:01:36 PM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"2. Rows with suppressed Deaths are hidden. Use Quick Options above to show suppressed rows."
+"---"
+Caveats:
+"1. Population and rates are labeled 'Not Applicable' when Autopsy, Place of Death, Weekday or Month are grouped by or limited,"
+"due to lack of a valid population. More information: http://wonder.cdc.gov/wonder/help/ucd.html#NotApplicableRates."
+"2. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Assurance of Confidentiality."
+"3. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Unreliable."
+"4. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,"
+"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Not Stated."
