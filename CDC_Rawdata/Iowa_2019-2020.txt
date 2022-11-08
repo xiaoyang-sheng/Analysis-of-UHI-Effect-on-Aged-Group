@@ -1,0 +1,1604 @@
+"Notes"	"County"	"County Code"	"Ten-Year Age Groups"	"Ten-Year Age Groups Code"	"Month"	"Month Code"	Deaths	Population	Crude Rate
+	"Adair County, IA"	"19001"	"85+ years"	"85+"	"Nov., 2020 "	"2020/11"	17	Not Applicable	Not Applicable
+	"Allamakee County, IA"	"19005"	"75-84 years"	"75-84"	"Jan., 2020 "	"2020/01"	12	Not Applicable	Not Applicable
+	"Allamakee County, IA"	"19005"	"85+ years"	"85+"	"Nov., 2019"	"2019/11"	11	Not Applicable	Not Applicable
+	"Allamakee County, IA"	"19005"	"85+ years"	"85+"	"Jan., 2020 "	"2020/01"	11	Not Applicable	Not Applicable
+	"Allamakee County, IA"	"19005"	"85+ years"	"85+"	"Feb., 2020 "	"2020/02"	11	Not Applicable	Not Applicable
+	"Allamakee County, IA"	"19005"	"85+ years"	"85+"	"Oct., 2020 "	"2020/10"	10	Not Applicable	Not Applicable
+	"Allamakee County, IA"	"19005"	"85+ years"	"85+"	"Nov., 2020 "	"2020/11"	10	Not Applicable	Not Applicable
+	"Allamakee County, IA"	"19005"	"85+ years"	"85+"	"Dec., 2020 "	"2020/12"	10	Not Applicable	Not Applicable
+	"Appanoose County, IA"	"19007"	"85+ years"	"85+"	"Jan., 2019"	"2019/01"	10	Not Applicable	Not Applicable
+	"Appanoose County, IA"	"19007"	"85+ years"	"85+"	"Aug., 2020 "	"2020/08"	12	Not Applicable	Not Applicable
+	"Appanoose County, IA"	"19007"	"85+ years"	"85+"	"Nov., 2020 "	"2020/11"	19	Not Applicable	Not Applicable
+	"Appanoose County, IA"	"19007"	"85+ years"	"85+"	"Dec., 2020 "	"2020/12"	10	Not Applicable	Not Applicable
+	"Benton County, IA"	"19011"	"65-74 years"	"65-74"	"Nov., 2020 "	"2020/11"	11	Not Applicable	Not Applicable
+	"Benton County, IA"	"19011"	"75-84 years"	"75-84"	"Nov., 2020 "	"2020/11"	15	Not Applicable	Not Applicable
+	"Benton County, IA"	"19011"	"75-84 years"	"75-84"	"Dec., 2020 "	"2020/12"	16	Not Applicable	Not Applicable
+	"Benton County, IA"	"19011"	"85+ years"	"85+"	"Mar., 2019"	"2019/03"	12	Not Applicable	Not Applicable
+	"Benton County, IA"	"19011"	"85+ years"	"85+"	"Apr., 2019"	"2019/04"	10	Not Applicable	Not Applicable
+	"Benton County, IA"	"19011"	"85+ years"	"85+"	"Oct., 2019"	"2019/10"	11	Not Applicable	Not Applicable
+	"Benton County, IA"	"19011"	"85+ years"	"85+"	"Jan., 2020 "	"2020/01"	10	Not Applicable	Not Applicable
+	"Benton County, IA"	"19011"	"85+ years"	"85+"	"Jul., 2020 "	"2020/07"	11	Not Applicable	Not Applicable
+	"Benton County, IA"	"19011"	"85+ years"	"85+"	"Sep., 2020 "	"2020/09"	11	Not Applicable	Not Applicable
+	"Benton County, IA"	"19011"	"85+ years"	"85+"	"Oct., 2020 "	"2020/10"	12	Not Applicable	Not Applicable
+	"Benton County, IA"	"19011"	"85+ years"	"85+"	"Nov., 2020 "	"2020/11"	23	Not Applicable	Not Applicable
+	"Benton County, IA"	"19011"	"85+ years"	"85+"	"Dec., 2020 "	"2020/12"	14	Not Applicable	Not Applicable
+	"Black Hawk County, IA"	"19013"	"55-64 years"	"55-64"	"Jan., 2019"	"2019/01"	12	Not Applicable	Not Applicable
+	"Black Hawk County, IA"	"19013"	"55-64 years"	"55-64"	"Feb., 2019"	"2019/02"	17	Not Applicable	Not Applicable
+	"Black Hawk County, IA"	"19013"	"55-64 years"	"55-64"	"Mar., 2019"	"2019/03"	14	Not Applicable	Not Applicable
+	"Black Hawk County, IA"	"19013"	"55-64 years"	"55-64"	"Apr., 2019"	"2019/04"	13	Not Applicable	Not Applicable
+	"Black Hawk County, IA"	"19013"	"55-64 years"	"55-64"	"May, 2019"	"2019/05"	15	Not Applicable	Not Applicable
+	"Black Hawk County, IA"	"19013"	"55-64 years"	"55-64"	"Jun., 2019"	"2019/06"	13	Not Applicable	Not Applicable
+	"Black Hawk County, IA"	"19013"	"55-64 years"	"55-64"	"Jul., 2019"	"2019/07"	17	Not Applicable	Not Applicable
+	"Black Hawk County, IA"	"19013"	"55-64 years"	"55-64"	"Aug., 2019"	"2019/08"	18	Not Applicable	Not Applicable
+	"Black Hawk County, IA"	"19013"	"55-64 years"	"55-64"	"Sep., 2019"	"2019/09"	12	Not Applicable	Not Applicable
+	"Black Hawk County, IA"	"19013"	"55-64 years"	"55-64"	"Oct., 2019"	"2019/10"	12	Not Applicable	Not Applicable
+	"Black Hawk County, IA"	"19013"	"55-64 years"	"55-64"	"Nov., 2019"	"2019/11"	15	Not Applicable	Not Applicable
+	"Black Hawk County, IA"	"19013"	"55-64 years"	"55-64"	"Dec., 2019"	"2019/12"	16	Not Applicable	Not Applicable
+	"Black Hawk County, IA"	"19013"	"55-64 years"	"55-64"	"Jan., 2020 "	"2020/01"	10	Not Applicable	Not Applicable
+	"Black Hawk County, IA"	"19013"	"55-64 years"	"55-64"	"Mar., 2020 "	"2020/03"	10	Not Applicable	Not Applicable
+	"Black Hawk County, IA"	"19013"	"55-64 years"	"55-64"	"Apr., 2020 "	"2020/04"	19	Not Applicable	Not Applicable
+	"Black Hawk County, IA"	"19013"	"55-64 years"	"55-64"	"May, 2020 "	"2020/05"	17	Not Applicable	Not Applicable
+	"Black Hawk County, IA"	"19013"	"55-64 years"	"55-64"	"Jul., 2020 "	"2020/07"	10	Not Applicable	Not Applicable
+	"Black Hawk County, IA"	"19013"	"55-64 years"	"55-64"	"Aug., 2020 "	"2020/08"	10	Not Applicable	Not Applicable
+	"Black Hawk County, IA"	"19013"	"55-64 years"	"55-64"	"Sep., 2020 "	"2020/09"	16	Not Applicable	Not Applicable
+	"Black Hawk County, IA"	"19013"	"55-64 years"	"55-64"	"Oct., 2020 "	"2020/10"	21	Not Applicable	Not Applicable
+	"Black Hawk County, IA"	"19013"	"55-64 years"	"55-64"	"Nov., 2020 "	"2020/11"	20	Not Applicable	Not Applicable
+	"Black Hawk County, IA"	"19013"	"55-64 years"	"55-64"	"Dec., 2020 "	"2020/12"	30	Not Applicable	Not Applicable
+	"Black Hawk County, IA"	"19013"	"65-74 years"	"65-74"	"Jan., 2019"	"2019/01"	29	Not Applicable	Not Applicable
+	"Black Hawk County, IA"	"19013"	"65-74 years"	"65-74"	"Feb., 2019"	"2019/02"	15	Not Applicable	Not Applicable
+	"Black Hawk County, IA"	"19013"	"65-74 years"	"65-74"	"Mar., 2019"	"2019/03"	16	Not Applicable	Not Applicable
+	"Black Hawk County, IA"	"19013"	"65-74 years"	"65-74"	"Apr., 2019"	"2019/04"	25	Not Applicable	Not Applicable
+	"Black Hawk County, IA"	"19013"	"65-74 years"	"65-74"	"May, 2019"	"2019/05"	19	Not Applicable	Not Applicable
+	"Black Hawk County, IA"	"19013"	"65-74 years"	"65-74"	"Jun., 2019"	"2019/06"	20	Not Applicable	Not Applicable
+	"Black Hawk County, IA"	"19013"	"65-74 years"	"65-74"	"Jul., 2019"	"2019/07"	16	Not Applicable	Not Applicable
+	"Black Hawk County, IA"	"19013"	"65-74 years"	"65-74"	"Aug., 2019"	"2019/08"	18	Not Applicable	Not Applicable
+	"Black Hawk County, IA"	"19013"	"65-74 years"	"65-74"	"Sep., 2019"	"2019/09"	18	Not Applicable	Not Applicable
+	"Black Hawk County, IA"	"19013"	"65-74 years"	"65-74"	"Oct., 2019"	"2019/10"	29	Not Applicable	Not Applicable
+	"Black Hawk County, IA"	"19013"	"65-74 years"	"65-74"	"Nov., 2019"	"2019/11"	18	Not Applicable	Not Applicable
+	"Black Hawk County, IA"	"19013"	"65-74 years"	"65-74"	"Dec., 2019"	"2019/12"	21	Not Applicable	Not Applicable
+	"Black Hawk County, IA"	"19013"	"65-74 years"	"65-74"	"Jan., 2020 "	"2020/01"	32	Not Applicable	Not Applicable
+	"Black Hawk County, IA"	"19013"	"65-74 years"	"65-74"	"Feb., 2020 "	"2020/02"	23	Not Applicable	Not Applicable
+	"Black Hawk County, IA"	"19013"	"65-74 years"	"65-74"	"Mar., 2020 "	"2020/03"	18	Not Applicable	Not Applicable
+	"Black Hawk County, IA"	"19013"	"65-74 years"	"65-74"	"Apr., 2020 "	"2020/04"	27	Not Applicable	Not Applicable
+	"Black Hawk County, IA"	"19013"	"65-74 years"	"65-74"	"May, 2020 "	"2020/05"	37	Not Applicable	Not Applicable
+	"Black Hawk County, IA"	"19013"	"65-74 years"	"65-74"	"Jun., 2020 "	"2020/06"	29	Not Applicable	Not Applicable
+	"Black Hawk County, IA"	"19013"	"65-74 years"	"65-74"	"Jul., 2020 "	"2020/07"	26	Not Applicable	Not Applicable
+	"Black Hawk County, IA"	"19013"	"65-74 years"	"65-74"	"Aug., 2020 "	"2020/08"	22	Not Applicable	Not Applicable
+	"Black Hawk County, IA"	"19013"	"65-74 years"	"65-74"	"Sep., 2020 "	"2020/09"	20	Not Applicable	Not Applicable
+	"Black Hawk County, IA"	"19013"	"65-74 years"	"65-74"	"Oct., 2020 "	"2020/10"	34	Not Applicable	Not Applicable
+	"Black Hawk County, IA"	"19013"	"65-74 years"	"65-74"	"Nov., 2020 "	"2020/11"	37	Not Applicable	Not Applicable
+	"Black Hawk County, IA"	"19013"	"65-74 years"	"65-74"	"Dec., 2020 "	"2020/12"	31	Not Applicable	Not Applicable
+	"Black Hawk County, IA"	"19013"	"75-84 years"	"75-84"	"Jan., 2019"	"2019/01"	25	Not Applicable	Not Applicable
+	"Black Hawk County, IA"	"19013"	"75-84 years"	"75-84"	"Feb., 2019"	"2019/02"	20	Not Applicable	Not Applicable
+	"Black Hawk County, IA"	"19013"	"75-84 years"	"75-84"	"Mar., 2019"	"2019/03"	29	Not Applicable	Not Applicable
+	"Black Hawk County, IA"	"19013"	"75-84 years"	"75-84"	"Apr., 2019"	"2019/04"	32	Not Applicable	Not Applicable
+	"Black Hawk County, IA"	"19013"	"75-84 years"	"75-84"	"May, 2019"	"2019/05"	17	Not Applicable	Not Applicable
+	"Black Hawk County, IA"	"19013"	"75-84 years"	"75-84"	"Jun., 2019"	"2019/06"	27	Not Applicable	Not Applicable
+	"Black Hawk County, IA"	"19013"	"75-84 years"	"75-84"	"Jul., 2019"	"2019/07"	35	Not Applicable	Not Applicable
+	"Black Hawk County, IA"	"19013"	"75-84 years"	"75-84"	"Aug., 2019"	"2019/08"	27	Not Applicable	Not Applicable
+	"Black Hawk County, IA"	"19013"	"75-84 years"	"75-84"	"Sep., 2019"	"2019/09"	29	Not Applicable	Not Applicable
+	"Black Hawk County, IA"	"19013"	"75-84 years"	"75-84"	"Oct., 2019"	"2019/10"	18	Not Applicable	Not Applicable
+	"Black Hawk County, IA"	"19013"	"75-84 years"	"75-84"	"Nov., 2019"	"2019/11"	30	Not Applicable	Not Applicable
+	"Black Hawk County, IA"	"19013"	"75-84 years"	"75-84"	"Dec., 2019"	"2019/12"	23	Not Applicable	Not Applicable
+	"Black Hawk County, IA"	"19013"	"75-84 years"	"75-84"	"Jan., 2020 "	"2020/01"	26	Not Applicable	Not Applicable
+	"Black Hawk County, IA"	"19013"	"75-84 years"	"75-84"	"Feb., 2020 "	"2020/02"	23	Not Applicable	Not Applicable
+	"Black Hawk County, IA"	"19013"	"75-84 years"	"75-84"	"Mar., 2020 "	"2020/03"	22	Not Applicable	Not Applicable
+	"Black Hawk County, IA"	"19013"	"75-84 years"	"75-84"	"Apr., 2020 "	"2020/04"	23	Not Applicable	Not Applicable
+	"Black Hawk County, IA"	"19013"	"75-84 years"	"75-84"	"May, 2020 "	"2020/05"	22	Not Applicable	Not Applicable
+	"Black Hawk County, IA"	"19013"	"75-84 years"	"75-84"	"Jun., 2020 "	"2020/06"	28	Not Applicable	Not Applicable
+	"Black Hawk County, IA"	"19013"	"75-84 years"	"75-84"	"Jul., 2020 "	"2020/07"	25	Not Applicable	Not Applicable
+	"Black Hawk County, IA"	"19013"	"75-84 years"	"75-84"	"Aug., 2020 "	"2020/08"	33	Not Applicable	Not Applicable
+	"Black Hawk County, IA"	"19013"	"75-84 years"	"75-84"	"Sep., 2020 "	"2020/09"	28	Not Applicable	Not Applicable
+	"Black Hawk County, IA"	"19013"	"75-84 years"	"75-84"	"Oct., 2020 "	"2020/10"	28	Not Applicable	Not Applicable
+	"Black Hawk County, IA"	"19013"	"75-84 years"	"75-84"	"Nov., 2020 "	"2020/11"	72	Not Applicable	Not Applicable
+	"Black Hawk County, IA"	"19013"	"75-84 years"	"75-84"	"Dec., 2020 "	"2020/12"	38	Not Applicable	Not Applicable
+	"Black Hawk County, IA"	"19013"	"85+ years"	"85+"	"Jan., 2019"	"2019/01"	29	Not Applicable	Not Applicable
+	"Black Hawk County, IA"	"19013"	"85+ years"	"85+"	"Feb., 2019"	"2019/02"	38	Not Applicable	Not Applicable
+	"Black Hawk County, IA"	"19013"	"85+ years"	"85+"	"Mar., 2019"	"2019/03"	35	Not Applicable	Not Applicable
+	"Black Hawk County, IA"	"19013"	"85+ years"	"85+"	"Apr., 2019"	"2019/04"	38	Not Applicable	Not Applicable
+	"Black Hawk County, IA"	"19013"	"85+ years"	"85+"	"May, 2019"	"2019/05"	31	Not Applicable	Not Applicable
+	"Black Hawk County, IA"	"19013"	"85+ years"	"85+"	"Jun., 2019"	"2019/06"	33	Not Applicable	Not Applicable
+	"Black Hawk County, IA"	"19013"	"85+ years"	"85+"	"Jul., 2019"	"2019/07"	32	Not Applicable	Not Applicable
+	"Black Hawk County, IA"	"19013"	"85+ years"	"85+"	"Aug., 2019"	"2019/08"	32	Not Applicable	Not Applicable
+	"Black Hawk County, IA"	"19013"	"85+ years"	"85+"	"Sep., 2019"	"2019/09"	43	Not Applicable	Not Applicable
+	"Black Hawk County, IA"	"19013"	"85+ years"	"85+"	"Oct., 2019"	"2019/10"	38	Not Applicable	Not Applicable
+	"Black Hawk County, IA"	"19013"	"85+ years"	"85+"	"Nov., 2019"	"2019/11"	34	Not Applicable	Not Applicable
+	"Black Hawk County, IA"	"19013"	"85+ years"	"85+"	"Dec., 2019"	"2019/12"	49	Not Applicable	Not Applicable
+	"Black Hawk County, IA"	"19013"	"85+ years"	"85+"	"Jan., 2020 "	"2020/01"	36	Not Applicable	Not Applicable
+	"Black Hawk County, IA"	"19013"	"85+ years"	"85+"	"Feb., 2020 "	"2020/02"	32	Not Applicable	Not Applicable
+	"Black Hawk County, IA"	"19013"	"85+ years"	"85+"	"Mar., 2020 "	"2020/03"	28	Not Applicable	Not Applicable
+	"Black Hawk County, IA"	"19013"	"85+ years"	"85+"	"Apr., 2020 "	"2020/04"	41	Not Applicable	Not Applicable
+	"Black Hawk County, IA"	"19013"	"85+ years"	"85+"	"May, 2020 "	"2020/05"	47	Not Applicable	Not Applicable
+	"Black Hawk County, IA"	"19013"	"85+ years"	"85+"	"Jun., 2020 "	"2020/06"	35	Not Applicable	Not Applicable
+	"Black Hawk County, IA"	"19013"	"85+ years"	"85+"	"Jul., 2020 "	"2020/07"	31	Not Applicable	Not Applicable
+	"Black Hawk County, IA"	"19013"	"85+ years"	"85+"	"Aug., 2020 "	"2020/08"	41	Not Applicable	Not Applicable
+	"Black Hawk County, IA"	"19013"	"85+ years"	"85+"	"Sep., 2020 "	"2020/09"	24	Not Applicable	Not Applicable
+	"Black Hawk County, IA"	"19013"	"85+ years"	"85+"	"Oct., 2020 "	"2020/10"	42	Not Applicable	Not Applicable
+	"Black Hawk County, IA"	"19013"	"85+ years"	"85+"	"Nov., 2020 "	"2020/11"	79	Not Applicable	Not Applicable
+	"Black Hawk County, IA"	"19013"	"85+ years"	"85+"	"Dec., 2020 "	"2020/12"	52	Not Applicable	Not Applicable
+	"Boone County, IA"	"19015"	"75-84 years"	"75-84"	"Mar., 2019"	"2019/03"	12	Not Applicable	Not Applicable
+	"Boone County, IA"	"19015"	"75-84 years"	"75-84"	"Jul., 2020 "	"2020/07"	11	Not Applicable	Not Applicable
+	"Boone County, IA"	"19015"	"85+ years"	"85+"	"Mar., 2019"	"2019/03"	15	Not Applicable	Not Applicable
+	"Boone County, IA"	"19015"	"85+ years"	"85+"	"Apr., 2019"	"2019/04"	13	Not Applicable	Not Applicable
+	"Boone County, IA"	"19015"	"85+ years"	"85+"	"May, 2019"	"2019/05"	11	Not Applicable	Not Applicable
+	"Boone County, IA"	"19015"	"85+ years"	"85+"	"Jun., 2019"	"2019/06"	11	Not Applicable	Not Applicable
+	"Boone County, IA"	"19015"	"85+ years"	"85+"	"Sep., 2019"	"2019/09"	11	Not Applicable	Not Applicable
+	"Boone County, IA"	"19015"	"85+ years"	"85+"	"Oct., 2019"	"2019/10"	10	Not Applicable	Not Applicable
+	"Boone County, IA"	"19015"	"85+ years"	"85+"	"Dec., 2019"	"2019/12"	18	Not Applicable	Not Applicable
+	"Boone County, IA"	"19015"	"85+ years"	"85+"	"Jan., 2020 "	"2020/01"	12	Not Applicable	Not Applicable
+	"Boone County, IA"	"19015"	"85+ years"	"85+"	"Mar., 2020 "	"2020/03"	12	Not Applicable	Not Applicable
+	"Boone County, IA"	"19015"	"85+ years"	"85+"	"Apr., 2020 "	"2020/04"	12	Not Applicable	Not Applicable
+	"Boone County, IA"	"19015"	"85+ years"	"85+"	"May, 2020 "	"2020/05"	12	Not Applicable	Not Applicable
+	"Boone County, IA"	"19015"	"85+ years"	"85+"	"Aug., 2020 "	"2020/08"	12	Not Applicable	Not Applicable
+	"Boone County, IA"	"19015"	"85+ years"	"85+"	"Sep., 2020 "	"2020/09"	11	Not Applicable	Not Applicable
+	"Boone County, IA"	"19015"	"85+ years"	"85+"	"Oct., 2020 "	"2020/10"	11	Not Applicable	Not Applicable
+	"Boone County, IA"	"19015"	"85+ years"	"85+"	"Nov., 2020 "	"2020/11"	16	Not Applicable	Not Applicable
+	"Boone County, IA"	"19015"	"85+ years"	"85+"	"Dec., 2020 "	"2020/12"	10	Not Applicable	Not Applicable
+	"Bremer County, IA"	"19017"	"65-74 years"	"65-74"	"Mar., 2020 "	"2020/03"	10	Not Applicable	Not Applicable
+	"Bremer County, IA"	"19017"	"75-84 years"	"75-84"	"Apr., 2019"	"2019/04"	10	Not Applicable	Not Applicable
+	"Bremer County, IA"	"19017"	"75-84 years"	"75-84"	"Oct., 2020 "	"2020/10"	10	Not Applicable	Not Applicable
+	"Bremer County, IA"	"19017"	"75-84 years"	"75-84"	"Nov., 2020 "	"2020/11"	10	Not Applicable	Not Applicable
+	"Bremer County, IA"	"19017"	"85+ years"	"85+"	"Jan., 2019"	"2019/01"	11	Not Applicable	Not Applicable
+	"Bremer County, IA"	"19017"	"85+ years"	"85+"	"Apr., 2019"	"2019/04"	10	Not Applicable	Not Applicable
+	"Bremer County, IA"	"19017"	"85+ years"	"85+"	"Oct., 2019"	"2019/10"	10	Not Applicable	Not Applicable
+	"Bremer County, IA"	"19017"	"85+ years"	"85+"	"Nov., 2019"	"2019/11"	11	Not Applicable	Not Applicable
+	"Bremer County, IA"	"19017"	"85+ years"	"85+"	"Apr., 2020 "	"2020/04"	17	Not Applicable	Not Applicable
+	"Bremer County, IA"	"19017"	"85+ years"	"85+"	"May, 2020 "	"2020/05"	11	Not Applicable	Not Applicable
+	"Bremer County, IA"	"19017"	"85+ years"	"85+"	"Jun., 2020 "	"2020/06"	12	Not Applicable	Not Applicable
+	"Bremer County, IA"	"19017"	"85+ years"	"85+"	"Sep., 2020 "	"2020/09"	11	Not Applicable	Not Applicable
+	"Bremer County, IA"	"19017"	"85+ years"	"85+"	"Oct., 2020 "	"2020/10"	15	Not Applicable	Not Applicable
+	"Bremer County, IA"	"19017"	"85+ years"	"85+"	"Nov., 2020 "	"2020/11"	22	Not Applicable	Not Applicable
+	"Buchanan County, IA"	"19019"	"75-84 years"	"75-84"	"Oct., 2019"	"2019/10"	11	Not Applicable	Not Applicable
+	"Buchanan County, IA"	"19019"	"75-84 years"	"75-84"	"Dec., 2020 "	"2020/12"	10	Not Applicable	Not Applicable
+	"Buchanan County, IA"	"19019"	"85+ years"	"85+"	"Apr., 2019"	"2019/04"	10	Not Applicable	Not Applicable
+	"Buchanan County, IA"	"19019"	"85+ years"	"85+"	"May, 2019"	"2019/05"	10	Not Applicable	Not Applicable
+	"Buchanan County, IA"	"19019"	"85+ years"	"85+"	"Feb., 2020 "	"2020/02"	10	Not Applicable	Not Applicable
+	"Buchanan County, IA"	"19019"	"85+ years"	"85+"	"Apr., 2020 "	"2020/04"	10	Not Applicable	Not Applicable
+	"Buchanan County, IA"	"19019"	"85+ years"	"85+"	"Oct., 2020 "	"2020/10"	14	Not Applicable	Not Applicable
+	"Buchanan County, IA"	"19019"	"85+ years"	"85+"	"Nov., 2020 "	"2020/11"	13	Not Applicable	Not Applicable
+	"Buena Vista County, IA"	"19021"	"85+ years"	"85+"	"May, 2019"	"2019/05"	11	Not Applicable	Not Applicable
+	"Buena Vista County, IA"	"19021"	"85+ years"	"85+"	"Aug., 2019"	"2019/08"	11	Not Applicable	Not Applicable
+	"Buena Vista County, IA"	"19021"	"85+ years"	"85+"	"Jun., 2020 "	"2020/06"	12	Not Applicable	Not Applicable
+	"Buena Vista County, IA"	"19021"	"85+ years"	"85+"	"Nov., 2020 "	"2020/11"	11	Not Applicable	Not Applicable
+	"Buena Vista County, IA"	"19021"	"85+ years"	"85+"	"Dec., 2020 "	"2020/12"	18	Not Applicable	Not Applicable
+	"Butler County, IA"	"19023"	"75-84 years"	"75-84"	"Nov., 2019"	"2019/11"	11	Not Applicable	Not Applicable
+	"Butler County, IA"	"19023"	"85+ years"	"85+"	"May, 2019"	"2019/05"	12	Not Applicable	Not Applicable
+	"Butler County, IA"	"19023"	"85+ years"	"85+"	"Jan., 2020 "	"2020/01"	10	Not Applicable	Not Applicable
+	"Butler County, IA"	"19023"	"85+ years"	"85+"	"Nov., 2020 "	"2020/11"	13	Not Applicable	Not Applicable
+	"Butler County, IA"	"19023"	"85+ years"	"85+"	"Dec., 2020 "	"2020/12"	13	Not Applicable	Not Applicable
+	"Calhoun County, IA"	"19025"	"85+ years"	"85+"	"Dec., 2020 "	"2020/12"	11	Not Applicable	Not Applicable
+	"Carroll County, IA"	"19027"	"75-84 years"	"75-84"	"Jul., 2020 "	"2020/07"	11	Not Applicable	Not Applicable
+	"Carroll County, IA"	"19027"	"75-84 years"	"75-84"	"Sep., 2020 "	"2020/09"	10	Not Applicable	Not Applicable
+	"Carroll County, IA"	"19027"	"75-84 years"	"75-84"	"Dec., 2020 "	"2020/12"	11	Not Applicable	Not Applicable
+	"Carroll County, IA"	"19027"	"85+ years"	"85+"	"Jan., 2019"	"2019/01"	14	Not Applicable	Not Applicable
+	"Carroll County, IA"	"19027"	"85+ years"	"85+"	"Mar., 2019"	"2019/03"	13	Not Applicable	Not Applicable
+	"Carroll County, IA"	"19027"	"85+ years"	"85+"	"May, 2019"	"2019/05"	14	Not Applicable	Not Applicable
+	"Carroll County, IA"	"19027"	"85+ years"	"85+"	"Jan., 2020 "	"2020/01"	12	Not Applicable	Not Applicable
+	"Carroll County, IA"	"19027"	"85+ years"	"85+"	"Mar., 2020 "	"2020/03"	11	Not Applicable	Not Applicable
+	"Carroll County, IA"	"19027"	"85+ years"	"85+"	"Jun., 2020 "	"2020/06"	11	Not Applicable	Not Applicable
+	"Carroll County, IA"	"19027"	"85+ years"	"85+"	"Aug., 2020 "	"2020/08"	11	Not Applicable	Not Applicable
+	"Carroll County, IA"	"19027"	"85+ years"	"85+"	"Oct., 2020 "	"2020/10"	16	Not Applicable	Not Applicable
+	"Carroll County, IA"	"19027"	"85+ years"	"85+"	"Nov., 2020 "	"2020/11"	18	Not Applicable	Not Applicable
+	"Cass County, IA"	"19029"	"75-84 years"	"75-84"	"Nov., 2020 "	"2020/11"	10	Not Applicable	Not Applicable
+	"Cass County, IA"	"19029"	"85+ years"	"85+"	"Nov., 2020 "	"2020/11"	21	Not Applicable	Not Applicable
+	"Cedar County, IA"	"19031"	"85+ years"	"85+"	"May, 2019"	"2019/05"	11	Not Applicable	Not Applicable
+	"Cedar County, IA"	"19031"	"85+ years"	"85+"	"Oct., 2019"	"2019/10"	10	Not Applicable	Not Applicable
+	"Cedar County, IA"	"19031"	"85+ years"	"85+"	"Dec., 2020 "	"2020/12"	10	Not Applicable	Not Applicable
+	"Cerro Gordo County, IA"	"19033"	"55-64 years"	"55-64"	"Jan., 2019"	"2019/01"	10	Not Applicable	Not Applicable
+	"Cerro Gordo County, IA"	"19033"	"55-64 years"	"55-64"	"Sep., 2020 "	"2020/09"	10	Not Applicable	Not Applicable
+	"Cerro Gordo County, IA"	"19033"	"55-64 years"	"55-64"	"Nov., 2020 "	"2020/11"	11	Not Applicable	Not Applicable
+	"Cerro Gordo County, IA"	"19033"	"65-74 years"	"65-74"	"Mar., 2019"	"2019/03"	10	Not Applicable	Not Applicable
+	"Cerro Gordo County, IA"	"19033"	"65-74 years"	"65-74"	"Jul., 2019"	"2019/07"	10	Not Applicable	Not Applicable
+	"Cerro Gordo County, IA"	"19033"	"65-74 years"	"65-74"	"Dec., 2019"	"2019/12"	12	Not Applicable	Not Applicable
+	"Cerro Gordo County, IA"	"19033"	"65-74 years"	"65-74"	"Jan., 2020 "	"2020/01"	12	Not Applicable	Not Applicable
+	"Cerro Gordo County, IA"	"19033"	"65-74 years"	"65-74"	"Mar., 2020 "	"2020/03"	12	Not Applicable	Not Applicable
+	"Cerro Gordo County, IA"	"19033"	"65-74 years"	"65-74"	"May, 2020 "	"2020/05"	11	Not Applicable	Not Applicable
+	"Cerro Gordo County, IA"	"19033"	"65-74 years"	"65-74"	"Jul., 2020 "	"2020/07"	10	Not Applicable	Not Applicable
+	"Cerro Gordo County, IA"	"19033"	"65-74 years"	"65-74"	"Sep., 2020 "	"2020/09"	10	Not Applicable	Not Applicable
+	"Cerro Gordo County, IA"	"19033"	"65-74 years"	"65-74"	"Nov., 2020 "	"2020/11"	12	Not Applicable	Not Applicable
+	"Cerro Gordo County, IA"	"19033"	"65-74 years"	"65-74"	"Dec., 2020 "	"2020/12"	11	Not Applicable	Not Applicable
+	"Cerro Gordo County, IA"	"19033"	"75-84 years"	"75-84"	"Feb., 2019"	"2019/02"	11	Not Applicable	Not Applicable
+	"Cerro Gordo County, IA"	"19033"	"75-84 years"	"75-84"	"Mar., 2019"	"2019/03"	14	Not Applicable	Not Applicable
+	"Cerro Gordo County, IA"	"19033"	"75-84 years"	"75-84"	"Apr., 2019"	"2019/04"	12	Not Applicable	Not Applicable
+	"Cerro Gordo County, IA"	"19033"	"75-84 years"	"75-84"	"May, 2019"	"2019/05"	11	Not Applicable	Not Applicable
+	"Cerro Gordo County, IA"	"19033"	"75-84 years"	"75-84"	"Jun., 2019"	"2019/06"	12	Not Applicable	Not Applicable
+	"Cerro Gordo County, IA"	"19033"	"75-84 years"	"75-84"	"Jul., 2019"	"2019/07"	14	Not Applicable	Not Applicable
+	"Cerro Gordo County, IA"	"19033"	"75-84 years"	"75-84"	"Aug., 2019"	"2019/08"	12	Not Applicable	Not Applicable
+	"Cerro Gordo County, IA"	"19033"	"75-84 years"	"75-84"	"Oct., 2019"	"2019/10"	11	Not Applicable	Not Applicable
+	"Cerro Gordo County, IA"	"19033"	"75-84 years"	"75-84"	"Feb., 2020 "	"2020/02"	11	Not Applicable	Not Applicable
+	"Cerro Gordo County, IA"	"19033"	"75-84 years"	"75-84"	"Mar., 2020 "	"2020/03"	12	Not Applicable	Not Applicable
+	"Cerro Gordo County, IA"	"19033"	"75-84 years"	"75-84"	"Apr., 2020 "	"2020/04"	10	Not Applicable	Not Applicable
+	"Cerro Gordo County, IA"	"19033"	"75-84 years"	"75-84"	"May, 2020 "	"2020/05"	11	Not Applicable	Not Applicable
+	"Cerro Gordo County, IA"	"19033"	"75-84 years"	"75-84"	"Jun., 2020 "	"2020/06"	15	Not Applicable	Not Applicable
+	"Cerro Gordo County, IA"	"19033"	"75-84 years"	"75-84"	"Jul., 2020 "	"2020/07"	14	Not Applicable	Not Applicable
+	"Cerro Gordo County, IA"	"19033"	"75-84 years"	"75-84"	"Oct., 2020 "	"2020/10"	12	Not Applicable	Not Applicable
+	"Cerro Gordo County, IA"	"19033"	"75-84 years"	"75-84"	"Nov., 2020 "	"2020/11"	17	Not Applicable	Not Applicable
+	"Cerro Gordo County, IA"	"19033"	"75-84 years"	"75-84"	"Dec., 2020 "	"2020/12"	19	Not Applicable	Not Applicable
+	"Cerro Gordo County, IA"	"19033"	"85+ years"	"85+"	"Jan., 2019"	"2019/01"	17	Not Applicable	Not Applicable
+	"Cerro Gordo County, IA"	"19033"	"85+ years"	"85+"	"Feb., 2019"	"2019/02"	24	Not Applicable	Not Applicable
+	"Cerro Gordo County, IA"	"19033"	"85+ years"	"85+"	"Mar., 2019"	"2019/03"	23	Not Applicable	Not Applicable
+	"Cerro Gordo County, IA"	"19033"	"85+ years"	"85+"	"Apr., 2019"	"2019/04"	21	Not Applicable	Not Applicable
+	"Cerro Gordo County, IA"	"19033"	"85+ years"	"85+"	"May, 2019"	"2019/05"	19	Not Applicable	Not Applicable
+	"Cerro Gordo County, IA"	"19033"	"85+ years"	"85+"	"Jun., 2019"	"2019/06"	13	Not Applicable	Not Applicable
+	"Cerro Gordo County, IA"	"19033"	"85+ years"	"85+"	"Jul., 2019"	"2019/07"	18	Not Applicable	Not Applicable
+	"Cerro Gordo County, IA"	"19033"	"85+ years"	"85+"	"Aug., 2019"	"2019/08"	17	Not Applicable	Not Applicable
+	"Cerro Gordo County, IA"	"19033"	"85+ years"	"85+"	"Sep., 2019"	"2019/09"	13	Not Applicable	Not Applicable
+	"Cerro Gordo County, IA"	"19033"	"85+ years"	"85+"	"Oct., 2019"	"2019/10"	20	Not Applicable	Not Applicable
+	"Cerro Gordo County, IA"	"19033"	"85+ years"	"85+"	"Nov., 2019"	"2019/11"	17	Not Applicable	Not Applicable
+	"Cerro Gordo County, IA"	"19033"	"85+ years"	"85+"	"Dec., 2019"	"2019/12"	14	Not Applicable	Not Applicable
+	"Cerro Gordo County, IA"	"19033"	"85+ years"	"85+"	"Jan., 2020 "	"2020/01"	21	Not Applicable	Not Applicable
+	"Cerro Gordo County, IA"	"19033"	"85+ years"	"85+"	"Feb., 2020 "	"2020/02"	23	Not Applicable	Not Applicable
+	"Cerro Gordo County, IA"	"19033"	"85+ years"	"85+"	"Mar., 2020 "	"2020/03"	21	Not Applicable	Not Applicable
+	"Cerro Gordo County, IA"	"19033"	"85+ years"	"85+"	"Apr., 2020 "	"2020/04"	14	Not Applicable	Not Applicable
+	"Cerro Gordo County, IA"	"19033"	"85+ years"	"85+"	"May, 2020 "	"2020/05"	15	Not Applicable	Not Applicable
+	"Cerro Gordo County, IA"	"19033"	"85+ years"	"85+"	"Jun., 2020 "	"2020/06"	21	Not Applicable	Not Applicable
+	"Cerro Gordo County, IA"	"19033"	"85+ years"	"85+"	"Jul., 2020 "	"2020/07"	22	Not Applicable	Not Applicable
+	"Cerro Gordo County, IA"	"19033"	"85+ years"	"85+"	"Aug., 2020 "	"2020/08"	14	Not Applicable	Not Applicable
+	"Cerro Gordo County, IA"	"19033"	"85+ years"	"85+"	"Sep., 2020 "	"2020/09"	13	Not Applicable	Not Applicable
+	"Cerro Gordo County, IA"	"19033"	"85+ years"	"85+"	"Oct., 2020 "	"2020/10"	16	Not Applicable	Not Applicable
+	"Cerro Gordo County, IA"	"19033"	"85+ years"	"85+"	"Nov., 2020 "	"2020/11"	31	Not Applicable	Not Applicable
+	"Cerro Gordo County, IA"	"19033"	"85+ years"	"85+"	"Dec., 2020 "	"2020/12"	21	Not Applicable	Not Applicable
+	"Cherokee County, IA"	"19035"	"85+ years"	"85+"	"Jun., 2019"	"2019/06"	10	Not Applicable	Not Applicable
+	"Cherokee County, IA"	"19035"	"85+ years"	"85+"	"Nov., 2020 "	"2020/11"	10	Not Applicable	Not Applicable
+	"Cherokee County, IA"	"19035"	"85+ years"	"85+"	"Dec., 2020 "	"2020/12"	14	Not Applicable	Not Applicable
+	"Chickasaw County, IA"	"19037"	"85+ years"	"85+"	"Dec., 2020 "	"2020/12"	10	Not Applicable	Not Applicable
+	"Clay County, IA"	"19041"	"85+ years"	"85+"	"Aug., 2019"	"2019/08"	10	Not Applicable	Not Applicable
+	"Clay County, IA"	"19041"	"85+ years"	"85+"	"Nov., 2019"	"2019/11"	11	Not Applicable	Not Applicable
+	"Clay County, IA"	"19041"	"85+ years"	"85+"	"Apr., 2020 "	"2020/04"	12	Not Applicable	Not Applicable
+	"Clay County, IA"	"19041"	"85+ years"	"85+"	"Jun., 2020 "	"2020/06"	11	Not Applicable	Not Applicable
+	"Clay County, IA"	"19041"	"85+ years"	"85+"	"Dec., 2020 "	"2020/12"	11	Not Applicable	Not Applicable
+	"Clayton County, IA"	"19043"	"65-74 years"	"65-74"	"Dec., 2020 "	"2020/12"	10	Not Applicable	Not Applicable
+	"Clayton County, IA"	"19043"	"75-84 years"	"75-84"	"Nov., 2020 "	"2020/11"	11	Not Applicable	Not Applicable
+	"Clayton County, IA"	"19043"	"75-84 years"	"75-84"	"Dec., 2020 "	"2020/12"	10	Not Applicable	Not Applicable
+	"Clayton County, IA"	"19043"	"85+ years"	"85+"	"Feb., 2019"	"2019/02"	10	Not Applicable	Not Applicable
+	"Clayton County, IA"	"19043"	"85+ years"	"85+"	"Dec., 2019"	"2019/12"	10	Not Applicable	Not Applicable
+	"Clayton County, IA"	"19043"	"85+ years"	"85+"	"Jan., 2020 "	"2020/01"	15	Not Applicable	Not Applicable
+	"Clayton County, IA"	"19043"	"85+ years"	"85+"	"Feb., 2020 "	"2020/02"	12	Not Applicable	Not Applicable
+	"Clayton County, IA"	"19043"	"85+ years"	"85+"	"Oct., 2020 "	"2020/10"	11	Not Applicable	Not Applicable
+	"Clayton County, IA"	"19043"	"85+ years"	"85+"	"Nov., 2020 "	"2020/11"	19	Not Applicable	Not Applicable
+	"Clayton County, IA"	"19043"	"85+ years"	"85+"	"Dec., 2020 "	"2020/12"	17	Not Applicable	Not Applicable
+	"Clinton County, IA"	"19045"	"65-74 years"	"65-74"	"Jan., 2019"	"2019/01"	11	Not Applicable	Not Applicable
+	"Clinton County, IA"	"19045"	"65-74 years"	"65-74"	"Feb., 2019"	"2019/02"	18	Not Applicable	Not Applicable
+	"Clinton County, IA"	"19045"	"65-74 years"	"65-74"	"Mar., 2019"	"2019/03"	13	Not Applicable	Not Applicable
+	"Clinton County, IA"	"19045"	"65-74 years"	"65-74"	"Jan., 2020 "	"2020/01"	14	Not Applicable	Not Applicable
+	"Clinton County, IA"	"19045"	"65-74 years"	"65-74"	"Mar., 2020 "	"2020/03"	12	Not Applicable	Not Applicable
+	"Clinton County, IA"	"19045"	"65-74 years"	"65-74"	"May, 2020 "	"2020/05"	12	Not Applicable	Not Applicable
+	"Clinton County, IA"	"19045"	"65-74 years"	"65-74"	"Aug., 2020 "	"2020/08"	13	Not Applicable	Not Applicable
+	"Clinton County, IA"	"19045"	"65-74 years"	"65-74"	"Oct., 2020 "	"2020/10"	17	Not Applicable	Not Applicable
+	"Clinton County, IA"	"19045"	"65-74 years"	"65-74"	"Nov., 2020 "	"2020/11"	13	Not Applicable	Not Applicable
+	"Clinton County, IA"	"19045"	"65-74 years"	"65-74"	"Dec., 2020 "	"2020/12"	13	Not Applicable	Not Applicable
+	"Clinton County, IA"	"19045"	"75-84 years"	"75-84"	"Mar., 2019"	"2019/03"	15	Not Applicable	Not Applicable
+	"Clinton County, IA"	"19045"	"75-84 years"	"75-84"	"Jun., 2019"	"2019/06"	16	Not Applicable	Not Applicable
+	"Clinton County, IA"	"19045"	"75-84 years"	"75-84"	"Jul., 2019"	"2019/07"	10	Not Applicable	Not Applicable
+	"Clinton County, IA"	"19045"	"75-84 years"	"75-84"	"Aug., 2019"	"2019/08"	15	Not Applicable	Not Applicable
+	"Clinton County, IA"	"19045"	"75-84 years"	"75-84"	"Nov., 2019"	"2019/11"	10	Not Applicable	Not Applicable
+	"Clinton County, IA"	"19045"	"75-84 years"	"75-84"	"Dec., 2019"	"2019/12"	14	Not Applicable	Not Applicable
+	"Clinton County, IA"	"19045"	"75-84 years"	"75-84"	"Jan., 2020 "	"2020/01"	16	Not Applicable	Not Applicable
+	"Clinton County, IA"	"19045"	"75-84 years"	"75-84"	"Apr., 2020 "	"2020/04"	14	Not Applicable	Not Applicable
+	"Clinton County, IA"	"19045"	"75-84 years"	"75-84"	"May, 2020 "	"2020/05"	11	Not Applicable	Not Applicable
+	"Clinton County, IA"	"19045"	"75-84 years"	"75-84"	"Jun., 2020 "	"2020/06"	15	Not Applicable	Not Applicable
+	"Clinton County, IA"	"19045"	"75-84 years"	"75-84"	"Jul., 2020 "	"2020/07"	14	Not Applicable	Not Applicable
+	"Clinton County, IA"	"19045"	"75-84 years"	"75-84"	"Aug., 2020 "	"2020/08"	12	Not Applicable	Not Applicable
+	"Clinton County, IA"	"19045"	"75-84 years"	"75-84"	"Sep., 2020 "	"2020/09"	21	Not Applicable	Not Applicable
+	"Clinton County, IA"	"19045"	"75-84 years"	"75-84"	"Oct., 2020 "	"2020/10"	15	Not Applicable	Not Applicable
+	"Clinton County, IA"	"19045"	"75-84 years"	"75-84"	"Nov., 2020 "	"2020/11"	16	Not Applicable	Not Applicable
+	"Clinton County, IA"	"19045"	"75-84 years"	"75-84"	"Dec., 2020 "	"2020/12"	14	Not Applicable	Not Applicable
+	"Clinton County, IA"	"19045"	"85+ years"	"85+"	"Jan., 2019"	"2019/01"	17	Not Applicable	Not Applicable
+	"Clinton County, IA"	"19045"	"85+ years"	"85+"	"Feb., 2019"	"2019/02"	11	Not Applicable	Not Applicable
+	"Clinton County, IA"	"19045"	"85+ years"	"85+"	"Mar., 2019"	"2019/03"	15	Not Applicable	Not Applicable
+	"Clinton County, IA"	"19045"	"85+ years"	"85+"	"Apr., 2019"	"2019/04"	12	Not Applicable	Not Applicable
+	"Clinton County, IA"	"19045"	"85+ years"	"85+"	"Jun., 2019"	"2019/06"	12	Not Applicable	Not Applicable
+	"Clinton County, IA"	"19045"	"85+ years"	"85+"	"Jul., 2019"	"2019/07"	14	Not Applicable	Not Applicable
+	"Clinton County, IA"	"19045"	"85+ years"	"85+"	"Aug., 2019"	"2019/08"	16	Not Applicable	Not Applicable
+	"Clinton County, IA"	"19045"	"85+ years"	"85+"	"Sep., 2019"	"2019/09"	26	Not Applicable	Not Applicable
+	"Clinton County, IA"	"19045"	"85+ years"	"85+"	"Oct., 2019"	"2019/10"	21	Not Applicable	Not Applicable
+	"Clinton County, IA"	"19045"	"85+ years"	"85+"	"Nov., 2019"	"2019/11"	15	Not Applicable	Not Applicable
+	"Clinton County, IA"	"19045"	"85+ years"	"85+"	"Dec., 2019"	"2019/12"	21	Not Applicable	Not Applicable
+	"Clinton County, IA"	"19045"	"85+ years"	"85+"	"Jan., 2020 "	"2020/01"	13	Not Applicable	Not Applicable
+	"Clinton County, IA"	"19045"	"85+ years"	"85+"	"Feb., 2020 "	"2020/02"	13	Not Applicable	Not Applicable
+	"Clinton County, IA"	"19045"	"85+ years"	"85+"	"Mar., 2020 "	"2020/03"	16	Not Applicable	Not Applicable
+	"Clinton County, IA"	"19045"	"85+ years"	"85+"	"Apr., 2020 "	"2020/04"	10	Not Applicable	Not Applicable
+	"Clinton County, IA"	"19045"	"85+ years"	"85+"	"May, 2020 "	"2020/05"	12	Not Applicable	Not Applicable
+	"Clinton County, IA"	"19045"	"85+ years"	"85+"	"Jun., 2020 "	"2020/06"	13	Not Applicable	Not Applicable
+	"Clinton County, IA"	"19045"	"85+ years"	"85+"	"Jul., 2020 "	"2020/07"	10	Not Applicable	Not Applicable
+	"Clinton County, IA"	"19045"	"85+ years"	"85+"	"Aug., 2020 "	"2020/08"	26	Not Applicable	Not Applicable
+	"Clinton County, IA"	"19045"	"85+ years"	"85+"	"Sep., 2020 "	"2020/09"	20	Not Applicable	Not Applicable
+	"Clinton County, IA"	"19045"	"85+ years"	"85+"	"Oct., 2020 "	"2020/10"	14	Not Applicable	Not Applicable
+	"Clinton County, IA"	"19045"	"85+ years"	"85+"	"Nov., 2020 "	"2020/11"	20	Not Applicable	Not Applicable
+	"Clinton County, IA"	"19045"	"85+ years"	"85+"	"Dec., 2020 "	"2020/12"	26	Not Applicable	Not Applicable
+	"Crawford County, IA"	"19047"	"85+ years"	"85+"	"Oct., 2020 "	"2020/10"	12	Not Applicable	Not Applicable
+	"Dallas County, IA"	"19049"	"55-64 years"	"55-64"	"Jun., 2019"	"2019/06"	10	Not Applicable	Not Applicable
+	"Dallas County, IA"	"19049"	"55-64 years"	"55-64"	"Dec., 2019"	"2019/12"	11	Not Applicable	Not Applicable
+	"Dallas County, IA"	"19049"	"65-74 years"	"65-74"	"Apr., 2019"	"2019/04"	10	Not Applicable	Not Applicable
+	"Dallas County, IA"	"19049"	"65-74 years"	"65-74"	"May, 2019"	"2019/05"	10	Not Applicable	Not Applicable
+	"Dallas County, IA"	"19049"	"65-74 years"	"65-74"	"Jul., 2019"	"2019/07"	14	Not Applicable	Not Applicable
+	"Dallas County, IA"	"19049"	"65-74 years"	"65-74"	"Oct., 2019"	"2019/10"	10	Not Applicable	Not Applicable
+	"Dallas County, IA"	"19049"	"65-74 years"	"65-74"	"Dec., 2019"	"2019/12"	13	Not Applicable	Not Applicable
+	"Dallas County, IA"	"19049"	"65-74 years"	"65-74"	"May, 2020 "	"2020/05"	14	Not Applicable	Not Applicable
+	"Dallas County, IA"	"19049"	"65-74 years"	"65-74"	"Nov., 2020 "	"2020/11"	16	Not Applicable	Not Applicable
+	"Dallas County, IA"	"19049"	"65-74 years"	"65-74"	"Dec., 2020 "	"2020/12"	11	Not Applicable	Not Applicable
+	"Dallas County, IA"	"19049"	"75-84 years"	"75-84"	"Feb., 2019"	"2019/02"	10	Not Applicable	Not Applicable
+	"Dallas County, IA"	"19049"	"75-84 years"	"75-84"	"Mar., 2019"	"2019/03"	11	Not Applicable	Not Applicable
+	"Dallas County, IA"	"19049"	"75-84 years"	"75-84"	"May, 2019"	"2019/05"	10	Not Applicable	Not Applicable
+	"Dallas County, IA"	"19049"	"75-84 years"	"75-84"	"Jul., 2019"	"2019/07"	10	Not Applicable	Not Applicable
+	"Dallas County, IA"	"19049"	"75-84 years"	"75-84"	"Oct., 2019"	"2019/10"	16	Not Applicable	Not Applicable
+	"Dallas County, IA"	"19049"	"75-84 years"	"75-84"	"Nov., 2019"	"2019/11"	13	Not Applicable	Not Applicable
+	"Dallas County, IA"	"19049"	"75-84 years"	"75-84"	"Jan., 2020 "	"2020/01"	11	Not Applicable	Not Applicable
+	"Dallas County, IA"	"19049"	"75-84 years"	"75-84"	"Mar., 2020 "	"2020/03"	18	Not Applicable	Not Applicable
+	"Dallas County, IA"	"19049"	"75-84 years"	"75-84"	"Apr., 2020 "	"2020/04"	16	Not Applicable	Not Applicable
+	"Dallas County, IA"	"19049"	"75-84 years"	"75-84"	"May, 2020 "	"2020/05"	19	Not Applicable	Not Applicable
+	"Dallas County, IA"	"19049"	"75-84 years"	"75-84"	"Jun., 2020 "	"2020/06"	18	Not Applicable	Not Applicable
+	"Dallas County, IA"	"19049"	"75-84 years"	"75-84"	"Jul., 2020 "	"2020/07"	16	Not Applicable	Not Applicable
+	"Dallas County, IA"	"19049"	"75-84 years"	"75-84"	"Aug., 2020 "	"2020/08"	13	Not Applicable	Not Applicable
+	"Dallas County, IA"	"19049"	"75-84 years"	"75-84"	"Sep., 2020 "	"2020/09"	13	Not Applicable	Not Applicable
+	"Dallas County, IA"	"19049"	"75-84 years"	"75-84"	"Oct., 2020 "	"2020/10"	13	Not Applicable	Not Applicable
+	"Dallas County, IA"	"19049"	"75-84 years"	"75-84"	"Nov., 2020 "	"2020/11"	18	Not Applicable	Not Applicable
+	"Dallas County, IA"	"19049"	"75-84 years"	"75-84"	"Dec., 2020 "	"2020/12"	12	Not Applicable	Not Applicable
+	"Dallas County, IA"	"19049"	"85+ years"	"85+"	"Jan., 2019"	"2019/01"	23	Not Applicable	Not Applicable
+	"Dallas County, IA"	"19049"	"85+ years"	"85+"	"Feb., 2019"	"2019/02"	12	Not Applicable	Not Applicable
+	"Dallas County, IA"	"19049"	"85+ years"	"85+"	"Mar., 2019"	"2019/03"	12	Not Applicable	Not Applicable
+	"Dallas County, IA"	"19049"	"85+ years"	"85+"	"Apr., 2019"	"2019/04"	18	Not Applicable	Not Applicable
+	"Dallas County, IA"	"19049"	"85+ years"	"85+"	"May, 2019"	"2019/05"	11	Not Applicable	Not Applicable
+	"Dallas County, IA"	"19049"	"85+ years"	"85+"	"Jun., 2019"	"2019/06"	16	Not Applicable	Not Applicable
+	"Dallas County, IA"	"19049"	"85+ years"	"85+"	"Jul., 2019"	"2019/07"	13	Not Applicable	Not Applicable
+	"Dallas County, IA"	"19049"	"85+ years"	"85+"	"Aug., 2019"	"2019/08"	13	Not Applicable	Not Applicable
+	"Dallas County, IA"	"19049"	"85+ years"	"85+"	"Sep., 2019"	"2019/09"	20	Not Applicable	Not Applicable
+	"Dallas County, IA"	"19049"	"85+ years"	"85+"	"Oct., 2019"	"2019/10"	14	Not Applicable	Not Applicable
+	"Dallas County, IA"	"19049"	"85+ years"	"85+"	"Nov., 2019"	"2019/11"	10	Not Applicable	Not Applicable
+	"Dallas County, IA"	"19049"	"85+ years"	"85+"	"Dec., 2019"	"2019/12"	14	Not Applicable	Not Applicable
+	"Dallas County, IA"	"19049"	"85+ years"	"85+"	"Jan., 2020 "	"2020/01"	15	Not Applicable	Not Applicable
+	"Dallas County, IA"	"19049"	"85+ years"	"85+"	"Feb., 2020 "	"2020/02"	15	Not Applicable	Not Applicable
+	"Dallas County, IA"	"19049"	"85+ years"	"85+"	"Mar., 2020 "	"2020/03"	18	Not Applicable	Not Applicable
+	"Dallas County, IA"	"19049"	"85+ years"	"85+"	"Apr., 2020 "	"2020/04"	23	Not Applicable	Not Applicable
+	"Dallas County, IA"	"19049"	"85+ years"	"85+"	"May, 2020 "	"2020/05"	25	Not Applicable	Not Applicable
+	"Dallas County, IA"	"19049"	"85+ years"	"85+"	"Jun., 2020 "	"2020/06"	25	Not Applicable	Not Applicable
+	"Dallas County, IA"	"19049"	"85+ years"	"85+"	"Jul., 2020 "	"2020/07"	20	Not Applicable	Not Applicable
+	"Dallas County, IA"	"19049"	"85+ years"	"85+"	"Aug., 2020 "	"2020/08"	19	Not Applicable	Not Applicable
+	"Dallas County, IA"	"19049"	"85+ years"	"85+"	"Sep., 2020 "	"2020/09"	13	Not Applicable	Not Applicable
+	"Dallas County, IA"	"19049"	"85+ years"	"85+"	"Oct., 2020 "	"2020/10"	22	Not Applicable	Not Applicable
+	"Dallas County, IA"	"19049"	"85+ years"	"85+"	"Nov., 2020 "	"2020/11"	20	Not Applicable	Not Applicable
+	"Dallas County, IA"	"19049"	"85+ years"	"85+"	"Dec., 2020 "	"2020/12"	27	Not Applicable	Not Applicable
+	"Davis County, IA"	"19051"	"85+ years"	"85+"	"Nov., 2020 "	"2020/11"	10	Not Applicable	Not Applicable
+	"Delaware County, IA"	"19055"	"75-84 years"	"75-84"	"Oct., 2019"	"2019/10"	12	Not Applicable	Not Applicable
+	"Delaware County, IA"	"19055"	"75-84 years"	"75-84"	"Oct., 2020 "	"2020/10"	11	Not Applicable	Not Applicable
+	"Delaware County, IA"	"19055"	"85+ years"	"85+"	"Jan., 2019"	"2019/01"	10	Not Applicable	Not Applicable
+	"Delaware County, IA"	"19055"	"85+ years"	"85+"	"Jun., 2020 "	"2020/06"	11	Not Applicable	Not Applicable
+	"Delaware County, IA"	"19055"	"85+ years"	"85+"	"Oct., 2020 "	"2020/10"	24	Not Applicable	Not Applicable
+	"Delaware County, IA"	"19055"	"85+ years"	"85+"	"Nov., 2020 "	"2020/11"	10	Not Applicable	Not Applicable
+	"Des Moines County, IA"	"19057"	"55-64 years"	"55-64"	"Mar., 2019"	"2019/03"	13	Not Applicable	Not Applicable
+	"Des Moines County, IA"	"19057"	"55-64 years"	"55-64"	"Jul., 2019"	"2019/07"	10	Not Applicable	Not Applicable
+	"Des Moines County, IA"	"19057"	"55-64 years"	"55-64"	"May, 2020 "	"2020/05"	10	Not Applicable	Not Applicable
+	"Des Moines County, IA"	"19057"	"65-74 years"	"65-74"	"Feb., 2020 "	"2020/02"	13	Not Applicable	Not Applicable
+	"Des Moines County, IA"	"19057"	"65-74 years"	"65-74"	"Sep., 2020 "	"2020/09"	14	Not Applicable	Not Applicable
+	"Des Moines County, IA"	"19057"	"65-74 years"	"65-74"	"Oct., 2020 "	"2020/10"	14	Not Applicable	Not Applicable
+	"Des Moines County, IA"	"19057"	"65-74 years"	"65-74"	"Nov., 2020 "	"2020/11"	12	Not Applicable	Not Applicable
+	"Des Moines County, IA"	"19057"	"75-84 years"	"75-84"	"Feb., 2019"	"2019/02"	12	Not Applicable	Not Applicable
+	"Des Moines County, IA"	"19057"	"75-84 years"	"75-84"	"Mar., 2019"	"2019/03"	15	Not Applicable	Not Applicable
+	"Des Moines County, IA"	"19057"	"75-84 years"	"75-84"	"Apr., 2019"	"2019/04"	13	Not Applicable	Not Applicable
+	"Des Moines County, IA"	"19057"	"75-84 years"	"75-84"	"Jun., 2019"	"2019/06"	10	Not Applicable	Not Applicable
+	"Des Moines County, IA"	"19057"	"75-84 years"	"75-84"	"Jul., 2019"	"2019/07"	13	Not Applicable	Not Applicable
+	"Des Moines County, IA"	"19057"	"75-84 years"	"75-84"	"Aug., 2019"	"2019/08"	10	Not Applicable	Not Applicable
+	"Des Moines County, IA"	"19057"	"75-84 years"	"75-84"	"Oct., 2019"	"2019/10"	12	Not Applicable	Not Applicable
+	"Des Moines County, IA"	"19057"	"75-84 years"	"75-84"	"Nov., 2019"	"2019/11"	12	Not Applicable	Not Applicable
+	"Des Moines County, IA"	"19057"	"75-84 years"	"75-84"	"Dec., 2019"	"2019/12"	12	Not Applicable	Not Applicable
+	"Des Moines County, IA"	"19057"	"75-84 years"	"75-84"	"Apr., 2020 "	"2020/04"	12	Not Applicable	Not Applicable
+	"Des Moines County, IA"	"19057"	"75-84 years"	"75-84"	"May, 2020 "	"2020/05"	14	Not Applicable	Not Applicable
+	"Des Moines County, IA"	"19057"	"75-84 years"	"75-84"	"Aug., 2020 "	"2020/08"	10	Not Applicable	Not Applicable
+	"Des Moines County, IA"	"19057"	"75-84 years"	"75-84"	"Oct., 2020 "	"2020/10"	10	Not Applicable	Not Applicable
+	"Des Moines County, IA"	"19057"	"75-84 years"	"75-84"	"Nov., 2020 "	"2020/11"	17	Not Applicable	Not Applicable
+	"Des Moines County, IA"	"19057"	"75-84 years"	"75-84"	"Dec., 2020 "	"2020/12"	19	Not Applicable	Not Applicable
+	"Des Moines County, IA"	"19057"	"85+ years"	"85+"	"Jan., 2019"	"2019/01"	16	Not Applicable	Not Applicable
+	"Des Moines County, IA"	"19057"	"85+ years"	"85+"	"Feb., 2019"	"2019/02"	17	Not Applicable	Not Applicable
+	"Des Moines County, IA"	"19057"	"85+ years"	"85+"	"Mar., 2019"	"2019/03"	19	Not Applicable	Not Applicable
+	"Des Moines County, IA"	"19057"	"85+ years"	"85+"	"Apr., 2019"	"2019/04"	14	Not Applicable	Not Applicable
+	"Des Moines County, IA"	"19057"	"85+ years"	"85+"	"May, 2019"	"2019/05"	12	Not Applicable	Not Applicable
+	"Des Moines County, IA"	"19057"	"85+ years"	"85+"	"Jun., 2019"	"2019/06"	19	Not Applicable	Not Applicable
+	"Des Moines County, IA"	"19057"	"85+ years"	"85+"	"Jul., 2019"	"2019/07"	13	Not Applicable	Not Applicable
+	"Des Moines County, IA"	"19057"	"85+ years"	"85+"	"Aug., 2019"	"2019/08"	12	Not Applicable	Not Applicable
+	"Des Moines County, IA"	"19057"	"85+ years"	"85+"	"Sep., 2019"	"2019/09"	16	Not Applicable	Not Applicable
+	"Des Moines County, IA"	"19057"	"85+ years"	"85+"	"Oct., 2019"	"2019/10"	19	Not Applicable	Not Applicable
+	"Des Moines County, IA"	"19057"	"85+ years"	"85+"	"Dec., 2019"	"2019/12"	21	Not Applicable	Not Applicable
+	"Des Moines County, IA"	"19057"	"85+ years"	"85+"	"Jan., 2020 "	"2020/01"	14	Not Applicable	Not Applicable
+	"Des Moines County, IA"	"19057"	"85+ years"	"85+"	"Feb., 2020 "	"2020/02"	13	Not Applicable	Not Applicable
+	"Des Moines County, IA"	"19057"	"85+ years"	"85+"	"Mar., 2020 "	"2020/03"	12	Not Applicable	Not Applicable
+	"Des Moines County, IA"	"19057"	"85+ years"	"85+"	"Apr., 2020 "	"2020/04"	10	Not Applicable	Not Applicable
+	"Des Moines County, IA"	"19057"	"85+ years"	"85+"	"Jun., 2020 "	"2020/06"	21	Not Applicable	Not Applicable
+	"Des Moines County, IA"	"19057"	"85+ years"	"85+"	"Aug., 2020 "	"2020/08"	10	Not Applicable	Not Applicable
+	"Des Moines County, IA"	"19057"	"85+ years"	"85+"	"Sep., 2020 "	"2020/09"	15	Not Applicable	Not Applicable
+	"Des Moines County, IA"	"19057"	"85+ years"	"85+"	"Oct., 2020 "	"2020/10"	14	Not Applicable	Not Applicable
+	"Des Moines County, IA"	"19057"	"85+ years"	"85+"	"Nov., 2020 "	"2020/11"	19	Not Applicable	Not Applicable
+	"Des Moines County, IA"	"19057"	"85+ years"	"85+"	"Dec., 2020 "	"2020/12"	22	Not Applicable	Not Applicable
+	"Dickinson County, IA"	"19059"	"85+ years"	"85+"	"Jan., 2019"	"2019/01"	10	Not Applicable	Not Applicable
+	"Dickinson County, IA"	"19059"	"85+ years"	"85+"	"Feb., 2019"	"2019/02"	10	Not Applicable	Not Applicable
+	"Dickinson County, IA"	"19059"	"85+ years"	"85+"	"Jan., 2020 "	"2020/01"	10	Not Applicable	Not Applicable
+	"Dickinson County, IA"	"19059"	"85+ years"	"85+"	"Feb., 2020 "	"2020/02"	13	Not Applicable	Not Applicable
+	"Dickinson County, IA"	"19059"	"85+ years"	"85+"	"Nov., 2020 "	"2020/11"	11	Not Applicable	Not Applicable
+	"Dickinson County, IA"	"19059"	"85+ years"	"85+"	"Dec., 2020 "	"2020/12"	20	Not Applicable	Not Applicable
+	"Dubuque County, IA"	"19061"	"55-64 years"	"55-64"	"Oct., 2019"	"2019/10"	13	Not Applicable	Not Applicable
+	"Dubuque County, IA"	"19061"	"55-64 years"	"55-64"	"May, 2020 "	"2020/05"	13	Not Applicable	Not Applicable
+	"Dubuque County, IA"	"19061"	"55-64 years"	"55-64"	"Aug., 2020 "	"2020/08"	10	Not Applicable	Not Applicable
+	"Dubuque County, IA"	"19061"	"55-64 years"	"55-64"	"Sep., 2020 "	"2020/09"	11	Not Applicable	Not Applicable
+	"Dubuque County, IA"	"19061"	"55-64 years"	"55-64"	"Oct., 2020 "	"2020/10"	11	Not Applicable	Not Applicable
+	"Dubuque County, IA"	"19061"	"55-64 years"	"55-64"	"Dec., 2020 "	"2020/12"	11	Not Applicable	Not Applicable
+	"Dubuque County, IA"	"19061"	"65-74 years"	"65-74"	"Jan., 2019"	"2019/01"	10	Not Applicable	Not Applicable
+	"Dubuque County, IA"	"19061"	"65-74 years"	"65-74"	"Feb., 2019"	"2019/02"	15	Not Applicable	Not Applicable
+	"Dubuque County, IA"	"19061"	"65-74 years"	"65-74"	"Mar., 2019"	"2019/03"	12	Not Applicable	Not Applicable
+	"Dubuque County, IA"	"19061"	"65-74 years"	"65-74"	"Apr., 2019"	"2019/04"	16	Not Applicable	Not Applicable
+	"Dubuque County, IA"	"19061"	"65-74 years"	"65-74"	"May, 2019"	"2019/05"	10	Not Applicable	Not Applicable
+	"Dubuque County, IA"	"19061"	"65-74 years"	"65-74"	"Jun., 2019"	"2019/06"	14	Not Applicable	Not Applicable
+	"Dubuque County, IA"	"19061"	"65-74 years"	"65-74"	"Jul., 2019"	"2019/07"	13	Not Applicable	Not Applicable
+	"Dubuque County, IA"	"19061"	"65-74 years"	"65-74"	"Aug., 2019"	"2019/08"	12	Not Applicable	Not Applicable
+	"Dubuque County, IA"	"19061"	"65-74 years"	"65-74"	"Sep., 2019"	"2019/09"	14	Not Applicable	Not Applicable
+	"Dubuque County, IA"	"19061"	"65-74 years"	"65-74"	"Oct., 2019"	"2019/10"	14	Not Applicable	Not Applicable
+	"Dubuque County, IA"	"19061"	"65-74 years"	"65-74"	"Nov., 2019"	"2019/11"	21	Not Applicable	Not Applicable
+	"Dubuque County, IA"	"19061"	"65-74 years"	"65-74"	"Dec., 2019"	"2019/12"	18	Not Applicable	Not Applicable
+	"Dubuque County, IA"	"19061"	"65-74 years"	"65-74"	"Feb., 2020 "	"2020/02"	13	Not Applicable	Not Applicable
+	"Dubuque County, IA"	"19061"	"65-74 years"	"65-74"	"Apr., 2020 "	"2020/04"	13	Not Applicable	Not Applicable
+	"Dubuque County, IA"	"19061"	"65-74 years"	"65-74"	"May, 2020 "	"2020/05"	18	Not Applicable	Not Applicable
+	"Dubuque County, IA"	"19061"	"65-74 years"	"65-74"	"Jun., 2020 "	"2020/06"	14	Not Applicable	Not Applicable
+	"Dubuque County, IA"	"19061"	"65-74 years"	"65-74"	"Jul., 2020 "	"2020/07"	21	Not Applicable	Not Applicable
+	"Dubuque County, IA"	"19061"	"65-74 years"	"65-74"	"Aug., 2020 "	"2020/08"	15	Not Applicable	Not Applicable
+	"Dubuque County, IA"	"19061"	"65-74 years"	"65-74"	"Sep., 2020 "	"2020/09"	13	Not Applicable	Not Applicable
+	"Dubuque County, IA"	"19061"	"65-74 years"	"65-74"	"Oct., 2020 "	"2020/10"	13	Not Applicable	Not Applicable
+	"Dubuque County, IA"	"19061"	"65-74 years"	"65-74"	"Nov., 2020 "	"2020/11"	17	Not Applicable	Not Applicable
+	"Dubuque County, IA"	"19061"	"65-74 years"	"65-74"	"Dec., 2020 "	"2020/12"	22	Not Applicable	Not Applicable
+	"Dubuque County, IA"	"19061"	"75-84 years"	"75-84"	"Jan., 2019"	"2019/01"	26	Not Applicable	Not Applicable
+	"Dubuque County, IA"	"19061"	"75-84 years"	"75-84"	"Feb., 2019"	"2019/02"	18	Not Applicable	Not Applicable
+	"Dubuque County, IA"	"19061"	"75-84 years"	"75-84"	"Mar., 2019"	"2019/03"	25	Not Applicable	Not Applicable
+	"Dubuque County, IA"	"19061"	"75-84 years"	"75-84"	"Apr., 2019"	"2019/04"	18	Not Applicable	Not Applicable
+	"Dubuque County, IA"	"19061"	"75-84 years"	"75-84"	"May, 2019"	"2019/05"	16	Not Applicable	Not Applicable
+	"Dubuque County, IA"	"19061"	"75-84 years"	"75-84"	"Jun., 2019"	"2019/06"	12	Not Applicable	Not Applicable
+	"Dubuque County, IA"	"19061"	"75-84 years"	"75-84"	"Jul., 2019"	"2019/07"	20	Not Applicable	Not Applicable
+	"Dubuque County, IA"	"19061"	"75-84 years"	"75-84"	"Aug., 2019"	"2019/08"	15	Not Applicable	Not Applicable
+	"Dubuque County, IA"	"19061"	"75-84 years"	"75-84"	"Sep., 2019"	"2019/09"	13	Not Applicable	Not Applicable
+	"Dubuque County, IA"	"19061"	"75-84 years"	"75-84"	"Oct., 2019"	"2019/10"	23	Not Applicable	Not Applicable
+	"Dubuque County, IA"	"19061"	"75-84 years"	"75-84"	"Nov., 2019"	"2019/11"	23	Not Applicable	Not Applicable
+	"Dubuque County, IA"	"19061"	"75-84 years"	"75-84"	"Dec., 2019"	"2019/12"	22	Not Applicable	Not Applicable
+	"Dubuque County, IA"	"19061"	"75-84 years"	"75-84"	"Jan., 2020 "	"2020/01"	29	Not Applicable	Not Applicable
+	"Dubuque County, IA"	"19061"	"75-84 years"	"75-84"	"Feb., 2020 "	"2020/02"	18	Not Applicable	Not Applicable
+	"Dubuque County, IA"	"19061"	"75-84 years"	"75-84"	"Mar., 2020 "	"2020/03"	18	Not Applicable	Not Applicable
+	"Dubuque County, IA"	"19061"	"75-84 years"	"75-84"	"Apr., 2020 "	"2020/04"	23	Not Applicable	Not Applicable
+	"Dubuque County, IA"	"19061"	"75-84 years"	"75-84"	"May, 2020 "	"2020/05"	19	Not Applicable	Not Applicable
+	"Dubuque County, IA"	"19061"	"75-84 years"	"75-84"	"Jun., 2020 "	"2020/06"	18	Not Applicable	Not Applicable
+	"Dubuque County, IA"	"19061"	"75-84 years"	"75-84"	"Jul., 2020 "	"2020/07"	21	Not Applicable	Not Applicable
+	"Dubuque County, IA"	"19061"	"75-84 years"	"75-84"	"Aug., 2020 "	"2020/08"	19	Not Applicable	Not Applicable
+	"Dubuque County, IA"	"19061"	"75-84 years"	"75-84"	"Sep., 2020 "	"2020/09"	14	Not Applicable	Not Applicable
+	"Dubuque County, IA"	"19061"	"75-84 years"	"75-84"	"Oct., 2020 "	"2020/10"	27	Not Applicable	Not Applicable
+	"Dubuque County, IA"	"19061"	"75-84 years"	"75-84"	"Nov., 2020 "	"2020/11"	37	Not Applicable	Not Applicable
+	"Dubuque County, IA"	"19061"	"75-84 years"	"75-84"	"Dec., 2020 "	"2020/12"	22	Not Applicable	Not Applicable
+	"Dubuque County, IA"	"19061"	"85+ years"	"85+"	"Jan., 2019"	"2019/01"	50	Not Applicable	Not Applicable
+	"Dubuque County, IA"	"19061"	"85+ years"	"85+"	"Feb., 2019"	"2019/02"	28	Not Applicable	Not Applicable
+	"Dubuque County, IA"	"19061"	"85+ years"	"85+"	"Mar., 2019"	"2019/03"	26	Not Applicable	Not Applicable
+	"Dubuque County, IA"	"19061"	"85+ years"	"85+"	"Apr., 2019"	"2019/04"	29	Not Applicable	Not Applicable
+	"Dubuque County, IA"	"19061"	"85+ years"	"85+"	"May, 2019"	"2019/05"	23	Not Applicable	Not Applicable
+	"Dubuque County, IA"	"19061"	"85+ years"	"85+"	"Jun., 2019"	"2019/06"	28	Not Applicable	Not Applicable
+	"Dubuque County, IA"	"19061"	"85+ years"	"85+"	"Jul., 2019"	"2019/07"	29	Not Applicable	Not Applicable
+	"Dubuque County, IA"	"19061"	"85+ years"	"85+"	"Aug., 2019"	"2019/08"	42	Not Applicable	Not Applicable
+	"Dubuque County, IA"	"19061"	"85+ years"	"85+"	"Sep., 2019"	"2019/09"	24	Not Applicable	Not Applicable
+	"Dubuque County, IA"	"19061"	"85+ years"	"85+"	"Oct., 2019"	"2019/10"	26	Not Applicable	Not Applicable
+	"Dubuque County, IA"	"19061"	"85+ years"	"85+"	"Nov., 2019"	"2019/11"	31	Not Applicable	Not Applicable
+	"Dubuque County, IA"	"19061"	"85+ years"	"85+"	"Dec., 2019"	"2019/12"	44	Not Applicable	Not Applicable
+	"Dubuque County, IA"	"19061"	"85+ years"	"85+"	"Jan., 2020 "	"2020/01"	31	Not Applicable	Not Applicable
+	"Dubuque County, IA"	"19061"	"85+ years"	"85+"	"Feb., 2020 "	"2020/02"	33	Not Applicable	Not Applicable
+	"Dubuque County, IA"	"19061"	"85+ years"	"85+"	"Mar., 2020 "	"2020/03"	31	Not Applicable	Not Applicable
+	"Dubuque County, IA"	"19061"	"85+ years"	"85+"	"Apr., 2020 "	"2020/04"	25	Not Applicable	Not Applicable
+	"Dubuque County, IA"	"19061"	"85+ years"	"85+"	"May, 2020 "	"2020/05"	25	Not Applicable	Not Applicable
+	"Dubuque County, IA"	"19061"	"85+ years"	"85+"	"Jun., 2020 "	"2020/06"	28	Not Applicable	Not Applicable
+	"Dubuque County, IA"	"19061"	"85+ years"	"85+"	"Jul., 2020 "	"2020/07"	37	Not Applicable	Not Applicable
+	"Dubuque County, IA"	"19061"	"85+ years"	"85+"	"Aug., 2020 "	"2020/08"	25	Not Applicable	Not Applicable
+	"Dubuque County, IA"	"19061"	"85+ years"	"85+"	"Sep., 2020 "	"2020/09"	26	Not Applicable	Not Applicable
+	"Dubuque County, IA"	"19061"	"85+ years"	"85+"	"Oct., 2020 "	"2020/10"	48	Not Applicable	Not Applicable
+	"Dubuque County, IA"	"19061"	"85+ years"	"85+"	"Nov., 2020 "	"2020/11"	47	Not Applicable	Not Applicable
+	"Dubuque County, IA"	"19061"	"85+ years"	"85+"	"Dec., 2020 "	"2020/12"	43	Not Applicable	Not Applicable
+	"Emmet County, IA"	"19063"	"85+ years"	"85+"	"Sep., 2020 "	"2020/09"	10	Not Applicable	Not Applicable
+	"Emmet County, IA"	"19063"	"85+ years"	"85+"	"Oct., 2020 "	"2020/10"	12	Not Applicable	Not Applicable
+	"Fayette County, IA"	"19065"	"75-84 years"	"75-84"	"Jul., 2019"	"2019/07"	11	Not Applicable	Not Applicable
+	"Fayette County, IA"	"19065"	"75-84 years"	"75-84"	"Jul., 2020 "	"2020/07"	10	Not Applicable	Not Applicable
+	"Fayette County, IA"	"19065"	"75-84 years"	"75-84"	"Oct., 2020 "	"2020/10"	11	Not Applicable	Not Applicable
+	"Fayette County, IA"	"19065"	"75-84 years"	"75-84"	"Nov., 2020 "	"2020/11"	10	Not Applicable	Not Applicable
+	"Fayette County, IA"	"19065"	"85+ years"	"85+"	"Jan., 2019"	"2019/01"	12	Not Applicable	Not Applicable
+	"Fayette County, IA"	"19065"	"85+ years"	"85+"	"Jun., 2019"	"2019/06"	11	Not Applicable	Not Applicable
+	"Fayette County, IA"	"19065"	"85+ years"	"85+"	"Oct., 2019"	"2019/10"	11	Not Applicable	Not Applicable
+	"Fayette County, IA"	"19065"	"85+ years"	"85+"	"Feb., 2020 "	"2020/02"	12	Not Applicable	Not Applicable
+	"Fayette County, IA"	"19065"	"85+ years"	"85+"	"May, 2020 "	"2020/05"	12	Not Applicable	Not Applicable
+	"Fayette County, IA"	"19065"	"85+ years"	"85+"	"Sep., 2020 "	"2020/09"	11	Not Applicable	Not Applicable
+	"Fayette County, IA"	"19065"	"85+ years"	"85+"	"Oct., 2020 "	"2020/10"	15	Not Applicable	Not Applicable
+	"Fayette County, IA"	"19065"	"85+ years"	"85+"	"Nov., 2020 "	"2020/11"	11	Not Applicable	Not Applicable
+	"Fayette County, IA"	"19065"	"85+ years"	"85+"	"Dec., 2020 "	"2020/12"	12	Not Applicable	Not Applicable
+	"Floyd County, IA"	"19067"	"85+ years"	"85+"	"Jan., 2020 "	"2020/01"	10	Not Applicable	Not Applicable
+	"Floyd County, IA"	"19067"	"85+ years"	"85+"	"Oct., 2020 "	"2020/10"	12	Not Applicable	Not Applicable
+	"Floyd County, IA"	"19067"	"85+ years"	"85+"	"Dec., 2020 "	"2020/12"	14	Not Applicable	Not Applicable
+	"Franklin County, IA"	"19069"	"85+ years"	"85+"	"Jul., 2020 "	"2020/07"	10	Not Applicable	Not Applicable
+	"Greene County, IA"	"19073"	"85+ years"	"85+"	"Nov., 2020 "	"2020/11"	10	Not Applicable	Not Applicable
+	"Grundy County, IA"	"19075"	"85+ years"	"85+"	"Dec., 2020 "	"2020/12"	12	Not Applicable	Not Applicable
+	"Guthrie County, IA"	"19077"	"85+ years"	"85+"	"Oct., 2020 "	"2020/10"	11	Not Applicable	Not Applicable
+	"Hamilton County, IA"	"19079"	"85+ years"	"85+"	"Jan., 2019"	"2019/01"	12	Not Applicable	Not Applicable
+	"Hamilton County, IA"	"19079"	"85+ years"	"85+"	"Mar., 2019"	"2019/03"	12	Not Applicable	Not Applicable
+	"Hamilton County, IA"	"19079"	"85+ years"	"85+"	"Nov., 2020 "	"2020/11"	12	Not Applicable	Not Applicable
+	"Hamilton County, IA"	"19079"	"85+ years"	"85+"	"Dec., 2020 "	"2020/12"	13	Not Applicable	Not Applicable
+	"Hancock County, IA"	"19081"	"85+ years"	"85+"	"Nov., 2020 "	"2020/11"	10	Not Applicable	Not Applicable
+	"Hardin County, IA"	"19083"	"75-84 years"	"75-84"	"Feb., 2019"	"2019/02"	10	Not Applicable	Not Applicable
+	"Hardin County, IA"	"19083"	"85+ years"	"85+"	"Jan., 2019"	"2019/01"	10	Not Applicable	Not Applicable
+	"Hardin County, IA"	"19083"	"85+ years"	"85+"	"Apr., 2019"	"2019/04"	11	Not Applicable	Not Applicable
+	"Hardin County, IA"	"19083"	"85+ years"	"85+"	"Dec., 2019"	"2019/12"	13	Not Applicable	Not Applicable
+	"Hardin County, IA"	"19083"	"85+ years"	"85+"	"Feb., 2020 "	"2020/02"	10	Not Applicable	Not Applicable
+	"Hardin County, IA"	"19083"	"85+ years"	"85+"	"Sep., 2020 "	"2020/09"	11	Not Applicable	Not Applicable
+	"Hardin County, IA"	"19083"	"85+ years"	"85+"	"Nov., 2020 "	"2020/11"	14	Not Applicable	Not Applicable
+	"Harrison County, IA"	"19085"	"65-74 years"	"65-74"	"Nov., 2020 "	"2020/11"	11	Not Applicable	Not Applicable
+	"Harrison County, IA"	"19085"	"75-84 years"	"75-84"	"Aug., 2019"	"2019/08"	10	Not Applicable	Not Applicable
+	"Harrison County, IA"	"19085"	"75-84 years"	"75-84"	"Dec., 2019"	"2019/12"	10	Not Applicable	Not Applicable
+	"Harrison County, IA"	"19085"	"75-84 years"	"75-84"	"Oct., 2020 "	"2020/10"	11	Not Applicable	Not Applicable
+	"Harrison County, IA"	"19085"	"85+ years"	"85+"	"Mar., 2020 "	"2020/03"	10	Not Applicable	Not Applicable
+	"Harrison County, IA"	"19085"	"85+ years"	"85+"	"Oct., 2020 "	"2020/10"	34	Not Applicable	Not Applicable
+	"Harrison County, IA"	"19085"	"85+ years"	"85+"	"Nov., 2020 "	"2020/11"	13	Not Applicable	Not Applicable
+	"Henry County, IA"	"19087"	"75-84 years"	"75-84"	"Nov., 2020 "	"2020/11"	17	Not Applicable	Not Applicable
+	"Henry County, IA"	"19087"	"75-84 years"	"75-84"	"Dec., 2020 "	"2020/12"	13	Not Applicable	Not Applicable
+	"Henry County, IA"	"19087"	"85+ years"	"85+"	"Mar., 2019"	"2019/03"	13	Not Applicable	Not Applicable
+	"Henry County, IA"	"19087"	"85+ years"	"85+"	"Dec., 2019"	"2019/12"	12	Not Applicable	Not Applicable
+	"Henry County, IA"	"19087"	"85+ years"	"85+"	"Oct., 2020 "	"2020/10"	10	Not Applicable	Not Applicable
+	"Henry County, IA"	"19087"	"85+ years"	"85+"	"Dec., 2020 "	"2020/12"	16	Not Applicable	Not Applicable
+	"Ida County, IA"	"19093"	"75-84 years"	"75-84"	"Dec., 2020 "	"2020/12"	10	Not Applicable	Not Applicable
+	"Ida County, IA"	"19093"	"85+ years"	"85+"	"Nov., 2020 "	"2020/11"	13	Not Applicable	Not Applicable
+	"Ida County, IA"	"19093"	"85+ years"	"85+"	"Dec., 2020 "	"2020/12"	14	Not Applicable	Not Applicable
+	"Iowa County, IA"	"19095"	"75-84 years"	"75-84"	"Dec., 2020 "	"2020/12"	10	Not Applicable	Not Applicable
+	"Iowa County, IA"	"19095"	"85+ years"	"85+"	"Jan., 2019"	"2019/01"	13	Not Applicable	Not Applicable
+	"Iowa County, IA"	"19095"	"85+ years"	"85+"	"May, 2019"	"2019/05"	11	Not Applicable	Not Applicable
+	"Iowa County, IA"	"19095"	"85+ years"	"85+"	"Jul., 2019"	"2019/07"	11	Not Applicable	Not Applicable
+	"Iowa County, IA"	"19095"	"85+ years"	"85+"	"Sep., 2019"	"2019/09"	10	Not Applicable	Not Applicable
+	"Iowa County, IA"	"19095"	"85+ years"	"85+"	"Oct., 2019"	"2019/10"	11	Not Applicable	Not Applicable
+	"Iowa County, IA"	"19095"	"85+ years"	"85+"	"Dec., 2019"	"2019/12"	11	Not Applicable	Not Applicable
+	"Iowa County, IA"	"19095"	"85+ years"	"85+"	"Jan., 2020 "	"2020/01"	10	Not Applicable	Not Applicable
+	"Iowa County, IA"	"19095"	"85+ years"	"85+"	"Feb., 2020 "	"2020/02"	11	Not Applicable	Not Applicable
+	"Iowa County, IA"	"19095"	"85+ years"	"85+"	"Mar., 2020 "	"2020/03"	10	Not Applicable	Not Applicable
+	"Iowa County, IA"	"19095"	"85+ years"	"85+"	"May, 2020 "	"2020/05"	12	Not Applicable	Not Applicable
+	"Iowa County, IA"	"19095"	"85+ years"	"85+"	"Oct., 2020 "	"2020/10"	15	Not Applicable	Not Applicable
+	"Iowa County, IA"	"19095"	"85+ years"	"85+"	"Nov., 2020 "	"2020/11"	13	Not Applicable	Not Applicable
+	"Jackson County, IA"	"19097"	"65-74 years"	"65-74"	"Nov., 2020 "	"2020/11"	11	Not Applicable	Not Applicable
+	"Jackson County, IA"	"19097"	"65-74 years"	"65-74"	"Dec., 2020 "	"2020/12"	10	Not Applicable	Not Applicable
+	"Jackson County, IA"	"19097"	"85+ years"	"85+"	"Mar., 2019"	"2019/03"	11	Not Applicable	Not Applicable
+	"Jackson County, IA"	"19097"	"85+ years"	"85+"	"Feb., 2020 "	"2020/02"	10	Not Applicable	Not Applicable
+	"Jackson County, IA"	"19097"	"85+ years"	"85+"	"Nov., 2020 "	"2020/11"	18	Not Applicable	Not Applicable
+	"Jackson County, IA"	"19097"	"85+ years"	"85+"	"Dec., 2020 "	"2020/12"	17	Not Applicable	Not Applicable
+	"Jasper County, IA"	"19099"	"55-64 years"	"55-64"	"Jan., 2020 "	"2020/01"	11	Not Applicable	Not Applicable
+	"Jasper County, IA"	"19099"	"65-74 years"	"65-74"	"Jan., 2019"	"2019/01"	10	Not Applicable	Not Applicable
+	"Jasper County, IA"	"19099"	"65-74 years"	"65-74"	"Jul., 2019"	"2019/07"	11	Not Applicable	Not Applicable
+	"Jasper County, IA"	"19099"	"65-74 years"	"65-74"	"May, 2020 "	"2020/05"	18	Not Applicable	Not Applicable
+	"Jasper County, IA"	"19099"	"75-84 years"	"75-84"	"Feb., 2019"	"2019/02"	12	Not Applicable	Not Applicable
+	"Jasper County, IA"	"19099"	"75-84 years"	"75-84"	"Oct., 2019"	"2019/10"	14	Not Applicable	Not Applicable
+	"Jasper County, IA"	"19099"	"75-84 years"	"75-84"	"Nov., 2019"	"2019/11"	10	Not Applicable	Not Applicable
+	"Jasper County, IA"	"19099"	"75-84 years"	"75-84"	"Jan., 2020 "	"2020/01"	11	Not Applicable	Not Applicable
+	"Jasper County, IA"	"19099"	"75-84 years"	"75-84"	"Feb., 2020 "	"2020/02"	11	Not Applicable	Not Applicable
+	"Jasper County, IA"	"19099"	"75-84 years"	"75-84"	"Apr., 2020 "	"2020/04"	12	Not Applicable	Not Applicable
+	"Jasper County, IA"	"19099"	"75-84 years"	"75-84"	"May, 2020 "	"2020/05"	18	Not Applicable	Not Applicable
+	"Jasper County, IA"	"19099"	"75-84 years"	"75-84"	"Jul., 2020 "	"2020/07"	13	Not Applicable	Not Applicable
+	"Jasper County, IA"	"19099"	"75-84 years"	"75-84"	"Aug., 2020 "	"2020/08"	13	Not Applicable	Not Applicable
+	"Jasper County, IA"	"19099"	"75-84 years"	"75-84"	"Oct., 2020 "	"2020/10"	10	Not Applicable	Not Applicable
+	"Jasper County, IA"	"19099"	"75-84 years"	"75-84"	"Nov., 2020 "	"2020/11"	18	Not Applicable	Not Applicable
+	"Jasper County, IA"	"19099"	"75-84 years"	"75-84"	"Dec., 2020 "	"2020/12"	17	Not Applicable	Not Applicable
+	"Jasper County, IA"	"19099"	"85+ years"	"85+"	"Jan., 2019"	"2019/01"	12	Not Applicable	Not Applicable
+	"Jasper County, IA"	"19099"	"85+ years"	"85+"	"Feb., 2019"	"2019/02"	14	Not Applicable	Not Applicable
+	"Jasper County, IA"	"19099"	"85+ years"	"85+"	"May, 2019"	"2019/05"	13	Not Applicable	Not Applicable
+	"Jasper County, IA"	"19099"	"85+ years"	"85+"	"Aug., 2019"	"2019/08"	12	Not Applicable	Not Applicable
+	"Jasper County, IA"	"19099"	"85+ years"	"85+"	"Sep., 2019"	"2019/09"	17	Not Applicable	Not Applicable
+	"Jasper County, IA"	"19099"	"85+ years"	"85+"	"Oct., 2019"	"2019/10"	18	Not Applicable	Not Applicable
+	"Jasper County, IA"	"19099"	"85+ years"	"85+"	"Nov., 2019"	"2019/11"	13	Not Applicable	Not Applicable
+	"Jasper County, IA"	"19099"	"85+ years"	"85+"	"Dec., 2019"	"2019/12"	13	Not Applicable	Not Applicable
+	"Jasper County, IA"	"19099"	"85+ years"	"85+"	"Jan., 2020 "	"2020/01"	14	Not Applicable	Not Applicable
+	"Jasper County, IA"	"19099"	"85+ years"	"85+"	"Feb., 2020 "	"2020/02"	17	Not Applicable	Not Applicable
+	"Jasper County, IA"	"19099"	"85+ years"	"85+"	"Mar., 2020 "	"2020/03"	12	Not Applicable	Not Applicable
+	"Jasper County, IA"	"19099"	"85+ years"	"85+"	"May, 2020 "	"2020/05"	15	Not Applicable	Not Applicable
+	"Jasper County, IA"	"19099"	"85+ years"	"85+"	"Jun., 2020 "	"2020/06"	14	Not Applicable	Not Applicable
+	"Jasper County, IA"	"19099"	"85+ years"	"85+"	"Aug., 2020 "	"2020/08"	13	Not Applicable	Not Applicable
+	"Jasper County, IA"	"19099"	"85+ years"	"85+"	"Sep., 2020 "	"2020/09"	14	Not Applicable	Not Applicable
+	"Jasper County, IA"	"19099"	"85+ years"	"85+"	"Nov., 2020 "	"2020/11"	14	Not Applicable	Not Applicable
+	"Jasper County, IA"	"19099"	"85+ years"	"85+"	"Dec., 2020 "	"2020/12"	19	Not Applicable	Not Applicable
+	"Jefferson County, IA"	"19101"	"75-84 years"	"75-84"	"Aug., 2020 "	"2020/08"	10	Not Applicable	Not Applicable
+	"Jefferson County, IA"	"19101"	"85+ years"	"85+"	"Jun., 2019"	"2019/06"	13	Not Applicable	Not Applicable
+	"Jefferson County, IA"	"19101"	"85+ years"	"85+"	"Nov., 2020 "	"2020/11"	10	Not Applicable	Not Applicable
+	"Jefferson County, IA"	"19101"	"85+ years"	"85+"	"Dec., 2020 "	"2020/12"	15	Not Applicable	Not Applicable
+	"Johnson County, IA"	"19103"	"55-64 years"	"55-64"	"May, 2019"	"2019/05"	12	Not Applicable	Not Applicable
+	"Johnson County, IA"	"19103"	"55-64 years"	"55-64"	"Oct., 2019"	"2019/10"	10	Not Applicable	Not Applicable
+	"Johnson County, IA"	"19103"	"55-64 years"	"55-64"	"Sep., 2020 "	"2020/09"	12	Not Applicable	Not Applicable
+	"Johnson County, IA"	"19103"	"55-64 years"	"55-64"	"Dec., 2020 "	"2020/12"	13	Not Applicable	Not Applicable
+	"Johnson County, IA"	"19103"	"65-74 years"	"65-74"	"Jan., 2019"	"2019/01"	10	Not Applicable	Not Applicable
+	"Johnson County, IA"	"19103"	"65-74 years"	"65-74"	"Feb., 2019"	"2019/02"	13	Not Applicable	Not Applicable
+	"Johnson County, IA"	"19103"	"65-74 years"	"65-74"	"Mar., 2019"	"2019/03"	17	Not Applicable	Not Applicable
+	"Johnson County, IA"	"19103"	"65-74 years"	"65-74"	"May, 2019"	"2019/05"	11	Not Applicable	Not Applicable
+	"Johnson County, IA"	"19103"	"65-74 years"	"65-74"	"Jun., 2019"	"2019/06"	10	Not Applicable	Not Applicable
+	"Johnson County, IA"	"19103"	"65-74 years"	"65-74"	"Jul., 2019"	"2019/07"	16	Not Applicable	Not Applicable
+	"Johnson County, IA"	"19103"	"65-74 years"	"65-74"	"Aug., 2019"	"2019/08"	14	Not Applicable	Not Applicable
+	"Johnson County, IA"	"19103"	"65-74 years"	"65-74"	"Sep., 2019"	"2019/09"	17	Not Applicable	Not Applicable
+	"Johnson County, IA"	"19103"	"65-74 years"	"65-74"	"Oct., 2019"	"2019/10"	19	Not Applicable	Not Applicable
+	"Johnson County, IA"	"19103"	"65-74 years"	"65-74"	"Nov., 2019"	"2019/11"	12	Not Applicable	Not Applicable
+	"Johnson County, IA"	"19103"	"65-74 years"	"65-74"	"Dec., 2019"	"2019/12"	11	Not Applicable	Not Applicable
+	"Johnson County, IA"	"19103"	"65-74 years"	"65-74"	"Jan., 2020 "	"2020/01"	13	Not Applicable	Not Applicable
+	"Johnson County, IA"	"19103"	"65-74 years"	"65-74"	"Feb., 2020 "	"2020/02"	15	Not Applicable	Not Applicable
+	"Johnson County, IA"	"19103"	"65-74 years"	"65-74"	"Mar., 2020 "	"2020/03"	11	Not Applicable	Not Applicable
+	"Johnson County, IA"	"19103"	"65-74 years"	"65-74"	"May, 2020 "	"2020/05"	15	Not Applicable	Not Applicable
+	"Johnson County, IA"	"19103"	"65-74 years"	"65-74"	"Jul., 2020 "	"2020/07"	17	Not Applicable	Not Applicable
+	"Johnson County, IA"	"19103"	"65-74 years"	"65-74"	"Aug., 2020 "	"2020/08"	21	Not Applicable	Not Applicable
+	"Johnson County, IA"	"19103"	"65-74 years"	"65-74"	"Sep., 2020 "	"2020/09"	12	Not Applicable	Not Applicable
+	"Johnson County, IA"	"19103"	"65-74 years"	"65-74"	"Oct., 2020 "	"2020/10"	17	Not Applicable	Not Applicable
+	"Johnson County, IA"	"19103"	"65-74 years"	"65-74"	"Nov., 2020 "	"2020/11"	13	Not Applicable	Not Applicable
+	"Johnson County, IA"	"19103"	"65-74 years"	"65-74"	"Dec., 2020 "	"2020/12"	14	Not Applicable	Not Applicable
+	"Johnson County, IA"	"19103"	"75-84 years"	"75-84"	"Jan., 2019"	"2019/01"	13	Not Applicable	Not Applicable
+	"Johnson County, IA"	"19103"	"75-84 years"	"75-84"	"Feb., 2019"	"2019/02"	21	Not Applicable	Not Applicable
+	"Johnson County, IA"	"19103"	"75-84 years"	"75-84"	"Mar., 2019"	"2019/03"	15	Not Applicable	Not Applicable
+	"Johnson County, IA"	"19103"	"75-84 years"	"75-84"	"Apr., 2019"	"2019/04"	14	Not Applicable	Not Applicable
+	"Johnson County, IA"	"19103"	"75-84 years"	"75-84"	"May, 2019"	"2019/05"	18	Not Applicable	Not Applicable
+	"Johnson County, IA"	"19103"	"75-84 years"	"75-84"	"Jun., 2019"	"2019/06"	14	Not Applicable	Not Applicable
+	"Johnson County, IA"	"19103"	"75-84 years"	"75-84"	"Aug., 2019"	"2019/08"	12	Not Applicable	Not Applicable
+	"Johnson County, IA"	"19103"	"75-84 years"	"75-84"	"Sep., 2019"	"2019/09"	17	Not Applicable	Not Applicable
+	"Johnson County, IA"	"19103"	"75-84 years"	"75-84"	"Oct., 2019"	"2019/10"	10	Not Applicable	Not Applicable
+	"Johnson County, IA"	"19103"	"75-84 years"	"75-84"	"Nov., 2019"	"2019/11"	23	Not Applicable	Not Applicable
+	"Johnson County, IA"	"19103"	"75-84 years"	"75-84"	"Dec., 2019"	"2019/12"	19	Not Applicable	Not Applicable
+	"Johnson County, IA"	"19103"	"75-84 years"	"75-84"	"Jan., 2020 "	"2020/01"	14	Not Applicable	Not Applicable
+	"Johnson County, IA"	"19103"	"75-84 years"	"75-84"	"Feb., 2020 "	"2020/02"	12	Not Applicable	Not Applicable
+	"Johnson County, IA"	"19103"	"75-84 years"	"75-84"	"Mar., 2020 "	"2020/03"	10	Not Applicable	Not Applicable
+	"Johnson County, IA"	"19103"	"75-84 years"	"75-84"	"Apr., 2020 "	"2020/04"	20	Not Applicable	Not Applicable
+	"Johnson County, IA"	"19103"	"75-84 years"	"75-84"	"May, 2020 "	"2020/05"	10	Not Applicable	Not Applicable
+	"Johnson County, IA"	"19103"	"75-84 years"	"75-84"	"Jun., 2020 "	"2020/06"	13	Not Applicable	Not Applicable
+	"Johnson County, IA"	"19103"	"75-84 years"	"75-84"	"Jul., 2020 "	"2020/07"	16	Not Applicable	Not Applicable
+	"Johnson County, IA"	"19103"	"75-84 years"	"75-84"	"Aug., 2020 "	"2020/08"	23	Not Applicable	Not Applicable
+	"Johnson County, IA"	"19103"	"75-84 years"	"75-84"	"Sep., 2020 "	"2020/09"	15	Not Applicable	Not Applicable
+	"Johnson County, IA"	"19103"	"75-84 years"	"75-84"	"Oct., 2020 "	"2020/10"	18	Not Applicable	Not Applicable
+	"Johnson County, IA"	"19103"	"75-84 years"	"75-84"	"Nov., 2020 "	"2020/11"	19	Not Applicable	Not Applicable
+	"Johnson County, IA"	"19103"	"75-84 years"	"75-84"	"Dec., 2020 "	"2020/12"	21	Not Applicable	Not Applicable
+	"Johnson County, IA"	"19103"	"85+ years"	"85+"	"Jan., 2019"	"2019/01"	21	Not Applicable	Not Applicable
+	"Johnson County, IA"	"19103"	"85+ years"	"85+"	"Feb., 2019"	"2019/02"	19	Not Applicable	Not Applicable
+	"Johnson County, IA"	"19103"	"85+ years"	"85+"	"Mar., 2019"	"2019/03"	17	Not Applicable	Not Applicable
+	"Johnson County, IA"	"19103"	"85+ years"	"85+"	"Apr., 2019"	"2019/04"	18	Not Applicable	Not Applicable
+	"Johnson County, IA"	"19103"	"85+ years"	"85+"	"May, 2019"	"2019/05"	25	Not Applicable	Not Applicable
+	"Johnson County, IA"	"19103"	"85+ years"	"85+"	"Jun., 2019"	"2019/06"	18	Not Applicable	Not Applicable
+	"Johnson County, IA"	"19103"	"85+ years"	"85+"	"Jul., 2019"	"2019/07"	16	Not Applicable	Not Applicable
+	"Johnson County, IA"	"19103"	"85+ years"	"85+"	"Aug., 2019"	"2019/08"	23	Not Applicable	Not Applicable
+	"Johnson County, IA"	"19103"	"85+ years"	"85+"	"Sep., 2019"	"2019/09"	19	Not Applicable	Not Applicable
+	"Johnson County, IA"	"19103"	"85+ years"	"85+"	"Oct., 2019"	"2019/10"	21	Not Applicable	Not Applicable
+	"Johnson County, IA"	"19103"	"85+ years"	"85+"	"Nov., 2019"	"2019/11"	30	Not Applicable	Not Applicable
+	"Johnson County, IA"	"19103"	"85+ years"	"85+"	"Dec., 2019"	"2019/12"	25	Not Applicable	Not Applicable
+	"Johnson County, IA"	"19103"	"85+ years"	"85+"	"Jan., 2020 "	"2020/01"	27	Not Applicable	Not Applicable
+	"Johnson County, IA"	"19103"	"85+ years"	"85+"	"Feb., 2020 "	"2020/02"	22	Not Applicable	Not Applicable
+	"Johnson County, IA"	"19103"	"85+ years"	"85+"	"Mar., 2020 "	"2020/03"	29	Not Applicable	Not Applicable
+	"Johnson County, IA"	"19103"	"85+ years"	"85+"	"Apr., 2020 "	"2020/04"	23	Not Applicable	Not Applicable
+	"Johnson County, IA"	"19103"	"85+ years"	"85+"	"May, 2020 "	"2020/05"	23	Not Applicable	Not Applicable
+	"Johnson County, IA"	"19103"	"85+ years"	"85+"	"Jun., 2020 "	"2020/06"	22	Not Applicable	Not Applicable
+	"Johnson County, IA"	"19103"	"85+ years"	"85+"	"Jul., 2020 "	"2020/07"	18	Not Applicable	Not Applicable
+	"Johnson County, IA"	"19103"	"85+ years"	"85+"	"Aug., 2020 "	"2020/08"	24	Not Applicable	Not Applicable
+	"Johnson County, IA"	"19103"	"85+ years"	"85+"	"Sep., 2020 "	"2020/09"	19	Not Applicable	Not Applicable
+	"Johnson County, IA"	"19103"	"85+ years"	"85+"	"Oct., 2020 "	"2020/10"	30	Not Applicable	Not Applicable
+	"Johnson County, IA"	"19103"	"85+ years"	"85+"	"Nov., 2020 "	"2020/11"	28	Not Applicable	Not Applicable
+	"Johnson County, IA"	"19103"	"85+ years"	"85+"	"Dec., 2020 "	"2020/12"	29	Not Applicable	Not Applicable
+	"Jones County, IA"	"19105"	"75-84 years"	"75-84"	"Nov., 2020 "	"2020/11"	10	Not Applicable	Not Applicable
+	"Jones County, IA"	"19105"	"85+ years"	"85+"	"Sep., 2019"	"2019/09"	12	Not Applicable	Not Applicable
+	"Jones County, IA"	"19105"	"85+ years"	"85+"	"Oct., 2020 "	"2020/10"	11	Not Applicable	Not Applicable
+	"Jones County, IA"	"19105"	"85+ years"	"85+"	"Nov., 2020 "	"2020/11"	19	Not Applicable	Not Applicable
+	"Jones County, IA"	"19105"	"85+ years"	"85+"	"Dec., 2020 "	"2020/12"	12	Not Applicable	Not Applicable
+	"Keokuk County, IA"	"19107"	"85+ years"	"85+"	"Nov., 2020 "	"2020/11"	12	Not Applicable	Not Applicable
+	"Kossuth County, IA"	"19109"	"75-84 years"	"75-84"	"Dec., 2020 "	"2020/12"	14	Not Applicable	Not Applicable
+	"Kossuth County, IA"	"19109"	"85+ years"	"85+"	"Feb., 2019"	"2019/02"	12	Not Applicable	Not Applicable
+	"Kossuth County, IA"	"19109"	"85+ years"	"85+"	"Nov., 2019"	"2019/11"	10	Not Applicable	Not Applicable
+	"Kossuth County, IA"	"19109"	"85+ years"	"85+"	"Nov., 2020 "	"2020/11"	16	Not Applicable	Not Applicable
+	"Kossuth County, IA"	"19109"	"85+ years"	"85+"	"Dec., 2020 "	"2020/12"	18	Not Applicable	Not Applicable
+	"Lee County, IA"	"19111"	"55-64 years"	"55-64"	"Apr., 2019"	"2019/04"	10	Not Applicable	Not Applicable
+	"Lee County, IA"	"19111"	"55-64 years"	"55-64"	"Jun., 2020 "	"2020/06"	10	Not Applicable	Not Applicable
+	"Lee County, IA"	"19111"	"55-64 years"	"55-64"	"Oct., 2020 "	"2020/10"	13	Not Applicable	Not Applicable
+	"Lee County, IA"	"19111"	"65-74 years"	"65-74"	"Jan., 2019"	"2019/01"	10	Not Applicable	Not Applicable
+	"Lee County, IA"	"19111"	"65-74 years"	"65-74"	"Feb., 2019"	"2019/02"	14	Not Applicable	Not Applicable
+	"Lee County, IA"	"19111"	"65-74 years"	"65-74"	"Mar., 2019"	"2019/03"	18	Not Applicable	Not Applicable
+	"Lee County, IA"	"19111"	"65-74 years"	"65-74"	"Aug., 2019"	"2019/08"	10	Not Applicable	Not Applicable
+	"Lee County, IA"	"19111"	"65-74 years"	"65-74"	"Dec., 2019"	"2019/12"	12	Not Applicable	Not Applicable
+	"Lee County, IA"	"19111"	"65-74 years"	"65-74"	"Mar., 2020 "	"2020/03"	13	Not Applicable	Not Applicable
+	"Lee County, IA"	"19111"	"65-74 years"	"65-74"	"Apr., 2020 "	"2020/04"	12	Not Applicable	Not Applicable
+	"Lee County, IA"	"19111"	"65-74 years"	"65-74"	"Aug., 2020 "	"2020/08"	13	Not Applicable	Not Applicable
+	"Lee County, IA"	"19111"	"65-74 years"	"65-74"	"Sep., 2020 "	"2020/09"	11	Not Applicable	Not Applicable
+	"Lee County, IA"	"19111"	"65-74 years"	"65-74"	"Oct., 2020 "	"2020/10"	10	Not Applicable	Not Applicable
+	"Lee County, IA"	"19111"	"65-74 years"	"65-74"	"Dec., 2020 "	"2020/12"	10	Not Applicable	Not Applicable
+	"Lee County, IA"	"19111"	"75-84 years"	"75-84"	"Feb., 2019"	"2019/02"	12	Not Applicable	Not Applicable
+	"Lee County, IA"	"19111"	"75-84 years"	"75-84"	"Apr., 2019"	"2019/04"	13	Not Applicable	Not Applicable
+	"Lee County, IA"	"19111"	"75-84 years"	"75-84"	"May, 2019"	"2019/05"	10	Not Applicable	Not Applicable
+	"Lee County, IA"	"19111"	"75-84 years"	"75-84"	"Jun., 2019"	"2019/06"	13	Not Applicable	Not Applicable
+	"Lee County, IA"	"19111"	"75-84 years"	"75-84"	"Jul., 2019"	"2019/07"	11	Not Applicable	Not Applicable
+	"Lee County, IA"	"19111"	"75-84 years"	"75-84"	"Sep., 2019"	"2019/09"	13	Not Applicable	Not Applicable
+	"Lee County, IA"	"19111"	"75-84 years"	"75-84"	"Jan., 2020 "	"2020/01"	10	Not Applicable	Not Applicable
+	"Lee County, IA"	"19111"	"75-84 years"	"75-84"	"Feb., 2020 "	"2020/02"	13	Not Applicable	Not Applicable
+	"Lee County, IA"	"19111"	"75-84 years"	"75-84"	"Mar., 2020 "	"2020/03"	12	Not Applicable	Not Applicable
+	"Lee County, IA"	"19111"	"75-84 years"	"75-84"	"Jun., 2020 "	"2020/06"	11	Not Applicable	Not Applicable
+	"Lee County, IA"	"19111"	"75-84 years"	"75-84"	"Aug., 2020 "	"2020/08"	13	Not Applicable	Not Applicable
+	"Lee County, IA"	"19111"	"75-84 years"	"75-84"	"Sep., 2020 "	"2020/09"	12	Not Applicable	Not Applicable
+	"Lee County, IA"	"19111"	"75-84 years"	"75-84"	"Oct., 2020 "	"2020/10"	16	Not Applicable	Not Applicable
+	"Lee County, IA"	"19111"	"75-84 years"	"75-84"	"Nov., 2020 "	"2020/11"	17	Not Applicable	Not Applicable
+	"Lee County, IA"	"19111"	"75-84 years"	"75-84"	"Dec., 2020 "	"2020/12"	17	Not Applicable	Not Applicable
+	"Lee County, IA"	"19111"	"85+ years"	"85+"	"Jan., 2019"	"2019/01"	15	Not Applicable	Not Applicable
+	"Lee County, IA"	"19111"	"85+ years"	"85+"	"Mar., 2019"	"2019/03"	14	Not Applicable	Not Applicable
+	"Lee County, IA"	"19111"	"85+ years"	"85+"	"Jul., 2019"	"2019/07"	14	Not Applicable	Not Applicable
+	"Lee County, IA"	"19111"	"85+ years"	"85+"	"Nov., 2019"	"2019/11"	19	Not Applicable	Not Applicable
+	"Lee County, IA"	"19111"	"85+ years"	"85+"	"Jan., 2020 "	"2020/01"	14	Not Applicable	Not Applicable
+	"Lee County, IA"	"19111"	"85+ years"	"85+"	"Feb., 2020 "	"2020/02"	10	Not Applicable	Not Applicable
+	"Lee County, IA"	"19111"	"85+ years"	"85+"	"Mar., 2020 "	"2020/03"	21	Not Applicable	Not Applicable
+	"Lee County, IA"	"19111"	"85+ years"	"85+"	"May, 2020 "	"2020/05"	11	Not Applicable	Not Applicable
+	"Lee County, IA"	"19111"	"85+ years"	"85+"	"Aug., 2020 "	"2020/08"	19	Not Applicable	Not Applicable
+	"Lee County, IA"	"19111"	"85+ years"	"85+"	"Oct., 2020 "	"2020/10"	15	Not Applicable	Not Applicable
+	"Lee County, IA"	"19111"	"85+ years"	"85+"	"Nov., 2020 "	"2020/11"	17	Not Applicable	Not Applicable
+	"Lee County, IA"	"19111"	"85+ years"	"85+"	"Dec., 2020 "	"2020/12"	18	Not Applicable	Not Applicable
+	"Linn County, IA"	"19113"	"55-64 years"	"55-64"	"Jan., 2019"	"2019/01"	23	Not Applicable	Not Applicable
+	"Linn County, IA"	"19113"	"55-64 years"	"55-64"	"Feb., 2019"	"2019/02"	14	Not Applicable	Not Applicable
+	"Linn County, IA"	"19113"	"55-64 years"	"55-64"	"Mar., 2019"	"2019/03"	18	Not Applicable	Not Applicable
+	"Linn County, IA"	"19113"	"55-64 years"	"55-64"	"Apr., 2019"	"2019/04"	27	Not Applicable	Not Applicable
+	"Linn County, IA"	"19113"	"55-64 years"	"55-64"	"May, 2019"	"2019/05"	17	Not Applicable	Not Applicable
+	"Linn County, IA"	"19113"	"55-64 years"	"55-64"	"Jun., 2019"	"2019/06"	14	Not Applicable	Not Applicable
+	"Linn County, IA"	"19113"	"55-64 years"	"55-64"	"Jul., 2019"	"2019/07"	22	Not Applicable	Not Applicable
+	"Linn County, IA"	"19113"	"55-64 years"	"55-64"	"Aug., 2019"	"2019/08"	19	Not Applicable	Not Applicable
+	"Linn County, IA"	"19113"	"55-64 years"	"55-64"	"Sep., 2019"	"2019/09"	20	Not Applicable	Not Applicable
+	"Linn County, IA"	"19113"	"55-64 years"	"55-64"	"Oct., 2019"	"2019/10"	19	Not Applicable	Not Applicable
+	"Linn County, IA"	"19113"	"55-64 years"	"55-64"	"Nov., 2019"	"2019/11"	17	Not Applicable	Not Applicable
+	"Linn County, IA"	"19113"	"55-64 years"	"55-64"	"Dec., 2019"	"2019/12"	25	Not Applicable	Not Applicable
+	"Linn County, IA"	"19113"	"55-64 years"	"55-64"	"Jan., 2020 "	"2020/01"	15	Not Applicable	Not Applicable
+	"Linn County, IA"	"19113"	"55-64 years"	"55-64"	"Feb., 2020 "	"2020/02"	14	Not Applicable	Not Applicable
+	"Linn County, IA"	"19113"	"55-64 years"	"55-64"	"Mar., 2020 "	"2020/03"	14	Not Applicable	Not Applicable
+	"Linn County, IA"	"19113"	"55-64 years"	"55-64"	"Apr., 2020 "	"2020/04"	26	Not Applicable	Not Applicable
+	"Linn County, IA"	"19113"	"55-64 years"	"55-64"	"May, 2020 "	"2020/05"	20	Not Applicable	Not Applicable
+	"Linn County, IA"	"19113"	"55-64 years"	"55-64"	"Jun., 2020 "	"2020/06"	18	Not Applicable	Not Applicable
+	"Linn County, IA"	"19113"	"55-64 years"	"55-64"	"Jul., 2020 "	"2020/07"	21	Not Applicable	Not Applicable
+	"Linn County, IA"	"19113"	"55-64 years"	"55-64"	"Aug., 2020 "	"2020/08"	28	Not Applicable	Not Applicable
+	"Linn County, IA"	"19113"	"55-64 years"	"55-64"	"Sep., 2020 "	"2020/09"	15	Not Applicable	Not Applicable
+	"Linn County, IA"	"19113"	"55-64 years"	"55-64"	"Oct., 2020 "	"2020/10"	28	Not Applicable	Not Applicable
+	"Linn County, IA"	"19113"	"55-64 years"	"55-64"	"Nov., 2020 "	"2020/11"	22	Not Applicable	Not Applicable
+	"Linn County, IA"	"19113"	"55-64 years"	"55-64"	"Dec., 2020 "	"2020/12"	16	Not Applicable	Not Applicable
+	"Linn County, IA"	"19113"	"65-74 years"	"65-74"	"Jan., 2019"	"2019/01"	26	Not Applicable	Not Applicable
+	"Linn County, IA"	"19113"	"65-74 years"	"65-74"	"Feb., 2019"	"2019/02"	26	Not Applicable	Not Applicable
+	"Linn County, IA"	"19113"	"65-74 years"	"65-74"	"Mar., 2019"	"2019/03"	20	Not Applicable	Not Applicable
+	"Linn County, IA"	"19113"	"65-74 years"	"65-74"	"Apr., 2019"	"2019/04"	30	Not Applicable	Not Applicable
+	"Linn County, IA"	"19113"	"65-74 years"	"65-74"	"May, 2019"	"2019/05"	28	Not Applicable	Not Applicable
+	"Linn County, IA"	"19113"	"65-74 years"	"65-74"	"Jun., 2019"	"2019/06"	24	Not Applicable	Not Applicable
+	"Linn County, IA"	"19113"	"65-74 years"	"65-74"	"Jul., 2019"	"2019/07"	23	Not Applicable	Not Applicable
+	"Linn County, IA"	"19113"	"65-74 years"	"65-74"	"Aug., 2019"	"2019/08"	23	Not Applicable	Not Applicable
+	"Linn County, IA"	"19113"	"65-74 years"	"65-74"	"Sep., 2019"	"2019/09"	20	Not Applicable	Not Applicable
+	"Linn County, IA"	"19113"	"65-74 years"	"65-74"	"Oct., 2019"	"2019/10"	33	Not Applicable	Not Applicable
+	"Linn County, IA"	"19113"	"65-74 years"	"65-74"	"Nov., 2019"	"2019/11"	25	Not Applicable	Not Applicable
+	"Linn County, IA"	"19113"	"65-74 years"	"65-74"	"Dec., 2019"	"2019/12"	32	Not Applicable	Not Applicable
+	"Linn County, IA"	"19113"	"65-74 years"	"65-74"	"Jan., 2020 "	"2020/01"	35	Not Applicable	Not Applicable
+	"Linn County, IA"	"19113"	"65-74 years"	"65-74"	"Feb., 2020 "	"2020/02"	16	Not Applicable	Not Applicable
+	"Linn County, IA"	"19113"	"65-74 years"	"65-74"	"Mar., 2020 "	"2020/03"	26	Not Applicable	Not Applicable
+	"Linn County, IA"	"19113"	"65-74 years"	"65-74"	"Apr., 2020 "	"2020/04"	42	Not Applicable	Not Applicable
+	"Linn County, IA"	"19113"	"65-74 years"	"65-74"	"May, 2020 "	"2020/05"	29	Not Applicable	Not Applicable
+	"Linn County, IA"	"19113"	"65-74 years"	"65-74"	"Jun., 2020 "	"2020/06"	31	Not Applicable	Not Applicable
+	"Linn County, IA"	"19113"	"65-74 years"	"65-74"	"Jul., 2020 "	"2020/07"	20	Not Applicable	Not Applicable
+	"Linn County, IA"	"19113"	"65-74 years"	"65-74"	"Aug., 2020 "	"2020/08"	40	Not Applicable	Not Applicable
+	"Linn County, IA"	"19113"	"65-74 years"	"65-74"	"Sep., 2020 "	"2020/09"	25	Not Applicable	Not Applicable
+	"Linn County, IA"	"19113"	"65-74 years"	"65-74"	"Oct., 2020 "	"2020/10"	45	Not Applicable	Not Applicable
+	"Linn County, IA"	"19113"	"65-74 years"	"65-74"	"Nov., 2020 "	"2020/11"	34	Not Applicable	Not Applicable
+	"Linn County, IA"	"19113"	"65-74 years"	"65-74"	"Dec., 2020 "	"2020/12"	47	Not Applicable	Not Applicable
+	"Linn County, IA"	"19113"	"75-84 years"	"75-84"	"Jan., 2019"	"2019/01"	36	Not Applicable	Not Applicable
+	"Linn County, IA"	"19113"	"75-84 years"	"75-84"	"Feb., 2019"	"2019/02"	39	Not Applicable	Not Applicable
+	"Linn County, IA"	"19113"	"75-84 years"	"75-84"	"Mar., 2019"	"2019/03"	36	Not Applicable	Not Applicable
+	"Linn County, IA"	"19113"	"75-84 years"	"75-84"	"Apr., 2019"	"2019/04"	36	Not Applicable	Not Applicable
+	"Linn County, IA"	"19113"	"75-84 years"	"75-84"	"May, 2019"	"2019/05"	37	Not Applicable	Not Applicable
+	"Linn County, IA"	"19113"	"75-84 years"	"75-84"	"Jun., 2019"	"2019/06"	31	Not Applicable	Not Applicable
+	"Linn County, IA"	"19113"	"75-84 years"	"75-84"	"Jul., 2019"	"2019/07"	32	Not Applicable	Not Applicable
+	"Linn County, IA"	"19113"	"75-84 years"	"75-84"	"Aug., 2019"	"2019/08"	47	Not Applicable	Not Applicable
+	"Linn County, IA"	"19113"	"75-84 years"	"75-84"	"Sep., 2019"	"2019/09"	35	Not Applicable	Not Applicable
+	"Linn County, IA"	"19113"	"75-84 years"	"75-84"	"Oct., 2019"	"2019/10"	49	Not Applicable	Not Applicable
+	"Linn County, IA"	"19113"	"75-84 years"	"75-84"	"Nov., 2019"	"2019/11"	44	Not Applicable	Not Applicable
+	"Linn County, IA"	"19113"	"75-84 years"	"75-84"	"Dec., 2019"	"2019/12"	33	Not Applicable	Not Applicable
+	"Linn County, IA"	"19113"	"75-84 years"	"75-84"	"Jan., 2020 "	"2020/01"	59	Not Applicable	Not Applicable
+	"Linn County, IA"	"19113"	"75-84 years"	"75-84"	"Feb., 2020 "	"2020/02"	52	Not Applicable	Not Applicable
+	"Linn County, IA"	"19113"	"75-84 years"	"75-84"	"Mar., 2020 "	"2020/03"	49	Not Applicable	Not Applicable
+	"Linn County, IA"	"19113"	"75-84 years"	"75-84"	"Apr., 2020 "	"2020/04"	38	Not Applicable	Not Applicable
+	"Linn County, IA"	"19113"	"75-84 years"	"75-84"	"May, 2020 "	"2020/05"	47	Not Applicable	Not Applicable
+	"Linn County, IA"	"19113"	"75-84 years"	"75-84"	"Jun., 2020 "	"2020/06"	31	Not Applicable	Not Applicable
+	"Linn County, IA"	"19113"	"75-84 years"	"75-84"	"Jul., 2020 "	"2020/07"	40	Not Applicable	Not Applicable
+	"Linn County, IA"	"19113"	"75-84 years"	"75-84"	"Aug., 2020 "	"2020/08"	49	Not Applicable	Not Applicable
+	"Linn County, IA"	"19113"	"75-84 years"	"75-84"	"Sep., 2020 "	"2020/09"	56	Not Applicable	Not Applicable
+	"Linn County, IA"	"19113"	"75-84 years"	"75-84"	"Oct., 2020 "	"2020/10"	51	Not Applicable	Not Applicable
+	"Linn County, IA"	"19113"	"75-84 years"	"75-84"	"Nov., 2020 "	"2020/11"	69	Not Applicable	Not Applicable
+	"Linn County, IA"	"19113"	"75-84 years"	"75-84"	"Dec., 2020 "	"2020/12"	73	Not Applicable	Not Applicable
+	"Linn County, IA"	"19113"	"85+ years"	"85+"	"Jan., 2019"	"2019/01"	60	Not Applicable	Not Applicable
+	"Linn County, IA"	"19113"	"85+ years"	"85+"	"Feb., 2019"	"2019/02"	39	Not Applicable	Not Applicable
+	"Linn County, IA"	"19113"	"85+ years"	"85+"	"Mar., 2019"	"2019/03"	64	Not Applicable	Not Applicable
+	"Linn County, IA"	"19113"	"85+ years"	"85+"	"Apr., 2019"	"2019/04"	52	Not Applicable	Not Applicable
+	"Linn County, IA"	"19113"	"85+ years"	"85+"	"May, 2019"	"2019/05"	42	Not Applicable	Not Applicable
+	"Linn County, IA"	"19113"	"85+ years"	"85+"	"Jun., 2019"	"2019/06"	35	Not Applicable	Not Applicable
+	"Linn County, IA"	"19113"	"85+ years"	"85+"	"Jul., 2019"	"2019/07"	59	Not Applicable	Not Applicable
+	"Linn County, IA"	"19113"	"85+ years"	"85+"	"Aug., 2019"	"2019/08"	62	Not Applicable	Not Applicable
+	"Linn County, IA"	"19113"	"85+ years"	"85+"	"Sep., 2019"	"2019/09"	48	Not Applicable	Not Applicable
+	"Linn County, IA"	"19113"	"85+ years"	"85+"	"Oct., 2019"	"2019/10"	46	Not Applicable	Not Applicable
+	"Linn County, IA"	"19113"	"85+ years"	"85+"	"Nov., 2019"	"2019/11"	49	Not Applicable	Not Applicable
+	"Linn County, IA"	"19113"	"85+ years"	"85+"	"Dec., 2019"	"2019/12"	52	Not Applicable	Not Applicable
+	"Linn County, IA"	"19113"	"85+ years"	"85+"	"Jan., 2020 "	"2020/01"	59	Not Applicable	Not Applicable
+	"Linn County, IA"	"19113"	"85+ years"	"85+"	"Feb., 2020 "	"2020/02"	58	Not Applicable	Not Applicable
+	"Linn County, IA"	"19113"	"85+ years"	"85+"	"Mar., 2020 "	"2020/03"	58	Not Applicable	Not Applicable
+	"Linn County, IA"	"19113"	"85+ years"	"85+"	"Apr., 2020 "	"2020/04"	62	Not Applicable	Not Applicable
+	"Linn County, IA"	"19113"	"85+ years"	"85+"	"May, 2020 "	"2020/05"	62	Not Applicable	Not Applicable
+	"Linn County, IA"	"19113"	"85+ years"	"85+"	"Jun., 2020 "	"2020/06"	36	Not Applicable	Not Applicable
+	"Linn County, IA"	"19113"	"85+ years"	"85+"	"Jul., 2020 "	"2020/07"	51	Not Applicable	Not Applicable
+	"Linn County, IA"	"19113"	"85+ years"	"85+"	"Aug., 2020 "	"2020/08"	67	Not Applicable	Not Applicable
+	"Linn County, IA"	"19113"	"85+ years"	"85+"	"Sep., 2020 "	"2020/09"	64	Not Applicable	Not Applicable
+	"Linn County, IA"	"19113"	"85+ years"	"85+"	"Oct., 2020 "	"2020/10"	75	Not Applicable	Not Applicable
+	"Linn County, IA"	"19113"	"85+ years"	"85+"	"Nov., 2020 "	"2020/11"	81	Not Applicable	Not Applicable
+	"Linn County, IA"	"19113"	"85+ years"	"85+"	"Dec., 2020 "	"2020/12"	78	Not Applicable	Not Applicable
+	"Louisa County, IA"	"19115"	"85+ years"	"85+"	"Dec., 2020 "	"2020/12"	11	Not Applicable	Not Applicable
+	"Lyon County, IA"	"19119"	"85+ years"	"85+"	"Oct., 2020 "	"2020/10"	10	Not Applicable	Not Applicable
+	"Mahaska County, IA"	"19123"	"65-74 years"	"65-74"	"Sep., 2019"	"2019/09"	11	Not Applicable	Not Applicable
+	"Mahaska County, IA"	"19123"	"85+ years"	"85+"	"Feb., 2019"	"2019/02"	11	Not Applicable	Not Applicable
+	"Mahaska County, IA"	"19123"	"85+ years"	"85+"	"Mar., 2019"	"2019/03"	11	Not Applicable	Not Applicable
+	"Mahaska County, IA"	"19123"	"85+ years"	"85+"	"Apr., 2019"	"2019/04"	10	Not Applicable	Not Applicable
+	"Mahaska County, IA"	"19123"	"85+ years"	"85+"	"May, 2019"	"2019/05"	11	Not Applicable	Not Applicable
+	"Mahaska County, IA"	"19123"	"85+ years"	"85+"	"Apr., 2020 "	"2020/04"	10	Not Applicable	Not Applicable
+	"Mahaska County, IA"	"19123"	"85+ years"	"85+"	"May, 2020 "	"2020/05"	10	Not Applicable	Not Applicable
+	"Mahaska County, IA"	"19123"	"85+ years"	"85+"	"Jun., 2020 "	"2020/06"	10	Not Applicable	Not Applicable
+	"Mahaska County, IA"	"19123"	"85+ years"	"85+"	"Sep., 2020 "	"2020/09"	14	Not Applicable	Not Applicable
+	"Mahaska County, IA"	"19123"	"85+ years"	"85+"	"Oct., 2020 "	"2020/10"	16	Not Applicable	Not Applicable
+	"Mahaska County, IA"	"19123"	"85+ years"	"85+"	"Dec., 2020 "	"2020/12"	10	Not Applicable	Not Applicable
+	"Marion County, IA"	"19125"	"65-74 years"	"65-74"	"Feb., 2019"	"2019/02"	10	Not Applicable	Not Applicable
+	"Marion County, IA"	"19125"	"65-74 years"	"65-74"	"Mar., 2019"	"2019/03"	12	Not Applicable	Not Applicable
+	"Marion County, IA"	"19125"	"65-74 years"	"65-74"	"Nov., 2020 "	"2020/11"	11	Not Applicable	Not Applicable
+	"Marion County, IA"	"19125"	"65-74 years"	"65-74"	"Dec., 2020 "	"2020/12"	12	Not Applicable	Not Applicable
+	"Marion County, IA"	"19125"	"75-84 years"	"75-84"	"Apr., 2019"	"2019/04"	13	Not Applicable	Not Applicable
+	"Marion County, IA"	"19125"	"75-84 years"	"75-84"	"Sep., 2019"	"2019/09"	11	Not Applicable	Not Applicable
+	"Marion County, IA"	"19125"	"75-84 years"	"75-84"	"Nov., 2019"	"2019/11"	10	Not Applicable	Not Applicable
+	"Marion County, IA"	"19125"	"75-84 years"	"75-84"	"Dec., 2019"	"2019/12"	13	Not Applicable	Not Applicable
+	"Marion County, IA"	"19125"	"75-84 years"	"75-84"	"Apr., 2020 "	"2020/04"	10	Not Applicable	Not Applicable
+	"Marion County, IA"	"19125"	"75-84 years"	"75-84"	"Jun., 2020 "	"2020/06"	10	Not Applicable	Not Applicable
+	"Marion County, IA"	"19125"	"75-84 years"	"75-84"	"Jul., 2020 "	"2020/07"	10	Not Applicable	Not Applicable
+	"Marion County, IA"	"19125"	"75-84 years"	"75-84"	"Nov., 2020 "	"2020/11"	14	Not Applicable	Not Applicable
+	"Marion County, IA"	"19125"	"85+ years"	"85+"	"Jan., 2019"	"2019/01"	15	Not Applicable	Not Applicable
+	"Marion County, IA"	"19125"	"85+ years"	"85+"	"Feb., 2019"	"2019/02"	13	Not Applicable	Not Applicable
+	"Marion County, IA"	"19125"	"85+ years"	"85+"	"Mar., 2019"	"2019/03"	12	Not Applicable	Not Applicable
+	"Marion County, IA"	"19125"	"85+ years"	"85+"	"Jun., 2019"	"2019/06"	16	Not Applicable	Not Applicable
+	"Marion County, IA"	"19125"	"85+ years"	"85+"	"Jul., 2019"	"2019/07"	12	Not Applicable	Not Applicable
+	"Marion County, IA"	"19125"	"85+ years"	"85+"	"Sep., 2019"	"2019/09"	11	Not Applicable	Not Applicable
+	"Marion County, IA"	"19125"	"85+ years"	"85+"	"Dec., 2019"	"2019/12"	11	Not Applicable	Not Applicable
+	"Marion County, IA"	"19125"	"85+ years"	"85+"	"Jan., 2020 "	"2020/01"	13	Not Applicable	Not Applicable
+	"Marion County, IA"	"19125"	"85+ years"	"85+"	"Feb., 2020 "	"2020/02"	16	Not Applicable	Not Applicable
+	"Marion County, IA"	"19125"	"85+ years"	"85+"	"Mar., 2020 "	"2020/03"	11	Not Applicable	Not Applicable
+	"Marion County, IA"	"19125"	"85+ years"	"85+"	"Sep., 2020 "	"2020/09"	15	Not Applicable	Not Applicable
+	"Marion County, IA"	"19125"	"85+ years"	"85+"	"Oct., 2020 "	"2020/10"	18	Not Applicable	Not Applicable
+	"Marion County, IA"	"19125"	"85+ years"	"85+"	"Nov., 2020 "	"2020/11"	27	Not Applicable	Not Applicable
+	"Marion County, IA"	"19125"	"85+ years"	"85+"	"Dec., 2020 "	"2020/12"	22	Not Applicable	Not Applicable
+	"Marshall County, IA"	"19127"	"55-64 years"	"55-64"	"Nov., 2020 "	"2020/11"	10	Not Applicable	Not Applicable
+	"Marshall County, IA"	"19127"	"65-74 years"	"65-74"	"Feb., 2019"	"2019/02"	10	Not Applicable	Not Applicable
+	"Marshall County, IA"	"19127"	"65-74 years"	"65-74"	"Mar., 2019"	"2019/03"	10	Not Applicable	Not Applicable
+	"Marshall County, IA"	"19127"	"65-74 years"	"65-74"	"Oct., 2019"	"2019/10"	10	Not Applicable	Not Applicable
+	"Marshall County, IA"	"19127"	"65-74 years"	"65-74"	"Dec., 2019"	"2019/12"	11	Not Applicable	Not Applicable
+	"Marshall County, IA"	"19127"	"65-74 years"	"65-74"	"Feb., 2020 "	"2020/02"	11	Not Applicable	Not Applicable
+	"Marshall County, IA"	"19127"	"65-74 years"	"65-74"	"Mar., 2020 "	"2020/03"	14	Not Applicable	Not Applicable
+	"Marshall County, IA"	"19127"	"65-74 years"	"65-74"	"May, 2020 "	"2020/05"	10	Not Applicable	Not Applicable
+	"Marshall County, IA"	"19127"	"65-74 years"	"65-74"	"Aug., 2020 "	"2020/08"	13	Not Applicable	Not Applicable
+	"Marshall County, IA"	"19127"	"65-74 years"	"65-74"	"Oct., 2020 "	"2020/10"	13	Not Applicable	Not Applicable
+	"Marshall County, IA"	"19127"	"65-74 years"	"65-74"	"Nov., 2020 "	"2020/11"	11	Not Applicable	Not Applicable
+	"Marshall County, IA"	"19127"	"65-74 years"	"65-74"	"Dec., 2020 "	"2020/12"	14	Not Applicable	Not Applicable
+	"Marshall County, IA"	"19127"	"75-84 years"	"75-84"	"Jan., 2019"	"2019/01"	15	Not Applicable	Not Applicable
+	"Marshall County, IA"	"19127"	"75-84 years"	"75-84"	"Mar., 2019"	"2019/03"	12	Not Applicable	Not Applicable
+	"Marshall County, IA"	"19127"	"75-84 years"	"75-84"	"May, 2019"	"2019/05"	12	Not Applicable	Not Applicable
+	"Marshall County, IA"	"19127"	"75-84 years"	"75-84"	"Oct., 2019"	"2019/10"	11	Not Applicable	Not Applicable
+	"Marshall County, IA"	"19127"	"75-84 years"	"75-84"	"Nov., 2019"	"2019/11"	10	Not Applicable	Not Applicable
+	"Marshall County, IA"	"19127"	"75-84 years"	"75-84"	"Dec., 2019"	"2019/12"	10	Not Applicable	Not Applicable
+	"Marshall County, IA"	"19127"	"75-84 years"	"75-84"	"Jan., 2020 "	"2020/01"	12	Not Applicable	Not Applicable
+	"Marshall County, IA"	"19127"	"75-84 years"	"75-84"	"Feb., 2020 "	"2020/02"	14	Not Applicable	Not Applicable
+	"Marshall County, IA"	"19127"	"75-84 years"	"75-84"	"Apr., 2020 "	"2020/04"	13	Not Applicable	Not Applicable
+	"Marshall County, IA"	"19127"	"75-84 years"	"75-84"	"May, 2020 "	"2020/05"	10	Not Applicable	Not Applicable
+	"Marshall County, IA"	"19127"	"75-84 years"	"75-84"	"Sep., 2020 "	"2020/09"	13	Not Applicable	Not Applicable
+	"Marshall County, IA"	"19127"	"75-84 years"	"75-84"	"Oct., 2020 "	"2020/10"	11	Not Applicable	Not Applicable
+	"Marshall County, IA"	"19127"	"75-84 years"	"75-84"	"Nov., 2020 "	"2020/11"	28	Not Applicable	Not Applicable
+	"Marshall County, IA"	"19127"	"75-84 years"	"75-84"	"Dec., 2020 "	"2020/12"	16	Not Applicable	Not Applicable
+	"Marshall County, IA"	"19127"	"85+ years"	"85+"	"Feb., 2019"	"2019/02"	15	Not Applicable	Not Applicable
+	"Marshall County, IA"	"19127"	"85+ years"	"85+"	"Mar., 2019"	"2019/03"	15	Not Applicable	Not Applicable
+	"Marshall County, IA"	"19127"	"85+ years"	"85+"	"May, 2019"	"2019/05"	12	Not Applicable	Not Applicable
+	"Marshall County, IA"	"19127"	"85+ years"	"85+"	"Jun., 2019"	"2019/06"	16	Not Applicable	Not Applicable
+	"Marshall County, IA"	"19127"	"85+ years"	"85+"	"Jul., 2019"	"2019/07"	10	Not Applicable	Not Applicable
+	"Marshall County, IA"	"19127"	"85+ years"	"85+"	"Aug., 2019"	"2019/08"	14	Not Applicable	Not Applicable
+	"Marshall County, IA"	"19127"	"85+ years"	"85+"	"Sep., 2019"	"2019/09"	18	Not Applicable	Not Applicable
+	"Marshall County, IA"	"19127"	"85+ years"	"85+"	"Nov., 2019"	"2019/11"	24	Not Applicable	Not Applicable
+	"Marshall County, IA"	"19127"	"85+ years"	"85+"	"Dec., 2019"	"2019/12"	18	Not Applicable	Not Applicable
+	"Marshall County, IA"	"19127"	"85+ years"	"85+"	"Jan., 2020 "	"2020/01"	18	Not Applicable	Not Applicable
+	"Marshall County, IA"	"19127"	"85+ years"	"85+"	"Feb., 2020 "	"2020/02"	22	Not Applicable	Not Applicable
+	"Marshall County, IA"	"19127"	"85+ years"	"85+"	"Mar., 2020 "	"2020/03"	17	Not Applicable	Not Applicable
+	"Marshall County, IA"	"19127"	"85+ years"	"85+"	"Apr., 2020 "	"2020/04"	15	Not Applicable	Not Applicable
+	"Marshall County, IA"	"19127"	"85+ years"	"85+"	"May, 2020 "	"2020/05"	28	Not Applicable	Not Applicable
+	"Marshall County, IA"	"19127"	"85+ years"	"85+"	"Jul., 2020 "	"2020/07"	15	Not Applicable	Not Applicable
+	"Marshall County, IA"	"19127"	"85+ years"	"85+"	"Aug., 2020 "	"2020/08"	16	Not Applicable	Not Applicable
+	"Marshall County, IA"	"19127"	"85+ years"	"85+"	"Sep., 2020 "	"2020/09"	11	Not Applicable	Not Applicable
+	"Marshall County, IA"	"19127"	"85+ years"	"85+"	"Oct., 2020 "	"2020/10"	14	Not Applicable	Not Applicable
+	"Marshall County, IA"	"19127"	"85+ years"	"85+"	"Nov., 2020 "	"2020/11"	18	Not Applicable	Not Applicable
+	"Marshall County, IA"	"19127"	"85+ years"	"85+"	"Dec., 2020 "	"2020/12"	15	Not Applicable	Not Applicable
+	"Mitchell County, IA"	"19131"	"85+ years"	"85+"	"Jun., 2019"	"2019/06"	10	Not Applicable	Not Applicable
+	"Mitchell County, IA"	"19131"	"85+ years"	"85+"	"Dec., 2019"	"2019/12"	12	Not Applicable	Not Applicable
+	"Mitchell County, IA"	"19131"	"85+ years"	"85+"	"Nov., 2020 "	"2020/11"	15	Not Applicable	Not Applicable
+	"Mitchell County, IA"	"19131"	"85+ years"	"85+"	"Dec., 2020 "	"2020/12"	11	Not Applicable	Not Applicable
+	"Monona County, IA"	"19133"	"85+ years"	"85+"	"Dec., 2019"	"2019/12"	10	Not Applicable	Not Applicable
+	"Monona County, IA"	"19133"	"85+ years"	"85+"	"Oct., 2020 "	"2020/10"	10	Not Applicable	Not Applicable
+	"Montgomery County, IA"	"19137"	"85+ years"	"85+"	"May, 2019"	"2019/05"	13	Not Applicable	Not Applicable
+	"Montgomery County, IA"	"19137"	"85+ years"	"85+"	"Sep., 2019"	"2019/09"	10	Not Applicable	Not Applicable
+	"Montgomery County, IA"	"19137"	"85+ years"	"85+"	"Nov., 2020 "	"2020/11"	12	Not Applicable	Not Applicable
+	"Montgomery County, IA"	"19137"	"85+ years"	"85+"	"Dec., 2020 "	"2020/12"	13	Not Applicable	Not Applicable
+	"Muscatine County, IA"	"19139"	"65-74 years"	"65-74"	"Mar., 2019"	"2019/03"	12	Not Applicable	Not Applicable
+	"Muscatine County, IA"	"19139"	"65-74 years"	"65-74"	"Mar., 2020 "	"2020/03"	11	Not Applicable	Not Applicable
+	"Muscatine County, IA"	"19139"	"65-74 years"	"65-74"	"Jun., 2020 "	"2020/06"	10	Not Applicable	Not Applicable
+	"Muscatine County, IA"	"19139"	"65-74 years"	"65-74"	"Sep., 2020 "	"2020/09"	11	Not Applicable	Not Applicable
+	"Muscatine County, IA"	"19139"	"65-74 years"	"65-74"	"Nov., 2020 "	"2020/11"	11	Not Applicable	Not Applicable
+	"Muscatine County, IA"	"19139"	"65-74 years"	"65-74"	"Dec., 2020 "	"2020/12"	11	Not Applicable	Not Applicable
+	"Muscatine County, IA"	"19139"	"75-84 years"	"75-84"	"May, 2019"	"2019/05"	11	Not Applicable	Not Applicable
+	"Muscatine County, IA"	"19139"	"75-84 years"	"75-84"	"Jul., 2019"	"2019/07"	10	Not Applicable	Not Applicable
+	"Muscatine County, IA"	"19139"	"75-84 years"	"75-84"	"Nov., 2019"	"2019/11"	10	Not Applicable	Not Applicable
+	"Muscatine County, IA"	"19139"	"75-84 years"	"75-84"	"Jan., 2020 "	"2020/01"	10	Not Applicable	Not Applicable
+	"Muscatine County, IA"	"19139"	"75-84 years"	"75-84"	"Apr., 2020 "	"2020/04"	16	Not Applicable	Not Applicable
+	"Muscatine County, IA"	"19139"	"75-84 years"	"75-84"	"May, 2020 "	"2020/05"	14	Not Applicable	Not Applicable
+	"Muscatine County, IA"	"19139"	"75-84 years"	"75-84"	"Aug., 2020 "	"2020/08"	10	Not Applicable	Not Applicable
+	"Muscatine County, IA"	"19139"	"75-84 years"	"75-84"	"Nov., 2020 "	"2020/11"	17	Not Applicable	Not Applicable
+	"Muscatine County, IA"	"19139"	"75-84 years"	"75-84"	"Dec., 2020 "	"2020/12"	16	Not Applicable	Not Applicable
+	"Muscatine County, IA"	"19139"	"85+ years"	"85+"	"Jan., 2019"	"2019/01"	22	Not Applicable	Not Applicable
+	"Muscatine County, IA"	"19139"	"85+ years"	"85+"	"Feb., 2019"	"2019/02"	11	Not Applicable	Not Applicable
+	"Muscatine County, IA"	"19139"	"85+ years"	"85+"	"Mar., 2019"	"2019/03"	12	Not Applicable	Not Applicable
+	"Muscatine County, IA"	"19139"	"85+ years"	"85+"	"Apr., 2019"	"2019/04"	19	Not Applicable	Not Applicable
+	"Muscatine County, IA"	"19139"	"85+ years"	"85+"	"May, 2019"	"2019/05"	15	Not Applicable	Not Applicable
+	"Muscatine County, IA"	"19139"	"85+ years"	"85+"	"Jun., 2019"	"2019/06"	11	Not Applicable	Not Applicable
+	"Muscatine County, IA"	"19139"	"85+ years"	"85+"	"Sep., 2019"	"2019/09"	10	Not Applicable	Not Applicable
+	"Muscatine County, IA"	"19139"	"85+ years"	"85+"	"Oct., 2019"	"2019/10"	13	Not Applicable	Not Applicable
+	"Muscatine County, IA"	"19139"	"85+ years"	"85+"	"Nov., 2019"	"2019/11"	11	Not Applicable	Not Applicable
+	"Muscatine County, IA"	"19139"	"85+ years"	"85+"	"Dec., 2019"	"2019/12"	25	Not Applicable	Not Applicable
+	"Muscatine County, IA"	"19139"	"85+ years"	"85+"	"Jan., 2020 "	"2020/01"	14	Not Applicable	Not Applicable
+	"Muscatine County, IA"	"19139"	"85+ years"	"85+"	"Mar., 2020 "	"2020/03"	13	Not Applicable	Not Applicable
+	"Muscatine County, IA"	"19139"	"85+ years"	"85+"	"Apr., 2020 "	"2020/04"	16	Not Applicable	Not Applicable
+	"Muscatine County, IA"	"19139"	"85+ years"	"85+"	"May, 2020 "	"2020/05"	11	Not Applicable	Not Applicable
+	"Muscatine County, IA"	"19139"	"85+ years"	"85+"	"Jun., 2020 "	"2020/06"	14	Not Applicable	Not Applicable
+	"Muscatine County, IA"	"19139"	"85+ years"	"85+"	"Aug., 2020 "	"2020/08"	13	Not Applicable	Not Applicable
+	"Muscatine County, IA"	"19139"	"85+ years"	"85+"	"Sep., 2020 "	"2020/09"	17	Not Applicable	Not Applicable
+	"Muscatine County, IA"	"19139"	"85+ years"	"85+"	"Oct., 2020 "	"2020/10"	12	Not Applicable	Not Applicable
+	"Muscatine County, IA"	"19139"	"85+ years"	"85+"	"Nov., 2020 "	"2020/11"	22	Not Applicable	Not Applicable
+	"Muscatine County, IA"	"19139"	"85+ years"	"85+"	"Dec., 2020 "	"2020/12"	11	Not Applicable	Not Applicable
+	"O'Brien County, IA"	"19141"	"75-84 years"	"75-84"	"Nov., 2020 "	"2020/11"	14	Not Applicable	Not Applicable
+	"O'Brien County, IA"	"19141"	"85+ years"	"85+"	"Mar., 2019"	"2019/03"	10	Not Applicable	Not Applicable
+	"O'Brien County, IA"	"19141"	"85+ years"	"85+"	"Jul., 2019"	"2019/07"	11	Not Applicable	Not Applicable
+	"O'Brien County, IA"	"19141"	"85+ years"	"85+"	"Dec., 2019"	"2019/12"	10	Not Applicable	Not Applicable
+	"O'Brien County, IA"	"19141"	"85+ years"	"85+"	"Jan., 2020 "	"2020/01"	10	Not Applicable	Not Applicable
+	"O'Brien County, IA"	"19141"	"85+ years"	"85+"	"Feb., 2020 "	"2020/02"	10	Not Applicable	Not Applicable
+	"O'Brien County, IA"	"19141"	"85+ years"	"85+"	"Jun., 2020 "	"2020/06"	11	Not Applicable	Not Applicable
+	"O'Brien County, IA"	"19141"	"85+ years"	"85+"	"Nov., 2020 "	"2020/11"	21	Not Applicable	Not Applicable
+	"O'Brien County, IA"	"19141"	"85+ years"	"85+"	"Dec., 2020 "	"2020/12"	11	Not Applicable	Not Applicable
+	"Page County, IA"	"19145"	"65-74 years"	"65-74"	"Mar., 2020 "	"2020/03"	10	Not Applicable	Not Applicable
+	"Page County, IA"	"19145"	"85+ years"	"85+"	"Dec., 2019"	"2019/12"	10	Not Applicable	Not Applicable
+	"Page County, IA"	"19145"	"85+ years"	"85+"	"Feb., 2020 "	"2020/02"	10	Not Applicable	Not Applicable
+	"Page County, IA"	"19145"	"85+ years"	"85+"	"Mar., 2020 "	"2020/03"	12	Not Applicable	Not Applicable
+	"Plymouth County, IA"	"19149"	"75-84 years"	"75-84"	"Nov., 2020 "	"2020/11"	14	Not Applicable	Not Applicable
+	"Plymouth County, IA"	"19149"	"75-84 years"	"75-84"	"Dec., 2020 "	"2020/12"	14	Not Applicable	Not Applicable
+	"Plymouth County, IA"	"19149"	"85+ years"	"85+"	"May, 2019"	"2019/05"	11	Not Applicable	Not Applicable
+	"Plymouth County, IA"	"19149"	"85+ years"	"85+"	"Jun., 2019"	"2019/06"	13	Not Applicable	Not Applicable
+	"Plymouth County, IA"	"19149"	"85+ years"	"85+"	"Oct., 2019"	"2019/10"	10	Not Applicable	Not Applicable
+	"Plymouth County, IA"	"19149"	"85+ years"	"85+"	"Nov., 2019"	"2019/11"	13	Not Applicable	Not Applicable
+	"Plymouth County, IA"	"19149"	"85+ years"	"85+"	"Mar., 2020 "	"2020/03"	11	Not Applicable	Not Applicable
+	"Plymouth County, IA"	"19149"	"85+ years"	"85+"	"Apr., 2020 "	"2020/04"	11	Not Applicable	Not Applicable
+	"Plymouth County, IA"	"19149"	"85+ years"	"85+"	"May, 2020 "	"2020/05"	14	Not Applicable	Not Applicable
+	"Plymouth County, IA"	"19149"	"85+ years"	"85+"	"Jun., 2020 "	"2020/06"	11	Not Applicable	Not Applicable
+	"Plymouth County, IA"	"19149"	"85+ years"	"85+"	"Aug., 2020 "	"2020/08"	11	Not Applicable	Not Applicable
+	"Plymouth County, IA"	"19149"	"85+ years"	"85+"	"Nov., 2020 "	"2020/11"	11	Not Applicable	Not Applicable
+	"Plymouth County, IA"	"19149"	"85+ years"	"85+"	"Dec., 2020 "	"2020/12"	16	Not Applicable	Not Applicable
+	"Pocahontas County, IA"	"19151"	"85+ years"	"85+"	"Dec., 2020 "	"2020/12"	11	Not Applicable	Not Applicable
+	"Polk County, IA"	"19153"	"55-64 years"	"55-64"	"Jan., 2019"	"2019/01"	56	Not Applicable	Not Applicable
+	"Polk County, IA"	"19153"	"55-64 years"	"55-64"	"Feb., 2019"	"2019/02"	51	Not Applicable	Not Applicable
+	"Polk County, IA"	"19153"	"55-64 years"	"55-64"	"Mar., 2019"	"2019/03"	66	Not Applicable	Not Applicable
+	"Polk County, IA"	"19153"	"55-64 years"	"55-64"	"Apr., 2019"	"2019/04"	35	Not Applicable	Not Applicable
+	"Polk County, IA"	"19153"	"55-64 years"	"55-64"	"May, 2019"	"2019/05"	49	Not Applicable	Not Applicable
+	"Polk County, IA"	"19153"	"55-64 years"	"55-64"	"Jun., 2019"	"2019/06"	37	Not Applicable	Not Applicable
+	"Polk County, IA"	"19153"	"55-64 years"	"55-64"	"Jul., 2019"	"2019/07"	61	Not Applicable	Not Applicable
+	"Polk County, IA"	"19153"	"55-64 years"	"55-64"	"Aug., 2019"	"2019/08"	44	Not Applicable	Not Applicable
+	"Polk County, IA"	"19153"	"55-64 years"	"55-64"	"Sep., 2019"	"2019/09"	32	Not Applicable	Not Applicable
+	"Polk County, IA"	"19153"	"55-64 years"	"55-64"	"Oct., 2019"	"2019/10"	46	Not Applicable	Not Applicable
+	"Polk County, IA"	"19153"	"55-64 years"	"55-64"	"Nov., 2019"	"2019/11"	50	Not Applicable	Not Applicable
+	"Polk County, IA"	"19153"	"55-64 years"	"55-64"	"Dec., 2019"	"2019/12"	44	Not Applicable	Not Applicable
+	"Polk County, IA"	"19153"	"55-64 years"	"55-64"	"Jan., 2020 "	"2020/01"	51	Not Applicable	Not Applicable
+	"Polk County, IA"	"19153"	"55-64 years"	"55-64"	"Feb., 2020 "	"2020/02"	40	Not Applicable	Not Applicable
+	"Polk County, IA"	"19153"	"55-64 years"	"55-64"	"Mar., 2020 "	"2020/03"	44	Not Applicable	Not Applicable
+	"Polk County, IA"	"19153"	"55-64 years"	"55-64"	"Apr., 2020 "	"2020/04"	48	Not Applicable	Not Applicable
+	"Polk County, IA"	"19153"	"55-64 years"	"55-64"	"May, 2020 "	"2020/05"	42	Not Applicable	Not Applicable
+	"Polk County, IA"	"19153"	"55-64 years"	"55-64"	"Jun., 2020 "	"2020/06"	59	Not Applicable	Not Applicable
+	"Polk County, IA"	"19153"	"55-64 years"	"55-64"	"Jul., 2020 "	"2020/07"	54	Not Applicable	Not Applicable
+	"Polk County, IA"	"19153"	"55-64 years"	"55-64"	"Aug., 2020 "	"2020/08"	47	Not Applicable	Not Applicable
+	"Polk County, IA"	"19153"	"55-64 years"	"55-64"	"Sep., 2020 "	"2020/09"	51	Not Applicable	Not Applicable
+	"Polk County, IA"	"19153"	"55-64 years"	"55-64"	"Oct., 2020 "	"2020/10"	49	Not Applicable	Not Applicable
+	"Polk County, IA"	"19153"	"55-64 years"	"55-64"	"Nov., 2020 "	"2020/11"	42	Not Applicable	Not Applicable
+	"Polk County, IA"	"19153"	"55-64 years"	"55-64"	"Dec., 2020 "	"2020/12"	61	Not Applicable	Not Applicable
+	"Polk County, IA"	"19153"	"65-74 years"	"65-74"	"Jan., 2019"	"2019/01"	65	Not Applicable	Not Applicable
+	"Polk County, IA"	"19153"	"65-74 years"	"65-74"	"Feb., 2019"	"2019/02"	59	Not Applicable	Not Applicable
+	"Polk County, IA"	"19153"	"65-74 years"	"65-74"	"Mar., 2019"	"2019/03"	68	Not Applicable	Not Applicable
+	"Polk County, IA"	"19153"	"65-74 years"	"65-74"	"Apr., 2019"	"2019/04"	71	Not Applicable	Not Applicable
+	"Polk County, IA"	"19153"	"65-74 years"	"65-74"	"May, 2019"	"2019/05"	75	Not Applicable	Not Applicable
+	"Polk County, IA"	"19153"	"65-74 years"	"65-74"	"Jun., 2019"	"2019/06"	65	Not Applicable	Not Applicable
+	"Polk County, IA"	"19153"	"65-74 years"	"65-74"	"Jul., 2019"	"2019/07"	74	Not Applicable	Not Applicable
+	"Polk County, IA"	"19153"	"65-74 years"	"65-74"	"Aug., 2019"	"2019/08"	47	Not Applicable	Not Applicable
+	"Polk County, IA"	"19153"	"65-74 years"	"65-74"	"Sep., 2019"	"2019/09"	44	Not Applicable	Not Applicable
+	"Polk County, IA"	"19153"	"65-74 years"	"65-74"	"Oct., 2019"	"2019/10"	76	Not Applicable	Not Applicable
+	"Polk County, IA"	"19153"	"65-74 years"	"65-74"	"Nov., 2019"	"2019/11"	65	Not Applicable	Not Applicable
+	"Polk County, IA"	"19153"	"65-74 years"	"65-74"	"Dec., 2019"	"2019/12"	59	Not Applicable	Not Applicable
+	"Polk County, IA"	"19153"	"65-74 years"	"65-74"	"Jan., 2020 "	"2020/01"	76	Not Applicable	Not Applicable
+	"Polk County, IA"	"19153"	"65-74 years"	"65-74"	"Feb., 2020 "	"2020/02"	63	Not Applicable	Not Applicable
+	"Polk County, IA"	"19153"	"65-74 years"	"65-74"	"Mar., 2020 "	"2020/03"	63	Not Applicable	Not Applicable
+	"Polk County, IA"	"19153"	"65-74 years"	"65-74"	"Apr., 2020 "	"2020/04"	80	Not Applicable	Not Applicable
+	"Polk County, IA"	"19153"	"65-74 years"	"65-74"	"May, 2020 "	"2020/05"	83	Not Applicable	Not Applicable
+	"Polk County, IA"	"19153"	"65-74 years"	"65-74"	"Jun., 2020 "	"2020/06"	58	Not Applicable	Not Applicable
+	"Polk County, IA"	"19153"	"65-74 years"	"65-74"	"Jul., 2020 "	"2020/07"	80	Not Applicable	Not Applicable
+	"Polk County, IA"	"19153"	"65-74 years"	"65-74"	"Aug., 2020 "	"2020/08"	78	Not Applicable	Not Applicable
+	"Polk County, IA"	"19153"	"65-74 years"	"65-74"	"Sep., 2020 "	"2020/09"	58	Not Applicable	Not Applicable
+	"Polk County, IA"	"19153"	"65-74 years"	"65-74"	"Oct., 2020 "	"2020/10"	73	Not Applicable	Not Applicable
+	"Polk County, IA"	"19153"	"65-74 years"	"65-74"	"Nov., 2020 "	"2020/11"	81	Not Applicable	Not Applicable
+	"Polk County, IA"	"19153"	"65-74 years"	"65-74"	"Dec., 2020 "	"2020/12"	95	Not Applicable	Not Applicable
+	"Polk County, IA"	"19153"	"75-84 years"	"75-84"	"Jan., 2019"	"2019/01"	70	Not Applicable	Not Applicable
+	"Polk County, IA"	"19153"	"75-84 years"	"75-84"	"Feb., 2019"	"2019/02"	73	Not Applicable	Not Applicable
+	"Polk County, IA"	"19153"	"75-84 years"	"75-84"	"Mar., 2019"	"2019/03"	67	Not Applicable	Not Applicable
+	"Polk County, IA"	"19153"	"75-84 years"	"75-84"	"Apr., 2019"	"2019/04"	80	Not Applicable	Not Applicable
+	"Polk County, IA"	"19153"	"75-84 years"	"75-84"	"May, 2019"	"2019/05"	69	Not Applicable	Not Applicable
+	"Polk County, IA"	"19153"	"75-84 years"	"75-84"	"Jun., 2019"	"2019/06"	68	Not Applicable	Not Applicable
+	"Polk County, IA"	"19153"	"75-84 years"	"75-84"	"Jul., 2019"	"2019/07"	68	Not Applicable	Not Applicable
+	"Polk County, IA"	"19153"	"75-84 years"	"75-84"	"Aug., 2019"	"2019/08"	74	Not Applicable	Not Applicable
+	"Polk County, IA"	"19153"	"75-84 years"	"75-84"	"Sep., 2019"	"2019/09"	65	Not Applicable	Not Applicable
+	"Polk County, IA"	"19153"	"75-84 years"	"75-84"	"Oct., 2019"	"2019/10"	60	Not Applicable	Not Applicable
+	"Polk County, IA"	"19153"	"75-84 years"	"75-84"	"Nov., 2019"	"2019/11"	71	Not Applicable	Not Applicable
+	"Polk County, IA"	"19153"	"75-84 years"	"75-84"	"Dec., 2019"	"2019/12"	90	Not Applicable	Not Applicable
+	"Polk County, IA"	"19153"	"75-84 years"	"75-84"	"Jan., 2020 "	"2020/01"	81	Not Applicable	Not Applicable
+	"Polk County, IA"	"19153"	"75-84 years"	"75-84"	"Feb., 2020 "	"2020/02"	81	Not Applicable	Not Applicable
+	"Polk County, IA"	"19153"	"75-84 years"	"75-84"	"Mar., 2020 "	"2020/03"	79	Not Applicable	Not Applicable
+	"Polk County, IA"	"19153"	"75-84 years"	"75-84"	"Apr., 2020 "	"2020/04"	74	Not Applicable	Not Applicable
+	"Polk County, IA"	"19153"	"75-84 years"	"75-84"	"May, 2020 "	"2020/05"	91	Not Applicable	Not Applicable
+	"Polk County, IA"	"19153"	"75-84 years"	"75-84"	"Jun., 2020 "	"2020/06"	75	Not Applicable	Not Applicable
+	"Polk County, IA"	"19153"	"75-84 years"	"75-84"	"Jul., 2020 "	"2020/07"	71	Not Applicable	Not Applicable
+	"Polk County, IA"	"19153"	"75-84 years"	"75-84"	"Aug., 2020 "	"2020/08"	71	Not Applicable	Not Applicable
+	"Polk County, IA"	"19153"	"75-84 years"	"75-84"	"Sep., 2020 "	"2020/09"	78	Not Applicable	Not Applicable
+	"Polk County, IA"	"19153"	"75-84 years"	"75-84"	"Oct., 2020 "	"2020/10"	78	Not Applicable	Not Applicable
+	"Polk County, IA"	"19153"	"75-84 years"	"75-84"	"Nov., 2020 "	"2020/11"	84	Not Applicable	Not Applicable
+	"Polk County, IA"	"19153"	"75-84 years"	"75-84"	"Dec., 2020 "	"2020/12"	111	Not Applicable	Not Applicable
+	"Polk County, IA"	"19153"	"85+ years"	"85+"	"Jan., 2019"	"2019/01"	96	Not Applicable	Not Applicable
+	"Polk County, IA"	"19153"	"85+ years"	"85+"	"Feb., 2019"	"2019/02"	94	Not Applicable	Not Applicable
+	"Polk County, IA"	"19153"	"85+ years"	"85+"	"Mar., 2019"	"2019/03"	95	Not Applicable	Not Applicable
+	"Polk County, IA"	"19153"	"85+ years"	"85+"	"Apr., 2019"	"2019/04"	96	Not Applicable	Not Applicable
+	"Polk County, IA"	"19153"	"85+ years"	"85+"	"May, 2019"	"2019/05"	93	Not Applicable	Not Applicable
+	"Polk County, IA"	"19153"	"85+ years"	"85+"	"Jun., 2019"	"2019/06"	90	Not Applicable	Not Applicable
+	"Polk County, IA"	"19153"	"85+ years"	"85+"	"Jul., 2019"	"2019/07"	89	Not Applicable	Not Applicable
+	"Polk County, IA"	"19153"	"85+ years"	"85+"	"Aug., 2019"	"2019/08"	67	Not Applicable	Not Applicable
+	"Polk County, IA"	"19153"	"85+ years"	"85+"	"Sep., 2019"	"2019/09"	81	Not Applicable	Not Applicable
+	"Polk County, IA"	"19153"	"85+ years"	"85+"	"Oct., 2019"	"2019/10"	105	Not Applicable	Not Applicable
+	"Polk County, IA"	"19153"	"85+ years"	"85+"	"Nov., 2019"	"2019/11"	96	Not Applicable	Not Applicable
+	"Polk County, IA"	"19153"	"85+ years"	"85+"	"Dec., 2019"	"2019/12"	113	Not Applicable	Not Applicable
+	"Polk County, IA"	"19153"	"85+ years"	"85+"	"Jan., 2020 "	"2020/01"	115	Not Applicable	Not Applicable
+	"Polk County, IA"	"19153"	"85+ years"	"85+"	"Feb., 2020 "	"2020/02"	97	Not Applicable	Not Applicable
+	"Polk County, IA"	"19153"	"85+ years"	"85+"	"Mar., 2020 "	"2020/03"	107	Not Applicable	Not Applicable
+	"Polk County, IA"	"19153"	"85+ years"	"85+"	"Apr., 2020 "	"2020/04"	121	Not Applicable	Not Applicable
+	"Polk County, IA"	"19153"	"85+ years"	"85+"	"May, 2020 "	"2020/05"	134	Not Applicable	Not Applicable
+	"Polk County, IA"	"19153"	"85+ years"	"85+"	"Jun., 2020 "	"2020/06"	85	Not Applicable	Not Applicable
+	"Polk County, IA"	"19153"	"85+ years"	"85+"	"Jul., 2020 "	"2020/07"	104	Not Applicable	Not Applicable
+	"Polk County, IA"	"19153"	"85+ years"	"85+"	"Aug., 2020 "	"2020/08"	117	Not Applicable	Not Applicable
+	"Polk County, IA"	"19153"	"85+ years"	"85+"	"Sep., 2020 "	"2020/09"	124	Not Applicable	Not Applicable
+	"Polk County, IA"	"19153"	"85+ years"	"85+"	"Oct., 2020 "	"2020/10"	103	Not Applicable	Not Applicable
+	"Polk County, IA"	"19153"	"85+ years"	"85+"	"Nov., 2020 "	"2020/11"	131	Not Applicable	Not Applicable
+	"Polk County, IA"	"19153"	"85+ years"	"85+"	"Dec., 2020 "	"2020/12"	138	Not Applicable	Not Applicable
+	"Pottawattamie County, IA"	"19155"	"55-64 years"	"55-64"	"Jan., 2019"	"2019/01"	11	Not Applicable	Not Applicable
+	"Pottawattamie County, IA"	"19155"	"55-64 years"	"55-64"	"Apr., 2019"	"2019/04"	16	Not Applicable	Not Applicable
+	"Pottawattamie County, IA"	"19155"	"55-64 years"	"55-64"	"May, 2019"	"2019/05"	12	Not Applicable	Not Applicable
+	"Pottawattamie County, IA"	"19155"	"55-64 years"	"55-64"	"Jun., 2019"	"2019/06"	14	Not Applicable	Not Applicable
+	"Pottawattamie County, IA"	"19155"	"55-64 years"	"55-64"	"Jul., 2019"	"2019/07"	12	Not Applicable	Not Applicable
+	"Pottawattamie County, IA"	"19155"	"55-64 years"	"55-64"	"Aug., 2019"	"2019/08"	15	Not Applicable	Not Applicable
+	"Pottawattamie County, IA"	"19155"	"55-64 years"	"55-64"	"Sep., 2019"	"2019/09"	15	Not Applicable	Not Applicable
+	"Pottawattamie County, IA"	"19155"	"55-64 years"	"55-64"	"Nov., 2019"	"2019/11"	10	Not Applicable	Not Applicable
+	"Pottawattamie County, IA"	"19155"	"55-64 years"	"55-64"	"Jan., 2020 "	"2020/01"	16	Not Applicable	Not Applicable
+	"Pottawattamie County, IA"	"19155"	"55-64 years"	"55-64"	"Feb., 2020 "	"2020/02"	11	Not Applicable	Not Applicable
+	"Pottawattamie County, IA"	"19155"	"55-64 years"	"55-64"	"Mar., 2020 "	"2020/03"	17	Not Applicable	Not Applicable
+	"Pottawattamie County, IA"	"19155"	"55-64 years"	"55-64"	"Apr., 2020 "	"2020/04"	16	Not Applicable	Not Applicable
+	"Pottawattamie County, IA"	"19155"	"55-64 years"	"55-64"	"Jul., 2020 "	"2020/07"	11	Not Applicable	Not Applicable
+	"Pottawattamie County, IA"	"19155"	"55-64 years"	"55-64"	"Aug., 2020 "	"2020/08"	17	Not Applicable	Not Applicable
+	"Pottawattamie County, IA"	"19155"	"55-64 years"	"55-64"	"Sep., 2020 "	"2020/09"	13	Not Applicable	Not Applicable
+	"Pottawattamie County, IA"	"19155"	"55-64 years"	"55-64"	"Oct., 2020 "	"2020/10"	12	Not Applicable	Not Applicable
+	"Pottawattamie County, IA"	"19155"	"55-64 years"	"55-64"	"Nov., 2020 "	"2020/11"	17	Not Applicable	Not Applicable
+	"Pottawattamie County, IA"	"19155"	"55-64 years"	"55-64"	"Dec., 2020 "	"2020/12"	13	Not Applicable	Not Applicable
+	"Pottawattamie County, IA"	"19155"	"65-74 years"	"65-74"	"Jan., 2019"	"2019/01"	12	Not Applicable	Not Applicable
+	"Pottawattamie County, IA"	"19155"	"65-74 years"	"65-74"	"Feb., 2019"	"2019/02"	14	Not Applicable	Not Applicable
+	"Pottawattamie County, IA"	"19155"	"65-74 years"	"65-74"	"Mar., 2019"	"2019/03"	18	Not Applicable	Not Applicable
+	"Pottawattamie County, IA"	"19155"	"65-74 years"	"65-74"	"Apr., 2019"	"2019/04"	13	Not Applicable	Not Applicable
+	"Pottawattamie County, IA"	"19155"	"65-74 years"	"65-74"	"May, 2019"	"2019/05"	11	Not Applicable	Not Applicable
+	"Pottawattamie County, IA"	"19155"	"65-74 years"	"65-74"	"Jun., 2019"	"2019/06"	17	Not Applicable	Not Applicable
+	"Pottawattamie County, IA"	"19155"	"65-74 years"	"65-74"	"Aug., 2019"	"2019/08"	11	Not Applicable	Not Applicable
+	"Pottawattamie County, IA"	"19155"	"65-74 years"	"65-74"	"Sep., 2019"	"2019/09"	16	Not Applicable	Not Applicable
+	"Pottawattamie County, IA"	"19155"	"65-74 years"	"65-74"	"Oct., 2019"	"2019/10"	19	Not Applicable	Not Applicable
+	"Pottawattamie County, IA"	"19155"	"65-74 years"	"65-74"	"Nov., 2019"	"2019/11"	10	Not Applicable	Not Applicable
+	"Pottawattamie County, IA"	"19155"	"65-74 years"	"65-74"	"Dec., 2019"	"2019/12"	17	Not Applicable	Not Applicable
+	"Pottawattamie County, IA"	"19155"	"65-74 years"	"65-74"	"Jan., 2020 "	"2020/01"	23	Not Applicable	Not Applicable
+	"Pottawattamie County, IA"	"19155"	"65-74 years"	"65-74"	"Feb., 2020 "	"2020/02"	18	Not Applicable	Not Applicable
+	"Pottawattamie County, IA"	"19155"	"65-74 years"	"65-74"	"Mar., 2020 "	"2020/03"	12	Not Applicable	Not Applicable
+	"Pottawattamie County, IA"	"19155"	"65-74 years"	"65-74"	"Apr., 2020 "	"2020/04"	15	Not Applicable	Not Applicable
+	"Pottawattamie County, IA"	"19155"	"65-74 years"	"65-74"	"May, 2020 "	"2020/05"	15	Not Applicable	Not Applicable
+	"Pottawattamie County, IA"	"19155"	"65-74 years"	"65-74"	"Jun., 2020 "	"2020/06"	15	Not Applicable	Not Applicable
+	"Pottawattamie County, IA"	"19155"	"65-74 years"	"65-74"	"Jul., 2020 "	"2020/07"	19	Not Applicable	Not Applicable
+	"Pottawattamie County, IA"	"19155"	"65-74 years"	"65-74"	"Aug., 2020 "	"2020/08"	26	Not Applicable	Not Applicable
+	"Pottawattamie County, IA"	"19155"	"65-74 years"	"65-74"	"Sep., 2020 "	"2020/09"	16	Not Applicable	Not Applicable
+	"Pottawattamie County, IA"	"19155"	"65-74 years"	"65-74"	"Oct., 2020 "	"2020/10"	22	Not Applicable	Not Applicable
+	"Pottawattamie County, IA"	"19155"	"65-74 years"	"65-74"	"Nov., 2020 "	"2020/11"	36	Not Applicable	Not Applicable
+	"Pottawattamie County, IA"	"19155"	"65-74 years"	"65-74"	"Dec., 2020 "	"2020/12"	36	Not Applicable	Not Applicable
+	"Pottawattamie County, IA"	"19155"	"75-84 years"	"75-84"	"Jan., 2019"	"2019/01"	28	Not Applicable	Not Applicable
+	"Pottawattamie County, IA"	"19155"	"75-84 years"	"75-84"	"Feb., 2019"	"2019/02"	20	Not Applicable	Not Applicable
+	"Pottawattamie County, IA"	"19155"	"75-84 years"	"75-84"	"Mar., 2019"	"2019/03"	22	Not Applicable	Not Applicable
+	"Pottawattamie County, IA"	"19155"	"75-84 years"	"75-84"	"Apr., 2019"	"2019/04"	27	Not Applicable	Not Applicable
+	"Pottawattamie County, IA"	"19155"	"75-84 years"	"75-84"	"May, 2019"	"2019/05"	19	Not Applicable	Not Applicable
+	"Pottawattamie County, IA"	"19155"	"75-84 years"	"75-84"	"Jun., 2019"	"2019/06"	14	Not Applicable	Not Applicable
+	"Pottawattamie County, IA"	"19155"	"75-84 years"	"75-84"	"Jul., 2019"	"2019/07"	24	Not Applicable	Not Applicable
+	"Pottawattamie County, IA"	"19155"	"75-84 years"	"75-84"	"Aug., 2019"	"2019/08"	16	Not Applicable	Not Applicable
+	"Pottawattamie County, IA"	"19155"	"75-84 years"	"75-84"	"Sep., 2019"	"2019/09"	23	Not Applicable	Not Applicable
+	"Pottawattamie County, IA"	"19155"	"75-84 years"	"75-84"	"Oct., 2019"	"2019/10"	27	Not Applicable	Not Applicable
+	"Pottawattamie County, IA"	"19155"	"75-84 years"	"75-84"	"Nov., 2019"	"2019/11"	22	Not Applicable	Not Applicable
+	"Pottawattamie County, IA"	"19155"	"75-84 years"	"75-84"	"Dec., 2019"	"2019/12"	26	Not Applicable	Not Applicable
+	"Pottawattamie County, IA"	"19155"	"75-84 years"	"75-84"	"Jan., 2020 "	"2020/01"	23	Not Applicable	Not Applicable
+	"Pottawattamie County, IA"	"19155"	"75-84 years"	"75-84"	"Feb., 2020 "	"2020/02"	23	Not Applicable	Not Applicable
+	"Pottawattamie County, IA"	"19155"	"75-84 years"	"75-84"	"Mar., 2020 "	"2020/03"	23	Not Applicable	Not Applicable
+	"Pottawattamie County, IA"	"19155"	"75-84 years"	"75-84"	"Apr., 2020 "	"2020/04"	16	Not Applicable	Not Applicable
+	"Pottawattamie County, IA"	"19155"	"75-84 years"	"75-84"	"May, 2020 "	"2020/05"	28	Not Applicable	Not Applicable
+	"Pottawattamie County, IA"	"19155"	"75-84 years"	"75-84"	"Jun., 2020 "	"2020/06"	17	Not Applicable	Not Applicable
+	"Pottawattamie County, IA"	"19155"	"75-84 years"	"75-84"	"Jul., 2020 "	"2020/07"	18	Not Applicable	Not Applicable
+	"Pottawattamie County, IA"	"19155"	"75-84 years"	"75-84"	"Aug., 2020 "	"2020/08"	30	Not Applicable	Not Applicable
+	"Pottawattamie County, IA"	"19155"	"75-84 years"	"75-84"	"Sep., 2020 "	"2020/09"	18	Not Applicable	Not Applicable
+	"Pottawattamie County, IA"	"19155"	"75-84 years"	"75-84"	"Oct., 2020 "	"2020/10"	18	Not Applicable	Not Applicable
+	"Pottawattamie County, IA"	"19155"	"75-84 years"	"75-84"	"Nov., 2020 "	"2020/11"	39	Not Applicable	Not Applicable
+	"Pottawattamie County, IA"	"19155"	"75-84 years"	"75-84"	"Dec., 2020 "	"2020/12"	28	Not Applicable	Not Applicable
+	"Pottawattamie County, IA"	"19155"	"85+ years"	"85+"	"Jan., 2019"	"2019/01"	24	Not Applicable	Not Applicable
+	"Pottawattamie County, IA"	"19155"	"85+ years"	"85+"	"Feb., 2019"	"2019/02"	26	Not Applicable	Not Applicable
+	"Pottawattamie County, IA"	"19155"	"85+ years"	"85+"	"Mar., 2019"	"2019/03"	34	Not Applicable	Not Applicable
+	"Pottawattamie County, IA"	"19155"	"85+ years"	"85+"	"Apr., 2019"	"2019/04"	27	Not Applicable	Not Applicable
+	"Pottawattamie County, IA"	"19155"	"85+ years"	"85+"	"May, 2019"	"2019/05"	31	Not Applicable	Not Applicable
+	"Pottawattamie County, IA"	"19155"	"85+ years"	"85+"	"Jun., 2019"	"2019/06"	36	Not Applicable	Not Applicable
+	"Pottawattamie County, IA"	"19155"	"85+ years"	"85+"	"Jul., 2019"	"2019/07"	19	Not Applicable	Not Applicable
+	"Pottawattamie County, IA"	"19155"	"85+ years"	"85+"	"Aug., 2019"	"2019/08"	26	Not Applicable	Not Applicable
+	"Pottawattamie County, IA"	"19155"	"85+ years"	"85+"	"Sep., 2019"	"2019/09"	27	Not Applicable	Not Applicable
+	"Pottawattamie County, IA"	"19155"	"85+ years"	"85+"	"Oct., 2019"	"2019/10"	27	Not Applicable	Not Applicable
+	"Pottawattamie County, IA"	"19155"	"85+ years"	"85+"	"Nov., 2019"	"2019/11"	28	Not Applicable	Not Applicable
+	"Pottawattamie County, IA"	"19155"	"85+ years"	"85+"	"Dec., 2019"	"2019/12"	25	Not Applicable	Not Applicable
+	"Pottawattamie County, IA"	"19155"	"85+ years"	"85+"	"Jan., 2020 "	"2020/01"	28	Not Applicable	Not Applicable
+	"Pottawattamie County, IA"	"19155"	"85+ years"	"85+"	"Feb., 2020 "	"2020/02"	24	Not Applicable	Not Applicable
+	"Pottawattamie County, IA"	"19155"	"85+ years"	"85+"	"Mar., 2020 "	"2020/03"	31	Not Applicable	Not Applicable
+	"Pottawattamie County, IA"	"19155"	"85+ years"	"85+"	"Apr., 2020 "	"2020/04"	25	Not Applicable	Not Applicable
+	"Pottawattamie County, IA"	"19155"	"85+ years"	"85+"	"May, 2020 "	"2020/05"	29	Not Applicable	Not Applicable
+	"Pottawattamie County, IA"	"19155"	"85+ years"	"85+"	"Jun., 2020 "	"2020/06"	26	Not Applicable	Not Applicable
+	"Pottawattamie County, IA"	"19155"	"85+ years"	"85+"	"Jul., 2020 "	"2020/07"	30	Not Applicable	Not Applicable
+	"Pottawattamie County, IA"	"19155"	"85+ years"	"85+"	"Aug., 2020 "	"2020/08"	37	Not Applicable	Not Applicable
+	"Pottawattamie County, IA"	"19155"	"85+ years"	"85+"	"Sep., 2020 "	"2020/09"	14	Not Applicable	Not Applicable
+	"Pottawattamie County, IA"	"19155"	"85+ years"	"85+"	"Oct., 2020 "	"2020/10"	28	Not Applicable	Not Applicable
+	"Pottawattamie County, IA"	"19155"	"85+ years"	"85+"	"Nov., 2020 "	"2020/11"	36	Not Applicable	Not Applicable
+	"Pottawattamie County, IA"	"19155"	"85+ years"	"85+"	"Dec., 2020 "	"2020/12"	46	Not Applicable	Not Applicable
+	"Poweshiek County, IA"	"19157"	"75-84 years"	"75-84"	"Mar., 2019"	"2019/03"	10	Not Applicable	Not Applicable
+	"Poweshiek County, IA"	"19157"	"75-84 years"	"75-84"	"Sep., 2019"	"2019/09"	11	Not Applicable	Not Applicable
+	"Poweshiek County, IA"	"19157"	"75-84 years"	"75-84"	"Mar., 2020 "	"2020/03"	12	Not Applicable	Not Applicable
+	"Poweshiek County, IA"	"19157"	"85+ years"	"85+"	"Jan., 2019"	"2019/01"	10	Not Applicable	Not Applicable
+	"Poweshiek County, IA"	"19157"	"85+ years"	"85+"	"Jul., 2019"	"2019/07"	10	Not Applicable	Not Applicable
+	"Poweshiek County, IA"	"19157"	"85+ years"	"85+"	"Nov., 2019"	"2019/11"	10	Not Applicable	Not Applicable
+	"Poweshiek County, IA"	"19157"	"85+ years"	"85+"	"Mar., 2020 "	"2020/03"	10	Not Applicable	Not Applicable
+	"Poweshiek County, IA"	"19157"	"85+ years"	"85+"	"Apr., 2020 "	"2020/04"	10	Not Applicable	Not Applicable
+	"Poweshiek County, IA"	"19157"	"85+ years"	"85+"	"May, 2020 "	"2020/05"	13	Not Applicable	Not Applicable
+	"Poweshiek County, IA"	"19157"	"85+ years"	"85+"	"Oct., 2020 "	"2020/10"	11	Not Applicable	Not Applicable
+	"Sac County, IA"	"19161"	"85+ years"	"85+"	"Sep., 2019"	"2019/09"	10	Not Applicable	Not Applicable
+	"Scott County, IA"	"19163"	"55-64 years"	"55-64"	"Jan., 2019"	"2019/01"	17	Not Applicable	Not Applicable
+	"Scott County, IA"	"19163"	"55-64 years"	"55-64"	"Feb., 2019"	"2019/02"	20	Not Applicable	Not Applicable
+	"Scott County, IA"	"19163"	"55-64 years"	"55-64"	"Mar., 2019"	"2019/03"	13	Not Applicable	Not Applicable
+	"Scott County, IA"	"19163"	"55-64 years"	"55-64"	"Apr., 2019"	"2019/04"	12	Not Applicable	Not Applicable
+	"Scott County, IA"	"19163"	"55-64 years"	"55-64"	"May, 2019"	"2019/05"	17	Not Applicable	Not Applicable
+	"Scott County, IA"	"19163"	"55-64 years"	"55-64"	"Jun., 2019"	"2019/06"	11	Not Applicable	Not Applicable
+	"Scott County, IA"	"19163"	"55-64 years"	"55-64"	"Jul., 2019"	"2019/07"	21	Not Applicable	Not Applicable
+	"Scott County, IA"	"19163"	"55-64 years"	"55-64"	"Aug., 2019"	"2019/08"	13	Not Applicable	Not Applicable
+	"Scott County, IA"	"19163"	"55-64 years"	"55-64"	"Sep., 2019"	"2019/09"	19	Not Applicable	Not Applicable
+	"Scott County, IA"	"19163"	"55-64 years"	"55-64"	"Oct., 2019"	"2019/10"	23	Not Applicable	Not Applicable
+	"Scott County, IA"	"19163"	"55-64 years"	"55-64"	"Nov., 2019"	"2019/11"	13	Not Applicable	Not Applicable
+	"Scott County, IA"	"19163"	"55-64 years"	"55-64"	"Dec., 2019"	"2019/12"	14	Not Applicable	Not Applicable
+	"Scott County, IA"	"19163"	"55-64 years"	"55-64"	"Jan., 2020 "	"2020/01"	17	Not Applicable	Not Applicable
+	"Scott County, IA"	"19163"	"55-64 years"	"55-64"	"Feb., 2020 "	"2020/02"	14	Not Applicable	Not Applicable
+	"Scott County, IA"	"19163"	"55-64 years"	"55-64"	"Mar., 2020 "	"2020/03"	18	Not Applicable	Not Applicable
+	"Scott County, IA"	"19163"	"55-64 years"	"55-64"	"Apr., 2020 "	"2020/04"	21	Not Applicable	Not Applicable
+	"Scott County, IA"	"19163"	"55-64 years"	"55-64"	"May, 2020 "	"2020/05"	13	Not Applicable	Not Applicable
+	"Scott County, IA"	"19163"	"55-64 years"	"55-64"	"Jun., 2020 "	"2020/06"	21	Not Applicable	Not Applicable
+	"Scott County, IA"	"19163"	"55-64 years"	"55-64"	"Jul., 2020 "	"2020/07"	22	Not Applicable	Not Applicable
+	"Scott County, IA"	"19163"	"55-64 years"	"55-64"	"Aug., 2020 "	"2020/08"	17	Not Applicable	Not Applicable
+	"Scott County, IA"	"19163"	"55-64 years"	"55-64"	"Sep., 2020 "	"2020/09"	19	Not Applicable	Not Applicable
+	"Scott County, IA"	"19163"	"55-64 years"	"55-64"	"Oct., 2020 "	"2020/10"	19	Not Applicable	Not Applicable
+	"Scott County, IA"	"19163"	"55-64 years"	"55-64"	"Nov., 2020 "	"2020/11"	22	Not Applicable	Not Applicable
+	"Scott County, IA"	"19163"	"55-64 years"	"55-64"	"Dec., 2020 "	"2020/12"	21	Not Applicable	Not Applicable
+	"Scott County, IA"	"19163"	"65-74 years"	"65-74"	"Jan., 2019"	"2019/01"	35	Not Applicable	Not Applicable
+	"Scott County, IA"	"19163"	"65-74 years"	"65-74"	"Feb., 2019"	"2019/02"	21	Not Applicable	Not Applicable
+	"Scott County, IA"	"19163"	"65-74 years"	"65-74"	"Mar., 2019"	"2019/03"	35	Not Applicable	Not Applicable
+	"Scott County, IA"	"19163"	"65-74 years"	"65-74"	"Apr., 2019"	"2019/04"	24	Not Applicable	Not Applicable
+	"Scott County, IA"	"19163"	"65-74 years"	"65-74"	"May, 2019"	"2019/05"	26	Not Applicable	Not Applicable
+	"Scott County, IA"	"19163"	"65-74 years"	"65-74"	"Jun., 2019"	"2019/06"	23	Not Applicable	Not Applicable
+	"Scott County, IA"	"19163"	"65-74 years"	"65-74"	"Jul., 2019"	"2019/07"	25	Not Applicable	Not Applicable
+	"Scott County, IA"	"19163"	"65-74 years"	"65-74"	"Aug., 2019"	"2019/08"	20	Not Applicable	Not Applicable
+	"Scott County, IA"	"19163"	"65-74 years"	"65-74"	"Sep., 2019"	"2019/09"	17	Not Applicable	Not Applicable
+	"Scott County, IA"	"19163"	"65-74 years"	"65-74"	"Oct., 2019"	"2019/10"	24	Not Applicable	Not Applicable
+	"Scott County, IA"	"19163"	"65-74 years"	"65-74"	"Nov., 2019"	"2019/11"	24	Not Applicable	Not Applicable
+	"Scott County, IA"	"19163"	"65-74 years"	"65-74"	"Dec., 2019"	"2019/12"	31	Not Applicable	Not Applicable
+	"Scott County, IA"	"19163"	"65-74 years"	"65-74"	"Jan., 2020 "	"2020/01"	41	Not Applicable	Not Applicable
+	"Scott County, IA"	"19163"	"65-74 years"	"65-74"	"Feb., 2020 "	"2020/02"	32	Not Applicable	Not Applicable
+	"Scott County, IA"	"19163"	"65-74 years"	"65-74"	"Mar., 2020 "	"2020/03"	29	Not Applicable	Not Applicable
+	"Scott County, IA"	"19163"	"65-74 years"	"65-74"	"Apr., 2020 "	"2020/04"	33	Not Applicable	Not Applicable
+	"Scott County, IA"	"19163"	"65-74 years"	"65-74"	"May, 2020 "	"2020/05"	30	Not Applicable	Not Applicable
+	"Scott County, IA"	"19163"	"65-74 years"	"65-74"	"Jun., 2020 "	"2020/06"	25	Not Applicable	Not Applicable
+	"Scott County, IA"	"19163"	"65-74 years"	"65-74"	"Jul., 2020 "	"2020/07"	24	Not Applicable	Not Applicable
+	"Scott County, IA"	"19163"	"65-74 years"	"65-74"	"Aug., 2020 "	"2020/08"	22	Not Applicable	Not Applicable
+	"Scott County, IA"	"19163"	"65-74 years"	"65-74"	"Sep., 2020 "	"2020/09"	34	Not Applicable	Not Applicable
+	"Scott County, IA"	"19163"	"65-74 years"	"65-74"	"Oct., 2020 "	"2020/10"	41	Not Applicable	Not Applicable
+	"Scott County, IA"	"19163"	"65-74 years"	"65-74"	"Nov., 2020 "	"2020/11"	37	Not Applicable	Not Applicable
+	"Scott County, IA"	"19163"	"65-74 years"	"65-74"	"Dec., 2020 "	"2020/12"	29	Not Applicable	Not Applicable
+	"Scott County, IA"	"19163"	"75-84 years"	"75-84"	"Jan., 2019"	"2019/01"	30	Not Applicable	Not Applicable
+	"Scott County, IA"	"19163"	"75-84 years"	"75-84"	"Feb., 2019"	"2019/02"	35	Not Applicable	Not Applicable
+	"Scott County, IA"	"19163"	"75-84 years"	"75-84"	"Mar., 2019"	"2019/03"	34	Not Applicable	Not Applicable
+	"Scott County, IA"	"19163"	"75-84 years"	"75-84"	"Apr., 2019"	"2019/04"	35	Not Applicable	Not Applicable
+	"Scott County, IA"	"19163"	"75-84 years"	"75-84"	"May, 2019"	"2019/05"	30	Not Applicable	Not Applicable
+	"Scott County, IA"	"19163"	"75-84 years"	"75-84"	"Jun., 2019"	"2019/06"	29	Not Applicable	Not Applicable
+	"Scott County, IA"	"19163"	"75-84 years"	"75-84"	"Jul., 2019"	"2019/07"	37	Not Applicable	Not Applicable
+	"Scott County, IA"	"19163"	"75-84 years"	"75-84"	"Aug., 2019"	"2019/08"	30	Not Applicable	Not Applicable
+	"Scott County, IA"	"19163"	"75-84 years"	"75-84"	"Sep., 2019"	"2019/09"	33	Not Applicable	Not Applicable
+	"Scott County, IA"	"19163"	"75-84 years"	"75-84"	"Oct., 2019"	"2019/10"	27	Not Applicable	Not Applicable
+	"Scott County, IA"	"19163"	"75-84 years"	"75-84"	"Nov., 2019"	"2019/11"	22	Not Applicable	Not Applicable
+	"Scott County, IA"	"19163"	"75-84 years"	"75-84"	"Dec., 2019"	"2019/12"	29	Not Applicable	Not Applicable
+	"Scott County, IA"	"19163"	"75-84 years"	"75-84"	"Jan., 2020 "	"2020/01"	41	Not Applicable	Not Applicable
+	"Scott County, IA"	"19163"	"75-84 years"	"75-84"	"Feb., 2020 "	"2020/02"	36	Not Applicable	Not Applicable
+	"Scott County, IA"	"19163"	"75-84 years"	"75-84"	"Mar., 2020 "	"2020/03"	38	Not Applicable	Not Applicable
+	"Scott County, IA"	"19163"	"75-84 years"	"75-84"	"Apr., 2020 "	"2020/04"	37	Not Applicable	Not Applicable
+	"Scott County, IA"	"19163"	"75-84 years"	"75-84"	"May, 2020 "	"2020/05"	32	Not Applicable	Not Applicable
+	"Scott County, IA"	"19163"	"75-84 years"	"75-84"	"Jun., 2020 "	"2020/06"	21	Not Applicable	Not Applicable
+	"Scott County, IA"	"19163"	"75-84 years"	"75-84"	"Jul., 2020 "	"2020/07"	39	Not Applicable	Not Applicable
+	"Scott County, IA"	"19163"	"75-84 years"	"75-84"	"Aug., 2020 "	"2020/08"	23	Not Applicable	Not Applicable
+	"Scott County, IA"	"19163"	"75-84 years"	"75-84"	"Sep., 2020 "	"2020/09"	30	Not Applicable	Not Applicable
+	"Scott County, IA"	"19163"	"75-84 years"	"75-84"	"Oct., 2020 "	"2020/10"	37	Not Applicable	Not Applicable
+	"Scott County, IA"	"19163"	"75-84 years"	"75-84"	"Nov., 2020 "	"2020/11"	56	Not Applicable	Not Applicable
+	"Scott County, IA"	"19163"	"75-84 years"	"75-84"	"Dec., 2020 "	"2020/12"	46	Not Applicable	Not Applicable
+	"Scott County, IA"	"19163"	"85+ years"	"85+"	"Jan., 2019"	"2019/01"	49	Not Applicable	Not Applicable
+	"Scott County, IA"	"19163"	"85+ years"	"85+"	"Feb., 2019"	"2019/02"	37	Not Applicable	Not Applicable
+	"Scott County, IA"	"19163"	"85+ years"	"85+"	"Mar., 2019"	"2019/03"	22	Not Applicable	Not Applicable
+	"Scott County, IA"	"19163"	"85+ years"	"85+"	"Apr., 2019"	"2019/04"	33	Not Applicable	Not Applicable
+	"Scott County, IA"	"19163"	"85+ years"	"85+"	"May, 2019"	"2019/05"	40	Not Applicable	Not Applicable
+	"Scott County, IA"	"19163"	"85+ years"	"85+"	"Jun., 2019"	"2019/06"	41	Not Applicable	Not Applicable
+	"Scott County, IA"	"19163"	"85+ years"	"85+"	"Jul., 2019"	"2019/07"	40	Not Applicable	Not Applicable
+	"Scott County, IA"	"19163"	"85+ years"	"85+"	"Aug., 2019"	"2019/08"	55	Not Applicable	Not Applicable
+	"Scott County, IA"	"19163"	"85+ years"	"85+"	"Sep., 2019"	"2019/09"	32	Not Applicable	Not Applicable
+	"Scott County, IA"	"19163"	"85+ years"	"85+"	"Oct., 2019"	"2019/10"	47	Not Applicable	Not Applicable
+	"Scott County, IA"	"19163"	"85+ years"	"85+"	"Nov., 2019"	"2019/11"	42	Not Applicable	Not Applicable
+	"Scott County, IA"	"19163"	"85+ years"	"85+"	"Dec., 2019"	"2019/12"	45	Not Applicable	Not Applicable
+	"Scott County, IA"	"19163"	"85+ years"	"85+"	"Jan., 2020 "	"2020/01"	55	Not Applicable	Not Applicable
+	"Scott County, IA"	"19163"	"85+ years"	"85+"	"Feb., 2020 "	"2020/02"	56	Not Applicable	Not Applicable
+	"Scott County, IA"	"19163"	"85+ years"	"85+"	"Mar., 2020 "	"2020/03"	49	Not Applicable	Not Applicable
+	"Scott County, IA"	"19163"	"85+ years"	"85+"	"Apr., 2020 "	"2020/04"	50	Not Applicable	Not Applicable
+	"Scott County, IA"	"19163"	"85+ years"	"85+"	"May, 2020 "	"2020/05"	48	Not Applicable	Not Applicable
+	"Scott County, IA"	"19163"	"85+ years"	"85+"	"Jun., 2020 "	"2020/06"	40	Not Applicable	Not Applicable
+	"Scott County, IA"	"19163"	"85+ years"	"85+"	"Jul., 2020 "	"2020/07"	61	Not Applicable	Not Applicable
+	"Scott County, IA"	"19163"	"85+ years"	"85+"	"Aug., 2020 "	"2020/08"	51	Not Applicable	Not Applicable
+	"Scott County, IA"	"19163"	"85+ years"	"85+"	"Sep., 2020 "	"2020/09"	49	Not Applicable	Not Applicable
+	"Scott County, IA"	"19163"	"85+ years"	"85+"	"Oct., 2020 "	"2020/10"	47	Not Applicable	Not Applicable
+	"Scott County, IA"	"19163"	"85+ years"	"85+"	"Nov., 2020 "	"2020/11"	95	Not Applicable	Not Applicable
+	"Scott County, IA"	"19163"	"85+ years"	"85+"	"Dec., 2020 "	"2020/12"	81	Not Applicable	Not Applicable
+	"Shelby County, IA"	"19165"	"85+ years"	"85+"	"Nov., 2020 "	"2020/11"	18	Not Applicable	Not Applicable
+	"Shelby County, IA"	"19165"	"85+ years"	"85+"	"Dec., 2020 "	"2020/12"	11	Not Applicable	Not Applicable
+	"Sioux County, IA"	"19167"	"65-74 years"	"65-74"	"Dec., 2020 "	"2020/12"	11	Not Applicable	Not Applicable
+	"Sioux County, IA"	"19167"	"75-84 years"	"75-84"	"Nov., 2019"	"2019/11"	10	Not Applicable	Not Applicable
+	"Sioux County, IA"	"19167"	"75-84 years"	"75-84"	"Oct., 2020 "	"2020/10"	12	Not Applicable	Not Applicable
+	"Sioux County, IA"	"19167"	"75-84 years"	"75-84"	"Nov., 2020 "	"2020/11"	12	Not Applicable	Not Applicable
+	"Sioux County, IA"	"19167"	"75-84 years"	"75-84"	"Dec., 2020 "	"2020/12"	12	Not Applicable	Not Applicable
+	"Sioux County, IA"	"19167"	"85+ years"	"85+"	"Mar., 2019"	"2019/03"	12	Not Applicable	Not Applicable
+	"Sioux County, IA"	"19167"	"85+ years"	"85+"	"May, 2019"	"2019/05"	10	Not Applicable	Not Applicable
+	"Sioux County, IA"	"19167"	"85+ years"	"85+"	"Jul., 2019"	"2019/07"	11	Not Applicable	Not Applicable
+	"Sioux County, IA"	"19167"	"85+ years"	"85+"	"Nov., 2019"	"2019/11"	16	Not Applicable	Not Applicable
+	"Sioux County, IA"	"19167"	"85+ years"	"85+"	"Dec., 2019"	"2019/12"	10	Not Applicable	Not Applicable
+	"Sioux County, IA"	"19167"	"85+ years"	"85+"	"Mar., 2020 "	"2020/03"	10	Not Applicable	Not Applicable
+	"Sioux County, IA"	"19167"	"85+ years"	"85+"	"Apr., 2020 "	"2020/04"	12	Not Applicable	Not Applicable
+	"Sioux County, IA"	"19167"	"85+ years"	"85+"	"Jun., 2020 "	"2020/06"	13	Not Applicable	Not Applicable
+	"Sioux County, IA"	"19167"	"85+ years"	"85+"	"Jul., 2020 "	"2020/07"	10	Not Applicable	Not Applicable
+	"Sioux County, IA"	"19167"	"85+ years"	"85+"	"Oct., 2020 "	"2020/10"	18	Not Applicable	Not Applicable
+	"Sioux County, IA"	"19167"	"85+ years"	"85+"	"Nov., 2020 "	"2020/11"	24	Not Applicable	Not Applicable
+	"Sioux County, IA"	"19167"	"85+ years"	"85+"	"Dec., 2020 "	"2020/12"	29	Not Applicable	Not Applicable
+	"Story County, IA"	"19169"	"65-74 years"	"65-74"	"Jul., 2019"	"2019/07"	12	Not Applicable	Not Applicable
+	"Story County, IA"	"19169"	"65-74 years"	"65-74"	"Aug., 2019"	"2019/08"	15	Not Applicable	Not Applicable
+	"Story County, IA"	"19169"	"65-74 years"	"65-74"	"Nov., 2019"	"2019/11"	16	Not Applicable	Not Applicable
+	"Story County, IA"	"19169"	"65-74 years"	"65-74"	"Mar., 2020 "	"2020/03"	10	Not Applicable	Not Applicable
+	"Story County, IA"	"19169"	"65-74 years"	"65-74"	"Aug., 2020 "	"2020/08"	11	Not Applicable	Not Applicable
+	"Story County, IA"	"19169"	"65-74 years"	"65-74"	"Sep., 2020 "	"2020/09"	14	Not Applicable	Not Applicable
+	"Story County, IA"	"19169"	"65-74 years"	"65-74"	"Nov., 2020 "	"2020/11"	10	Not Applicable	Not Applicable
+	"Story County, IA"	"19169"	"75-84 years"	"75-84"	"Jan., 2019"	"2019/01"	12	Not Applicable	Not Applicable
+	"Story County, IA"	"19169"	"75-84 years"	"75-84"	"Feb., 2019"	"2019/02"	10	Not Applicable	Not Applicable
+	"Story County, IA"	"19169"	"75-84 years"	"75-84"	"Apr., 2019"	"2019/04"	11	Not Applicable	Not Applicable
+	"Story County, IA"	"19169"	"75-84 years"	"75-84"	"Jun., 2019"	"2019/06"	11	Not Applicable	Not Applicable
+	"Story County, IA"	"19169"	"75-84 years"	"75-84"	"Aug., 2019"	"2019/08"	10	Not Applicable	Not Applicable
+	"Story County, IA"	"19169"	"75-84 years"	"75-84"	"Sep., 2019"	"2019/09"	13	Not Applicable	Not Applicable
+	"Story County, IA"	"19169"	"75-84 years"	"75-84"	"Oct., 2019"	"2019/10"	11	Not Applicable	Not Applicable
+	"Story County, IA"	"19169"	"75-84 years"	"75-84"	"Nov., 2019"	"2019/11"	18	Not Applicable	Not Applicable
+	"Story County, IA"	"19169"	"75-84 years"	"75-84"	"Dec., 2019"	"2019/12"	13	Not Applicable	Not Applicable
+	"Story County, IA"	"19169"	"75-84 years"	"75-84"	"Feb., 2020 "	"2020/02"	11	Not Applicable	Not Applicable
+	"Story County, IA"	"19169"	"75-84 years"	"75-84"	"Mar., 2020 "	"2020/03"	15	Not Applicable	Not Applicable
+	"Story County, IA"	"19169"	"75-84 years"	"75-84"	"Apr., 2020 "	"2020/04"	13	Not Applicable	Not Applicable
+	"Story County, IA"	"19169"	"75-84 years"	"75-84"	"Sep., 2020 "	"2020/09"	15	Not Applicable	Not Applicable
+	"Story County, IA"	"19169"	"75-84 years"	"75-84"	"Nov., 2020 "	"2020/11"	12	Not Applicable	Not Applicable
+	"Story County, IA"	"19169"	"75-84 years"	"75-84"	"Dec., 2020 "	"2020/12"	11	Not Applicable	Not Applicable
+	"Story County, IA"	"19169"	"85+ years"	"85+"	"Jan., 2019"	"2019/01"	14	Not Applicable	Not Applicable
+	"Story County, IA"	"19169"	"85+ years"	"85+"	"Feb., 2019"	"2019/02"	16	Not Applicable	Not Applicable
+	"Story County, IA"	"19169"	"85+ years"	"85+"	"Mar., 2019"	"2019/03"	22	Not Applicable	Not Applicable
+	"Story County, IA"	"19169"	"85+ years"	"85+"	"Apr., 2019"	"2019/04"	23	Not Applicable	Not Applicable
+	"Story County, IA"	"19169"	"85+ years"	"85+"	"May, 2019"	"2019/05"	13	Not Applicable	Not Applicable
+	"Story County, IA"	"19169"	"85+ years"	"85+"	"Jun., 2019"	"2019/06"	25	Not Applicable	Not Applicable
+	"Story County, IA"	"19169"	"85+ years"	"85+"	"Jul., 2019"	"2019/07"	12	Not Applicable	Not Applicable
+	"Story County, IA"	"19169"	"85+ years"	"85+"	"Aug., 2019"	"2019/08"	19	Not Applicable	Not Applicable
+	"Story County, IA"	"19169"	"85+ years"	"85+"	"Sep., 2019"	"2019/09"	13	Not Applicable	Not Applicable
+	"Story County, IA"	"19169"	"85+ years"	"85+"	"Oct., 2019"	"2019/10"	20	Not Applicable	Not Applicable
+	"Story County, IA"	"19169"	"85+ years"	"85+"	"Nov., 2019"	"2019/11"	21	Not Applicable	Not Applicable
+	"Story County, IA"	"19169"	"85+ years"	"85+"	"Dec., 2019"	"2019/12"	22	Not Applicable	Not Applicable
+	"Story County, IA"	"19169"	"85+ years"	"85+"	"Jan., 2020 "	"2020/01"	22	Not Applicable	Not Applicable
+	"Story County, IA"	"19169"	"85+ years"	"85+"	"Feb., 2020 "	"2020/02"	16	Not Applicable	Not Applicable
+	"Story County, IA"	"19169"	"85+ years"	"85+"	"Mar., 2020 "	"2020/03"	15	Not Applicable	Not Applicable
+	"Story County, IA"	"19169"	"85+ years"	"85+"	"Apr., 2020 "	"2020/04"	24	Not Applicable	Not Applicable
+	"Story County, IA"	"19169"	"85+ years"	"85+"	"May, 2020 "	"2020/05"	11	Not Applicable	Not Applicable
+	"Story County, IA"	"19169"	"85+ years"	"85+"	"Jun., 2020 "	"2020/06"	10	Not Applicable	Not Applicable
+	"Story County, IA"	"19169"	"85+ years"	"85+"	"Jul., 2020 "	"2020/07"	27	Not Applicable	Not Applicable
+	"Story County, IA"	"19169"	"85+ years"	"85+"	"Aug., 2020 "	"2020/08"	23	Not Applicable	Not Applicable
+	"Story County, IA"	"19169"	"85+ years"	"85+"	"Sep., 2020 "	"2020/09"	15	Not Applicable	Not Applicable
+	"Story County, IA"	"19169"	"85+ years"	"85+"	"Oct., 2020 "	"2020/10"	13	Not Applicable	Not Applicable
+	"Story County, IA"	"19169"	"85+ years"	"85+"	"Nov., 2020 "	"2020/11"	23	Not Applicable	Not Applicable
+	"Story County, IA"	"19169"	"85+ years"	"85+"	"Dec., 2020 "	"2020/12"	25	Not Applicable	Not Applicable
+	"Tama County, IA"	"19171"	"75-84 years"	"75-84"	"May, 2020 "	"2020/05"	12	Not Applicable	Not Applicable
+	"Tama County, IA"	"19171"	"75-84 years"	"75-84"	"Oct., 2020 "	"2020/10"	13	Not Applicable	Not Applicable
+	"Tama County, IA"	"19171"	"85+ years"	"85+"	"Oct., 2019"	"2019/10"	12	Not Applicable	Not Applicable
+	"Tama County, IA"	"19171"	"85+ years"	"85+"	"Feb., 2020 "	"2020/02"	11	Not Applicable	Not Applicable
+	"Tama County, IA"	"19171"	"85+ years"	"85+"	"Mar., 2020 "	"2020/03"	14	Not Applicable	Not Applicable
+	"Tama County, IA"	"19171"	"85+ years"	"85+"	"Apr., 2020 "	"2020/04"	12	Not Applicable	Not Applicable
+	"Tama County, IA"	"19171"	"85+ years"	"85+"	"May, 2020 "	"2020/05"	11	Not Applicable	Not Applicable
+	"Tama County, IA"	"19171"	"85+ years"	"85+"	"Aug., 2020 "	"2020/08"	12	Not Applicable	Not Applicable
+	"Tama County, IA"	"19171"	"85+ years"	"85+"	"Oct., 2020 "	"2020/10"	13	Not Applicable	Not Applicable
+	"Union County, IA"	"19175"	"85+ years"	"85+"	"Dec., 2020 "	"2020/12"	10	Not Applicable	Not Applicable
+	"Wapello County, IA"	"19179"	"55-64 years"	"55-64"	"Feb., 2020 "	"2020/02"	10	Not Applicable	Not Applicable
+	"Wapello County, IA"	"19179"	"55-64 years"	"55-64"	"May, 2020 "	"2020/05"	11	Not Applicable	Not Applicable
+	"Wapello County, IA"	"19179"	"55-64 years"	"55-64"	"Aug., 2020 "	"2020/08"	11	Not Applicable	Not Applicable
+	"Wapello County, IA"	"19179"	"65-74 years"	"65-74"	"Nov., 2020 "	"2020/11"	12	Not Applicable	Not Applicable
+	"Wapello County, IA"	"19179"	"75-84 years"	"75-84"	"Mar., 2019"	"2019/03"	10	Not Applicable	Not Applicable
+	"Wapello County, IA"	"19179"	"75-84 years"	"75-84"	"Apr., 2019"	"2019/04"	10	Not Applicable	Not Applicable
+	"Wapello County, IA"	"19179"	"75-84 years"	"75-84"	"Oct., 2019"	"2019/10"	10	Not Applicable	Not Applicable
+	"Wapello County, IA"	"19179"	"75-84 years"	"75-84"	"Mar., 2020 "	"2020/03"	14	Not Applicable	Not Applicable
+	"Wapello County, IA"	"19179"	"75-84 years"	"75-84"	"Apr., 2020 "	"2020/04"	10	Not Applicable	Not Applicable
+	"Wapello County, IA"	"19179"	"75-84 years"	"75-84"	"May, 2020 "	"2020/05"	14	Not Applicable	Not Applicable
+	"Wapello County, IA"	"19179"	"75-84 years"	"75-84"	"Jun., 2020 "	"2020/06"	15	Not Applicable	Not Applicable
+	"Wapello County, IA"	"19179"	"75-84 years"	"75-84"	"Sep., 2020 "	"2020/09"	15	Not Applicable	Not Applicable
+	"Wapello County, IA"	"19179"	"75-84 years"	"75-84"	"Oct., 2020 "	"2020/10"	13	Not Applicable	Not Applicable
+	"Wapello County, IA"	"19179"	"75-84 years"	"75-84"	"Nov., 2020 "	"2020/11"	15	Not Applicable	Not Applicable
+	"Wapello County, IA"	"19179"	"75-84 years"	"75-84"	"Dec., 2020 "	"2020/12"	10	Not Applicable	Not Applicable
+	"Wapello County, IA"	"19179"	"85+ years"	"85+"	"Jan., 2019"	"2019/01"	12	Not Applicable	Not Applicable
+	"Wapello County, IA"	"19179"	"85+ years"	"85+"	"Mar., 2019"	"2019/03"	14	Not Applicable	Not Applicable
+	"Wapello County, IA"	"19179"	"85+ years"	"85+"	"Apr., 2019"	"2019/04"	12	Not Applicable	Not Applicable
+	"Wapello County, IA"	"19179"	"85+ years"	"85+"	"May, 2019"	"2019/05"	19	Not Applicable	Not Applicable
+	"Wapello County, IA"	"19179"	"85+ years"	"85+"	"Jul., 2019"	"2019/07"	20	Not Applicable	Not Applicable
+	"Wapello County, IA"	"19179"	"85+ years"	"85+"	"Aug., 2019"	"2019/08"	14	Not Applicable	Not Applicable
+	"Wapello County, IA"	"19179"	"85+ years"	"85+"	"Sep., 2019"	"2019/09"	15	Not Applicable	Not Applicable
+	"Wapello County, IA"	"19179"	"85+ years"	"85+"	"Dec., 2019"	"2019/12"	18	Not Applicable	Not Applicable
+	"Wapello County, IA"	"19179"	"85+ years"	"85+"	"Mar., 2020 "	"2020/03"	15	Not Applicable	Not Applicable
+	"Wapello County, IA"	"19179"	"85+ years"	"85+"	"May, 2020 "	"2020/05"	24	Not Applicable	Not Applicable
+	"Wapello County, IA"	"19179"	"85+ years"	"85+"	"Jun., 2020 "	"2020/06"	20	Not Applicable	Not Applicable
+	"Wapello County, IA"	"19179"	"85+ years"	"85+"	"Jul., 2020 "	"2020/07"	12	Not Applicable	Not Applicable
+	"Wapello County, IA"	"19179"	"85+ years"	"85+"	"Aug., 2020 "	"2020/08"	16	Not Applicable	Not Applicable
+	"Wapello County, IA"	"19179"	"85+ years"	"85+"	"Sep., 2020 "	"2020/09"	11	Not Applicable	Not Applicable
+	"Wapello County, IA"	"19179"	"85+ years"	"85+"	"Oct., 2020 "	"2020/10"	15	Not Applicable	Not Applicable
+	"Wapello County, IA"	"19179"	"85+ years"	"85+"	"Nov., 2020 "	"2020/11"	20	Not Applicable	Not Applicable
+	"Wapello County, IA"	"19179"	"85+ years"	"85+"	"Dec., 2020 "	"2020/12"	14	Not Applicable	Not Applicable
+	"Warren County, IA"	"19181"	"65-74 years"	"65-74"	"Sep., 2020 "	"2020/09"	10	Not Applicable	Not Applicable
+	"Warren County, IA"	"19181"	"65-74 years"	"65-74"	"Oct., 2020 "	"2020/10"	13	Not Applicable	Not Applicable
+	"Warren County, IA"	"19181"	"65-74 years"	"65-74"	"Nov., 2020 "	"2020/11"	13	Not Applicable	Not Applicable
+	"Warren County, IA"	"19181"	"65-74 years"	"65-74"	"Dec., 2020 "	"2020/12"	11	Not Applicable	Not Applicable
+	"Warren County, IA"	"19181"	"75-84 years"	"75-84"	"Jan., 2019"	"2019/01"	12	Not Applicable	Not Applicable
+	"Warren County, IA"	"19181"	"75-84 years"	"75-84"	"Feb., 2019"	"2019/02"	10	Not Applicable	Not Applicable
+	"Warren County, IA"	"19181"	"75-84 years"	"75-84"	"Mar., 2019"	"2019/03"	13	Not Applicable	Not Applicable
+	"Warren County, IA"	"19181"	"75-84 years"	"75-84"	"May, 2019"	"2019/05"	14	Not Applicable	Not Applicable
+	"Warren County, IA"	"19181"	"75-84 years"	"75-84"	"Jun., 2019"	"2019/06"	13	Not Applicable	Not Applicable
+	"Warren County, IA"	"19181"	"75-84 years"	"75-84"	"Jul., 2019"	"2019/07"	11	Not Applicable	Not Applicable
+	"Warren County, IA"	"19181"	"75-84 years"	"75-84"	"Oct., 2019"	"2019/10"	16	Not Applicable	Not Applicable
+	"Warren County, IA"	"19181"	"75-84 years"	"75-84"	"Dec., 2019"	"2019/12"	13	Not Applicable	Not Applicable
+	"Warren County, IA"	"19181"	"75-84 years"	"75-84"	"Mar., 2020 "	"2020/03"	10	Not Applicable	Not Applicable
+	"Warren County, IA"	"19181"	"75-84 years"	"75-84"	"May, 2020 "	"2020/05"	12	Not Applicable	Not Applicable
+	"Warren County, IA"	"19181"	"75-84 years"	"75-84"	"Jun., 2020 "	"2020/06"	10	Not Applicable	Not Applicable
+	"Warren County, IA"	"19181"	"75-84 years"	"75-84"	"Jul., 2020 "	"2020/07"	10	Not Applicable	Not Applicable
+	"Warren County, IA"	"19181"	"75-84 years"	"75-84"	"Aug., 2020 "	"2020/08"	15	Not Applicable	Not Applicable
+	"Warren County, IA"	"19181"	"75-84 years"	"75-84"	"Sep., 2020 "	"2020/09"	11	Not Applicable	Not Applicable
+	"Warren County, IA"	"19181"	"75-84 years"	"75-84"	"Nov., 2020 "	"2020/11"	11	Not Applicable	Not Applicable
+	"Warren County, IA"	"19181"	"75-84 years"	"75-84"	"Dec., 2020 "	"2020/12"	24	Not Applicable	Not Applicable
+	"Warren County, IA"	"19181"	"85+ years"	"85+"	"Jan., 2019"	"2019/01"	15	Not Applicable	Not Applicable
+	"Warren County, IA"	"19181"	"85+ years"	"85+"	"Feb., 2019"	"2019/02"	11	Not Applicable	Not Applicable
+	"Warren County, IA"	"19181"	"85+ years"	"85+"	"Mar., 2019"	"2019/03"	11	Not Applicable	Not Applicable
+	"Warren County, IA"	"19181"	"85+ years"	"85+"	"Apr., 2019"	"2019/04"	11	Not Applicable	Not Applicable
+	"Warren County, IA"	"19181"	"85+ years"	"85+"	"May, 2019"	"2019/05"	14	Not Applicable	Not Applicable
+	"Warren County, IA"	"19181"	"85+ years"	"85+"	"Jun., 2019"	"2019/06"	12	Not Applicable	Not Applicable
+	"Warren County, IA"	"19181"	"85+ years"	"85+"	"Jul., 2019"	"2019/07"	11	Not Applicable	Not Applicable
+	"Warren County, IA"	"19181"	"85+ years"	"85+"	"Sep., 2019"	"2019/09"	10	Not Applicable	Not Applicable
+	"Warren County, IA"	"19181"	"85+ years"	"85+"	"Oct., 2019"	"2019/10"	15	Not Applicable	Not Applicable
+	"Warren County, IA"	"19181"	"85+ years"	"85+"	"Nov., 2019"	"2019/11"	15	Not Applicable	Not Applicable
+	"Warren County, IA"	"19181"	"85+ years"	"85+"	"Dec., 2019"	"2019/12"	17	Not Applicable	Not Applicable
+	"Warren County, IA"	"19181"	"85+ years"	"85+"	"Jan., 2020 "	"2020/01"	17	Not Applicable	Not Applicable
+	"Warren County, IA"	"19181"	"85+ years"	"85+"	"Feb., 2020 "	"2020/02"	13	Not Applicable	Not Applicable
+	"Warren County, IA"	"19181"	"85+ years"	"85+"	"Mar., 2020 "	"2020/03"	17	Not Applicable	Not Applicable
+	"Warren County, IA"	"19181"	"85+ years"	"85+"	"Apr., 2020 "	"2020/04"	16	Not Applicable	Not Applicable
+	"Warren County, IA"	"19181"	"85+ years"	"85+"	"May, 2020 "	"2020/05"	12	Not Applicable	Not Applicable
+	"Warren County, IA"	"19181"	"85+ years"	"85+"	"Jun., 2020 "	"2020/06"	10	Not Applicable	Not Applicable
+	"Warren County, IA"	"19181"	"85+ years"	"85+"	"Aug., 2020 "	"2020/08"	19	Not Applicable	Not Applicable
+	"Warren County, IA"	"19181"	"85+ years"	"85+"	"Sep., 2020 "	"2020/09"	14	Not Applicable	Not Applicable
+	"Warren County, IA"	"19181"	"85+ years"	"85+"	"Oct., 2020 "	"2020/10"	14	Not Applicable	Not Applicable
+	"Warren County, IA"	"19181"	"85+ years"	"85+"	"Nov., 2020 "	"2020/11"	19	Not Applicable	Not Applicable
+	"Warren County, IA"	"19181"	"85+ years"	"85+"	"Dec., 2020 "	"2020/12"	24	Not Applicable	Not Applicable
+	"Washington County, IA"	"19183"	"85+ years"	"85+"	"Mar., 2019"	"2019/03"	10	Not Applicable	Not Applicable
+	"Washington County, IA"	"19183"	"85+ years"	"85+"	"Apr., 2019"	"2019/04"	11	Not Applicable	Not Applicable
+	"Washington County, IA"	"19183"	"85+ years"	"85+"	"Sep., 2019"	"2019/09"	10	Not Applicable	Not Applicable
+	"Washington County, IA"	"19183"	"85+ years"	"85+"	"Mar., 2020 "	"2020/03"	10	Not Applicable	Not Applicable
+	"Washington County, IA"	"19183"	"85+ years"	"85+"	"Apr., 2020 "	"2020/04"	12	Not Applicable	Not Applicable
+	"Washington County, IA"	"19183"	"85+ years"	"85+"	"May, 2020 "	"2020/05"	11	Not Applicable	Not Applicable
+	"Washington County, IA"	"19183"	"85+ years"	"85+"	"Jul., 2020 "	"2020/07"	12	Not Applicable	Not Applicable
+	"Washington County, IA"	"19183"	"85+ years"	"85+"	"Aug., 2020 "	"2020/08"	13	Not Applicable	Not Applicable
+	"Washington County, IA"	"19183"	"85+ years"	"85+"	"Sep., 2020 "	"2020/09"	10	Not Applicable	Not Applicable
+	"Washington County, IA"	"19183"	"85+ years"	"85+"	"Oct., 2020 "	"2020/10"	10	Not Applicable	Not Applicable
+	"Washington County, IA"	"19183"	"85+ years"	"85+"	"Nov., 2020 "	"2020/11"	18	Not Applicable	Not Applicable
+	"Washington County, IA"	"19183"	"85+ years"	"85+"	"Dec., 2020 "	"2020/12"	17	Not Applicable	Not Applicable
+	"Webster County, IA"	"19187"	"65-74 years"	"65-74"	"Jul., 2019"	"2019/07"	12	Not Applicable	Not Applicable
+	"Webster County, IA"	"19187"	"65-74 years"	"65-74"	"Jan., 2020 "	"2020/01"	12	Not Applicable	Not Applicable
+	"Webster County, IA"	"19187"	"65-74 years"	"65-74"	"Mar., 2020 "	"2020/03"	10	Not Applicable	Not Applicable
+	"Webster County, IA"	"19187"	"65-74 years"	"65-74"	"Jul., 2020 "	"2020/07"	14	Not Applicable	Not Applicable
+	"Webster County, IA"	"19187"	"65-74 years"	"65-74"	"Nov., 2020 "	"2020/11"	17	Not Applicable	Not Applicable
+	"Webster County, IA"	"19187"	"65-74 years"	"65-74"	"Dec., 2020 "	"2020/12"	16	Not Applicable	Not Applicable
+	"Webster County, IA"	"19187"	"75-84 years"	"75-84"	"Jan., 2019"	"2019/01"	13	Not Applicable	Not Applicable
+	"Webster County, IA"	"19187"	"75-84 years"	"75-84"	"Jun., 2019"	"2019/06"	13	Not Applicable	Not Applicable
+	"Webster County, IA"	"19187"	"75-84 years"	"75-84"	"Dec., 2019"	"2019/12"	16	Not Applicable	Not Applicable
+	"Webster County, IA"	"19187"	"75-84 years"	"75-84"	"Jan., 2020 "	"2020/01"	15	Not Applicable	Not Applicable
+	"Webster County, IA"	"19187"	"75-84 years"	"75-84"	"Mar., 2020 "	"2020/03"	10	Not Applicable	Not Applicable
+	"Webster County, IA"	"19187"	"75-84 years"	"75-84"	"Apr., 2020 "	"2020/04"	10	Not Applicable	Not Applicable
+	"Webster County, IA"	"19187"	"75-84 years"	"75-84"	"May, 2020 "	"2020/05"	10	Not Applicable	Not Applicable
+	"Webster County, IA"	"19187"	"75-84 years"	"75-84"	"Nov., 2020 "	"2020/11"	18	Not Applicable	Not Applicable
+	"Webster County, IA"	"19187"	"75-84 years"	"75-84"	"Dec., 2020 "	"2020/12"	15	Not Applicable	Not Applicable
+	"Webster County, IA"	"19187"	"85+ years"	"85+"	"Jan., 2019"	"2019/01"	14	Not Applicable	Not Applicable
+	"Webster County, IA"	"19187"	"85+ years"	"85+"	"Feb., 2019"	"2019/02"	17	Not Applicable	Not Applicable
+	"Webster County, IA"	"19187"	"85+ years"	"85+"	"Mar., 2019"	"2019/03"	16	Not Applicable	Not Applicable
+	"Webster County, IA"	"19187"	"85+ years"	"85+"	"Apr., 2019"	"2019/04"	11	Not Applicable	Not Applicable
+	"Webster County, IA"	"19187"	"85+ years"	"85+"	"Jun., 2019"	"2019/06"	13	Not Applicable	Not Applicable
+	"Webster County, IA"	"19187"	"85+ years"	"85+"	"Aug., 2019"	"2019/08"	11	Not Applicable	Not Applicable
+	"Webster County, IA"	"19187"	"85+ years"	"85+"	"Sep., 2019"	"2019/09"	16	Not Applicable	Not Applicable
+	"Webster County, IA"	"19187"	"85+ years"	"85+"	"Oct., 2019"	"2019/10"	20	Not Applicable	Not Applicable
+	"Webster County, IA"	"19187"	"85+ years"	"85+"	"Nov., 2019"	"2019/11"	14	Not Applicable	Not Applicable
+	"Webster County, IA"	"19187"	"85+ years"	"85+"	"Dec., 2019"	"2019/12"	22	Not Applicable	Not Applicable
+	"Webster County, IA"	"19187"	"85+ years"	"85+"	"Jan., 2020 "	"2020/01"	17	Not Applicable	Not Applicable
+	"Webster County, IA"	"19187"	"85+ years"	"85+"	"Feb., 2020 "	"2020/02"	13	Not Applicable	Not Applicable
+	"Webster County, IA"	"19187"	"85+ years"	"85+"	"Mar., 2020 "	"2020/03"	18	Not Applicable	Not Applicable
+	"Webster County, IA"	"19187"	"85+ years"	"85+"	"Apr., 2020 "	"2020/04"	14	Not Applicable	Not Applicable
+	"Webster County, IA"	"19187"	"85+ years"	"85+"	"May, 2020 "	"2020/05"	16	Not Applicable	Not Applicable
+	"Webster County, IA"	"19187"	"85+ years"	"85+"	"Jun., 2020 "	"2020/06"	10	Not Applicable	Not Applicable
+	"Webster County, IA"	"19187"	"85+ years"	"85+"	"Jul., 2020 "	"2020/07"	13	Not Applicable	Not Applicable
+	"Webster County, IA"	"19187"	"85+ years"	"85+"	"Aug., 2020 "	"2020/08"	16	Not Applicable	Not Applicable
+	"Webster County, IA"	"19187"	"85+ years"	"85+"	"Sep., 2020 "	"2020/09"	21	Not Applicable	Not Applicable
+	"Webster County, IA"	"19187"	"85+ years"	"85+"	"Oct., 2020 "	"2020/10"	18	Not Applicable	Not Applicable
+	"Webster County, IA"	"19187"	"85+ years"	"85+"	"Nov., 2020 "	"2020/11"	25	Not Applicable	Not Applicable
+	"Webster County, IA"	"19187"	"85+ years"	"85+"	"Dec., 2020 "	"2020/12"	16	Not Applicable	Not Applicable
+	"Winnebago County, IA"	"19189"	"75-84 years"	"75-84"	"Aug., 2020 "	"2020/08"	10	Not Applicable	Not Applicable
+	"Winneshiek County, IA"	"19191"	"85+ years"	"85+"	"Apr., 2019"	"2019/04"	10	Not Applicable	Not Applicable
+	"Winneshiek County, IA"	"19191"	"85+ years"	"85+"	"Aug., 2019"	"2019/08"	13	Not Applicable	Not Applicable
+	"Winneshiek County, IA"	"19191"	"85+ years"	"85+"	"Feb., 2020 "	"2020/02"	12	Not Applicable	Not Applicable
+	"Winneshiek County, IA"	"19191"	"85+ years"	"85+"	"Aug., 2020 "	"2020/08"	15	Not Applicable	Not Applicable
+	"Winneshiek County, IA"	"19191"	"85+ years"	"85+"	"Sep., 2020 "	"2020/09"	13	Not Applicable	Not Applicable
+	"Winneshiek County, IA"	"19191"	"85+ years"	"85+"	"Dec., 2020 "	"2020/12"	11	Not Applicable	Not Applicable
+	"Woodbury County, IA"	"19193"	"55-64 years"	"55-64"	"Jan., 2019"	"2019/01"	12	Not Applicable	Not Applicable
+	"Woodbury County, IA"	"19193"	"55-64 years"	"55-64"	"Feb., 2019"	"2019/02"	13	Not Applicable	Not Applicable
+	"Woodbury County, IA"	"19193"	"55-64 years"	"55-64"	"Mar., 2019"	"2019/03"	15	Not Applicable	Not Applicable
+	"Woodbury County, IA"	"19193"	"55-64 years"	"55-64"	"Apr., 2019"	"2019/04"	12	Not Applicable	Not Applicable
+	"Woodbury County, IA"	"19193"	"55-64 years"	"55-64"	"Jun., 2019"	"2019/06"	13	Not Applicable	Not Applicable
+	"Woodbury County, IA"	"19193"	"55-64 years"	"55-64"	"Jul., 2019"	"2019/07"	10	Not Applicable	Not Applicable
+	"Woodbury County, IA"	"19193"	"55-64 years"	"55-64"	"Oct., 2019"	"2019/10"	14	Not Applicable	Not Applicable
+	"Woodbury County, IA"	"19193"	"55-64 years"	"55-64"	"Dec., 2019"	"2019/12"	11	Not Applicable	Not Applicable
+	"Woodbury County, IA"	"19193"	"55-64 years"	"55-64"	"Feb., 2020 "	"2020/02"	14	Not Applicable	Not Applicable
+	"Woodbury County, IA"	"19193"	"55-64 years"	"55-64"	"Mar., 2020 "	"2020/03"	14	Not Applicable	Not Applicable
+	"Woodbury County, IA"	"19193"	"55-64 years"	"55-64"	"Apr., 2020 "	"2020/04"	14	Not Applicable	Not Applicable
+	"Woodbury County, IA"	"19193"	"55-64 years"	"55-64"	"May, 2020 "	"2020/05"	25	Not Applicable	Not Applicable
+	"Woodbury County, IA"	"19193"	"55-64 years"	"55-64"	"Jun., 2020 "	"2020/06"	10	Not Applicable	Not Applicable
+	"Woodbury County, IA"	"19193"	"55-64 years"	"55-64"	"Jul., 2020 "	"2020/07"	15	Not Applicable	Not Applicable
+	"Woodbury County, IA"	"19193"	"55-64 years"	"55-64"	"Sep., 2020 "	"2020/09"	13	Not Applicable	Not Applicable
+	"Woodbury County, IA"	"19193"	"55-64 years"	"55-64"	"Nov., 2020 "	"2020/11"	18	Not Applicable	Not Applicable
+	"Woodbury County, IA"	"19193"	"55-64 years"	"55-64"	"Dec., 2020 "	"2020/12"	15	Not Applicable	Not Applicable
+	"Woodbury County, IA"	"19193"	"65-74 years"	"65-74"	"Jan., 2019"	"2019/01"	16	Not Applicable	Not Applicable
+	"Woodbury County, IA"	"19193"	"65-74 years"	"65-74"	"Feb., 2019"	"2019/02"	11	Not Applicable	Not Applicable
+	"Woodbury County, IA"	"19193"	"65-74 years"	"65-74"	"Mar., 2019"	"2019/03"	15	Not Applicable	Not Applicable
+	"Woodbury County, IA"	"19193"	"65-74 years"	"65-74"	"Apr., 2019"	"2019/04"	22	Not Applicable	Not Applicable
+	"Woodbury County, IA"	"19193"	"65-74 years"	"65-74"	"May, 2019"	"2019/05"	16	Not Applicable	Not Applicable
+	"Woodbury County, IA"	"19193"	"65-74 years"	"65-74"	"Jun., 2019"	"2019/06"	23	Not Applicable	Not Applicable
+	"Woodbury County, IA"	"19193"	"65-74 years"	"65-74"	"Jul., 2019"	"2019/07"	17	Not Applicable	Not Applicable
+	"Woodbury County, IA"	"19193"	"65-74 years"	"65-74"	"Aug., 2019"	"2019/08"	15	Not Applicable	Not Applicable
+	"Woodbury County, IA"	"19193"	"65-74 years"	"65-74"	"Sep., 2019"	"2019/09"	15	Not Applicable	Not Applicable
+	"Woodbury County, IA"	"19193"	"65-74 years"	"65-74"	"Oct., 2019"	"2019/10"	16	Not Applicable	Not Applicable
+	"Woodbury County, IA"	"19193"	"65-74 years"	"65-74"	"Nov., 2019"	"2019/11"	17	Not Applicable	Not Applicable
+	"Woodbury County, IA"	"19193"	"65-74 years"	"65-74"	"Dec., 2019"	"2019/12"	18	Not Applicable	Not Applicable
+	"Woodbury County, IA"	"19193"	"65-74 years"	"65-74"	"Feb., 2020 "	"2020/02"	15	Not Applicable	Not Applicable
+	"Woodbury County, IA"	"19193"	"65-74 years"	"65-74"	"Mar., 2020 "	"2020/03"	19	Not Applicable	Not Applicable
+	"Woodbury County, IA"	"19193"	"65-74 years"	"65-74"	"Apr., 2020 "	"2020/04"	16	Not Applicable	Not Applicable
+	"Woodbury County, IA"	"19193"	"65-74 years"	"65-74"	"May, 2020 "	"2020/05"	16	Not Applicable	Not Applicable
+	"Woodbury County, IA"	"19193"	"65-74 years"	"65-74"	"Jun., 2020 "	"2020/06"	23	Not Applicable	Not Applicable
+	"Woodbury County, IA"	"19193"	"65-74 years"	"65-74"	"Jul., 2020 "	"2020/07"	10	Not Applicable	Not Applicable
+	"Woodbury County, IA"	"19193"	"65-74 years"	"65-74"	"Aug., 2020 "	"2020/08"	19	Not Applicable	Not Applicable
+	"Woodbury County, IA"	"19193"	"65-74 years"	"65-74"	"Sep., 2020 "	"2020/09"	26	Not Applicable	Not Applicable
+	"Woodbury County, IA"	"19193"	"65-74 years"	"65-74"	"Oct., 2020 "	"2020/10"	29	Not Applicable	Not Applicable
+	"Woodbury County, IA"	"19193"	"65-74 years"	"65-74"	"Nov., 2020 "	"2020/11"	24	Not Applicable	Not Applicable
+	"Woodbury County, IA"	"19193"	"65-74 years"	"65-74"	"Dec., 2020 "	"2020/12"	28	Not Applicable	Not Applicable
+	"Woodbury County, IA"	"19193"	"75-84 years"	"75-84"	"Jan., 2019"	"2019/01"	19	Not Applicable	Not Applicable
+	"Woodbury County, IA"	"19193"	"75-84 years"	"75-84"	"Feb., 2019"	"2019/02"	26	Not Applicable	Not Applicable
+	"Woodbury County, IA"	"19193"	"75-84 years"	"75-84"	"Mar., 2019"	"2019/03"	18	Not Applicable	Not Applicable
+	"Woodbury County, IA"	"19193"	"75-84 years"	"75-84"	"Apr., 2019"	"2019/04"	23	Not Applicable	Not Applicable
+	"Woodbury County, IA"	"19193"	"75-84 years"	"75-84"	"May, 2019"	"2019/05"	18	Not Applicable	Not Applicable
+	"Woodbury County, IA"	"19193"	"75-84 years"	"75-84"	"Jun., 2019"	"2019/06"	24	Not Applicable	Not Applicable
+	"Woodbury County, IA"	"19193"	"75-84 years"	"75-84"	"Jul., 2019"	"2019/07"	19	Not Applicable	Not Applicable
+	"Woodbury County, IA"	"19193"	"75-84 years"	"75-84"	"Aug., 2019"	"2019/08"	16	Not Applicable	Not Applicable
+	"Woodbury County, IA"	"19193"	"75-84 years"	"75-84"	"Sep., 2019"	"2019/09"	18	Not Applicable	Not Applicable
+	"Woodbury County, IA"	"19193"	"75-84 years"	"75-84"	"Oct., 2019"	"2019/10"	15	Not Applicable	Not Applicable
+	"Woodbury County, IA"	"19193"	"75-84 years"	"75-84"	"Nov., 2019"	"2019/11"	11	Not Applicable	Not Applicable
+	"Woodbury County, IA"	"19193"	"75-84 years"	"75-84"	"Dec., 2019"	"2019/12"	27	Not Applicable	Not Applicable
+	"Woodbury County, IA"	"19193"	"75-84 years"	"75-84"	"Jan., 2020 "	"2020/01"	20	Not Applicable	Not Applicable
+	"Woodbury County, IA"	"19193"	"75-84 years"	"75-84"	"Feb., 2020 "	"2020/02"	23	Not Applicable	Not Applicable
+	"Woodbury County, IA"	"19193"	"75-84 years"	"75-84"	"Mar., 2020 "	"2020/03"	20	Not Applicable	Not Applicable
+	"Woodbury County, IA"	"19193"	"75-84 years"	"75-84"	"Apr., 2020 "	"2020/04"	23	Not Applicable	Not Applicable
+	"Woodbury County, IA"	"19193"	"75-84 years"	"75-84"	"May, 2020 "	"2020/05"	26	Not Applicable	Not Applicable
+	"Woodbury County, IA"	"19193"	"75-84 years"	"75-84"	"Jun., 2020 "	"2020/06"	23	Not Applicable	Not Applicable
+	"Woodbury County, IA"	"19193"	"75-84 years"	"75-84"	"Jul., 2020 "	"2020/07"	22	Not Applicable	Not Applicable
+	"Woodbury County, IA"	"19193"	"75-84 years"	"75-84"	"Aug., 2020 "	"2020/08"	25	Not Applicable	Not Applicable
+	"Woodbury County, IA"	"19193"	"75-84 years"	"75-84"	"Sep., 2020 "	"2020/09"	16	Not Applicable	Not Applicable
+	"Woodbury County, IA"	"19193"	"75-84 years"	"75-84"	"Oct., 2020 "	"2020/10"	29	Not Applicable	Not Applicable
+	"Woodbury County, IA"	"19193"	"75-84 years"	"75-84"	"Nov., 2020 "	"2020/11"	34	Not Applicable	Not Applicable
+	"Woodbury County, IA"	"19193"	"75-84 years"	"75-84"	"Dec., 2020 "	"2020/12"	33	Not Applicable	Not Applicable
+	"Woodbury County, IA"	"19193"	"85+ years"	"85+"	"Jan., 2019"	"2019/01"	37	Not Applicable	Not Applicable
+	"Woodbury County, IA"	"19193"	"85+ years"	"85+"	"Feb., 2019"	"2019/02"	23	Not Applicable	Not Applicable
+	"Woodbury County, IA"	"19193"	"85+ years"	"85+"	"Mar., 2019"	"2019/03"	30	Not Applicable	Not Applicable
+	"Woodbury County, IA"	"19193"	"85+ years"	"85+"	"Apr., 2019"	"2019/04"	26	Not Applicable	Not Applicable
+	"Woodbury County, IA"	"19193"	"85+ years"	"85+"	"May, 2019"	"2019/05"	28	Not Applicable	Not Applicable
+	"Woodbury County, IA"	"19193"	"85+ years"	"85+"	"Jun., 2019"	"2019/06"	23	Not Applicable	Not Applicable
+	"Woodbury County, IA"	"19193"	"85+ years"	"85+"	"Jul., 2019"	"2019/07"	28	Not Applicable	Not Applicable
+	"Woodbury County, IA"	"19193"	"85+ years"	"85+"	"Aug., 2019"	"2019/08"	28	Not Applicable	Not Applicable
+	"Woodbury County, IA"	"19193"	"85+ years"	"85+"	"Sep., 2019"	"2019/09"	27	Not Applicable	Not Applicable
+	"Woodbury County, IA"	"19193"	"85+ years"	"85+"	"Oct., 2019"	"2019/10"	29	Not Applicable	Not Applicable
+	"Woodbury County, IA"	"19193"	"85+ years"	"85+"	"Nov., 2019"	"2019/11"	22	Not Applicable	Not Applicable
+	"Woodbury County, IA"	"19193"	"85+ years"	"85+"	"Dec., 2019"	"2019/12"	30	Not Applicable	Not Applicable
+	"Woodbury County, IA"	"19193"	"85+ years"	"85+"	"Jan., 2020 "	"2020/01"	22	Not Applicable	Not Applicable
+	"Woodbury County, IA"	"19193"	"85+ years"	"85+"	"Feb., 2020 "	"2020/02"	17	Not Applicable	Not Applicable
+	"Woodbury County, IA"	"19193"	"85+ years"	"85+"	"Mar., 2020 "	"2020/03"	27	Not Applicable	Not Applicable
+	"Woodbury County, IA"	"19193"	"85+ years"	"85+"	"Apr., 2020 "	"2020/04"	30	Not Applicable	Not Applicable
+	"Woodbury County, IA"	"19193"	"85+ years"	"85+"	"May, 2020 "	"2020/05"	29	Not Applicable	Not Applicable
+	"Woodbury County, IA"	"19193"	"85+ years"	"85+"	"Jun., 2020 "	"2020/06"	17	Not Applicable	Not Applicable
+	"Woodbury County, IA"	"19193"	"85+ years"	"85+"	"Jul., 2020 "	"2020/07"	16	Not Applicable	Not Applicable
+	"Woodbury County, IA"	"19193"	"85+ years"	"85+"	"Aug., 2020 "	"2020/08"	29	Not Applicable	Not Applicable
+	"Woodbury County, IA"	"19193"	"85+ years"	"85+"	"Sep., 2020 "	"2020/09"	31	Not Applicable	Not Applicable
+	"Woodbury County, IA"	"19193"	"85+ years"	"85+"	"Oct., 2020 "	"2020/10"	43	Not Applicable	Not Applicable
+	"Woodbury County, IA"	"19193"	"85+ years"	"85+"	"Nov., 2020 "	"2020/11"	44	Not Applicable	Not Applicable
+	"Woodbury County, IA"	"19193"	"85+ years"	"85+"	"Dec., 2020 "	"2020/12"	37	Not Applicable	Not Applicable
+	"Wright County, IA"	"19197"	"75-84 years"	"75-84"	"Dec., 2020 "	"2020/12"	11	Not Applicable	Not Applicable
+	"Wright County, IA"	"19197"	"85+ years"	"85+"	"Aug., 2019"	"2019/08"	14	Not Applicable	Not Applicable
+	"Wright County, IA"	"19197"	"85+ years"	"85+"	"Nov., 2019"	"2019/11"	14	Not Applicable	Not Applicable
+	"Wright County, IA"	"19197"	"85+ years"	"85+"	"May, 2020 "	"2020/05"	10	Not Applicable	Not Applicable
+	"Wright County, IA"	"19197"	"85+ years"	"85+"	"Dec., 2020 "	"2020/12"	12	Not Applicable	Not Applicable
+"---"
+"Dataset: Underlying Cause of Death, 1999-2020"
+"Query Parameters:"
+"Title: Iowa_2019-2020"
+"States: Iowa (19)"
+"Ten-Year Age Groups: 55-64 years; 65-74 years; 75-84 years; 85+ years"
+"Year/Month: 2019; 2020"
+"Group By: County; Ten-Year Age Groups; Month"
+"Show Totals: Disabled"
+"Show Zero Values: True"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/ucd.html for more information."
+"---"
+"Query Date: Oct 22, 2022 1:50:12 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Mortality 1999-2020 on CDC WONDER Online Database, released in 2021. Data are from the Multiple Cause of Death Files,"
+"1999-2020, as compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative"
+"Program. Accessed at http://wonder.cdc.gov/ucd-icd10.html on Oct 22, 2022 1:50:12 PM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"2. Rows with suppressed Deaths are hidden. Use Quick Options above to show suppressed rows."
+"---"
+Caveats:
+"1. Population and rates are labeled 'Not Applicable' when Autopsy, Place of Death, Weekday or Month are grouped by or limited,"
+"due to lack of a valid population. More information: http://wonder.cdc.gov/wonder/help/ucd.html#NotApplicableRates."
+"2. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Assurance of Confidentiality."
+"3. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Unreliable."
+"4. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,"
+"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Not Stated."

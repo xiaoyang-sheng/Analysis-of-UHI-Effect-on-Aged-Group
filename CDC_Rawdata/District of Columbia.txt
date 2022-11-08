@@ -1,0 +1,566 @@
+"Notes"	"County"	"County Code"	"Ten-Year Age Groups"	"Ten-Year Age Groups Code"	"Month"	"Month Code"	Deaths	Population	Crude Rate
+	"District of Columbia, DC"	"11001"	"55-64 years"	"55-64"	"Jan., 2010"	"2010/01"	59	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"55-64 years"	"55-64"	"Feb., 2010"	"2010/02"	74	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"55-64 years"	"55-64"	"Mar., 2010"	"2010/03"	57	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"55-64 years"	"55-64"	"Apr., 2010"	"2010/04"	58	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"55-64 years"	"55-64"	"May, 2010"	"2010/05"	70	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"55-64 years"	"55-64"	"Jun., 2010"	"2010/06"	62	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"55-64 years"	"55-64"	"Jul., 2010"	"2010/07"	54	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"55-64 years"	"55-64"	"Aug., 2010"	"2010/08"	43	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"55-64 years"	"55-64"	"Sep., 2010"	"2010/09"	66	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"55-64 years"	"55-64"	"Oct., 2010"	"2010/10"	63	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"55-64 years"	"55-64"	"Nov., 2010"	"2010/11"	76	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"55-64 years"	"55-64"	"Dec., 2010"	"2010/12"	66	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"55-64 years"	"55-64"	"Jan., 2011"	"2011/01"	59	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"55-64 years"	"55-64"	"Feb., 2011"	"2011/02"	73	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"55-64 years"	"55-64"	"Mar., 2011"	"2011/03"	76	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"55-64 years"	"55-64"	"Apr., 2011"	"2011/04"	61	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"55-64 years"	"55-64"	"May, 2011"	"2011/05"	68	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"55-64 years"	"55-64"	"Jun., 2011"	"2011/06"	58	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"55-64 years"	"55-64"	"Jul., 2011"	"2011/07"	72	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"55-64 years"	"55-64"	"Aug., 2011"	"2011/08"	66	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"55-64 years"	"55-64"	"Sep., 2011"	"2011/09"	59	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"55-64 years"	"55-64"	"Oct., 2011"	"2011/10"	62	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"55-64 years"	"55-64"	"Nov., 2011"	"2011/11"	74	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"55-64 years"	"55-64"	"Dec., 2011"	"2011/12"	58	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"55-64 years"	"55-64"	"Jan., 2012"	"2012/01"	70	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"55-64 years"	"55-64"	"Feb., 2012"	"2012/02"	56	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"55-64 years"	"55-64"	"Mar., 2012"	"2012/03"	62	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"55-64 years"	"55-64"	"Apr., 2012"	"2012/04"	52	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"55-64 years"	"55-64"	"May, 2012"	"2012/05"	77	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"55-64 years"	"55-64"	"Jun., 2012"	"2012/06"	50	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"55-64 years"	"55-64"	"Jul., 2012"	"2012/07"	69	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"55-64 years"	"55-64"	"Aug., 2012"	"2012/08"	59	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"55-64 years"	"55-64"	"Sep., 2012"	"2012/09"	57	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"55-64 years"	"55-64"	"Oct., 2012"	"2012/10"	72	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"55-64 years"	"55-64"	"Nov., 2012"	"2012/11"	55	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"55-64 years"	"55-64"	"Dec., 2012"	"2012/12"	74	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"55-64 years"	"55-64"	"Jan., 2013"	"2013/01"	78	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"55-64 years"	"55-64"	"Feb., 2013"	"2013/02"	64	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"55-64 years"	"55-64"	"Mar., 2013"	"2013/03"	65	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"55-64 years"	"55-64"	"Apr., 2013"	"2013/04"	75	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"55-64 years"	"55-64"	"May, 2013"	"2013/05"	71	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"55-64 years"	"55-64"	"Jun., 2013"	"2013/06"	71	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"55-64 years"	"55-64"	"Jul., 2013"	"2013/07"	57	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"55-64 years"	"55-64"	"Aug., 2013"	"2013/08"	70	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"55-64 years"	"55-64"	"Sep., 2013"	"2013/09"	63	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"55-64 years"	"55-64"	"Oct., 2013"	"2013/10"	69	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"55-64 years"	"55-64"	"Nov., 2013"	"2013/11"	50	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"55-64 years"	"55-64"	"Dec., 2013"	"2013/12"	70	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"55-64 years"	"55-64"	"Jan., 2014"	"2014/01"	59	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"55-64 years"	"55-64"	"Feb., 2014"	"2014/02"	53	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"55-64 years"	"55-64"	"Mar., 2014"	"2014/03"	68	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"55-64 years"	"55-64"	"Apr., 2014"	"2014/04"	70	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"55-64 years"	"55-64"	"May, 2014"	"2014/05"	67	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"55-64 years"	"55-64"	"Jun., 2014"	"2014/06"	69	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"55-64 years"	"55-64"	"Jul., 2014"	"2014/07"	80	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"55-64 years"	"55-64"	"Aug., 2014"	"2014/08"	75	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"55-64 years"	"55-64"	"Sep., 2014"	"2014/09"	80	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"55-64 years"	"55-64"	"Oct., 2014"	"2014/10"	67	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"55-64 years"	"55-64"	"Nov., 2014"	"2014/11"	73	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"55-64 years"	"55-64"	"Dec., 2014"	"2014/12"	83	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"55-64 years"	"55-64"	"Jan., 2015"	"2015/01"	93	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"55-64 years"	"55-64"	"Feb., 2015"	"2015/02"	85	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"55-64 years"	"55-64"	"Mar., 2015"	"2015/03"	90	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"55-64 years"	"55-64"	"Apr., 2015"	"2015/04"	66	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"55-64 years"	"55-64"	"May, 2015"	"2015/05"	64	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"55-64 years"	"55-64"	"Jun., 2015"	"2015/06"	77	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"55-64 years"	"55-64"	"Jul., 2015"	"2015/07"	71	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"55-64 years"	"55-64"	"Aug., 2015"	"2015/08"	72	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"55-64 years"	"55-64"	"Sep., 2015"	"2015/09"	68	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"55-64 years"	"55-64"	"Oct., 2015"	"2015/10"	83	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"55-64 years"	"55-64"	"Nov., 2015"	"2015/11"	71	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"55-64 years"	"55-64"	"Dec., 2015"	"2015/12"	67	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"55-64 years"	"55-64"	"Jan., 2016"	"2016/01"	65	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"55-64 years"	"55-64"	"Feb., 2016"	"2016/02"	71	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"55-64 years"	"55-64"	"Mar., 2016"	"2016/03"	80	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"55-64 years"	"55-64"	"Apr., 2016"	"2016/04"	78	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"55-64 years"	"55-64"	"May, 2016"	"2016/05"	74	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"55-64 years"	"55-64"	"Jun., 2016"	"2016/06"	61	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"55-64 years"	"55-64"	"Jul., 2016"	"2016/07"	72	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"55-64 years"	"55-64"	"Aug., 2016"	"2016/08"	77	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"55-64 years"	"55-64"	"Sep., 2016"	"2016/09"	83	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"55-64 years"	"55-64"	"Oct., 2016"	"2016/10"	82	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"55-64 years"	"55-64"	"Nov., 2016"	"2016/11"	80	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"55-64 years"	"55-64"	"Dec., 2016"	"2016/12"	83	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"55-64 years"	"55-64"	"Jan., 2017"	"2017/01"	82	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"55-64 years"	"55-64"	"Feb., 2017"	"2017/02"	72	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"55-64 years"	"55-64"	"Mar., 2017"	"2017/03"	74	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"55-64 years"	"55-64"	"Apr., 2017"	"2017/04"	74	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"55-64 years"	"55-64"	"May, 2017"	"2017/05"	78	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"55-64 years"	"55-64"	"Jun., 2017"	"2017/06"	76	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"55-64 years"	"55-64"	"Jul., 2017"	"2017/07"	56	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"55-64 years"	"55-64"	"Aug., 2017"	"2017/08"	66	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"55-64 years"	"55-64"	"Sep., 2017"	"2017/09"	74	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"55-64 years"	"55-64"	"Oct., 2017"	"2017/10"	78	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"55-64 years"	"55-64"	"Nov., 2017"	"2017/11"	60	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"55-64 years"	"55-64"	"Dec., 2017"	"2017/12"	81	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"55-64 years"	"55-64"	"Jan., 2018"	"2018/01"	88	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"55-64 years"	"55-64"	"Feb., 2018"	"2018/02"	73	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"55-64 years"	"55-64"	"Mar., 2018"	"2018/03"	74	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"55-64 years"	"55-64"	"Apr., 2018"	"2018/04"	90	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"55-64 years"	"55-64"	"May, 2018"	"2018/05"	67	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"55-64 years"	"55-64"	"Jun., 2018"	"2018/06"	91	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"55-64 years"	"55-64"	"Jul., 2018"	"2018/07"	73	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"55-64 years"	"55-64"	"Aug., 2018"	"2018/08"	69	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"55-64 years"	"55-64"	"Sep., 2018"	"2018/09"	63	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"55-64 years"	"55-64"	"Oct., 2018"	"2018/10"	71	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"55-64 years"	"55-64"	"Nov., 2018"	"2018/11"	66	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"55-64 years"	"55-64"	"Dec., 2018"	"2018/12"	75	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"55-64 years"	"55-64"	"Jan., 2019"	"2019/01"	77	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"55-64 years"	"55-64"	"Feb., 2019"	"2019/02"	80	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"55-64 years"	"55-64"	"Mar., 2019"	"2019/03"	61	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"55-64 years"	"55-64"	"Apr., 2019"	"2019/04"	69	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"55-64 years"	"55-64"	"May, 2019"	"2019/05"	71	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"55-64 years"	"55-64"	"Jun., 2019"	"2019/06"	51	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"55-64 years"	"55-64"	"Jul., 2019"	"2019/07"	70	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"55-64 years"	"55-64"	"Aug., 2019"	"2019/08"	86	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"55-64 years"	"55-64"	"Sep., 2019"	"2019/09"	74	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"55-64 years"	"55-64"	"Oct., 2019"	"2019/10"	70	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"55-64 years"	"55-64"	"Nov., 2019"	"2019/11"	68	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"55-64 years"	"55-64"	"Dec., 2019"	"2019/12"	85	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"55-64 years"	"55-64"	"Jan., 2020 "	"2020/01"	76	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"55-64 years"	"55-64"	"Feb., 2020 "	"2020/02"	84	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"55-64 years"	"55-64"	"Mar., 2020 "	"2020/03"	74	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"55-64 years"	"55-64"	"Apr., 2020 "	"2020/04"	141	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"55-64 years"	"55-64"	"May, 2020 "	"2020/05"	118	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"55-64 years"	"55-64"	"Jun., 2020 "	"2020/06"	91	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"55-64 years"	"55-64"	"Jul., 2020 "	"2020/07"	87	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"55-64 years"	"55-64"	"Aug., 2020 "	"2020/08"	88	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"55-64 years"	"55-64"	"Sep., 2020 "	"2020/09"	74	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"55-64 years"	"55-64"	"Oct., 2020 "	"2020/10"	81	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"55-64 years"	"55-64"	"Nov., 2020 "	"2020/11"	93	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"55-64 years"	"55-64"	"Dec., 2020 "	"2020/12"	100	Not Applicable	Not Applicable
+"Total"	"District of Columbia, DC"	"11001"	"55-64 years"	"55-64"			9487	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"65-74 years"	"65-74"	"Jan., 2010"	"2010/01"	70	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"65-74 years"	"65-74"	"Feb., 2010"	"2010/02"	67	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"65-74 years"	"65-74"	"Mar., 2010"	"2010/03"	61	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"65-74 years"	"65-74"	"Apr., 2010"	"2010/04"	66	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"65-74 years"	"65-74"	"May, 2010"	"2010/05"	62	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"65-74 years"	"65-74"	"Jun., 2010"	"2010/06"	52	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"65-74 years"	"65-74"	"Jul., 2010"	"2010/07"	67	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"65-74 years"	"65-74"	"Aug., 2010"	"2010/08"	59	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"65-74 years"	"65-74"	"Sep., 2010"	"2010/09"	66	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"65-74 years"	"65-74"	"Oct., 2010"	"2010/10"	72	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"65-74 years"	"65-74"	"Nov., 2010"	"2010/11"	73	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"65-74 years"	"65-74"	"Dec., 2010"	"2010/12"	56	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"65-74 years"	"65-74"	"Jan., 2011"	"2011/01"	74	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"65-74 years"	"65-74"	"Feb., 2011"	"2011/02"	57	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"65-74 years"	"65-74"	"Mar., 2011"	"2011/03"	64	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"65-74 years"	"65-74"	"Apr., 2011"	"2011/04"	52	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"65-74 years"	"65-74"	"May, 2011"	"2011/05"	57	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"65-74 years"	"65-74"	"Jun., 2011"	"2011/06"	55	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"65-74 years"	"65-74"	"Jul., 2011"	"2011/07"	60	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"65-74 years"	"65-74"	"Aug., 2011"	"2011/08"	57	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"65-74 years"	"65-74"	"Sep., 2011"	"2011/09"	54	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"65-74 years"	"65-74"	"Oct., 2011"	"2011/10"	72	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"65-74 years"	"65-74"	"Nov., 2011"	"2011/11"	52	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"65-74 years"	"65-74"	"Dec., 2011"	"2011/12"	64	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"65-74 years"	"65-74"	"Jan., 2012"	"2012/01"	74	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"65-74 years"	"65-74"	"Feb., 2012"	"2012/02"	46	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"65-74 years"	"65-74"	"Mar., 2012"	"2012/03"	63	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"65-74 years"	"65-74"	"Apr., 2012"	"2012/04"	68	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"65-74 years"	"65-74"	"May, 2012"	"2012/05"	65	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"65-74 years"	"65-74"	"Jun., 2012"	"2012/06"	55	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"65-74 years"	"65-74"	"Jul., 2012"	"2012/07"	69	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"65-74 years"	"65-74"	"Aug., 2012"	"2012/08"	68	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"65-74 years"	"65-74"	"Sep., 2012"	"2012/09"	73	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"65-74 years"	"65-74"	"Oct., 2012"	"2012/10"	62	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"65-74 years"	"65-74"	"Nov., 2012"	"2012/11"	65	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"65-74 years"	"65-74"	"Dec., 2012"	"2012/12"	71	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"65-74 years"	"65-74"	"Jan., 2013"	"2013/01"	91	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"65-74 years"	"65-74"	"Feb., 2013"	"2013/02"	57	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"65-74 years"	"65-74"	"Mar., 2013"	"2013/03"	82	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"65-74 years"	"65-74"	"Apr., 2013"	"2013/04"	61	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"65-74 years"	"65-74"	"May, 2013"	"2013/05"	72	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"65-74 years"	"65-74"	"Jun., 2013"	"2013/06"	56	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"65-74 years"	"65-74"	"Jul., 2013"	"2013/07"	73	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"65-74 years"	"65-74"	"Aug., 2013"	"2013/08"	64	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"65-74 years"	"65-74"	"Sep., 2013"	"2013/09"	62	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"65-74 years"	"65-74"	"Oct., 2013"	"2013/10"	65	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"65-74 years"	"65-74"	"Nov., 2013"	"2013/11"	78	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"65-74 years"	"65-74"	"Dec., 2013"	"2013/12"	81	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"65-74 years"	"65-74"	"Jan., 2014"	"2014/01"	97	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"65-74 years"	"65-74"	"Feb., 2014"	"2014/02"	78	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"65-74 years"	"65-74"	"Mar., 2014"	"2014/03"	59	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"65-74 years"	"65-74"	"Apr., 2014"	"2014/04"	73	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"65-74 years"	"65-74"	"May, 2014"	"2014/05"	58	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"65-74 years"	"65-74"	"Jun., 2014"	"2014/06"	75	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"65-74 years"	"65-74"	"Jul., 2014"	"2014/07"	67	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"65-74 years"	"65-74"	"Aug., 2014"	"2014/08"	65	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"65-74 years"	"65-74"	"Sep., 2014"	"2014/09"	70	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"65-74 years"	"65-74"	"Oct., 2014"	"2014/10"	71	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"65-74 years"	"65-74"	"Nov., 2014"	"2014/11"	70	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"65-74 years"	"65-74"	"Dec., 2014"	"2014/12"	62	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"65-74 years"	"65-74"	"Jan., 2015"	"2015/01"	75	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"65-74 years"	"65-74"	"Feb., 2015"	"2015/02"	65	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"65-74 years"	"65-74"	"Mar., 2015"	"2015/03"	78	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"65-74 years"	"65-74"	"Apr., 2015"	"2015/04"	71	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"65-74 years"	"65-74"	"May, 2015"	"2015/05"	67	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"65-74 years"	"65-74"	"Jun., 2015"	"2015/06"	60	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"65-74 years"	"65-74"	"Jul., 2015"	"2015/07"	83	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"65-74 years"	"65-74"	"Aug., 2015"	"2015/08"	91	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"65-74 years"	"65-74"	"Sep., 2015"	"2015/09"	69	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"65-74 years"	"65-74"	"Oct., 2015"	"2015/10"	78	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"65-74 years"	"65-74"	"Nov., 2015"	"2015/11"	79	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"65-74 years"	"65-74"	"Dec., 2015"	"2015/12"	76	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"65-74 years"	"65-74"	"Jan., 2016"	"2016/01"	85	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"65-74 years"	"65-74"	"Feb., 2016"	"2016/02"	79	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"65-74 years"	"65-74"	"Mar., 2016"	"2016/03"	94	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"65-74 years"	"65-74"	"Apr., 2016"	"2016/04"	83	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"65-74 years"	"65-74"	"May, 2016"	"2016/05"	67	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"65-74 years"	"65-74"	"Jun., 2016"	"2016/06"	89	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"65-74 years"	"65-74"	"Jul., 2016"	"2016/07"	78	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"65-74 years"	"65-74"	"Aug., 2016"	"2016/08"	81	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"65-74 years"	"65-74"	"Sep., 2016"	"2016/09"	67	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"65-74 years"	"65-74"	"Oct., 2016"	"2016/10"	82	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"65-74 years"	"65-74"	"Nov., 2016"	"2016/11"	80	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"65-74 years"	"65-74"	"Dec., 2016"	"2016/12"	103	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"65-74 years"	"65-74"	"Jan., 2017"	"2017/01"	84	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"65-74 years"	"65-74"	"Feb., 2017"	"2017/02"	73	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"65-74 years"	"65-74"	"Mar., 2017"	"2017/03"	104	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"65-74 years"	"65-74"	"Apr., 2017"	"2017/04"	90	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"65-74 years"	"65-74"	"May, 2017"	"2017/05"	86	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"65-74 years"	"65-74"	"Jun., 2017"	"2017/06"	75	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"65-74 years"	"65-74"	"Jul., 2017"	"2017/07"	70	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"65-74 years"	"65-74"	"Aug., 2017"	"2017/08"	80	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"65-74 years"	"65-74"	"Sep., 2017"	"2017/09"	74	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"65-74 years"	"65-74"	"Oct., 2017"	"2017/10"	79	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"65-74 years"	"65-74"	"Nov., 2017"	"2017/11"	72	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"65-74 years"	"65-74"	"Dec., 2017"	"2017/12"	84	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"65-74 years"	"65-74"	"Jan., 2018"	"2018/01"	97	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"65-74 years"	"65-74"	"Feb., 2018"	"2018/02"	73	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"65-74 years"	"65-74"	"Mar., 2018"	"2018/03"	70	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"65-74 years"	"65-74"	"Apr., 2018"	"2018/04"	68	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"65-74 years"	"65-74"	"May, 2018"	"2018/05"	84	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"65-74 years"	"65-74"	"Jun., 2018"	"2018/06"	78	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"65-74 years"	"65-74"	"Jul., 2018"	"2018/07"	77	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"65-74 years"	"65-74"	"Aug., 2018"	"2018/08"	85	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"65-74 years"	"65-74"	"Sep., 2018"	"2018/09"	79	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"65-74 years"	"65-74"	"Oct., 2018"	"2018/10"	93	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"65-74 years"	"65-74"	"Nov., 2018"	"2018/11"	79	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"65-74 years"	"65-74"	"Dec., 2018"	"2018/12"	78	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"65-74 years"	"65-74"	"Jan., 2019"	"2019/01"	86	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"65-74 years"	"65-74"	"Feb., 2019"	"2019/02"	80	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"65-74 years"	"65-74"	"Mar., 2019"	"2019/03"	70	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"65-74 years"	"65-74"	"Apr., 2019"	"2019/04"	72	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"65-74 years"	"65-74"	"May, 2019"	"2019/05"	74	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"65-74 years"	"65-74"	"Jun., 2019"	"2019/06"	59	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"65-74 years"	"65-74"	"Jul., 2019"	"2019/07"	86	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"65-74 years"	"65-74"	"Aug., 2019"	"2019/08"	78	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"65-74 years"	"65-74"	"Sep., 2019"	"2019/09"	88	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"65-74 years"	"65-74"	"Oct., 2019"	"2019/10"	94	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"65-74 years"	"65-74"	"Nov., 2019"	"2019/11"	92	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"65-74 years"	"65-74"	"Dec., 2019"	"2019/12"	91	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"65-74 years"	"65-74"	"Jan., 2020 "	"2020/01"	101	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"65-74 years"	"65-74"	"Feb., 2020 "	"2020/02"	91	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"65-74 years"	"65-74"	"Mar., 2020 "	"2020/03"	82	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"65-74 years"	"65-74"	"Apr., 2020 "	"2020/04"	182	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"65-74 years"	"65-74"	"May, 2020 "	"2020/05"	177	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"65-74 years"	"65-74"	"Jun., 2020 "	"2020/06"	105	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"65-74 years"	"65-74"	"Jul., 2020 "	"2020/07"	96	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"65-74 years"	"65-74"	"Aug., 2020 "	"2020/08"	85	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"65-74 years"	"65-74"	"Sep., 2020 "	"2020/09"	89	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"65-74 years"	"65-74"	"Oct., 2020 "	"2020/10"	96	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"65-74 years"	"65-74"	"Nov., 2020 "	"2020/11"	113	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"65-74 years"	"65-74"	"Dec., 2020 "	"2020/12"	120	Not Applicable	Not Applicable
+"Total"	"District of Columbia, DC"	"11001"	"65-74 years"	"65-74"			10074	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"75-84 years"	"75-84"	"Jan., 2010"	"2010/01"	83	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"75-84 years"	"75-84"	"Feb., 2010"	"2010/02"	79	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"75-84 years"	"75-84"	"Mar., 2010"	"2010/03"	92	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"75-84 years"	"75-84"	"Apr., 2010"	"2010/04"	95	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"75-84 years"	"75-84"	"May, 2010"	"2010/05"	82	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"75-84 years"	"75-84"	"Jun., 2010"	"2010/06"	81	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"75-84 years"	"75-84"	"Jul., 2010"	"2010/07"	75	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"75-84 years"	"75-84"	"Aug., 2010"	"2010/08"	85	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"75-84 years"	"75-84"	"Sep., 2010"	"2010/09"	66	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"75-84 years"	"75-84"	"Oct., 2010"	"2010/10"	75	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"75-84 years"	"75-84"	"Nov., 2010"	"2010/11"	89	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"75-84 years"	"75-84"	"Dec., 2010"	"2010/12"	91	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"75-84 years"	"75-84"	"Jan., 2011"	"2011/01"	88	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"75-84 years"	"75-84"	"Feb., 2011"	"2011/02"	86	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"75-84 years"	"75-84"	"Mar., 2011"	"2011/03"	93	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"75-84 years"	"75-84"	"Apr., 2011"	"2011/04"	81	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"75-84 years"	"75-84"	"May, 2011"	"2011/05"	74	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"75-84 years"	"75-84"	"Jun., 2011"	"2011/06"	64	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"75-84 years"	"75-84"	"Jul., 2011"	"2011/07"	71	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"75-84 years"	"75-84"	"Aug., 2011"	"2011/08"	86	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"75-84 years"	"75-84"	"Sep., 2011"	"2011/09"	77	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"75-84 years"	"75-84"	"Oct., 2011"	"2011/10"	83	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"75-84 years"	"75-84"	"Nov., 2011"	"2011/11"	75	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"75-84 years"	"75-84"	"Dec., 2011"	"2011/12"	82	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"75-84 years"	"75-84"	"Jan., 2012"	"2012/01"	96	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"75-84 years"	"75-84"	"Feb., 2012"	"2012/02"	61	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"75-84 years"	"75-84"	"Mar., 2012"	"2012/03"	83	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"75-84 years"	"75-84"	"Apr., 2012"	"2012/04"	92	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"75-84 years"	"75-84"	"May, 2012"	"2012/05"	68	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"75-84 years"	"75-84"	"Jun., 2012"	"2012/06"	73	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"75-84 years"	"75-84"	"Jul., 2012"	"2012/07"	70	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"75-84 years"	"75-84"	"Aug., 2012"	"2012/08"	76	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"75-84 years"	"75-84"	"Sep., 2012"	"2012/09"	90	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"75-84 years"	"75-84"	"Oct., 2012"	"2012/10"	90	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"75-84 years"	"75-84"	"Nov., 2012"	"2012/11"	78	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"75-84 years"	"75-84"	"Dec., 2012"	"2012/12"	90	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"75-84 years"	"75-84"	"Jan., 2013"	"2013/01"	90	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"75-84 years"	"75-84"	"Feb., 2013"	"2013/02"	79	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"75-84 years"	"75-84"	"Mar., 2013"	"2013/03"	78	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"75-84 years"	"75-84"	"Apr., 2013"	"2013/04"	83	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"75-84 years"	"75-84"	"May, 2013"	"2013/05"	71	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"75-84 years"	"75-84"	"Jun., 2013"	"2013/06"	80	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"75-84 years"	"75-84"	"Jul., 2013"	"2013/07"	52	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"75-84 years"	"75-84"	"Aug., 2013"	"2013/08"	67	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"75-84 years"	"75-84"	"Sep., 2013"	"2013/09"	79	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"75-84 years"	"75-84"	"Oct., 2013"	"2013/10"	74	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"75-84 years"	"75-84"	"Nov., 2013"	"2013/11"	80	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"75-84 years"	"75-84"	"Dec., 2013"	"2013/12"	99	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"75-84 years"	"75-84"	"Jan., 2014"	"2014/01"	85	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"75-84 years"	"75-84"	"Feb., 2014"	"2014/02"	65	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"75-84 years"	"75-84"	"Mar., 2014"	"2014/03"	76	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"75-84 years"	"75-84"	"Apr., 2014"	"2014/04"	70	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"75-84 years"	"75-84"	"May, 2014"	"2014/05"	71	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"75-84 years"	"75-84"	"Jun., 2014"	"2014/06"	87	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"75-84 years"	"75-84"	"Jul., 2014"	"2014/07"	59	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"75-84 years"	"75-84"	"Aug., 2014"	"2014/08"	71	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"75-84 years"	"75-84"	"Sep., 2014"	"2014/09"	72	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"75-84 years"	"75-84"	"Oct., 2014"	"2014/10"	77	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"75-84 years"	"75-84"	"Nov., 2014"	"2014/11"	76	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"75-84 years"	"75-84"	"Dec., 2014"	"2014/12"	82	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"75-84 years"	"75-84"	"Jan., 2015"	"2015/01"	115	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"75-84 years"	"75-84"	"Feb., 2015"	"2015/02"	79	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"75-84 years"	"75-84"	"Mar., 2015"	"2015/03"	68	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"75-84 years"	"75-84"	"Apr., 2015"	"2015/04"	78	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"75-84 years"	"75-84"	"May, 2015"	"2015/05"	67	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"75-84 years"	"75-84"	"Jun., 2015"	"2015/06"	73	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"75-84 years"	"75-84"	"Jul., 2015"	"2015/07"	74	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"75-84 years"	"75-84"	"Aug., 2015"	"2015/08"	73	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"75-84 years"	"75-84"	"Sep., 2015"	"2015/09"	73	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"75-84 years"	"75-84"	"Oct., 2015"	"2015/10"	74	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"75-84 years"	"75-84"	"Nov., 2015"	"2015/11"	71	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"75-84 years"	"75-84"	"Dec., 2015"	"2015/12"	73	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"75-84 years"	"75-84"	"Jan., 2016"	"2016/01"	115	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"75-84 years"	"75-84"	"Feb., 2016"	"2016/02"	86	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"75-84 years"	"75-84"	"Mar., 2016"	"2016/03"	81	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"75-84 years"	"75-84"	"Apr., 2016"	"2016/04"	81	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"75-84 years"	"75-84"	"May, 2016"	"2016/05"	62	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"75-84 years"	"75-84"	"Jun., 2016"	"2016/06"	71	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"75-84 years"	"75-84"	"Jul., 2016"	"2016/07"	70	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"75-84 years"	"75-84"	"Aug., 2016"	"2016/08"	68	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"75-84 years"	"75-84"	"Sep., 2016"	"2016/09"	79	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"75-84 years"	"75-84"	"Oct., 2016"	"2016/10"	69	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"75-84 years"	"75-84"	"Nov., 2016"	"2016/11"	75	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"75-84 years"	"75-84"	"Dec., 2016"	"2016/12"	67	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"75-84 years"	"75-84"	"Jan., 2017"	"2017/01"	92	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"75-84 years"	"75-84"	"Feb., 2017"	"2017/02"	76	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"75-84 years"	"75-84"	"Mar., 2017"	"2017/03"	81	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"75-84 years"	"75-84"	"Apr., 2017"	"2017/04"	80	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"75-84 years"	"75-84"	"May, 2017"	"2017/05"	65	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"75-84 years"	"75-84"	"Jun., 2017"	"2017/06"	76	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"75-84 years"	"75-84"	"Jul., 2017"	"2017/07"	82	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"75-84 years"	"75-84"	"Aug., 2017"	"2017/08"	78	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"75-84 years"	"75-84"	"Sep., 2017"	"2017/09"	63	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"75-84 years"	"75-84"	"Oct., 2017"	"2017/10"	73	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"75-84 years"	"75-84"	"Nov., 2017"	"2017/11"	82	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"75-84 years"	"75-84"	"Dec., 2017"	"2017/12"	91	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"75-84 years"	"75-84"	"Jan., 2018"	"2018/01"	90	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"75-84 years"	"75-84"	"Feb., 2018"	"2018/02"	71	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"75-84 years"	"75-84"	"Mar., 2018"	"2018/03"	92	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"75-84 years"	"75-84"	"Apr., 2018"	"2018/04"	73	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"75-84 years"	"75-84"	"May, 2018"	"2018/05"	71	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"75-84 years"	"75-84"	"Jun., 2018"	"2018/06"	61	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"75-84 years"	"75-84"	"Jul., 2018"	"2018/07"	71	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"75-84 years"	"75-84"	"Aug., 2018"	"2018/08"	69	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"75-84 years"	"75-84"	"Sep., 2018"	"2018/09"	63	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"75-84 years"	"75-84"	"Oct., 2018"	"2018/10"	82	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"75-84 years"	"75-84"	"Nov., 2018"	"2018/11"	81	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"75-84 years"	"75-84"	"Dec., 2018"	"2018/12"	89	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"75-84 years"	"75-84"	"Jan., 2019"	"2019/01"	97	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"75-84 years"	"75-84"	"Feb., 2019"	"2019/02"	68	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"75-84 years"	"75-84"	"Mar., 2019"	"2019/03"	82	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"75-84 years"	"75-84"	"Apr., 2019"	"2019/04"	83	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"75-84 years"	"75-84"	"May, 2019"	"2019/05"	76	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"75-84 years"	"75-84"	"Jun., 2019"	"2019/06"	77	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"75-84 years"	"75-84"	"Jul., 2019"	"2019/07"	83	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"75-84 years"	"75-84"	"Aug., 2019"	"2019/08"	81	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"75-84 years"	"75-84"	"Sep., 2019"	"2019/09"	79	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"75-84 years"	"75-84"	"Oct., 2019"	"2019/10"	85	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"75-84 years"	"75-84"	"Nov., 2019"	"2019/11"	66	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"75-84 years"	"75-84"	"Dec., 2019"	"2019/12"	80	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"75-84 years"	"75-84"	"Jan., 2020 "	"2020/01"	90	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"75-84 years"	"75-84"	"Feb., 2020 "	"2020/02"	92	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"75-84 years"	"75-84"	"Mar., 2020 "	"2020/03"	77	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"75-84 years"	"75-84"	"Apr., 2020 "	"2020/04"	153	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"75-84 years"	"75-84"	"May, 2020 "	"2020/05"	131	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"75-84 years"	"75-84"	"Jun., 2020 "	"2020/06"	93	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"75-84 years"	"75-84"	"Jul., 2020 "	"2020/07"	85	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"75-84 years"	"75-84"	"Aug., 2020 "	"2020/08"	72	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"75-84 years"	"75-84"	"Sep., 2020 "	"2020/09"	67	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"75-84 years"	"75-84"	"Oct., 2020 "	"2020/10"	95	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"75-84 years"	"75-84"	"Nov., 2020 "	"2020/11"	75	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"75-84 years"	"75-84"	"Dec., 2020 "	"2020/12"	140	Not Applicable	Not Applicable
+"Total"	"District of Columbia, DC"	"11001"	"75-84 years"	"75-84"			10564	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"85+ years"	"85+"	"Jan., 2010"	"2010/01"	100	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"85+ years"	"85+"	"Feb., 2010"	"2010/02"	94	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"85+ years"	"85+"	"Mar., 2010"	"2010/03"	95	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"85+ years"	"85+"	"Apr., 2010"	"2010/04"	90	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"85+ years"	"85+"	"May, 2010"	"2010/05"	114	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"85+ years"	"85+"	"Jun., 2010"	"2010/06"	93	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"85+ years"	"85+"	"Jul., 2010"	"2010/07"	100	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"85+ years"	"85+"	"Aug., 2010"	"2010/08"	95	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"85+ years"	"85+"	"Sep., 2010"	"2010/09"	99	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"85+ years"	"85+"	"Oct., 2010"	"2010/10"	106	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"85+ years"	"85+"	"Nov., 2010"	"2010/11"	116	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"85+ years"	"85+"	"Dec., 2010"	"2010/12"	107	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"85+ years"	"85+"	"Jan., 2011"	"2011/01"	132	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"85+ years"	"85+"	"Feb., 2011"	"2011/02"	96	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"85+ years"	"85+"	"Mar., 2011"	"2011/03"	120	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"85+ years"	"85+"	"Apr., 2011"	"2011/04"	102	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"85+ years"	"85+"	"May, 2011"	"2011/05"	97	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"85+ years"	"85+"	"Jun., 2011"	"2011/06"	98	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"85+ years"	"85+"	"Jul., 2011"	"2011/07"	93	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"85+ years"	"85+"	"Aug., 2011"	"2011/08"	96	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"85+ years"	"85+"	"Sep., 2011"	"2011/09"	99	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"85+ years"	"85+"	"Oct., 2011"	"2011/10"	105	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"85+ years"	"85+"	"Nov., 2011"	"2011/11"	95	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"85+ years"	"85+"	"Dec., 2011"	"2011/12"	102	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"85+ years"	"85+"	"Jan., 2012"	"2012/01"	110	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"85+ years"	"85+"	"Feb., 2012"	"2012/02"	110	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"85+ years"	"85+"	"Mar., 2012"	"2012/03"	106	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"85+ years"	"85+"	"Apr., 2012"	"2012/04"	102	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"85+ years"	"85+"	"May, 2012"	"2012/05"	110	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"85+ years"	"85+"	"Jun., 2012"	"2012/06"	106	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"85+ years"	"85+"	"Jul., 2012"	"2012/07"	112	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"85+ years"	"85+"	"Aug., 2012"	"2012/08"	116	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"85+ years"	"85+"	"Sep., 2012"	"2012/09"	100	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"85+ years"	"85+"	"Oct., 2012"	"2012/10"	101	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"85+ years"	"85+"	"Nov., 2012"	"2012/11"	109	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"85+ years"	"85+"	"Dec., 2012"	"2012/12"	119	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"85+ years"	"85+"	"Jan., 2013"	"2013/01"	147	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"85+ years"	"85+"	"Feb., 2013"	"2013/02"	128	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"85+ years"	"85+"	"Mar., 2013"	"2013/03"	118	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"85+ years"	"85+"	"Apr., 2013"	"2013/04"	125	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"85+ years"	"85+"	"May, 2013"	"2013/05"	110	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"85+ years"	"85+"	"Jun., 2013"	"2013/06"	88	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"85+ years"	"85+"	"Jul., 2013"	"2013/07"	100	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"85+ years"	"85+"	"Aug., 2013"	"2013/08"	96	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"85+ years"	"85+"	"Sep., 2013"	"2013/09"	94	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"85+ years"	"85+"	"Oct., 2013"	"2013/10"	106	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"85+ years"	"85+"	"Nov., 2013"	"2013/11"	111	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"85+ years"	"85+"	"Dec., 2013"	"2013/12"	127	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"85+ years"	"85+"	"Jan., 2014"	"2014/01"	99	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"85+ years"	"85+"	"Feb., 2014"	"2014/02"	106	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"85+ years"	"85+"	"Mar., 2014"	"2014/03"	102	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"85+ years"	"85+"	"Apr., 2014"	"2014/04"	112	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"85+ years"	"85+"	"May, 2014"	"2014/05"	119	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"85+ years"	"85+"	"Jun., 2014"	"2014/06"	105	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"85+ years"	"85+"	"Jul., 2014"	"2014/07"	96	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"85+ years"	"85+"	"Aug., 2014"	"2014/08"	97	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"85+ years"	"85+"	"Sep., 2014"	"2014/09"	90	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"85+ years"	"85+"	"Oct., 2014"	"2014/10"	124	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"85+ years"	"85+"	"Nov., 2014"	"2014/11"	105	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"85+ years"	"85+"	"Dec., 2014"	"2014/12"	142	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"85+ years"	"85+"	"Jan., 2015"	"2015/01"	161	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"85+ years"	"85+"	"Feb., 2015"	"2015/02"	115	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"85+ years"	"85+"	"Mar., 2015"	"2015/03"	135	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"85+ years"	"85+"	"Apr., 2015"	"2015/04"	116	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"85+ years"	"85+"	"May, 2015"	"2015/05"	83	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"85+ years"	"85+"	"Jun., 2015"	"2015/06"	96	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"85+ years"	"85+"	"Jul., 2015"	"2015/07"	85	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"85+ years"	"85+"	"Aug., 2015"	"2015/08"	100	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"85+ years"	"85+"	"Sep., 2015"	"2015/09"	87	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"85+ years"	"85+"	"Oct., 2015"	"2015/10"	102	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"85+ years"	"85+"	"Nov., 2015"	"2015/11"	103	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"85+ years"	"85+"	"Dec., 2015"	"2015/12"	110	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"85+ years"	"85+"	"Jan., 2016"	"2016/01"	120	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"85+ years"	"85+"	"Feb., 2016"	"2016/02"	94	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"85+ years"	"85+"	"Mar., 2016"	"2016/03"	97	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"85+ years"	"85+"	"Apr., 2016"	"2016/04"	111	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"85+ years"	"85+"	"May, 2016"	"2016/05"	95	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"85+ years"	"85+"	"Jun., 2016"	"2016/06"	112	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"85+ years"	"85+"	"Jul., 2016"	"2016/07"	103	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"85+ years"	"85+"	"Aug., 2016"	"2016/08"	104	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"85+ years"	"85+"	"Sep., 2016"	"2016/09"	94	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"85+ years"	"85+"	"Oct., 2016"	"2016/10"	112	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"85+ years"	"85+"	"Nov., 2016"	"2016/11"	113	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"85+ years"	"85+"	"Dec., 2016"	"2016/12"	119	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"85+ years"	"85+"	"Jan., 2017"	"2017/01"	118	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"85+ years"	"85+"	"Feb., 2017"	"2017/02"	111	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"85+ years"	"85+"	"Mar., 2017"	"2017/03"	120	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"85+ years"	"85+"	"Apr., 2017"	"2017/04"	113	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"85+ years"	"85+"	"May, 2017"	"2017/05"	102	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"85+ years"	"85+"	"Jun., 2017"	"2017/06"	92	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"85+ years"	"85+"	"Jul., 2017"	"2017/07"	82	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"85+ years"	"85+"	"Aug., 2017"	"2017/08"	103	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"85+ years"	"85+"	"Sep., 2017"	"2017/09"	94	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"85+ years"	"85+"	"Oct., 2017"	"2017/10"	102	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"85+ years"	"85+"	"Nov., 2017"	"2017/11"	102	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"85+ years"	"85+"	"Dec., 2017"	"2017/12"	108	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"85+ years"	"85+"	"Jan., 2018"	"2018/01"	146	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"85+ years"	"85+"	"Feb., 2018"	"2018/02"	102	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"85+ years"	"85+"	"Mar., 2018"	"2018/03"	118	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"85+ years"	"85+"	"Apr., 2018"	"2018/04"	117	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"85+ years"	"85+"	"May, 2018"	"2018/05"	96	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"85+ years"	"85+"	"Jun., 2018"	"2018/06"	98	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"85+ years"	"85+"	"Jul., 2018"	"2018/07"	116	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"85+ years"	"85+"	"Aug., 2018"	"2018/08"	101	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"85+ years"	"85+"	"Sep., 2018"	"2018/09"	113	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"85+ years"	"85+"	"Oct., 2018"	"2018/10"	114	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"85+ years"	"85+"	"Nov., 2018"	"2018/11"	102	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"85+ years"	"85+"	"Dec., 2018"	"2018/12"	103	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"85+ years"	"85+"	"Jan., 2019"	"2019/01"	113	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"85+ years"	"85+"	"Feb., 2019"	"2019/02"	91	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"85+ years"	"85+"	"Mar., 2019"	"2019/03"	114	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"85+ years"	"85+"	"Apr., 2019"	"2019/04"	101	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"85+ years"	"85+"	"May, 2019"	"2019/05"	83	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"85+ years"	"85+"	"Jun., 2019"	"2019/06"	94	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"85+ years"	"85+"	"Jul., 2019"	"2019/07"	97	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"85+ years"	"85+"	"Aug., 2019"	"2019/08"	85	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"85+ years"	"85+"	"Sep., 2019"	"2019/09"	102	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"85+ years"	"85+"	"Oct., 2019"	"2019/10"	129	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"85+ years"	"85+"	"Nov., 2019"	"2019/11"	107	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"85+ years"	"85+"	"Dec., 2019"	"2019/12"	122	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"85+ years"	"85+"	"Jan., 2020 "	"2020/01"	115	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"85+ years"	"85+"	"Feb., 2020 "	"2020/02"	111	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"85+ years"	"85+"	"Mar., 2020 "	"2020/03"	125	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"85+ years"	"85+"	"Apr., 2020 "	"2020/04"	204	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"85+ years"	"85+"	"May, 2020 "	"2020/05"	203	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"85+ years"	"85+"	"Jun., 2020 "	"2020/06"	111	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"85+ years"	"85+"	"Jul., 2020 "	"2020/07"	103	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"85+ years"	"85+"	"Aug., 2020 "	"2020/08"	111	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"85+ years"	"85+"	"Sep., 2020 "	"2020/09"	100	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"85+ years"	"85+"	"Oct., 2020 "	"2020/10"	109	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"85+ years"	"85+"	"Nov., 2020 "	"2020/11"	115	Not Applicable	Not Applicable
+	"District of Columbia, DC"	"11001"	"85+ years"	"85+"	"Dec., 2020 "	"2020/12"	144	Not Applicable	Not Applicable
+"Total"	"District of Columbia, DC"	"11001"	"85+ years"	"85+"			14321	Not Applicable	Not Applicable
+"Total"	"District of Columbia, DC"	"11001"					44446	Not Applicable	Not Applicable
+"Total"							44446	Not Applicable	Not Applicable
+"---"
+"Dataset: Underlying Cause of Death, 1999-2020"
+"Query Parameters:"
+"Title: District of Columbia"
+"States: District of Columbia (11)"
+"Ten-Year Age Groups: 55-64 years; 65-74 years; 75-84 years; 85+ years"
+"Year/Month: 2010; 2011; 2012; 2013; 2014; 2015; 2016; 2017; 2018; 2019; 2020"
+"Group By: County; Ten-Year Age Groups; Month"
+"Show Totals: True"
+"Show Zero Values: True"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/ucd.html for more information."
+"---"
+"Query Date: Oct 22, 2022 12:38:20 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Mortality 1999-2020 on CDC WONDER Online Database, released in 2021. Data are from the Multiple Cause of Death Files,"
+"1999-2020, as compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative"
+"Program. Accessed at http://wonder.cdc.gov/ucd-icd10.html on Oct 22, 2022 12:38:20 PM"
+"---"
+Caveats:
+"1. Population and rates are labeled 'Not Applicable' when Autopsy, Place of Death, Weekday or Month are grouped by or limited,"
+"due to lack of a valid population. More information: http://wonder.cdc.gov/wonder/help/ucd.html#NotApplicableRates."
+"2. As of April 3, 2017, the underlying cause of death has been revised for 125 deaths in 2014. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#2014-Revision."
+"3. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,"
+"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Not Stated."
