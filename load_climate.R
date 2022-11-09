@@ -4,11 +4,11 @@ df1 = read.csv("ee_cb_climate.csv")
 df2 = read.csv("ee_cb_uhi.csv")
 
 mysqlconnection = dbConnect(RMySQL::MySQL(),
-                            dbname='test',
-                            host='localhost',
+                            dbname='stats506_project',
+                            host='rm-uf63gt5o8xsxxhd9jpo.mysql.rds.aliyuncs.com',
                             port=3306,
-                            user='root',
-                            password='1127sxy00')
+                            user='stats506_proj',
+                            password='UmichSTATS506')
 
 dbWriteTable(conn=mysqlconnection, name="ee_cb_climate", value=df1, overwrite=TRUE)
 dbWriteTable(conn=mysqlconnection, name="ee_cb_uhi", value=df2, overwrite=TRUE)

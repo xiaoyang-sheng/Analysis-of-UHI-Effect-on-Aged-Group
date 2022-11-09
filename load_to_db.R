@@ -1,5 +1,4 @@
-library(RODBC)
-install.packages("RMySQL")
+# install.packages("RMySQL")
 
 
 library(RMySQL)
@@ -27,11 +26,11 @@ datafr_sel = datafr[datafr$County.Code %in% county_index$county_fips,]
 colnames(datafr_sel) = c("county","county_code","age_group","month","death")
 
 mysqlconnection = dbConnect(RMySQL::MySQL(),
-                            dbname='test',
-                            host='localhost',
+                            dbname='stats506_project',
+                            host='rm-uf63gt5o8xsxxhd9jpo.mysql.rds.aliyuncs.com',
                             port=3306,
-                            user='root',
-                            password='1127sxy00')
+                            user='stats506_proj',
+                            password='UmichSTATS506')
 dbListTables(mysqlconnection)
 
 
