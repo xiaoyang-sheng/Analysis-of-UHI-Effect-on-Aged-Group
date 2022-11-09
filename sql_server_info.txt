@@ -1,0 +1,6 @@
+sql server info:
+hostname: rm-uf63gt5o8xsxxhd9jpo.mysql.rds.aliyuncs.com
+port: 3306
+username: stats506_proj
+password: UmichSTATS506
+database: stats506_project
