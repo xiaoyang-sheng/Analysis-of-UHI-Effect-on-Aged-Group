@@ -1,0 +1,120 @@
+---
+title: "UHI Intensity Analysis"
+author: "Yulin Gao"
+date: "2022-10-06"
+output: html_document
+editor_options: 
+  chunk_output_type: console
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+For the UHI: The ideal configuration is LST_urb_all-LST_rur_all for the entire urbanized area (from the US_Urbanized file) and LST_urb_CT_act-LST_rur_all for individual census tracts within the urbanized areas (from the census file)
+
+```{r import data}
+library(readr)
+setwd("~/Documents/stats506/project")
+df <- read_csv("Census_UHI_US_Urbanized_recalculated.csv")
+spec(df)
+```
+
+Select UHI info from the dataframe 
+
+```{r uhi}
+index = sapply(colnames(df), function(x) grepl("UHI", x, fixed = TRUE))
+uhi_df = df[index]
+uhi_df["city"] = df["Urban_name"]
+head(uhi_df)
+```
+
+Add the county column
+
+```{r county}
+county_table = read.csv("./uscities.csv", header = TRUE)
+head(county_table)
+city_state = strsplit(uhi_df$city, ",", fixed = TRUE)
+city = sapply(city_state, "[", 1)
+city = strsplit(city, "-|/|\\(")
+city = sapply(city, "[", 1)
+state = sapply(city_state, "[", 2)
+state = strsplit(state, " |-")
+state = sapply(state, "[", 2)
+uhi_df["ct"] = city
+uhi_df["state"] = state
+county_vec = rep("null", nrow(uhi_df))
+fips_vec = rep(0, nrow(uhi_df))
+for (i in 1:nrow(uhi_df)) {
+  ct = uhi_df$ct[i]
+  state = uhi_df$state[i]
+  city_info = county_table[county_table$city == ct & county_table$state_id == state,]
+  if (dim(city_info)[1] == 0) {
+    print("No city found!!!!")
+    print(ct)
+    print(state)
+  }
+  else {
+    county = city_info$county_name[1]
+    county_fips = city_info$county_fips[1]
+    county_vec[i] = county
+    fips_vec[i] = county_fips
+  }
+}
+uhi_df["county"] = county_vec
+uhi_df["county_fips"] = fips_vec
+head(uhi_df)
+```
+
+Some analusis based on county-level uhi data
+
+```{r}
+city_uhi = uhi_df[!duplicated(uhi_df[, "county_fips"]),]
+urbanized_county = city_uhi[, c("county", "state", "county_fips")]
+urbanized_county = urbanized_county[urbanized_county$county_fips != 0,]
+write_csv(urbanized_county, "selected_us_cities.csv")
+```
+
+Select city level uhi data
+```{r}
+city_uhi = uhi_df[!duplicated(uhi_df[, "county_fips"]),]
+city_uhi = city_uhi[, c("county", "state", "county_fips", colnames(city_uhi)[7:12])]
+colnames(city_uhi)[3] = "County.Code"
+```
+
+import the death data
+
+```{r}
+library(dplyr)
+death_df = read.csv("CDC_elderly_death.csv", colClasses = c(County.Code = "character", Ten.Year.Age.Groups.Code = "factor"))
+death_all_age_all_time = death_df %>% group_by(County.Code) %>% summarise(Mean_Death = mean(Deaths))
+
+death_age1 = death_df[death_df$Ten.Year.Age.Groups.Code == "55-64", ]
+death_age1_all_time = death_age1 %>% group_by(County.Code) %>% summarise(Mean_Death = mean(Deaths))
+
+death_age2 = death_df[death_df$Ten.Year.Age.Groups.Code == "65-74", ]
+death_age2_all_time = death_age2 %>% group_by(County.Code) %>% summarise(Mean_Death = mean(Deaths))
+
+death_age3 = death_df[death_df$Ten.Year.Age.Groups.Code == "75-84", ]
+death_age3_all_time = death_age3 %>% group_by(County.Code) %>% summarise(Mean_Death = mean(Deaths))
+
+death_age4 = death_df[death_df$Ten.Year.Age.Groups.Code == "85+", ]
+death_age4_all_time = death_age4 %>% group_by(County.Code) %>% summarise(Mean_Death = mean(Deaths))
+```
+
+Create tables with uhi and death
+```{r}
+uhi_death_all = merge(city_uhi, death_all_age_all_time, by="County.Code")
+# lm.all = lm(Mean_Death~.-County.Code-county-state, data = uhi_death_all)
+lm.all = lm(Mean_Death~poly(UHI_annual_day_city, 5), data = uhi_death_all)
+summary(lm.all)
+pairs(uhi_death_all[, 4:10])
+
+```
+
+
+
+
+
