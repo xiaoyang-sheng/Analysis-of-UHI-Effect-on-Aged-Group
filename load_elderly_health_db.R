@@ -13,7 +13,7 @@ mysqlconnection = dbConnect(RMySQL::MySQL(),
 
 dbWriteTable(conn=mysqlconnection, name="asthma", value=df1, overwrite=TRUE)
 dbWriteTable(conn=mysqlconnection, name="insurance", value=df2, overwrite=TRUE)
-dbWriteTable(conn=mysqlconnection, name="stroke", value=df2, overwrite=TRUE)
+dbWriteTable(conn=mysqlconnection, name="stroke", value=df3, overwrite=TRUE)
 dbSendQuery(mysqlconnection,"
 ALTER TABLE asthma MODIFY row_names INTEGER;")
 dbSendQuery(mysqlconnection,"
@@ -23,3 +23,14 @@ ALTER TABLE stroke MODIFY row_names INTEGER;")
 dbSendQuery(mysqlconnection,"alter table asthma add primary key(row_names);")
 dbSendQuery(mysqlconnection,"alter table insurance add primary key(row_names);")
 dbSendQuery(mysqlconnection,"alter table stroke add primary key(row_names);")
+dbSendQuery(mysqlconnection,"DELETE E
+  FROM stroke E
+  INNER JOIN
+(
+  SELECT *,
+  RANK() OVER(PARTITION BY county_fips,`start.year`,`end.year`,`age`
+              ORDER BY row_names) r 
+  FROM stroke
+  --                 order by r desc
+) T ON E.row_names = T.row_names
+WHERE r > 1;")
