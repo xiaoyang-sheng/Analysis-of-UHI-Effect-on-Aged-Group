@@ -17,9 +17,7 @@ For the UHI: The ideal configuration is LST_urb_all-LST_rur_all for the entire u
 
 ```{r import data}
 library(readr)
-setwd("~/Documents/stats506/project")
 df <- read_csv("Census_UHI_US_Urbanized_recalculated.csv")
-spec(df)
 ```
 
 Select UHI info from the dataframe 
@@ -89,32 +87,87 @@ import the death data
 ```{r}
 library(dplyr)
 death_df = read.csv("CDC_elderly_death.csv", colClasses = c(County.Code = "character", Ten.Year.Age.Groups.Code = "factor"))
-death_all_age_all_time = death_df %>% group_by(County.Code) %>% summarise(Mean_Death = mean(Deaths))
+death_all_age_all_time = death_df %>% group_by(County.Code) %>% summarise(total_Death = sum(Deaths))
 
 death_age1 = death_df[death_df$Ten.Year.Age.Groups.Code == "55-64", ]
-death_age1_all_time = death_age1 %>% group_by(County.Code) %>% summarise(Mean_Death = mean(Deaths))
+death_age1_all_time = death_age1 %>% group_by(County.Code) %>% summarise(total_Death = sum(Deaths))
 
 death_age2 = death_df[death_df$Ten.Year.Age.Groups.Code == "65-74", ]
-death_age2_all_time = death_age2 %>% group_by(County.Code) %>% summarise(Mean_Death = mean(Deaths))
+death_age2_all_time = death_age2 %>% group_by(County.Code) %>% summarise(total_Death = sum(Deaths))
 
 death_age3 = death_df[death_df$Ten.Year.Age.Groups.Code == "75-84", ]
-death_age3_all_time = death_age3 %>% group_by(County.Code) %>% summarise(Mean_Death = mean(Deaths))
+death_age3_all_time = death_age3 %>% group_by(County.Code) %>% summarise(total_Death = sum(Deaths))
 
 death_age4 = death_df[death_df$Ten.Year.Age.Groups.Code == "85+", ]
-death_age4_all_time = death_age4 %>% group_by(County.Code) %>% summarise(Mean_Death = mean(Deaths))
+death_age4_all_time = death_age4 %>% group_by(County.Code) %>% summarise(total_Death = sum(Deaths))
 ```
 
 Create tables with uhi and death
 ```{r}
 uhi_death_all = merge(city_uhi, death_all_age_all_time, by="County.Code")
-# lm.all = lm(Mean_Death~.-County.Code-county-state, data = uhi_death_all)
-lm.all = lm(Mean_Death~poly(UHI_annual_day_city, 5), data = uhi_death_all)
+lm.all = lm(Mean_Death~.-County.Code-county-state, data = uhi_death_all)
+lm.all = lm(total_Death~UHI_annual_day_city, data = uhi_death_all)
 summary(lm.all)
-pairs(uhi_death_all[, 4:10])
 
 ```
 
+import the population data
+
+```{r}
+population_df = read.csv("county_elderly_population.csv", colClasses = c(county_fips = "character", age_group = "factor"))
+population_df = population_df[, -1]
+colnames(population_df)[1] = "County.Code"
+population_allage_df = population_df %>% group_by(County.Code) %>% summarise(population = sum(population))
+uhi_death_ratio_all = merge(uhi_death_all, population_allage_df, by="County.Code")
+uhi_death_ratio_all[, "death_ratio"] = uhi_death_ratio_all$total_Death / uhi_death_ratio_all$population
+```
+
+Perform regression of death rate on uhi data (lm and randomForest)
+```{r}
+#lm.ratio = lm(death_ratio~.-County.Code-county-state-total_Death-population, data = uhi_death_ratio_all)
+lm.ratio = lm(death_ratio~UHI_summer_day_city, data = uhi_death_ratio_all)
+summary(lm.ratio)
+cov(uhi_death_ratio_all$death_ratio, uhi_death_ratio_all$UHI_summer_day_city)
+library(randomForest)
+rf.fit = randomForest(death_ratio~.-County.Code-county-state-total_Death-population, data = uhi_death_ratio_all, ntree=1000, keep.forest=FALSE, importance=TRUE)
+rf.fit
+```
+
+Plot the importance
+
+```{r}
+library(ggplot2)
+# Get variable importance from the model fit
+ImpData <- as.data.frame(importance(rf.fit))
+ImpData$Var.Names <- row.names(ImpData)
+
+ggplot(ImpData, aes(x=Var.Names, y=`%IncMSE`)) +
+  geom_segment( aes(x=Var.Names, xend=Var.Names, y=0, yend=`%IncMSE`), color="skyblue") +
+  geom_point(aes(size = IncNodePurity), color="blue", alpha=0.6) +
+  theme_light() +
+  coord_flip() +
+  theme(
+    legend.position="bottom",
+    panel.grid.major.y = element_blank(),
+    panel.border = element_blank(),
+    axis.ticks.y = element_blank()
+  )
+```
 
 
-
-
+Perform transformation and we plus 2 on uhi data
+```{r}
+library(car)
+data_fit = uhi_death_ratio_all[, c(4:9, 12)]
+data_fit[, 1:6] = data_fit[,1:6] +2
+colnames(data_fit)[1:6] = c("AD", "AN", "SD", "SN", "WD", "WN")
+summary(powerTransform(cbind(AD, AN,SD, SN, WD, WN)~1, data_fit))
+data_tr = data_fit
+data_tr[, 1:6] = bcPower(data_tr[, 1:6], c(0, 0, 0, -2, -2, 1))
+lm.tr = lm(death_ratio~., data = data_tr)
+summary(lm.tr)
+boxCox(lm.tr)
+data_tr[, 7] = bcPower(data_tr[, 7], 2)
+lm_2tr = lm(death_ratio~., data = data_tr)
+summary(lm_2tr)
+```

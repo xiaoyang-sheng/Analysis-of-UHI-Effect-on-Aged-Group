@@ -1,0 +1,1773 @@
+"","county_fips","population","age_group","county","year"
+"1","48441",13649,"55-64","Taylor County, Texas",2010
+"2","48441",8916,"65-74","Taylor County, Texas",2010
+"3","48441",6052,"75-84","Taylor County, Texas",2010
+"4","48441",2386,"85+","Taylor County, Texas",2010
+"5","41043",15781,"55-64","Linn County, Oregon",2010
+"6","41043",9948,"65-74","Linn County, Oregon",2010
+"7","41043",5583,"75-84","Linn County, Oregon",2010
+"8","41043",2460,"85+","Linn County, Oregon",2010
+"9","35001",79181,"55-64","Bernalillo County, New Mexico",2010
+"10","35001",43975,"65-74","Bernalillo County, New Mexico",2010
+"11","35001",26058,"75-84","Bernalillo County, New Mexico",2010
+"12","35001",10981,"85+","Bernalillo County, New Mexico",2010
+"13","22079",15764,"55-64","Rapides Parish, Louisiana",2010
+"14","22079",10056,"65-74","Rapides Parish, Louisiana",2010
+"15","22079",5839,"75-84","Rapides Parish, Louisiana",2010
+"16","22079",2117,"85+","Rapides Parish, Louisiana",2010
+"17","17119",32568,"55-64","Madison County, Illinois",2010
+"18","17119",19759,"65-74","Madison County, Illinois",2010
+"19","17119",13228,"75-84","Madison County, Illinois",2010
+"20","17119",5441,"85+","Madison County, Illinois",2010
+"21","48375",12147,"55-64","Potter County, Texas",2010
+"22","48375",6795,"65-74","Potter County, Texas",2010
+"23","48375",4387,"75-84","Potter County, Texas",2010
+"24","48375",1960,"85+","Potter County, Texas",2010
+"25","19169",8239,"55-64","Story County, Iowa",2010
+"26","19169",4510,"65-74","Story County, Iowa",2010
+"27","19169",2942,"75-84","Story County, Iowa",2010
+"28","19169",1493,"85+","Story County, Iowa",2010
+"29","02020",33028,"55-64","Anchorage Municipality, Alaska",2010
+"30","02020",13309,"65-74","Anchorage Municipality, Alaska",2010
+"31","02020",5868,"75-84","Anchorage Municipality, Alaska",2010
+"32","02020",1962,"85+","Anchorage Municipality, Alaska",2010
+"33","18095",16546,"55-64","Madison County, Indiana",2010
+"34","18095",10722,"65-74","Madison County, Indiana",2010
+"35","18095",6722,"75-84","Madison County, Indiana",2010
+"36","18095",2790,"85+","Madison County, Indiana",2010
+"37","06013",128758,"55-64","Contra Costa County, California",2010
+"38","06013",70719,"65-74","Contra Costa County, California",2010
+"39","06013",40347,"75-84","Contra Costa County, California",2010
+"40","06013",19372,"85+","Contra Costa County, California",2010
+"41","55087",19893,"55-64","Outagamie County, Wisconsin",2010
+"42","55087",10873,"65-74","Outagamie County, Wisconsin",2010
+"43","55087",6925,"75-84","Outagamie County, Wisconsin",2010
+"44","55087",3036,"85+","Outagamie County, Wisconsin",2010
+"45","06079",37116,"55-64","San Luis Obispo County, California",2010
+"46","06079",21187,"65-74","San Luis Obispo County, California",2010
+"47","06079",13531,"75-84","San Luis Obispo County, California",2010
+"48","06079",6304,"85+","San Luis Obispo County, California",2010
+"49","48453",94860,"55-64","Travis County, Texas",2010
+"50","48453",42816,"65-74","Travis County, Texas",2010
+"51","48453",22536,"75-84","Travis County, Texas",2010
+"52","48453",9407,"85+","Travis County, Texas",2010
+"53","04013",398309,"55-64","Maricopa County, Arizona",2010
+"54","04013",255388,"65-74","Maricopa County, Arizona",2010
+"55","04013",148199,"75-84","Maricopa County, Arizona",2010
+"56","04013",59054,"85+","Maricopa County, Arizona",2010
+"57","06029",77285,"55-64","Kern County, California",2010
+"58","06029",43502,"65-74","Kern County, California",2010
+"59","06029",23473,"75-84","Kern County, California",2010
+"60","06029",8462,"85+","Kern County, California",2010
+"61","23019",20296,"55-64","Penobscot County, Maine",2010
+"62","23019",11696,"65-74","Penobscot County, Maine",2010
+"63","23019",7638,"75-84","Penobscot County, Maine",2010
+"64","23019",2919,"85+","Penobscot County, Maine",2010
+"65","22033",49831,"55-64","East Baton Rouge Parish, Louisiana",2010
+"66","22033",26485,"65-74","East Baton Rouge Parish, Louisiana",2010
+"67","22033",15219,"75-84","East Baton Rouge Parish, Louisiana",2010
+"68","22033",6326,"85+","East Baton Rouge Parish, Louisiana",2010
+"69","26025",17608,"55-64","Calhoun County, Michigan",2010
+"70","26025",10365,"65-74","Calhoun County, Michigan",2010
+"71","26025",6798,"75-84","Calhoun County, Michigan",2010
+"72","26025",2946,"85+","Calhoun County, Michigan",2010
+"73","48245",28605,"55-64","Jefferson County, Texas",2010
+"74","48245",16066,"65-74","Jefferson County, Texas",2010
+"75","48245",11547,"75-84","Jefferson County, Texas",2010
+"76","48245",4389,"85+","Jefferson County, Texas",2010
+"77","53073",26164,"55-64","Whatcom County, Washington",2010
+"78","53073",14668,"65-74","Whatcom County, Washington",2010
+"79","53073",8229,"75-84","Whatcom County, Washington",2010
+"80","53073",3743,"85+","Whatcom County, Washington",2010
+"81","55105",18925,"55-64","Rock County, Wisconsin",2010
+"82","55105",11466,"65-74","Rock County, Wisconsin",2010
+"83","55105",7256,"75-84","Rock County, Wisconsin",2010
+"84","55105",3037,"85+","Rock County, Wisconsin",2010
+"85","41017",22321,"55-64","Deschutes County, Oregon",2010
+"86","41017",13703,"65-74","Deschutes County, Oregon",2010
+"87","41017",6877,"75-84","Deschutes County, Oregon",2010
+"88","41017",2911,"85+","Deschutes County, Oregon",2010
+"89","26021",20887,"55-64","Berrien County, Michigan",2010
+"90","26021",13360,"65-74","Berrien County, Michigan",2010
+"91","26021",8432,"75-84","Berrien County, Michigan",2010
+"92","26021",3757,"85+","Berrien County, Michigan",2010
+"93","30111",18736,"55-64","Yellowstone County, Montana",2010
+"94","30111",10742,"65-74","Yellowstone County, Montana",2010
+"95","30111",6884,"75-84","Yellowstone County, Montana",2010
+"96","30111",3242,"85+","Yellowstone County, Montana",2010
+"97","38015",9984,"55-64","Burleigh County, North Dakota",2010
+"98","38015",5463,"65-74","Burleigh County, North Dakota",2010
+"99","38015",3760,"75-84","Burleigh County, North Dakota",2010
+"100","38015",1690,"85+","Burleigh County, North Dakota",2010
+"101","17113",17418,"55-64","McLean County, Illinois",2010
+"102","17113",9015,"65-74","McLean County, Illinois",2010
+"103","17113",5666,"75-84","McLean County, Illinois",2010
+"104","17113",2659,"85+","McLean County, Illinois",2010
+"105","08013",35487,"55-64","Boulder County, Colorado",2010
+"106","08013",16731,"65-74","Boulder County, Colorado",2010
+"107","08013",8737,"75-84","Boulder County, Colorado",2010
+"108","08013",4053,"85+","Boulder County, Colorado",2010
+"109","53035",35346,"55-64","Kitsap County, Washington",2010
+"110","53035",19152,"65-74","Kitsap County, Washington",2010
+"111","53035",9634,"75-84","Kitsap County, Washington",2010
+"112","53035",4510,"85+","Kitsap County, Washington",2010
+"113","48061",37577,"55-64","Cameron County, Texas",2010
+"114","48061",24645,"65-74","Cameron County, Texas",2010
+"115","48061",15244,"75-84","Cameron County, Texas",2010
+"116","48061",5002,"85+","Cameron County, Texas",2010
+"117","50007",18563,"55-64","Chittenden County, Vermont",2010
+"118","50007",9432,"65-74","Chittenden County, Vermont",2010
+"119","50007",5662,"75-84","Chittenden County, Vermont",2010
+"120","50007",2591,"85+","Chittenden County, Vermont",2010
+"121","06111",93476,"55-64","Ventura County, California",2010
+"122","06111",51396,"65-74","Ventura County, California",2010
+"123","06111",30870,"75-84","Ventura County, California",2010
+"124","06111",14043,"85+","Ventura County, California",2010
+"125","32510",7605,"55-64","Carson City, Nevada",2010
+"126","32510",4824,"65-74","Carson City, Nevada",2010
+"127","32510",3021,"75-84","Carson City, Nevada",2010
+"128","32510",1288,"85+","Carson City, Nevada",2010
+"129","04021",42808,"55-64","Pinal County, Arizona",2010
+"130","04021",33255,"65-74","Pinal County, Arizona",2010
+"131","04021",15089,"75-84","Pinal County, Arizona",2010
+"132","04021",3727,"85+","Pinal County, Arizona",2010
+"133","56025",9574,"55-64","Natrona County, Wyoming",2010
+"134","56025",4805,"65-74","Natrona County, Wyoming",2010
+"135","56025",3302,"75-84","Natrona County, Wyoming",2010
+"136","56025",1285,"85+","Natrona County, Wyoming",2010
+"137","19113",24351,"55-64","Linn County, Iowa",2010
+"138","19113",14370,"65-74","Linn County, Iowa",2010
+"139","19113",8972,"75-84","Linn County, Iowa",2010
+"140","19113",4146,"85+","Linn County, Iowa",2010
+"141","17019",19485,"55-64","Champaign County, Illinois",2010
+"142","17019",10280,"65-74","Champaign County, Illinois",2010
+"143","17019",6806,"75-84","Champaign County, Illinois",2010
+"144","17019",2980,"85+","Champaign County, Illinois",2010
+"145","56021",11616,"55-64","Laramie County, Wyoming",2010
+"146","56021",6441,"65-74","Laramie County, Wyoming",2010
+"147","56021",3599,"75-84","Laramie County, Wyoming",2010
+"148","56021",1465,"85+","Laramie County, Wyoming",2010
+"149","17031",569326,"55-64","Cook County, Illinois",2010
+"150","17031",324521,"65-74","Cook County, Illinois",2010
+"151","17031",204431,"75-84","Cook County, Illinois",2010
+"152","17031",91377,"85+","Cook County, Illinois",2010
+"153","06007",28878,"55-64","Butte County, California",2010
+"154","06007",17185,"65-74","Butte County, California",2010
+"155","06007",10962,"75-84","Butte County, California",2010
+"156","06007",5670,"85+","Butte County, California",2010
+"157","16055",18310,"55-64","Kootenai County, Idaho",2010
+"158","16055",11464,"65-74","Kootenai County, Idaho",2010
+"159","16055",6191,"75-84","Kootenai County, Idaho",2010
+"160","16055",2423,"85+","Kootenai County, Idaho",2010
+"161","48041",13647,"55-64","Brazos County, Texas",2010
+"162","48041",7755,"65-74","Brazos County, Texas",2010
+"163","48041",4488,"75-84","Brazos County, Texas",2010
+"164","48041",1816,"85+","Brazos County, Texas",2010
+"165","08041",67574,"55-64","El Paso County, Colorado",2010
+"166","08041",35374,"65-74","El Paso County, Colorado",2010
+"167","08041",19474,"75-84","El Paso County, Colorado",2010
+"168","08041",7203,"85+","El Paso County, Colorado",2010
+"169","29019",16113,"55-64","Boone County, Missouri",2010
+"170","29019",8113,"65-74","Boone County, Missouri",2010
+"171","29019",4666,"75-84","Boone County, Missouri",2010
+"172","29019",2293,"85+","Boone County, Missouri",2010
+"173","48339",52697,"55-64","Montgomery County, Texas",2010
+"174","48339",29169,"65-74","Montgomery County, Texas",2010
+"175","48339",13699,"75-84","Montgomery County, Texas",2010
+"176","48339",4536,"85+","Montgomery County, Texas",2010
+"177","05045",11065,"55-64","Faulkner County, Arkansas",2010
+"178","05045",6504,"65-74","Faulkner County, Arkansas",2010
+"179","05045",3536,"75-84","Faulkner County, Arkansas",2010
+"180","05045",1278,"85+","Faulkner County, Arkansas",2010
+"181","48355",39732,"55-64","Nueces County, Texas",2010
+"182","48355",22009,"65-74","Nueces County, Texas",2010
+"183","48355",13668,"75-84","Nueces County, Texas",2010
+"184","48355",5236,"85+","Nueces County, Texas",2010
+"185","41003",10647,"55-64","Benton County, Oregon",2010
+"186","41003",5384,"65-74","Benton County, Oregon",2010
+"187","41003",3285,"75-84","Benton County, Oregon",2010
+"188","41003",1611,"85+","Benton County, Oregon",2010
+"189","48113",223730,"55-64","Dallas County, Texas",2010
+"190","48113",116736,"65-74","Dallas County, Texas",2010
+"191","48113",65429,"75-84","Dallas County, Texas",2010
+"192","48113",25807,"85+","Dallas County, Texas",2010
+"193","17183",10628,"55-64","Vermilion County, Illinois",2010
+"194","17183",6952,"65-74","Vermilion County, Illinois",2010
+"195","17183",4468,"75-84","Vermilion County, Illinois",2010
+"196","17183",1882,"85+","Vermilion County, Illinois",2010
+"197","19163",20858,"55-64","Scott County, Iowa",2010
+"198","19163",11417,"65-74","Scott County, Iowa",2010
+"199","19163",6853,"75-84","Scott County, Iowa",2010
+"200","19163",3335,"85+","Scott County, Iowa",2010
+"201","06113",20159,"55-64","Yolo County, California",2010
+"202","06113",10570,"65-74","Yolo County, California",2010
+"203","06113",6227,"75-84","Yolo County, California",2010
+"204","06113",2974,"85+","Yolo County, California",2010
+"205","17115",14910,"55-64","Macon County, Illinois",2010
+"206","17115",9079,"65-74","Macon County, Illinois",2010
+"207","17115",6222,"75-84","Macon County, Illinois",2010
+"208","17115",2841,"85+","Macon County, Illinois",2010
+"209","17037",9742,"55-64","DeKalb County, Illinois",2010
+"210","17037",5395,"65-74","DeKalb County, Illinois",2010
+"211","17037",3366,"75-84","DeKalb County, Illinois",2010
+"212","17037",1576,"85+","DeKalb County, Illinois",2010
+"213","48121",60428,"55-64","Denton County, Texas",2010
+"214","48121",29152,"65-74","Denton County, Texas",2010
+"215","48121",12350,"75-84","Denton County, Texas",2010
+"216","48121",4541,"85+","Denton County, Texas",2010
+"217","08031",61743,"55-64","Denver County, Colorado",2010
+"218","08031",32153,"65-74","Denver County, Colorado",2010
+"219","08031",20359,"75-84","Denver County, Colorado",2010
+"220","08031",9620,"85+","Denver County, Colorado",2010
+"221","19153",46974,"55-64","Polk County, Iowa",2010
+"222","19153",24750,"65-74","Polk County, Iowa",2010
+"223","19153",15081,"75-84","Polk County, Iowa",2010
+"224","19153",6714,"85+","Polk County, Iowa",2010
+"225","33017",14196,"55-64","Strafford County, New Hampshire",2010
+"226","33017",7786,"65-74","Strafford County, New Hampshire",2010
+"227","33017",4841,"75-84","Strafford County, New Hampshire",2010
+"228","33017",2018,"85+","Strafford County, New Hampshire",2010
+"229","19061",11435,"55-64","Dubuque County, Iowa",2010
+"230","19061",7122,"65-74","Dubuque County, Iowa",2010
+"231","19061",4933,"75-84","Dubuque County, Iowa",2010
+"232","19061",2300,"85+","Dubuque County, Iowa",2010
+"233","27137",28559,"55-64","St. Louis County, Minnesota",2010
+"234","27137",15768,"65-74","St. Louis County, Minnesota",2010
+"235","27137",10670,"75-84","St. Louis County, Minnesota",2010
+"236","27137",5378,"85+","St. Louis County, Minnesota",2010
+"237","55035",11483,"55-64","Eau Claire County, Wisconsin",2010
+"238","55035",6222,"65-74","Eau Claire County, Wisconsin",2010
+"239","55035",4172,"75-84","Eau Claire County, Wisconsin",2010
+"240","55035",2041,"85+","Eau Claire County, Wisconsin",2010
+"241","06025",16603,"55-64","Imperial County, California",2010
+"242","06025",9791,"65-74","Imperial County, California",2010
+"243","06025",6356,"75-84","Imperial County, California",2010
+"244","06025",2005,"85+","Imperial County, California",2010
+"245","18039",21905,"55-64","Elkhart County, Indiana",2010
+"246","18039",12676,"65-74","Elkhart County, Indiana",2010
+"247","18039",7759,"75-84","Elkhart County, Indiana",2010
+"248","18039",3527,"85+","Elkhart County, Indiana",2010
+"249","48141",74825,"55-64","El Paso County, Texas",2010
+"250","48141",44235,"65-74","El Paso County, Texas",2010
+"251","48141",28524,"75-84","El Paso County, Texas",2010
+"252","48141",9464,"85+","El Paso County, Texas",2010
+"253","41039",50074,"55-64","Lane County, Oregon",2010
+"254","41039",28358,"65-74","Lane County, Oregon",2010
+"255","41039",16497,"75-84","Lane County, Oregon",2010
+"256","41039",7926,"85+","Lane County, Oregon",2010
+"257","02090",10876,"55-64","Fairbanks North Star Borough, Alaska",2010
+"258","02090",4170,"65-74","Fairbanks North Star Borough, Alaska",2010
+"259","02090",1684,"75-84","Fairbanks North Star Borough, Alaska",2010
+"260","02090",521,"85+","Fairbanks North Star Borough, Alaska",2010
+"261","06095",51227,"55-64","Solano County, California",2010
+"262","06095",25997,"65-74","Solano County, California",2010
+"263","06095",14838,"75-84","Solano County, California",2010
+"264","06095",6012,"85+","Solano County, California",2010
+"265","38017",15409,"55-64","Cass County, North Dakota",2010
+"266","38017",7174,"65-74","Cass County, North Dakota",2010
+"267","38017",4974,"75-84","Cass County, North Dakota",2010
+"268","38017",2402,"85+","Cass County, North Dakota",2010
+"269","35045",14318,"55-64","San Juan County, New Mexico",2010
+"270","35045",7910,"65-74","San Juan County, New Mexico",2010
+"271","35045",4497,"75-84","San Juan County, New Mexico",2010
+"272","35045",1676,"85+","San Juan County, New Mexico",2010
+"273","05143",19225,"55-64","Washington County, Arkansas",2010
+"274","05143",10923,"65-74","Washington County, Arkansas",2010
+"275","05143",6214,"75-84","Washington County, Arkansas",2010
+"276","05143",2504,"85+","Washington County, Arkansas",2010
+"277","04005",15360,"55-64","Coconino County, Arizona",2010
+"278","04005",7447,"65-74","Coconino County, Arizona",2010
+"279","04005",3385,"75-84","Coconino County, Arizona",2010
+"280","04005",1092,"85+","Coconino County, Arizona",2010
+"281","55039",13088,"55-64","Fond du Lac County, Wisconsin",2010
+"282","55039",7477,"65-74","Fond du Lac County, Wisconsin",2010
+"283","55039",5198,"75-84","Fond du Lac County, Wisconsin",2010
+"284","55039",2550,"85+","Fond du Lac County, Wisconsin",2010
+"285","08069",36975,"55-64","Larimer County, Colorado",2010
+"286","08069",19814,"65-74","Larimer County, Colorado",2010
+"287","08069",10898,"75-84","Larimer County, Colorado",2010
+"288","08069",4829,"85+","Larimer County, Colorado",2010
+"289","05131",14620,"55-64","Sebastian County, Arkansas",2010
+"290","05131",9090,"65-74","Sebastian County, Arkansas",2010
+"291","05131",5193,"75-84","Sebastian County, Arkansas",2010
+"292","05131",2235,"85+","Sebastian County, Arkansas",2010
+"293","18003",40920,"55-64","Allen County, Indiana",2010
+"294","18003",21896,"65-74","Allen County, Indiana",2010
+"295","18003",13998,"75-84","Allen County, Indiana",2010
+"296","18003",6243,"85+","Allen County, Indiana",2010
+"297","06019",88854,"55-64","Fresno County, California",2010
+"298","06019",49499,"65-74","Fresno County, California",2010
+"299","06019",30304,"75-84","Fresno County, California",2010
+"300","06019",13618,"85+","Fresno County, California",2010
+"301","06085",185546,"55-64","Santa Clara County, California",2010
+"302","06085",106521,"65-74","Santa Clara County, California",2010
+"303","06085",62948,"75-84","Santa Clara County, California",2010
+"304","06085",27475,"85+","Santa Clara County, California",2010
+"305","38035",6959,"55-64","Grand Forks County, North Dakota",2010
+"306","38035",3490,"65-74","Grand Forks County, North Dakota",2010
+"307","38035",2284,"75-84","Grand Forks County, North Dakota",2010
+"308","38035",1129,"85+","Grand Forks County, North Dakota",2010
+"309","31079",6617,"55-64","Hall County, Nebraska",2010
+"310","31079",3824,"65-74","Hall County, Nebraska",2010
+"311","31079",2744,"75-84","Hall County, Nebraska",2010
+"312","31079",1282,"85+","Hall County, Nebraska",2010
+"313","08077",18921,"55-64","Mesa County, Colorado",2010
+"314","08077",11453,"65-74","Mesa County, Colorado",2010
+"315","08077",7274,"75-84","Mesa County, Colorado",2010
+"316","08077",3145,"85+","Mesa County, Colorado",2010
+"317","26081",65741,"55-64","Kent County, Michigan",2010
+"318","26081",34078,"65-74","Kent County, Michigan",2010
+"319","26081",22362,"75-84","Kent County, Michigan",2010
+"320","26081",10664,"85+","Kent County, Michigan",2010
+"321","41033",13447,"55-64","Josephine County, Oregon",2010
+"322","41033",9895,"65-74","Josephine County, Oregon",2010
+"323","41033",5879,"75-84","Josephine County, Oregon",2010
+"324","41033",2664,"85+","Josephine County, Oregon",2010
+"325","30013",10302,"55-64","Cascade County, Montana",2010
+"326","30013",6688,"65-74","Cascade County, Montana",2010
+"327","30013",4246,"75-84","Cascade County, Montana",2010
+"328","30013",1756,"85+","Cascade County, Montana",2010
+"329","08123",26781,"55-64","Weld County, Colorado",2010
+"330","08123",14114,"65-74","Weld County, Colorado",2010
+"331","08123",7267,"75-84","Weld County, Colorado",2010
+"332","08123",2854,"85+","Weld County, Colorado",2010
+"333","55009",28240,"55-64","Brown County, Wisconsin",2010
+"334","55009",15035,"65-74","Brown County, Wisconsin",2010
+"335","55009",9490,"75-84","Brown County, Wisconsin",2010
+"336","55009",4264,"85+","Brown County, Wisconsin",2010
+"337","22105",14123,"55-64","Tangipahoa Parish, Louisiana",2010
+"338","22105",8108,"65-74","Tangipahoa Parish, Louisiana",2010
+"339","22105",4306,"75-84","Tangipahoa Parish, Louisiana",2010
+"340","22105",1389,"85+","Tangipahoa Parish, Louisiana",2010
+"341","06031",12924,"55-64","Kings County, California",2010
+"342","06031",6844,"65-74","Kings County, California",2010
+"343","06031",3809,"75-84","Kings County, California",2010
+"344","06031",1377,"85+","Kings County, California",2010
+"345","06065",213739,"55-64","Riverside County, California",2010
+"346","06065",140598,"65-74","Riverside County, California",2010
+"347","06065",85796,"75-84","Riverside County, California",2010
+"348","06065",32192,"85+","Riverside County, California",2010
+"349","26139",28878,"55-64","Ottawa County, Michigan",2010
+"350","26139",16599,"65-74","Ottawa County, Michigan",2010
+"351","26139",9877,"75-84","Ottawa County, Michigan",2010
+"352","26139",4547,"85+","Ottawa County, Michigan",2010
+"353","05051",13726,"55-64","Garland County, Arkansas",2010
+"354","05051",10839,"65-74","Garland County, Arkansas",2010
+"355","05051",6747,"75-84","Garland County, Arkansas",2010
+"356","05051",2512,"85+","Garland County, Arkansas",2010
+"357","22109",12398,"55-64","Terrebonne Parish, Louisiana",2010
+"358","22109",7339,"65-74","Terrebonne Parish, Louisiana",2010
+"359","22109",3900,"75-84","Terrebonne Parish, Louisiana",2010
+"360","22109",1327,"85+","Terrebonne Parish, Louisiana",2010
+"361","48201",399166,"55-64","Harris County, Texas",2010
+"362","48201",195502,"65-74","Harris County, Texas",2010
+"363","48201",101297,"75-84","Harris County, Texas",2010
+"364","48201",36688,"85+","Harris County, Texas",2010
+"365","16019",10782,"55-64","Bonneville County, Idaho",2010
+"366","16019",6127,"65-74","Bonneville County, Idaho",2010
+"367","16019",3633,"75-84","Bonneville County, Idaho",2010
+"368","16019",1583,"85+","Bonneville County, Idaho",2010
+"369","18097",95341,"55-64","Marion County, Indiana",2010
+"370","18097",50572,"65-74","Marion County, Indiana",2010
+"371","18097",31614,"75-84","Marion County, Indiana",2010
+"372","18097",13916,"85+","Marion County, Indiana",2010
+"373","19103",13045,"55-64","Johnson County, Iowa",2010
+"374","19103",6135,"65-74","Johnson County, Iowa",2010
+"375","19103",3477,"75-84","Johnson County, Iowa",2010
+"376","19103",1599,"85+","Johnson County, Iowa",2010
+"377","28049",26803,"55-64","Hinds County, Mississippi",2010
+"378","28049",14417,"65-74","Hinds County, Mississippi",2010
+"379","28049",8622,"75-84","Hinds County, Mississippi",2010
+"380","28049",3512,"85+","Hinds County, Mississippi",2010
+"381","29051",9567,"55-64","Cole County, Missouri",2010
+"382","29051",4913,"65-74","Cole County, Missouri",2010
+"383","29051",3066,"75-84","Cole County, Missouri",2010
+"384","29051",1346,"85+","Cole County, Missouri",2010
+"385","05031",10080,"55-64","Craighead County, Arkansas",2010
+"386","05031",6469,"65-74","Craighead County, Arkansas",2010
+"387","05031",3788,"75-84","Craighead County, Arkansas",2010
+"388","05031",1483,"85+","Craighead County, Arkansas",2010
+"389","29097",12895,"55-64","Jasper County, Missouri",2010
+"390","29097",8336,"65-74","Jasper County, Missouri",2010
+"391","29097",5239,"75-84","Jasper County, Missouri",2010
+"392","29097",2139,"85+","Jasper County, Missouri",2010
+"393","15009",21494,"55-64","Maui County, Hawaii",2010
+"394","15009",11234,"65-74","Maui County, Hawaii",2010
+"395","15009",5911,"75-84","Maui County, Hawaii",2010
+"396","15009",2658,"85+","Maui County, Hawaii",2010
+"397","26077",28632,"55-64","Kalamazoo County, Michigan",2010
+"398","26077",15933,"65-74","Kalamazoo County, Michigan",2010
+"399","26077",10052,"75-84","Kalamazoo County, Michigan",2010
+"400","26077",4795,"85+","Kalamazoo County, Michigan",2010
+"401","17091",13357,"55-64","Kankakee County, Illinois",2010
+"402","17091",7952,"65-74","Kankakee County, Illinois",2010
+"403","17091",5029,"75-84","Kankakee County, Illinois",2010
+"404","17091",2256,"85+","Kankakee County, Illinois",2010
+"405","29095",77546,"55-64","Jackson County, Missouri",2010
+"406","29095",43767,"65-74","Jackson County, Missouri",2010
+"407","29095",28345,"75-84","Jackson County, Missouri",2010
+"408","29095",11878,"85+","Jackson County, Missouri",2010
+"409","53005",21381,"55-64","Benton County, Washington",2010
+"410","53005",11515,"65-74","Benton County, Washington",2010
+"411","53005",6293,"75-84","Benton County, Washington",2010
+"412","53005",2778,"85+","Benton County, Washington",2010
+"413","55059",18014,"55-64","Kenosha County, Wisconsin",2010
+"414","55059",9740,"65-74","Kenosha County, Wisconsin",2010
+"415","55059",6142,"75-84","Kenosha County, Wisconsin",2010
+"416","55059",2797,"85+","Kenosha County, Wisconsin",2010
+"417","48027",26892,"55-64","Bell County, Texas",2010
+"418","48027",15032,"65-74","Bell County, Texas",2010
+"419","48027",8577,"75-84","Bell County, Texas",2010
+"420","48027",3394,"85+","Bell County, Texas",2010
+"421","18067",11018,"55-64","Howard County, Indiana",2010
+"422","18067",7307,"65-74","Howard County, Indiana",2010
+"423","18067",4385,"75-84","Howard County, Indiana",2010
+"424","18067",1749,"85+","Howard County, Indiana",2010
+"425","55063",13504,"55-64","La Crosse County, Wisconsin",2010
+"426","55063",7490,"65-74","La Crosse County, Wisconsin",2010
+"427","55063",5176,"75-84","La Crosse County, Wisconsin",2010
+"428","55063",2535,"85+","La Crosse County, Wisconsin",2010
+"429","18157",15860,"55-64","Tippecanoe County, Indiana",2010
+"430","18157",8689,"65-74","Tippecanoe County, Indiana",2010
+"431","18157",5184,"75-84","Tippecanoe County, Indiana",2010
+"432","18157",2506,"85+","Tippecanoe County, Indiana",2010
+"433","22055",23656,"55-64","Lafayette Parish, Louisiana",2010
+"434","22055",12486,"65-74","Lafayette Parish, Louisiana",2010
+"435","22055",7697,"75-84","Lafayette Parish, Louisiana",2010
+"436","22055",2604,"85+","Lafayette Parish, Louisiana",2010
+"437","22019",22800,"55-64","Calcasieu Parish, Louisiana",2010
+"438","22019",13517,"65-74","Calcasieu Parish, Louisiana",2010
+"439","22019",8218,"75-84","Calcasieu Parish, Louisiana",2010
+"440","22019",2591,"85+","Calcasieu Parish, Louisiana",2010
+"441","04015",31509,"55-64","Mohave County, Arizona",2010
+"442","04015",28309,"65-74","Mohave County, Arizona",2010
+"443","04015",14431,"75-84","Mohave County, Arizona",2010
+"444","04015",3918,"85+","Mohave County, Arizona",2010
+"445","48039",33102,"55-64","Brazoria County, Texas",2010
+"446","48039",17698,"65-74","Brazoria County, Texas",2010
+"447","48039",9240,"75-84","Brazoria County, Texas",2010
+"448","48039",2985,"85+","Brazoria County, Texas",2010
+"449","06037",1013156,"55-64","Los Angeles County, California",2010
+"450","06037",568470,"65-74","Los Angeles County, California",2010
+"451","06037",345603,"75-84","Los Angeles County, California",2010
+"452","06037",151626,"85+","Los Angeles County, California",2010
+"453","48479",18641,"55-64","Webb County, Texas",2010
+"454","48479",10969,"65-74","Webb County, Texas",2010
+"455","48479",6242,"75-84","Webb County, Texas",2010
+"456","48479",2296,"85+","Webb County, Texas",2010
+"457","35013",22468,"55-64","Dona Ana County, New Mexico",2010
+"458","35013",14605,"65-74","Dona Ana County, New Mexico",2010
+"459","35013",8545,"75-84","Dona Ana County, New Mexico",2010
+"460","35013",2731,"85+","Dona Ana County, New Mexico",2010
+"461","32003",215262,"55-64","Clark County, Nevada",2010
+"462","32003",134903,"65-74","Clark County, Nevada",2010
+"463","32003",65858,"75-84","Clark County, Nevada",2010
+"464","32003",19684,"85+","Clark County, Nevada",2010
+"465","20045",10588,"55-64","Douglas County, Kansas",2010
+"466","20045",5184,"65-74","Douglas County, Kansas",2010
+"467","20045",3100,"75-84","Douglas County, Kansas",2010
+"468","20045",1583,"85+","Douglas County, Kansas",2010
+"469","40031",11558,"55-64","Comanche County, Oklahoma",2010
+"470","40031",7074,"65-74","Comanche County, Oklahoma",2010
+"471","40031",4239,"75-84","Comanche County, Oklahoma",2010
+"472","40031",1389,"85+","Comanche County, Oklahoma",2010
+"473","16069",5071,"55-64","Nez Perce County, Idaho",2010
+"474","16069",3460,"65-74","Nez Perce County, Idaho",2010
+"475","16069",2386,"75-84","Nez Perce County, Idaho",2010
+"476","16069",1217,"85+","Nez Perce County, Idaho",2010
+"477","23001",13758,"55-64","Androscoggin County, Maine",2010
+"478","23001",7856,"65-74","Androscoggin County, Maine",2010
+"479","23001",5162,"75-84","Androscoggin County, Maine",2010
+"480","23001",2166,"85+","Androscoggin County, Maine",2010
+"481","31109",31260,"55-64","Lancaster County, Nebraska",2010
+"482","31109",15981,"65-74","Lancaster County, Nebraska",2010
+"483","31109",10317,"75-84","Lancaster County, Nebraska",2010
+"484","31109",4803,"85+","Lancaster County, Nebraska",2010
+"485","05119",46627,"55-64","Pulaski County, Arkansas",2010
+"486","05119",24813,"65-74","Pulaski County, Arkansas",2010
+"487","05119",14651,"75-84","Pulaski County, Arkansas",2010
+"488","05119",6444,"85+","Pulaski County, Arkansas",2010
+"489","06001",173502,"55-64","Alameda County, California",2010
+"490","06001",90437,"65-74","Alameda County, California",2010
+"491","06001",52576,"75-84","Alameda County, California",2010
+"492","06001",24733,"85+","Alameda County, California",2010
+"493","06077",68697,"55-64","San Joaquin County, California",2010
+"494","06077",38530,"65-74","San Joaquin County, California",2010
+"495","06077",22709,"75-84","San Joaquin County, California",2010
+"496","06077",9942,"85+","San Joaquin County, California",2010
+"497","49005",8069,"55-64","Cache County, Utah",2010
+"498","49005",4688,"65-74","Cache County, Utah",2010
+"499","49005",2815,"75-84","Cache County, Utah",2010
+"500","49005",1191,"85+","Cache County, Utah",2010
+"501","06083",45015,"55-64","Santa Barbara County, California",2010
+"502","06083",26776,"65-74","Santa Barbara County, California",2010
+"503","06083",18532,"75-84","Santa Barbara County, California",2010
+"504","06083",9090,"85+","Santa Barbara County, California",2010
+"505","48183",13522,"55-64","Gregg County, Texas",2010
+"506","48183",8387,"65-74","Gregg County, Texas",2010
+"507","48183",5775,"75-84","Gregg County, Texas",2010
+"508","48183",2314,"85+","Gregg County, Texas",2010
+"509","53015",14155,"55-64","Cowlitz County, Washington",2010
+"510","53015",8791,"65-74","Cowlitz County, Washington",2010
+"511","53015",4845,"75-84","Cowlitz County, Washington",2010
+"512","53015",2169,"85+","Cowlitz County, Washington",2010
+"513","35061",9765,"55-64","Valencia County, New Mexico",2010
+"514","35061",5855,"65-74","Valencia County, New Mexico",2010
+"515","35061",2976,"75-84","Valencia County, New Mexico",2010
+"516","35061",911,"85+","Valencia County, New Mexico",2010
+"517","48303",27338,"55-64","Lubbock County, Texas",2010
+"518","48303",16331,"65-74","Lubbock County, Texas",2010
+"519","48303",10244,"75-84","Lubbock County, Texas",2010
+"520","48303",4047,"85+","Lubbock County, Texas",2010
+"521","48215",60416,"55-64","Hidalgo County, Texas",2010
+"522","48215",39726,"65-74","Hidalgo County, Texas",2010
+"523","48215",24513,"75-84","Hidalgo County, Texas",2010
+"524","48215",8009,"85+","Hidalgo County, Texas",2010
+"525","48085",76164,"55-64","Collin County, Texas",2010
+"526","48085",38320,"65-74","Collin County, Texas",2010
+"527","48085",15957,"75-84","Collin County, Texas",2010
+"528","48085",5771,"85+","Collin County, Texas",2010
+"529","06039",15833,"55-64","Madera County, California",2010
+"530","06039",9868,"65-74","Madera County, California",2010
+"531","06039",5468,"75-84","Madera County, California",2010
+"532","06039",1926,"85+","Madera County, California",2010
+"533","55025",56375,"55-64","Dane County, Wisconsin",2010
+"534","55025",26559,"65-74","Dane County, Wisconsin",2010
+"535","55025",15811,"75-84","Dane County, Wisconsin",2010
+"536","55025",7774,"85+","Dane County, Wisconsin",2010
+"537","22103",31020,"55-64","St. Tammany Parish, Louisiana",2010
+"538","22103",16991,"65-74","St. Tammany Parish, Louisiana",2010
+"539","22103",9205,"75-84","St. Tammany Parish, Louisiana",2010
+"540","22103",3432,"85+","St. Tammany Parish, Louisiana",2010
+"541","20161",4857,"55-64","Riley County, Kansas",2010
+"542","20161",2535,"65-74","Riley County, Kansas",2010
+"543","20161",1752,"75-84","Riley County, Kansas",2010
+"544","20161",921,"85+","Riley County, Kansas",2010
+"545","27013",6538,"55-64","Blue Earth County, Minnesota",2010
+"546","27013",3583,"65-74","Blue Earth County, Minnesota",2010
+"547","27013",2569,"75-84","Blue Earth County, Minnesota",2010
+"548","27013",1410,"85+","Blue Earth County, Minnesota",2010
+"549","53061",84583,"55-64","Snohomish County, Washington",2010
+"550","53061",41019,"65-74","Snohomish County, Washington",2010
+"551","53061",22317,"75-84","Snohomish County, Washington",2010
+"552","53061",10208,"85+","Snohomish County, Washington",2010
+"553","41029",30230,"55-64","Jackson County, Oregon",2010
+"554","41029",18847,"65-74","Jackson County, Oregon",2010
+"555","41029",11566,"75-84","Jackson County, Oregon",2010
+"556","41029",5421,"85+","Jackson County, Oregon",2010
+"557","47157",105675,"55-64","Shelby County, Tennessee",2010
+"558","47157",52478,"65-74","Shelby County, Tennessee",2010
+"559","47157",30413,"75-84","Shelby County, Tennessee",2010
+"560","47157",12333,"85+","Shelby County, Tennessee",2010
+"561","06047",22645,"55-64","Merced County, California",2010
+"562","06047",13205,"65-74","Merced County, California",2010
+"563","06047",7717,"75-84","Merced County, California",2010
+"564","06047",3038,"85+","Merced County, California",2010
+"565","18091",14808,"55-64","LaPorte County, Indiana",2010
+"566","18091",8611,"65-74","LaPorte County, Indiana",2010
+"567","18091",5126,"75-84","LaPorte County, Indiana",2010
+"568","18091",2130,"85+","LaPorte County, Indiana",2010
+"569","48329",14826,"55-64","Midland County, Texas",2010
+"570","48329",7672,"65-74","Midland County, Texas",2010
+"571","48329",5499,"75-84","Midland County, Texas",2010
+"572","48329",1943,"85+","Midland County, Texas",2010
+"573","55079",101119,"55-64","Milwaukee County, Wisconsin",2010
+"574","55079",51884,"65-74","Milwaukee County, Wisconsin",2010
+"575","55079",38262,"75-84","Milwaukee County, Wisconsin",2010
+"576","55079",18987,"85+","Milwaukee County, Wisconsin",2010
+"577","27053",133758,"55-64","Hennepin County, Minnesota",2010
+"578","27053",66516,"65-74","Hennepin County, Minnesota",2010
+"579","27053",42476,"75-84","Hennepin County, Minnesota",2010
+"580","27053",21822,"85+","Hennepin County, Minnesota",2010
+"581","06059",321854,"55-64","Orange County, California",2010
+"582","06059",187454,"65-74","Orange County, California",2010
+"583","06059",112703,"75-84","Orange County, California",2010
+"584","06059",49520,"85+","Orange County, California",2010
+"585","30063",13868,"55-64","Missoula County, Montana",2010
+"586","30063",6987,"65-74","Missoula County, Montana",2010
+"587","30063",3745,"75-84","Missoula County, Montana",2010
+"588","30063",1725,"85+","Missoula County, Montana",2010
+"589","06099",52150,"55-64","Stanislaus County, California",2010
+"590","06099",29637,"65-74","Stanislaus County, California",2010
+"591","06099",17785,"75-84","Stanislaus County, California",2010
+"592","06099",7409,"85+","Stanislaus County, California",2010
+"593","22073",16957,"55-64","Ouachita Parish, Louisiana",2010
+"594","22073",10129,"65-74","Ouachita Parish, Louisiana",2010
+"595","22073",6478,"75-84","Ouachita Parish, Louisiana",2010
+"596","22073",2313,"85+","Ouachita Parish, Louisiana",2010
+"597","53057",16243,"55-64","Skagit County, Washington",2010
+"598","53057",10259,"65-74","Skagit County, Washington",2010
+"599","53057",5927,"75-84","Skagit County, Washington",2010
+"600","53057",2690,"85+","Skagit County, Washington",2010
+"601","18035",13396,"55-64","Delaware County, Indiana",2010
+"602","18035",9221,"65-74","Delaware County, Indiana",2010
+"603","18035",5642,"75-84","Delaware County, Indiana",2010
+"604","18035",2414,"85+","Delaware County, Indiana",2010
+"605","26121",21680,"55-64","Muskegon County, Michigan",2010
+"606","26121",12247,"65-74","Muskegon County, Michigan",2010
+"607","26121",7788,"75-84","Muskegon County, Michigan",2010
+"608","26121",3317,"85+","Muskegon County, Michigan",2010
+"609","16027",18364,"55-64","Canyon County, Idaho",2010
+"610","16027",11575,"65-74","Canyon County, Idaho",2010
+"611","16027",6069,"75-84","Canyon County, Idaho",2010
+"612","16027",2752,"85+","Canyon County, Idaho",2010
+"613","06055",17843,"55-64","Napa County, California",2010
+"614","06055",10522,"65-74","Napa County, California",2010
+"615","06055",6576,"75-84","Napa County, California",2010
+"616","06055",3496,"85+","Napa County, California",2010
+"617","22071",41384,"55-64","Orleans Parish, Louisiana",2010
+"618","22071",20910,"65-74","Orleans Parish, Louisiana",2010
+"619","22071",11725,"75-84","Orleans Parish, Louisiana",2010
+"620","22071",5004,"85+","Orleans Parish, Louisiana",2010
+"621","40027",27608,"55-64","Cleveland County, Oklahoma",2010
+"622","40027",15384,"65-74","Cleveland County, Oklahoma",2010
+"623","40027",7944,"75-84","Cleveland County, Oklahoma",2010
+"624","40027",2849,"85+","Cleveland County, Oklahoma",2010
+"625","48135",13686,"55-64","Ector County, Texas",2010
+"626","48135",7654,"65-74","Ector County, Texas",2010
+"627","48135",4828,"75-84","Ector County, Texas",2010
+"628","48135",1472,"85+","Ector County, Texas",2010
+"629","49057",21728,"55-64","Weber County, Utah",2010
+"630","49057",12264,"65-74","Weber County, Utah",2010
+"631","49057",7877,"75-84","Weber County, Utah",2010
+"632","49057",3247,"85+","Weber County, Utah",2010
+"633","40109",79909,"55-64","Oklahoma County, Oklahoma",2010
+"634","40109",45536,"65-74","Oklahoma County, Oklahoma",2010
+"635","40109",29073,"75-84","Oklahoma County, Oklahoma",2010
+"636","40109",11748,"85+","Oklahoma County, Oklahoma",2010
+"637","53067",34325,"55-64","Thurston County, Washington",2010
+"638","53067",18284,"65-74","Thurston County, Washington",2010
+"639","53067",9933,"75-84","Thurston County, Washington",2010
+"640","53067",4547,"85+","Thurston County, Washington",2010
+"641","31055",55648,"55-64","Douglas County, Nebraska",2010
+"642","31055",28483,"65-74","Douglas County, Nebraska",2010
+"643","31055",18314,"75-84","Douglas County, Nebraska",2010
+"644","31055",8078,"85+","Douglas County, Nebraska",2010
+"645","55139",19747,"55-64","Winnebago County, Wisconsin",2010
+"646","55139",11159,"65-74","Winnebago County, Wisconsin",2010
+"647","55139",7576,"75-84","Winnebago County, Wisconsin",2010
+"648","55139",3601,"85+","Winnebago County, Wisconsin",2010
+"649","17143",23073,"55-64","Peoria County, Illinois",2010
+"650","17143",13411,"65-74","Peoria County, Illinois",2010
+"651","17143",8568,"75-84","Peoria County, Illinois",2010
+"652","17143",3984,"85+","Peoria County, Illinois",2010
+"653","06097",68544,"55-64","Sonoma County, California",2010
+"654","06097",35544,"65-74","Sonoma County, California",2010
+"655","06097",20614,"75-84","Sonoma County, California",2010
+"656","06097",11206,"85+","Sonoma County, California",2010
+"657","05069",9848,"55-64","Jefferson County, Arkansas",2010
+"658","05069",5638,"65-74","Jefferson County, Arkansas",2010
+"659","05069",3207,"75-84","Jefferson County, Arkansas",2010
+"660","05069",1410,"85+","Jefferson County, Arkansas",2010
+"661","16005",9123,"55-64","Bannock County, Idaho",2010
+"662","16005",4997,"65-74","Bannock County, Idaho",2010
+"663","16005",3008,"75-84","Bannock County, Idaho",2010
+"664","16005",1238,"85+","Bannock County, Idaho",2010
+"665","06107",40055,"55-64","Tulare County, California",2010
+"666","06107",22946,"65-74","Tulare County, California",2010
+"667","06107",13474,"75-84","Tulare County, California",2010
+"668","06107",5359,"85+","Tulare County, California",2010
+"669","23005",38007,"55-64","Cumberland County, Maine",2010
+"670","23005",20585,"65-74","Cumberland County, Maine",2010
+"671","23005",13136,"75-84","Cumberland County, Maine",2010
+"672","23005",6436,"85+","Cumberland County, Maine",2010
+"673","41051",87767,"55-64","Multnomah County, Oregon",2010
+"674","41051",41016,"65-74","Multnomah County, Oregon",2010
+"675","41051",23865,"75-84","Multnomah County, Oregon",2010
+"676","41051",12542,"85+","Multnomah County, Oregon",2010
+"677","04025",36237,"55-64","Yavapai County, Arizona",2010
+"678","04025",28925,"65-74","Yavapai County, Arizona",2010
+"679","04025",15996,"75-84","Yavapai County, Arizona",2010
+"680","04025",5846,"85+","Yavapai County, Arizona",2010
+"681","49049",31766,"55-64","Utah County, Utah",2010
+"682","49049",18487,"65-74","Utah County, Utah",2010
+"683","49049",10856,"75-84","Utah County, Utah",2010
+"684","49049",4114,"85+","Utah County, Utah",2010
+"685","08101",20673,"55-64","Pueblo County, Colorado",2010
+"686","08101",12564,"65-74","Pueblo County, Colorado",2010
+"687","08101",8346,"75-84","Pueblo County, Colorado",2010
+"688","08101",3436,"85+","Pueblo County, Colorado",2010
+"689","55101",23971,"55-64","Racine County, Wisconsin",2010
+"690","55101",13402,"65-74","Racine County, Wisconsin",2010
+"691","55101",8491,"75-84","Racine County, Wisconsin",2010
+"692","55101",3846,"85+","Racine County, Wisconsin",2010
+"693","46103",12493,"55-64","Pennington County, South Dakota",2010
+"694","46103",7141,"65-74","Pennington County, South Dakota",2010
+"695","46103",4602,"75-84","Pennington County, South Dakota",2010
+"696","46103",1874,"85+","Pennington County, South Dakota",2010
+"697","06089",25506,"55-64","Shasta County, California",2010
+"698","06089",16551,"65-74","Shasta County, California",2010
+"699","06089",9446,"75-84","Shasta County, California",2010
+"700","06089",3970,"85+","Shasta County, California",2010
+"701","32031",53319,"55-64","Washoe County, Nevada",2010
+"702","32031",30455,"65-74","Washoe County, Nevada",2010
+"703","32031",14873,"75-84","Washoe County, Nevada",2010
+"704","32031",5551,"85+","Washoe County, Nevada",2010
+"705","27109",16002,"55-64","Olmsted County, Minnesota",2010
+"706","27109",9587,"65-74","Olmsted County, Minnesota",2010
+"707","27109",5795,"75-84","Olmsted County, Minnesota",2010
+"708","27109",2751,"85+","Olmsted County, Minnesota",2010
+"709","17201",36297,"55-64","Winnebago County, Illinois",2010
+"710","17201",21498,"65-74","Winnebago County, Illinois",2010
+"711","17201",13243,"75-84","Winnebago County, Illinois",2010
+"712","17201",5974,"85+","Winnebago County, Illinois",2010
+"713","17097",79752,"55-64","Lake County, Illinois",2010
+"714","17097",40436,"65-74","Lake County, Illinois",2010
+"715","17097",22762,"75-84","Lake County, Illinois",2010
+"716","17097",9895,"85+","Lake County, Illinois",2010
+"717","06067",155637,"55-64","Sacramento County, California",2010
+"718","06067",83295,"65-74","Sacramento County, California",2010
+"719","06067",52193,"75-84","Sacramento County, California",2010
+"720","06067",23063,"85+","Sacramento County, California",2010
+"721","27145",15980,"55-64","Stearns County, Minnesota",2010
+"722","27145",9256,"65-74","Stearns County, Minnesota",2010
+"723","27145",6395,"75-84","Stearns County, Minnesota",2010
+"724","27145",2577,"85+","Stearns County, Minnesota",2010
+"725","49053",14015,"55-64","Washington County, Utah",2010
+"726","49053",12792,"65-74","Washington County, Utah",2010
+"727","49053",8188,"75-84","Washington County, Utah",2010
+"728","49053",2846,"85+","Washington County, Utah",2010
+"729","29021",10256,"55-64","Buchanan County, Missouri",2010
+"730","29021",6344,"65-74","Buchanan County, Missouri",2010
+"731","29021",4174,"75-84","Buchanan County, Missouri",2010
+"732","29021",1983,"85+","Buchanan County, Missouri",2010
+"733","29510",34621,"55-64","St. Louis city, Missouri",2010
+"734","29510",17689,"65-74","St. Louis city, Missouri",2010
+"735","29510",12108,"75-84","St. Louis city, Missouri",2010
+"736","29510",5378,"85+","St. Louis city, Missouri",2010
+"737","41047",36921,"55-64","Marion County, Oregon",2010
+"738","41047",21380,"65-74","Marion County, Oregon",2010
+"739","41047",12949,"75-84","Marion County, Oregon",2010
+"740","41047",6220,"85+","Marion County, Oregon",2010
+"741","06053",43218,"55-64","Monterey County, California",2010
+"742","06053",22921,"65-74","Monterey County, California",2010
+"743","06053",14744,"75-84","Monterey County, California",2010
+"744","06053",6757,"85+","Monterey County, California",2010
+"745","49035",95532,"55-64","Salt Lake County, Utah",2010
+"746","49035",49495,"65-74","Salt Lake County, Utah",2010
+"747","49035",28151,"75-84","Salt Lake County, Utah",2010
+"748","49035",11721,"85+","Salt Lake County, Utah",2010
+"749","48451",12495,"55-64","Tom Green County, Texas",2010
+"750","48451",7898,"65-74","Tom Green County, Texas",2010
+"751","48451",5326,"75-84","Tom Green County, Texas",2010
+"752","48451",2041,"85+","Tom Green County, Texas",2010
+"753","48029",173127,"55-64","Bexar County, Texas",2010
+"754","48029",96241,"65-74","Bexar County, Texas",2010
+"755","48029",57238,"75-84","Bexar County, Texas",2010
+"756","48029",22404,"85+","Bexar County, Texas",2010
+"757","06073",329616,"55-64","San Diego County, California",2010
+"758","06073",180554,"65-74","San Diego County, California",2010
+"759","06073",116911,"75-84","San Diego County, California",2010
+"760","06073",53960,"85+","San Diego County, California",2010
+"761","06075",96596,"55-64","San Francisco County, California",2010
+"762","06075",54322,"65-74","San Francisco County, California",2010
+"763","06075",38029,"75-84","San Francisco County, California",2010
+"764","06075",17491,"85+","San Francisco County, California",2010
+"765","48209",15933,"55-64","Hays County, Texas",2010
+"766","48209",8047,"65-74","Hays County, Texas",2010
+"767","48209",3817,"75-84","Hays County, Texas",2010
+"768","48209",1421,"85+","Hays County, Texas",2010
+"769","06087",35935,"55-64","Santa Cruz County, California",2010
+"770","06087",15874,"65-74","Santa Cruz County, California",2010
+"771","06087",8668,"75-84","Santa Cruz County, California",2010
+"772","06087",4616,"85+","Santa Cruz County, California",2010
+"773","35049",24255,"55-64","Santa Fe County, New Mexico",2010
+"774","35049",13385,"65-74","Santa Fe County, New Mexico",2010
+"775","35049",6167,"75-84","Santa Fe County, New Mexico",2010
+"776","35049",2252,"85+","Santa Fe County, New Mexico",2010
+"777","53033",228217,"55-64","King County, Washington",2010
+"778","53033",112747,"65-74","King County, Washington",2010
+"779","53033",64148,"75-84","King County, Washington",2010
+"780","53033",33784,"85+","King County, Washington",2010
+"781","55117",14687,"55-64","Sheboygan County, Wisconsin",2010
+"782","55117",8426,"65-74","Sheboygan County, Wisconsin",2010
+"783","55117",5657,"75-84","Sheboygan County, Wisconsin",2010
+"784","55117",2738,"85+","Sheboygan County, Wisconsin",2010
+"785","48181",15261,"55-64","Grayson County, Texas",2010
+"786","48181",10276,"65-74","Grayson County, Texas",2010
+"787","48181",6126,"75-84","Grayson County, Texas",2010
+"788","48181",2373,"85+","Grayson County, Texas",2010
+"789","22017",31217,"55-64","Caddo Parish, Louisiana",2010
+"790","22017",18123,"65-74","Caddo Parish, Louisiana",2010
+"791","22017",11687,"75-84","Caddo Parish, Louisiana",2010
+"792","22017",4833,"85+","Caddo Parish, Louisiana",2010
+"793","04003",17546,"55-64","Cochise County, Arizona",2010
+"794","04003",13290,"65-74","Cochise County, Arizona",2010
+"795","04003",7072,"75-84","Cochise County, Arizona",2010
+"796","04003",2326,"85+","Cochise County, Arizona",2010
+"797","19193",11835,"55-64","Woodbury County, Iowa",2010
+"798","19193",6643,"65-74","Woodbury County, Iowa",2010
+"799","19193",4496,"75-84","Woodbury County, Iowa",2010
+"800","19193",1986,"85+","Woodbury County, Iowa",2010
+"801","46099",18385,"55-64","Minnehaha County, South Dakota",2010
+"802","46099",9540,"65-74","Minnehaha County, South Dakota",2010
+"803","46099",6337,"75-84","Minnehaha County, South Dakota",2010
+"804","46099",2966,"85+","Minnehaha County, South Dakota",2010
+"805","18141",31821,"55-64","St. Joseph County, Indiana",2010
+"806","18141",17132,"65-74","St. Joseph County, Indiana",2010
+"807","18141",12537,"75-84","St. Joseph County, Indiana",2010
+"808","18141",5896,"85+","St. Joseph County, Indiana",2010
+"809","53063",59121,"55-64","Spokane County, Washington",2010
+"810","53063",32165,"65-74","Spokane County, Washington",2010
+"811","53063",19435,"75-84","Spokane County, Washington",2010
+"812","53063",9369,"85+","Spokane County, Washington",2010
+"813","29077",31849,"55-64","Greene County, Missouri",2010
+"814","29077",19867,"65-74","Greene County, Missouri",2010
+"815","29077",12904,"75-84","Greene County, Missouri",2010
+"816","29077",5822,"85+","Greene County, Missouri",2010
+"817","48037",11140,"55-64","Bowie County, Texas",2010
+"818","48037",7028,"65-74","Bowie County, Texas",2010
+"819","48037",4221,"75-84","Bowie County, Texas",2010
+"820","48037",1854,"85+","Bowie County, Texas",2010
+"821","48167",35747,"55-64","Galveston County, Texas",2010
+"822","48167",18922,"65-74","Galveston County, Texas",2010
+"823","48167",10215,"75-84","Galveston County, Texas",2010
+"824","48167",3667,"85+","Galveston County, Texas",2010
+"825","20177",23111,"55-64","Shawnee County, Kansas",2010
+"826","20177",13204,"65-74","Shawnee County, Kansas",2010
+"827","20177",8618,"75-84","Shawnee County, Kansas",2010
+"828","20177",3790,"85+","Shawnee County, Kansas",2010
+"829","04019",122367,"55-64","Pima County, Arizona",2010
+"830","04019",81792,"65-74","Pima County, Arizona",2010
+"831","04019",49606,"75-84","Pima County, Arizona",2010
+"832","04019",19895,"85+","Pima County, Arizona",2010
+"833","40143",68168,"55-64","Tulsa County, Oklahoma",2010
+"834","40143",38330,"65-74","Tulsa County, Oklahoma",2010
+"835","40143",24440,"75-84","Tulsa County, Oklahoma",2010
+"836","40143",10086,"85+","Tulsa County, Oklahoma",2010
+"837","48423",23658,"55-64","Smith County, Texas",2010
+"838","48423",16014,"65-74","Smith County, Texas",2010
+"839","48423",9975,"75-84","Smith County, Texas",2010
+"840","48423",3862,"85+","Smith County, Texas",2010
+"841","48469",10460,"55-64","Victoria County, Texas",2010
+"842","48469",6231,"65-74","Victoria County, Texas",2010
+"843","48469",3930,"75-84","Victoria County, Texas",2010
+"844","48469",1503,"85+","Victoria County, Texas",2010
+"845","06071",197043,"55-64","San Bernardino County, California",2010
+"846","06071",103495,"65-74","San Bernardino County, California",2010
+"847","06071",56979,"75-84","San Bernardino County, California",2010
+"848","06071",20874,"85+","San Bernardino County, California",2010
+"849","48309",25021,"55-64","McLennan County, Texas",2010
+"850","48309",15188,"65-74","McLennan County, Texas",2010
+"851","48309",9884,"75-84","McLennan County, Texas",2010
+"852","48309",4187,"85+","McLennan County, Texas",2010
+"853","53071",7074,"55-64","Walla Walla County, Washington",2010
+"854","53071",4148,"65-74","Walla Walla County, Washington",2010
+"855","53071",3015,"75-84","Walla Walla County, Washington",2010
+"856","53071",1615,"85+","Walla Walla County, Washington",2010
+"857","19013",15877,"55-64","Black Hawk County, Iowa",2010
+"858","19013",8991,"65-74","Black Hawk County, Iowa",2010
+"859","19013",6184,"75-84","Black Hawk County, Iowa",2010
+"860","19013",2956,"85+","Black Hawk County, Iowa",2010
+"861","36045",11675,"55-64","Jefferson County, New York",2010
+"862","36045",6862,"65-74","Jefferson County, New York",2010
+"863","36045",4231,"75-84","Jefferson County, New York",2010
+"864","36045",1888,"85+","Jefferson County, New York",2010
+"865","55073",16653,"55-64","Marathon County, Wisconsin",2010
+"866","55073",9675,"65-74","Marathon County, Wisconsin",2010
+"867","55073",6247,"75-84","Marathon County, Wisconsin",2010
+"868","55073",3066,"85+","Marathon County, Wisconsin",2010
+"869","53007",9628,"55-64","Chelan County, Washington",2010
+"870","53007",5819,"65-74","Chelan County, Washington",2010
+"871","53007",3523,"75-84","Chelan County, Washington",2010
+"872","53007",1833,"85+","Chelan County, Washington",2010
+"873","55131",16862,"55-64","Washington County, Wisconsin",2010
+"874","55131",9496,"65-74","Washington County, Wisconsin",2010
+"875","55131",5806,"75-84","Washington County, Wisconsin",2010
+"876","55131",2501,"85+","Washington County, Wisconsin",2010
+"877","20173",55440,"55-64","Sedgwick County, Kansas",2010
+"878","20173",29289,"65-74","Sedgwick County, Kansas",2010
+"879","20173",19389,"75-84","Sedgwick County, Kansas",2010
+"880","20173",8291,"85+","Sedgwick County, Kansas",2010
+"881","48485",13891,"55-64","Wichita County, Texas",2010
+"882","48485",8802,"65-74","Wichita County, Texas",2010
+"883","48485",6095,"75-84","Wichita County, Texas",2010
+"884","48485",2280,"85+","Wichita County, Texas",2010
+"885","53077",25199,"55-64","Yakima County, Washington",2010
+"886","53077",15199,"65-74","Yakima County, Washington",2010
+"887","53077",8856,"75-84","Yakima County, Washington",2010
+"888","53077",4067,"85+","Yakima County, Washington",2010
+"889","06101",10105,"55-64","Sutter County, California",2010
+"890","06101",6490,"65-74","Sutter County, California",2010
+"891","06101",3979,"75-84","Sutter County, California",2010
+"892","06101",1521,"85+","Sutter County, California",2010
+"893","04027",19028,"55-64","Yuma County, Arizona",2010
+"894","04027",17377,"65-74","Yuma County, Arizona",2010
+"895","04027",10515,"75-84","Yuma County, Arizona",2010
+"896","04027",2754,"85+","Yuma County, Arizona",2010
+"897","24025",30585,"55-64","Harford County, Maryland",2010
+"898","24025",17396,"65-74","Harford County, Maryland",2010
+"899","24025",9596,"75-84","Harford County, Maryland",2010
+"900","24025",3572,"85+","Harford County, Maryland",2010
+"901","39153",71524,"55-64","Summit County, Ohio",2010
+"902","39153",39456,"65-74","Summit County, Ohio",2010
+"903","39153",27334,"75-84","Summit County, Ohio",2010
+"904","39153",12178,"85+","Summit County, Ohio",2010
+"905","13095",10972,"55-64","Dougherty County, Georgia",2010
+"906","13095",6177,"65-74","Dougherty County, Georgia",2010
+"907","13095",3866,"75-84","Dougherty County, Georgia",2010
+"908","13095",1414,"85+","Dougherty County, Georgia",2010
+"909","42077",42481,"55-64","Lehigh County, Pennsylvania",2010
+"910","42077",25107,"65-74","Lehigh County, Pennsylvania",2010
+"911","42077",18099,"75-84","Lehigh County, Pennsylvania",2010
+"912","42077",8398,"85+","Lehigh County, Pennsylvania",2010
+"913","45007",24163,"55-64","Anderson County, South Carolina",2010
+"914","45007",16113,"65-74","Anderson County, South Carolina",2010
+"915","45007",8901,"75-84","Anderson County, South Carolina",2010
+"916","45007",3315,"85+","Anderson County, South Carolina",2010
+"917","26161",39265,"55-64","Washtenaw County, Michigan",2010
+"918","26161",19437,"65-74","Washtenaw County, Michigan",2010
+"919","26161",10806,"75-84","Washtenaw County, Michigan",2010
+"920","26161",4708,"85+","Washtenaw County, Michigan",2010
+"921","01015",15109,"55-64","Calhoun County, Alabama",2010
+"922","01015",9437,"65-74","Calhoun County, Alabama",2010
+"923","01015",5749,"75-84","Calhoun County, Alabama",2010
+"924","01015",1804,"85+","Calhoun County, Alabama",2010
+"925","37021",32669,"55-64","Buncombe County, North Carolina",2010
+"926","37021",20133,"65-74","Buncombe County, North Carolina",2010
+"927","37021",12346,"75-84","Buncombe County, North Carolina",2010
+"928","37021",5617,"85+","Buncombe County, North Carolina",2010
+"929","13059",9185,"55-64","Clarke County, Georgia",2010
+"930","13059",5414,"65-74","Clarke County, Georgia",2010
+"931","13059",3116,"75-84","Clarke County, Georgia",2010
+"932","13059",1422,"85+","Clarke County, Georgia",2010
+"933","13121",94331,"55-64","Fulton County, Georgia",2010
+"934","13121",47108,"65-74","Fulton County, Georgia",2010
+"935","13121",24745,"75-84","Fulton County, Georgia",2010
+"936","13121",11571,"85+","Fulton County, Georgia",2010
+"937","34001",34101,"55-64","Atlantic County, New Jersey",2010
+"938","34001",21088,"65-74","Atlantic County, New Jersey",2010
+"939","34001",12602,"75-84","Atlantic County, New Jersey",2010
+"940","34001",5212,"85+","Atlantic County, New Jersey",2010
+"941","01081",13367,"55-64","Lee County, Alabama",2010
+"942","01081",7527,"65-74","Lee County, Alabama",2010
+"943","01081",3892,"75-84","Lee County, Alabama",2010
+"944","01081",1297,"85+","Lee County, Alabama",2010
+"945","13245",22437,"55-64","Richmond County, Georgia",2010
+"946","13245",12665,"65-74","Richmond County, Georgia",2010
+"947","13245",7399,"75-84","Richmond County, Georgia",2010
+"948","13245",2648,"85+","Richmond County, Georgia",2010
+"949","24510",68906,"55-64","Baltimore city, Maryland",2010
+"950","24510",38552,"65-74","Baltimore city, Maryland",2010
+"951","24510",23910,"75-84","Baltimore city, Maryland",2010
+"952","24510",10350,"85+","Baltimore city, Maryland",2010
+"953","26017",14942,"55-64","Bay County, Michigan",2010
+"954","26017",9169,"65-74","Bay County, Michigan",2010
+"955","26017",5607,"75-84","Bay County, Michigan",2010
+"956","26017",2731,"85+","Bay County, Michigan",2010
+"957","54081",11872,"55-64","Raleigh County, West Virginia",2010
+"958","54081",6732,"65-74","Raleigh County, West Virginia",2010
+"959","54081",4397,"75-84","Raleigh County, West Virginia",2010
+"960","54081",1532,"85+","Raleigh County, West Virginia",2010
+"961","01073",80661,"55-64","Jefferson County, Alabama",2010
+"962","01073",44273,"65-74","Jefferson County, Alabama",2010
+"963","01073",29627,"75-84","Jefferson County, Alabama",2010
+"964","01073",12543,"85+","Jefferson County, Alabama",2010
+"965","51121",8580,"55-64","Montgomery County, Virginia",2010
+"966","51121",5098,"65-74","Montgomery County, Virginia",2010
+"967","51121",2930,"75-84","Montgomery County, Virginia",2010
+"968","51121",1200,"85+","Montgomery County, Virginia",2010
+"969","18105",12989,"55-64","Monroe County, Indiana",2010
+"970","18105",7354,"65-74","Monroe County, Indiana",2010
+"971","18105",4650,"75-84","Monroe County, Indiana",2010
+"972","18105",2043,"85+","Monroe County, Indiana",2010
+"973","42037",8679,"55-64","Columbia County, Pennsylvania",2010
+"974","42037",5492,"65-74","Columbia County, Pennsylvania",2010
+"975","42037",3657,"75-84","Columbia County, Pennsylvania",2010
+"976","42037",1662,"85+","Columbia County, Pennsylvania",2010
+"977","12071",87192,"55-64","Lee County, Florida",2010
+"978","12071",80910,"65-74","Lee County, Florida",2010
+"979","12071",47595,"75-84","Lee County, Florida",2010
+"980","12071",16601,"85+","Lee County, Florida",2010
+"981","21227",12088,"55-64","Warren County, Kentucky",2010
+"982","21227",7021,"65-74","Warren County, Kentucky",2010
+"983","21227",3854,"75-84","Warren County, Kentucky",2010
+"984","21227",1565,"85+","Warren County, Kentucky",2010
+"985","09001",107039,"55-64","Fairfield County, Connecticut",2010
+"986","09001",62341,"65-74","Fairfield County, Connecticut",2010
+"987","09001",41272,"75-84","Fairfield County, Connecticut",2010
+"988","09001",20462,"85+","Fairfield County, Connecticut",2010
+"989","47163",22224,"55-64","Sullivan County, Tennessee",2010
+"990","47163",16234,"65-74","Sullivan County, Tennessee",2010
+"991","47163",9413,"75-84","Sullivan County, Tennessee",2010
+"992","47163",3568,"85+","Sullivan County, Tennessee",2010
+"993","13127",10535,"55-64","Glynn County, Georgia",2010
+"994","13127",6899,"65-74","Glynn County, Georgia",2010
+"995","13127",3676,"75-84","Glynn County, Georgia",2010
+"996","13127",1401,"85+","Glynn County, Georgia",2010
+"997","37001",17916,"55-64","Alamance County, North Carolina",2010
+"998","37001",11428,"65-74","Alamance County, North Carolina",2010
+"999","37001",7462,"75-84","Alamance County, North Carolina",2010
+"1000","37001",3191,"85+","Alamance County, North Carolina",2010
+"1001","39151",50813,"55-64","Stark County, Ohio",2010
+"1002","39151",30919,"65-74","Stark County, Ohio",2010
+"1003","39151",20609,"75-84","Stark County, Ohio",2010
+"1004","39151",9450,"85+","Stark County, Ohio",2010
+"1005","29031",8951,"55-64","Cape Girardeau County, Missouri",2010
+"1006","29031",5457,"65-74","Cape Girardeau County, Missouri",2010
+"1007","29031",3662,"75-84","Cape Girardeau County, Missouri",2010
+"1008","29031",1715,"85+","Cape Girardeau County, Missouri",2010
+"1009","17077",6255,"55-64","Jackson County, Illinois",2010
+"1010","17077",3560,"65-74","Jackson County, Illinois",2010
+"1011","17077",2352,"75-84","Jackson County, Illinois",2010
+"1012","17077",1090,"85+","Jackson County, Illinois",2010
+"1013","13015",11172,"55-64","Bartow County, Georgia",2010
+"1014","13015",6464,"65-74","Bartow County, Georgia",2010
+"1015","13015",3094,"75-84","Bartow County, Georgia",2010
+"1016","13015",1053,"85+","Bartow County, Georgia",2010
+"1017","54039",28429,"55-64","Kanawha County, West Virginia",2010
+"1018","54039",16847,"65-74","Kanawha County, West Virginia",2010
+"1019","54039",11151,"75-84","Kanawha County, West Virginia",2010
+"1020","54039",4317,"85+","Kanawha County, West Virginia",2010
+"1021","45019",43059,"55-64","Charleston County, South Carolina",2010
+"1022","45019",25010,"65-74","Charleston County, South Carolina",2010
+"1023","45019",13869,"75-84","Charleston County, South Carolina",2010
+"1024","45019",5842,"85+","Charleston County, South Carolina",2010
+"1025","37119",89800,"55-64","Mecklenburg County, North Carolina",2010
+"1026","37119",45559,"65-74","Mecklenburg County, North Carolina",2010
+"1027","37119",24965,"75-84","Mecklenburg County, North Carolina",2010
+"1028","37119",10589,"85+","Mecklenburg County, North Carolina",2010
+"1029","51540",3836,"55-64","Charlottesville city, Virginia",2010
+"1030","51540",2120,"65-74","Charlottesville city, Virginia",2010
+"1031","51540",1340,"75-84","Charlottesville city, Virginia",2010
+"1032","51540",557,"85+","Charlottesville city, Virginia",2010
+"1033","47065",44330,"55-64","Hamilton County, Tennessee",2010
+"1034","47065",26273,"65-74","Hamilton County, Tennessee",2010
+"1035","47065",16437,"75-84","Hamilton County, Tennessee",2010
+"1036","47065",6705,"85+","Hamilton County, Tennessee",2010
+"1037","39061",95939,"55-64","Hamilton County, Ohio",2010
+"1038","39061",53330,"65-74","Hamilton County, Ohio",2010
+"1039","39061",37147,"75-84","Hamilton County, Ohio",2010
+"1040","39061",16386,"85+","Hamilton County, Ohio",2010
+"1041","47125",14579,"55-64","Montgomery County, Tennessee",2010
+"1042","47125",8181,"65-74","Montgomery County, Tennessee",2010
+"1043","47125",4299,"75-84","Montgomery County, Tennessee",2010
+"1044","47125",1311,"85+","Montgomery County, Tennessee",2010
+"1045","39035",164111,"55-64","Cuyahoga County, Ohio",2010
+"1046","39035",95606,"65-74","Cuyahoga County, Ohio",2010
+"1047","39035",69514,"75-84","Cuyahoga County, Ohio",2010
+"1048","39035",33421,"85+","Cuyahoga County, Ohio",2010
+"1049","47011",11993,"55-64","Bradley County, Tennessee",2010
+"1050","47011",8237,"65-74","Bradley County, Tennessee",2010
+"1051","47011",4341,"75-84","Bradley County, Tennessee",2010
+"1052","47011",1421,"85+","Bradley County, Tennessee",2010
+"1053","45079",41145,"55-64","Richland County, South Carolina",2010
+"1054","45079",21097,"65-74","Richland County, South Carolina",2010
+"1055","45079",11782,"75-84","Richland County, South Carolina",2010
+"1056","45079",4662,"85+","Richland County, South Carolina",2010
+"1057","13215",20200,"55-64","Muscogee County, Georgia",2010
+"1058","13215",11465,"65-74","Muscogee County, Georgia",2010
+"1059","13215",7807,"75-84","Muscogee County, Georgia",2010
+"1060","13215",2810,"85+","Muscogee County, Georgia",2010
+"1061","18005",9395,"55-64","Bartholomew County, Indiana",2010
+"1062","18005",5986,"65-74","Bartholomew County, Indiana",2010
+"1063","18005",3372,"75-84","Bartholomew County, Indiana",2010
+"1064","18005",1373,"85+","Bartholomew County, Indiana",2010
+"1065","39049",121877,"55-64","Franklin County, Ohio",2010
+"1066","39049",62634,"65-74","Franklin County, Ohio",2010
+"1067","39049",37550,"75-84","Franklin County, Ohio",2010
+"1068","39049",15522,"85+","Franklin County, Ohio",2010
+"1069","37025",18863,"55-64","Cabarrus County, North Carolina",2010
+"1070","37025",11396,"65-74","Cabarrus County, North Carolina",2010
+"1071","37025",6182,"75-84","Cabarrus County, North Carolina",2010
+"1072","37025",2507,"85+","Cabarrus County, North Carolina",2010
+"1073","24001",9525,"55-64","Allegany County, Maryland",2010
+"1074","24001",6806,"65-74","Allegany County, Maryland",2010
+"1075","24001",4637,"75-84","Allegany County, Maryland",2010
+"1076","24001",1959,"85+","Allegany County, Maryland",2010
+"1077","13313",10486,"55-64","Whitfield County, Georgia",2010
+"1078","13313",6669,"65-74","Whitfield County, Georgia",2010
+"1079","13313",3578,"75-84","Whitfield County, Georgia",2010
+"1080","13313",1198,"85+","Whitfield County, Georgia",2010
+"1081","01003",24535,"55-64","Baldwin County, Alabama",2010
+"1082","01003",17803,"65-74","Baldwin County, Alabama",2010
+"1083","01003",9532,"75-84","Baldwin County, Alabama",2010
+"1084","01003",3233,"85+","Baldwin County, Alabama",2010
+"1085","39113",68063,"55-64","Montgomery County, Ohio",2010
+"1086","39113",41434,"65-74","Montgomery County, Ohio",2010
+"1087","39113",27839,"75-84","Montgomery County, Ohio",2010
+"1088","39113",11768,"85+","Montgomery County, Ohio",2010
+"1089","01103",14871,"55-64","Morgan County, Alabama",2010
+"1090","01103",9675,"65-74","Morgan County, Alabama",2010
+"1091","01103",5427,"75-84","Morgan County, Alabama",2010
+"1092","01103",1769,"85+","Morgan County, Alabama",2010
+"1093","12127",70686,"55-64","Volusia County, Florida",2010
+"1094","12127",53767,"65-74","Volusia County, Florida",2010
+"1095","12127",35872,"75-84","Volusia County, Florida",2010
+"1096","12127",14650,"85+","Volusia County, Florida",2010
+"1097","26163",218630,"55-64","Wayne County, Michigan",2010
+"1098","26163",117555,"65-74","Wayne County, Michigan",2010
+"1099","26163",78829,"75-84","Wayne County, Michigan",2010
+"1100","26163",34319,"85+","Wayne County, Michigan",2010
+"1101","01069",12631,"55-64","Houston County, Alabama",2010
+"1102","01069",8168,"65-74","Houston County, Alabama",2010
+"1103","01069",4829,"75-84","Houston County, Alabama",2010
+"1104","01069",1678,"85+","Houston County, Alabama",2010
+"1105","10001",18402,"55-64","Kent County, Delaware",2010
+"1106","10001",12699,"65-74","Kent County, Delaware",2010
+"1107","10001",6880,"75-84","Kent County, Delaware",2010
+"1108","10001",2403,"85+","Kent County, Delaware",2010
+"1109","37063",28116,"55-64","Durham County, North Carolina",2010
+"1110","37063",14057,"65-74","Durham County, North Carolina",2010
+"1111","37063",8166,"75-84","Durham County, North Carolina",2010
+"1112","37063",3894,"85+","Durham County, North Carolina",2010
+"1113","42089",21808,"55-64","Monroe County, Pennsylvania",2010
+"1114","42089",12623,"65-74","Monroe County, Pennsylvania",2010
+"1115","42089",6730,"75-84","Monroe County, Pennsylvania",2010
+"1116","42089",2348,"85+","Monroe County, Pennsylvania",2010
+"1117","21093",11433,"55-64","Hardin County, Kentucky",2010
+"1118","21093",6610,"65-74","Hardin County, Kentucky",2010
+"1119","21093",3682,"75-84","Hardin County, Kentucky",2010
+"1120","21093",1316,"85+","Hardin County, Kentucky",2010
+"1121","42049",35438,"55-64","Erie County, Pennsylvania",2010
+"1122","42049",20427,"65-74","Erie County, Pennsylvania",2010
+"1123","42049",13685,"75-84","Erie County, Pennsylvania",2010
+"1124","42049",6712,"85+","Erie County, Pennsylvania",2010
+"1125","18163",21864,"55-64","Vanderburgh County, Indiana",2010
+"1126","18163",12736,"65-74","Vanderburgh County, Indiana",2010
+"1127","18163",9067,"75-84","Vanderburgh County, Indiana",2010
+"1128","18163",4093,"85+","Vanderburgh County, Indiana",2010
+"1129","37051",30821,"55-64","Cumberland County, North Carolina",2010
+"1130","37051",17604,"65-74","Cumberland County, North Carolina",2010
+"1131","37051",9723,"75-84","Cumberland County, North Carolina",2010
+"1132","37051",2873,"85+","Cumberland County, North Carolina",2010
+"1133","26049",52676,"55-64","Genesee County, Michigan",2010
+"1134","26049",30938,"65-74","Genesee County, Michigan",2010
+"1135","26049",19792,"75-84","Genesee County, Michigan",2010
+"1136","26049",7459,"85+","Genesee County, Michigan",2010
+"1137","01077",12111,"55-64","Lauderdale County, Alabama",2010
+"1138","01077",8520,"65-74","Lauderdale County, Alabama",2010
+"1139","01077",5160,"75-84","Lauderdale County, Alabama",2010
+"1140","01077",1873,"85+","Lauderdale County, Alabama",2010
+"1141","45041",17617,"55-64","Florence County, South Carolina",2010
+"1142","45041",10527,"65-74","Florence County, South Carolina",2010
+"1143","45041",5458,"75-84","Florence County, South Carolina",2010
+"1144","45041",2032,"85+","Florence County, South Carolina",2010
+"1145","12091",21403,"55-64","Okaloosa County, Florida",2010
+"1146","12091",14094,"65-74","Okaloosa County, Florida",2010
+"1147","12091",8577,"75-84","Okaloosa County, Florida",2010
+"1148","12091",2547,"85+","Okaloosa County, Florida",2010
+"1149","24021",27453,"55-64","Frederick County, Maryland",2010
+"1150","24021",14060,"65-74","Frederick County, Maryland",2010
+"1151","24021",8097,"75-84","Frederick County, Maryland",2010
+"1152","24021",3757,"85+","Frederick County, Maryland",2010
+"1153","51630",2152,"55-64","Fredericksburg city, Virginia",2010
+"1154","51630",1179,"65-74","Fredericksburg city, Virginia",2010
+"1155","51630",840,"75-84","Fredericksburg city, Virginia",2010
+"1156","51630",394,"85+","Fredericksburg city, Virginia",2010
+"1157","01055",14147,"55-64","Etowah County, Alabama",2010
+"1158","01055",9097,"65-74","Etowah County, Alabama",2010
+"1159","01055",5475,"75-84","Etowah County, Alabama",2010
+"1160","01055",1936,"85+","Etowah County, Alabama",2010
+"1161","12001",27171,"55-64","Alachua County, Florida",2010
+"1162","12001",14580,"65-74","Alachua County, Florida",2010
+"1163","12001",8375,"75-84","Alachua County, Florida",2010
+"1164","12001",3672,"85+","Alachua County, Florida",2010
+"1165","13139",18801,"55-64","Hall County, Georgia",2010
+"1166","13139",11571,"65-74","Hall County, Georgia",2010
+"1167","13139",6246,"75-84","Hall County, Georgia",2010
+"1168","13139",2193,"85+","Hall County, Georgia",2010
+"1169","37071",25833,"55-64","Gaston County, North Carolina",2010
+"1170","37071",15308,"65-74","Gaston County, North Carolina",2010
+"1171","37071",8865,"75-84","Gaston County, North Carolina",2010
+"1172","37071",3121,"85+","Gaston County, North Carolina",2010
+"1173","37191",14436,"55-64","Wayne County, North Carolina",2010
+"1174","37191",9100,"65-74","Wayne County, North Carolina",2010
+"1175","37191",5288,"75-84","Wayne County, North Carolina",2010
+"1176","37191",1690,"85+","Wayne County, North Carolina",2010
+"1177","37081",56106,"55-64","Guilford County, North Carolina",2010
+"1178","37081",32201,"65-74","Guilford County, North Carolina",2010
+"1179","37081",19761,"75-84","Guilford County, North Carolina",2010
+"1180","37081",8161,"85+","Guilford County, North Carolina",2010
+"1181","37147",17172,"55-64","Pitt County, North Carolina",2010
+"1182","37147",9307,"65-74","Pitt County, North Carolina",2010
+"1183","37147",5262,"75-84","Pitt County, North Carolina",2010
+"1184","37147",2050,"85+","Pitt County, North Carolina",2010
+"1185","45045",53105,"55-64","Greenville County, South Carolina",2010
+"1186","45045",32627,"65-74","Greenville County, South Carolina",2010
+"1187","45045",17804,"75-84","Greenville County, South Carolina",2010
+"1188","45045",7150,"85+","Greenville County, South Carolina",2010
+"1189","28047",21301,"55-64","Harrison County, Mississippi",2010
+"1190","28047",12707,"65-74","Harrison County, Mississippi",2010
+"1191","28047",6993,"75-84","Harrison County, Mississippi",2010
+"1192","28047",2252,"85+","Harrison County, Mississippi",2010
+"1193","24043",17803,"55-64","Washington County, Maryland",2010
+"1194","24043",10969,"65-74","Washington County, Maryland",2010
+"1195","24043",7076,"75-84","Washington County, Maryland",2010
+"1196","24043",3059,"85+","Washington County, Maryland",2010
+"1197","51660",3057,"55-64","Harrisonburg city, Virginia",2010
+"1198","51660",1829,"65-74","Harrisonburg city, Virginia",2010
+"1199","51660",1435,"75-84","Harrisonburg city, Virginia",2010
+"1200","51660",769,"85+","Harrisonburg city, Virginia",2010
+"1201","28035",7444,"55-64","Forrest County, Mississippi",2010
+"1202","28035",4658,"65-74","Forrest County, Mississippi",2010
+"1203","28035",2869,"75-84","Forrest County, Mississippi",2010
+"1204","28035",1137,"85+","Forrest County, Mississippi",2010
+"1205","42079",43035,"55-64","Luzerne County, Pennsylvania",2010
+"1206","42079",27544,"65-74","Luzerne County, Pennsylvania",2010
+"1207","42079",20517,"75-84","Luzerne County, Pennsylvania",2010
+"1208","42079",9534,"85+","Luzerne County, Pennsylvania",2010
+"1209","37035",19816,"55-64","Catawba County, North Carolina",2010
+"1210","37035",12349,"65-74","Catawba County, North Carolina",2010
+"1211","37035",6850,"75-84","Catawba County, North Carolina",2010
+"1212","37035",2574,"85+","Catawba County, North Carolina",2010
+"1213","45013",22159,"55-64","Beaufort County, South Carolina",2010
+"1214","45013",20137,"65-74","Beaufort County, South Carolina",2010
+"1215","45013",9698,"75-84","Beaufort County, South Carolina",2010
+"1216","45013",3197,"85+","Beaufort County, South Carolina",2010
+"1217","13179",5325,"55-64","Liberty County, Georgia",2010
+"1218","13179",2654,"65-74","Liberty County, Georgia",2010
+"1219","13179",1019,"75-84","Liberty County, Georgia",2010
+"1220","13179",298,"85+","Liberty County, Georgia",2010
+"1221","12017",23501,"55-64","Citrus County, Florida",2010
+"1222","12017",24597,"65-74","Citrus County, Florida",2010
+"1223","12017",15166,"75-84","Citrus County, Florida",2010
+"1224","12017",5278,"85+","Citrus County, Florida",2010
+"1225","54011",12517,"55-64","Cabell County, West Virginia",2010
+"1226","54011",8015,"65-74","Cabell County, West Virginia",2010
+"1227","54011",5326,"75-84","Cabell County, West Virginia",2010
+"1228","54011",2023,"85+","Cabell County, West Virginia",2010
+"1229","01089",37721,"55-64","Madison County, Alabama",2010
+"1230","01089",23151,"65-74","Madison County, Alabama",2010
+"1231","01089",13284,"75-84","Madison County, Alabama",2010
+"1232","01089",4438,"85+","Madison County, Alabama",2010
+"1233","26075",20646,"55-64","Jackson County, Michigan",2010
+"1234","26075",11922,"65-74","Jackson County, Michigan",2010
+"1235","26075",7453,"75-84","Jackson County, Michigan",2010
+"1236","26075",3304,"85+","Jackson County, Michigan",2010
+"1237","47113",11925,"55-64","Madison County, Tennessee",2010
+"1238","47113",7048,"65-74","Madison County, Tennessee",2010
+"1239","47113",4216,"75-84","Madison County, Tennessee",2010
+"1240","47113",1668,"85+","Madison County, Tennessee",2010
+"1241","12031",99765,"55-64","Duval County, Florida",2010
+"1242","12031",53263,"65-74","Duval County, Florida",2010
+"1243","12031",30136,"75-84","Duval County, Florida",2010
+"1244","12031",12770,"85+","Duval County, Florida",2010
+"1245","37133",13024,"55-64","Onslow County, North Carolina",2010
+"1246","37133",7943,"65-74","Onslow County, North Carolina",2010
+"1247","37133",4119,"75-84","Onslow County, North Carolina",2010
+"1248","37133",1200,"85+","Onslow County, North Carolina",2010
+"1249","47179",15796,"55-64","Washington County, Tennessee",2010
+"1250","47179",10518,"65-74","Washington County, Tennessee",2010
+"1251","47179",5903,"75-84","Washington County, Tennessee",2010
+"1252","47179",2340,"85+","Washington County, Tennessee",2010
+"1253","12097",28736,"55-64","Osceola County, Florida",2010
+"1254","12097",17613,"65-74","Osceola County, Florida",2010
+"1255","12097",8990,"75-84","Osceola County, Florida",2010
+"1256","12097",3053,"85+","Osceola County, Florida",2010
+"1257","47093",52238,"55-64","Knox County, Tennessee",2010
+"1258","47093",30730,"65-74","Knox County, Tennessee",2010
+"1259","47093",18418,"75-84","Knox County, Tennessee",2010
+"1260","47093",7343,"85+","Knox County, Tennessee",2010
+"1261","12069",39612,"55-64","Lake County, Florida",2010
+"1262","12069",39112,"65-74","Lake County, Florida",2010
+"1263","12069",24330,"75-84","Lake County, Florida",2010
+"1264","12069",8383,"85+","Lake County, Florida",2010
+"1265","12105",74244,"55-64","Polk County, Florida",2010
+"1266","12105",60758,"65-74","Polk County, Florida",2010
+"1267","12105",35544,"75-84","Polk County, Florida",2010
+"1268","12105",11994,"85+","Polk County, Florida",2010
+"1269","42071",61992,"55-64","Lancaster County, Pennsylvania",2010
+"1270","42071",38240,"65-74","Lancaster County, Pennsylvania",2010
+"1271","42071",26694,"75-84","Lancaster County, Pennsylvania",2010
+"1272","42071",12846,"85+","Lancaster County, Pennsylvania",2010
+"1273","26065",31489,"55-64","Ingham County, Michigan",2010
+"1274","26065",15600,"65-74","Ingham County, Michigan",2010
+"1275","26065",9472,"75-84","Ingham County, Michigan",2010
+"1276","26065",4341,"85+","Ingham County, Michigan",2010
+"1277","42075",17368,"55-64","Lebanon County, Pennsylvania",2010
+"1278","42075",11371,"65-74","Lebanon County, Pennsylvania",2010
+"1279","42075",7736,"75-84","Lebanon County, Pennsylvania",2010
+"1280","42075",3622,"85+","Lebanon County, Pennsylvania",2010
+"1281","21067",31870,"55-64","Fayette County, Kentucky",2010
+"1282","21067",16943,"65-74","Fayette County, Kentucky",2010
+"1283","21067",9892,"75-84","Fayette County, Kentucky",2010
+"1284","21067",4303,"85+","Fayette County, Kentucky",2010
+"1285","24037",11258,"55-64","St. Mary's County, Maryland",2010
+"1286","24037",6302,"65-74","St. Mary's County, Maryland",2010
+"1287","24037",3194,"75-84","St. Mary's County, Maryland",2010
+"1288","24037",1285,"85+","St. Mary's County, Maryland",2010
+"1289","39003",13431,"55-64","Allen County, Ohio",2010
+"1290","39003",7928,"65-74","Allen County, Ohio",2010
+"1291","39003",5298,"75-84","Allen County, Ohio",2010
+"1292","39003",2471,"85+","Allen County, Ohio",2010
+"1293","39093",39568,"55-64","Lorain County, Ohio",2010
+"1294","39093",22928,"65-74","Lorain County, Ohio",2010
+"1295","39093",14207,"75-84","Lorain County, Ohio",2010
+"1296","39093",5996,"85+","Lorain County, Ohio",2010
+"1297","21111",91401,"55-64","Jefferson County, Kentucky",2010
+"1298","21111",51062,"65-74","Jefferson County, Kentucky",2010
+"1299","21111",33979,"75-84","Jefferson County, Kentucky",2010
+"1300","21111",14054,"85+","Jefferson County, Kentucky",2010
+"1301","51680",7591,"55-64","Lynchburg city, Virginia",2010
+"1302","51680",4893,"65-74","Lynchburg city, Virginia",2010
+"1303","51680",3632,"75-84","Lynchburg city, Virginia",2010
+"1304","51680",2031,"85+","Lynchburg city, Virginia",2010
+"1305","13021",18449,"55-64","Bibb County, Georgia",2010
+"1306","13021",10462,"65-74","Bibb County, Georgia",2010
+"1307","13021",6602,"75-84","Bibb County, Georgia",2010
+"1308","13021",2625,"85+","Bibb County, Georgia",2010
+"1309","39139",16557,"55-64","Richland County, Ohio",2010
+"1310","39139",10571,"65-74","Richland County, Ohio",2010
+"1311","39139",6928,"75-84","Richland County, Ohio",2010
+"1312","39139",2761,"85+","Richland County, Ohio",2010
+"1313","12086",271873,"55-64","Miami-Dade County, Florida",2010
+"1314","12086",186976,"65-74","Miami-Dade County, Florida",2010
+"1315","12086",119171,"75-84","Miami-Dade County, Florida",2010
+"1316","12086",45866,"85+","Miami-Dade County, Florida",2010
+"1317","36071",42047,"55-64","Orange County, New York",2010
+"1318","36071",22454,"65-74","Orange County, New York",2010
+"1319","36071",12943,"75-84","Orange County, New York",2010
+"1320","36071",5588,"85+","Orange County, New York",2010
+"1321","39017",42892,"55-64","Butler County, Ohio",2010
+"1322","39017",23034,"65-74","Butler County, Ohio",2010
+"1323","39017",14312,"75-84","Butler County, Ohio",2010
+"1324","39017",5138,"85+","Butler County, Ohio",2010
+"1325","26111",10491,"55-64","Midland County, Michigan",2010
+"1326","26111",6436,"65-74","Midland County, Michigan",2010
+"1327","26111",4164,"75-84","Midland County, Michigan",2010
+"1328","26111",1784,"85+","Midland County, Michigan",2010
+"1329","01097",49790,"55-64","Mobile County, Alabama",2010
+"1330","01097",29985,"65-74","Mobile County, Alabama",2010
+"1331","01097",16960,"75-84","Mobile County, Alabama",2010
+"1332","01097",6376,"85+","Mobile County, Alabama",2010
+"1333","42129",53991,"55-64","Westmoreland County, Pennsylvania",2010
+"1334","42129",33729,"65-74","Westmoreland County, Pennsylvania",2010
+"1335","42129",24392,"75-84","Westmoreland County, Pennsylvania",2010
+"1336","42129",10756,"85+","Westmoreland County, Pennsylvania",2010
+"1337","26115",20246,"55-64","Monroe County, Michigan",2010
+"1338","26115",11171,"65-74","Monroe County, Michigan",2010
+"1339","26115",6612,"75-84","Monroe County, Michigan",2010
+"1340","26115",2609,"85+","Monroe County, Michigan",2010
+"1341","01101",25794,"55-64","Montgomery County, Alabama",2010
+"1342","01101",14768,"65-74","Montgomery County, Alabama",2010
+"1343","01101",9089,"75-84","Montgomery County, Alabama",2010
+"1344","01101",3564,"85+","Montgomery County, Alabama",2010
+"1345","54061",9845,"55-64","Monongalia County, West Virginia",2010
+"1346","54061",5310,"65-74","Monongalia County, West Virginia",2010
+"1347","54061",3233,"75-84","Monongalia County, West Virginia",2010
+"1348","54061",1283,"85+","Monongalia County, West Virginia",2010
+"1349","47063",7872,"55-64","Hamblen County, Tennessee",2010
+"1350","47063",5759,"65-74","Hamblen County, Tennessee",2010
+"1351","47063",3118,"75-84","Hamblen County, Tennessee",2010
+"1352","47063",1041,"85+","Hamblen County, Tennessee",2010
+"1353","47149",24671,"55-64","Rutherford County, Tennessee",2010
+"1354","47149",12970,"65-74","Rutherford County, Tennessee",2010
+"1355","47149",6346,"75-84","Rutherford County, Tennessee",2010
+"1356","47149",2250,"85+","Rutherford County, Tennessee",2010
+"1357","45051",38526,"55-64","Horry County, South Carolina",2010
+"1358","45051",28382,"65-74","Horry County, South Carolina",2010
+"1359","45051",13675,"75-84","Horry County, South Carolina",2010
+"1360","45051",4013,"85+","Horry County, South Carolina",2010
+"1361","47037",67274,"55-64","Davidson County, Tennessee",2010
+"1362","47037",34993,"65-74","Davidson County, Tennessee",2010
+"1363","47037",21470,"75-84","Davidson County, Tennessee",2010
+"1364","47037",8940,"85+","Davidson County, Tennessee",2010
+"1365","39089",20904,"55-64","Licking County, Ohio",2010
+"1366","39089",12666,"65-74","Licking County, Ohio",2010
+"1367","39089",6875,"75-84","Licking County, Ohio",2010
+"1368","39089",2546,"85+","Licking County, Ohio",2010
+"1369","37049",12356,"55-64","Craven County, North Carolina",2010
+"1370","37049",8740,"65-74","Craven County, North Carolina",2010
+"1371","37049",5243,"75-84","Craven County, North Carolina",2010
+"1372","37049",1827,"85+","Craven County, North Carolina",2010
+"1373","36081",253676,"55-64","Queens County, New York",2010
+"1374","36081",150624,"65-74","Queens County, New York",2010
+"1375","36081",93347,"75-84","Queens County, New York",2010
+"1376","36081",42175,"85+","Queens County, New York",2010
+"1377","12115",58335,"55-64","Sarasota County, Florida",2010
+"1378","12115",58323,"65-74","Sarasota County, Florida",2010
+"1379","12115",41878,"75-84","Sarasota County, Florida",2010
+"1380","12115",18026,"85+","Sarasota County, Florida",2010
+"1381","12083",46001,"55-64","Marion County, Florida",2010
+"1382","12083",47094,"65-74","Marion County, Florida",2010
+"1383","12083",28822,"75-84","Marion County, Florida",2010
+"1384","12083",9402,"85+","Marion County, Florida",2010
+"1385","12095",114291,"55-64","Orange County, Florida",2010
+"1386","12095",62011,"65-74","Orange County, Florida",2010
+"1387","12095",35392,"75-84","Orange County, Florida",2010
+"1388","12095",13516,"85+","Orange County, Florida",2010
+"1389","21059",12075,"55-64","Daviess County, Kentucky",2010
+"1390","21059",7414,"65-74","Daviess County, Kentucky",2010
+"1391","21059",4756,"75-84","Daviess County, Kentucky",2010
+"1392","21059",1948,"85+","Daviess County, Kentucky",2010
+"1393","12009",74652,"55-64","Brevard County, Florida",2010
+"1394","12009",57686,"65-74","Brevard County, Florida",2010
+"1395","12009",38925,"75-84","Brevard County, Florida",2010
+"1396","12009",14101,"85+","Brevard County, Florida",2010
+"1397","12035",14825,"55-64","Flagler County, Florida",2010
+"1398","12035",13593,"65-74","Flagler County, Florida",2010
+"1399","12035",7405,"75-84","Flagler County, Florida",2010
+"1400","12035",2407,"85+","Flagler County, Florida",2010
+"1401","12005",20901,"55-64","Bay County, Florida",2010
+"1402","12005",13678,"65-74","Bay County, Florida",2010
+"1403","12005",8047,"75-84","Bay County, Florida",2010
+"1404","12005",2834,"85+","Bay County, Florida",2010
+"1405","54107",12085,"55-64","Wood County, West Virginia",2010
+"1406","54107",8243,"65-74","Wood County, West Virginia",2010
+"1407","54107",4693,"75-84","Wood County, West Virginia",2010
+"1408","54107",1782,"85+","Wood County, West Virginia",2010
+"1409","28059",16680,"55-64","Jackson County, Mississippi",2010
+"1410","28059",10499,"65-74","Jackson County, Mississippi",2010
+"1411","28059",5254,"75-84","Jackson County, Mississippi",2010
+"1412","28059",1588,"85+","Jackson County, Mississippi",2010
+"1413","12033",36661,"55-64","Escambia County, Florida",2010
+"1414","12033",23484,"65-74","Escambia County, Florida",2010
+"1415","12033",14116,"75-84","Escambia County, Florida",2010
+"1416","12033",5329,"85+","Escambia County, Florida",2010
+"1417","42101",160808,"55-64","Philadelphia County, Pennsylvania",2010
+"1418","42101",94764,"65-74","Philadelphia County, Pennsylvania",2010
+"1419","42101",62434,"75-84","Philadelphia County, Pennsylvania",2010
+"1420","42101",28111,"85+","Philadelphia County, Pennsylvania",2010
+"1421","42003",162705,"55-64","Allegheny County, Pennsylvania",2010
+"1422","42003",95684,"65-74","Allegheny County, Pennsylvania",2010
+"1423","42003",74259,"75-84","Allegheny County, Pennsylvania",2010
+"1424","42003",35116,"85+","Allegheny County, Pennsylvania",2010
+"1425","26147",21986,"55-64","St. Clair County, Michigan",2010
+"1426","26147",12894,"65-74","St. Clair County, Michigan",2010
+"1427","26147",7565,"75-84","St. Clair County, Michigan",2010
+"1428","26147",3212,"85+","St. Clair County, Michigan",2010
+"1429","12111",34944,"55-64","St. Lucie County, Florida",2010
+"1430","12111",29395,"65-74","St. Lucie County, Florida",2010
+"1431","12111",19384,"75-84","St. Lucie County, Florida",2010
+"1432","12111",6599,"85+","St. Lucie County, Florida",2010
+"1433","42091",99952,"55-64","Montgomery County, Pennsylvania",2010
+"1434","42091",58492,"65-74","Montgomery County, Pennsylvania",2010
+"1435","42091",41620,"75-84","Montgomery County, Pennsylvania",2010
+"1436","42091",20615,"85+","Montgomery County, Pennsylvania",2010
+"1437","36027",37122,"55-64","Dutchess County, New York",2010
+"1438","36027",21435,"65-74","Dutchess County, New York",2010
+"1439","36027",13298,"75-84","Dutchess County, New York",2010
+"1440","36027",5571,"85+","Dutchess County, New York",2010
+"1441","37183",88597,"55-64","Wake County, North Carolina",2010
+"1442","37183",44391,"65-74","Wake County, North Carolina",2010
+"1443","37183",22804,"75-84","Wake County, North Carolina",2010
+"1444","37183",9354,"85+","Wake County, North Carolina",2010
+"1445","42011",49902,"55-64","Berks County, Pennsylvania",2010
+"1446","42011",29576,"65-74","Berks County, Pennsylvania",2010
+"1447","42011",20789,"75-84","Berks County, Pennsylvania",2010
+"1448","42011",9193,"85+","Berks County, Pennsylvania",2010
+"1449","51760",22163,"55-64","Richmond city, Virginia",2010
+"1450","51760",11400,"65-74","Richmond city, Virginia",2010
+"1451","51760",7380,"75-84","Richmond city, Virginia",2010
+"1452","51760",3839,"85+","Richmond city, Virginia",2010
+"1453","51770",12324,"55-64","Roanoke city, Virginia",2010
+"1454","51770",6634,"65-74","Roanoke city, Virginia",2010
+"1455","51770",4739,"75-84","Roanoke city, Virginia",2010
+"1456","51770",2463,"85+","Roanoke city, Virginia",2010
+"1457","45091",26546,"55-64","York County, South Carolina",2010
+"1458","45091",15250,"65-74","York County, South Carolina",2010
+"1459","45091",7604,"75-84","York County, South Carolina",2010
+"1460","45091",2772,"85+","York County, South Carolina",2010
+"1461","37127",12978,"55-64","Nash County, North Carolina",2010
+"1462","37127",7474,"65-74","Nash County, North Carolina",2010
+"1463","37127",4325,"75-84","Nash County, North Carolina",2010
+"1464","37127",1594,"85+","Nash County, North Carolina",2010
+"1465","13115",11541,"55-64","Floyd County, Georgia",2010
+"1466","13115",7439,"65-74","Floyd County, Georgia",2010
+"1467","13115",4538,"75-84","Floyd County, Georgia",2010
+"1468","13115",1725,"85+","Floyd County, Georgia",2010
+"1469","26145",26112,"55-64","Saginaw County, Michigan",2010
+"1470","26145",16031,"65-74","Saginaw County, Michigan",2010
+"1471","26145",10138,"75-84","Saginaw County, Michigan",2010
+"1472","26145",4432,"85+","Saginaw County, Michigan",2010
+"1473","12109",26669,"55-64","St. Johns County, Florida",2010
+"1474","12109",16708,"65-74","St. Johns County, Florida",2010
+"1475","12109",9408,"75-84","St. Johns County, Florida",2010
+"1476","12109",3677,"85+","St. Johns County, Florida",2010
+"1477","24045",11623,"55-64","Wicomico County, Maryland",2010
+"1478","24045",6866,"65-74","Wicomico County, Maryland",2010
+"1479","24045",4210,"75-84","Wicomico County, Maryland",2010
+"1480","24045",1771,"85+","Wicomico County, Maryland",2010
+"1481","13051",29948,"55-64","Chatham County, Georgia",2010
+"1482","13051",18028,"65-74","Chatham County, Georgia",2010
+"1483","13051",10441,"75-84","Chatham County, Georgia",2010
+"1484","13051",4395,"85+","Chatham County, Georgia",2010
+"1485","42069",28645,"55-64","Lackawanna County, Pennsylvania",2010
+"1486","42069",17980,"65-74","Lackawanna County, Pennsylvania",2010
+"1487","42069",13289,"75-84","Lackawanna County, Pennsylvania",2010
+"1488","42069",6626,"85+","Lackawanna County, Pennsylvania",2010
+"1489","12061",19833,"55-64","Indian River County, Florida",2010
+"1490","12061",18036,"65-74","Indian River County, Florida",2010
+"1491","12061",13790,"75-84","Indian River County, Florida",2010
+"1492","12061",5678,"85+","Indian River County, Florida",2010
+"1493","12055",13322,"55-64","Highlands County, Florida",2010
+"1494","12055",16367,"65-74","Highlands County, Florida",2010
+"1495","12055",11294,"75-84","Highlands County, Florida",2010
+"1496","12055",4161,"85+","Highlands County, Florida",2010
+"1497","26125",158272,"55-64","Oakland County, Michigan",2010
+"1498","26125",84103,"65-74","Oakland County, Michigan",2010
+"1499","26125",51264,"75-84","Oakland County, Michigan",2010
+"1500","26125",23757,"85+","Oakland County, Michigan",2010
+"1501","45083",35187,"55-64","Spartanburg County, South Carolina",2010
+"1502","45083",22066,"65-74","Spartanburg County, South Carolina",2010
+"1503","45083",11736,"75-84","Spartanburg County, South Carolina",2010
+"1504","45083",4425,"85+","Spartanburg County, South Carolina",2010
+"1505","17167",26012,"55-64","Sangamon County, Illinois",2010
+"1506","17167",14307,"65-74","Sangamon County, Illinois",2010
+"1507","17167",9000,"75-84","Sangamon County, Illinois",2010
+"1508","17167",4055,"85+","Sangamon County, Illinois",2010
+"1509","39023",18766,"55-64","Clark County, Ohio",2010
+"1510","39023",11928,"65-74","Clark County, Ohio",2010
+"1511","39023",7284,"75-84","Clark County, Ohio",2010
+"1512","39023",3210,"85+","Clark County, Ohio",2010
+"1513","12053",24471,"55-64","Hernando County, Florida",2010
+"1514","12053",23233,"65-74","Hernando County, Florida",2010
+"1515","12053",15780,"75-84","Hernando County, Florida",2010
+"1516","12053",5510,"85+","Hernando County, Florida",2010
+"1517","51790",3162,"55-64","Staunton city, Virginia",2010
+"1518","51790",2320,"65-74","Staunton city, Virginia",2010
+"1519","51790",1657,"75-84","Staunton city, Virginia",2010
+"1520","51790",713,"85+","Staunton city, Virginia",2010
+"1521","45085",12143,"55-64","Sumter County, South Carolina",2010
+"1522","45085",7883,"65-74","Sumter County, South Carolina",2010
+"1523","45085",4323,"75-84","Sumter County, South Carolina",2010
+"1524","45085",1715,"85+","Sumter County, South Carolina",2010
+"1525","12073",29730,"55-64","Leon County, Florida",2010
+"1526","12073",14633,"65-74","Leon County, Florida",2010
+"1527","12073",7930,"75-84","Leon County, Florida",2010
+"1528","12073",3417,"85+","Leon County, Florida",2010
+"1529","12057",134661,"55-64","Hillsborough County, Florida",2010
+"1530","12057",79772,"65-74","Hillsborough County, Florida",2010
+"1531","12057",46900,"75-84","Hillsborough County, Florida",2010
+"1532","12057",18565,"85+","Hillsborough County, Florida",2010
+"1533","18167",12726,"55-64","Vigo County, Indiana",2010
+"1534","18167",7476,"65-74","Vigo County, Indiana",2010
+"1535","18167",4813,"75-84","Vigo County, Indiana",2010
+"1536","18167",2222,"85+","Vigo County, Indiana",2010
+"1537","39095",54387,"55-64","Lucas County, Ohio",2010
+"1538","39095",29423,"65-74","Lucas County, Ohio",2010
+"1539","39095",19789,"75-84","Lucas County, Ohio",2010
+"1540","39095",8597,"85+","Lucas County, Ohio",2010
+"1541","34021",42834,"55-64","Mercer County, New Jersey",2010
+"1542","34021",23570,"65-74","Mercer County, New Jersey",2010
+"1543","34021",15444,"75-84","Mercer County, New Jersey",2010
+"1544","34021",7333,"85+","Mercer County, New Jersey",2010
+"1545","01125",20863,"55-64","Tuscaloosa County, Alabama",2010
+"1546","01125",11349,"65-74","Tuscaloosa County, Alabama",2010
+"1547","01125",7185,"75-84","Tuscaloosa County, Alabama",2010
+"1548","01125",2516,"85+","Tuscaloosa County, Alabama",2010
+"1549","42051",19826,"55-64","Fayette County, Pennsylvania",2010
+"1550","42051",12200,"65-74","Fayette County, Pennsylvania",2010
+"1551","42051",8518,"75-84","Fayette County, Pennsylvania",2010
+"1552","42051",3862,"85+","Fayette County, Pennsylvania",2010
+"1553","13185",10312,"55-64","Lowndes County, Georgia",2010
+"1554","13185",6178,"65-74","Lowndes County, Georgia",2010
+"1555","13185",3371,"75-84","Lowndes County, Georgia",2010
+"1556","13185",1144,"85+","Lowndes County, Georgia",2010
+"1557","34009",15285,"55-64","Cape May County, New Jersey",2010
+"1558","34009",11036,"65-74","Cape May County, New Jersey",2010
+"1559","34009",7096,"75-84","Cape May County, New Jersey",2010
+"1560","34009",2845,"85+","Cape May County, New Jersey",2010
+"1561","34011",17430,"55-64","Cumberland County, New Jersey",2010
+"1562","34011",10555,"65-74","Cumberland County, New Jersey",2010
+"1563","34011",6350,"75-84","Cumberland County, New Jersey",2010
+"1564","34011",2890,"85+","Cumberland County, New Jersey",2010
+"1565","51810",47503,"55-64","Virginia Beach city, Virginia",2010
+"1566","51810",25916,"65-74","Virginia Beach city, Virginia",2010
+"1567","51810",14889,"75-84","Virginia Beach city, Virginia",2010
+"1568","51810",5630,"85+","Virginia Beach city, Virginia",2010
+"1569","24017",15906,"55-64","Charles County, Maryland",2010
+"1570","24017",8558,"65-74","Charles County, Maryland",2010
+"1571","24017",3877,"75-84","Charles County, Maryland",2010
+"1572","24017",1417,"85+","Charles County, Maryland",2010
+"1573","13153",14390,"55-64","Houston County, Georgia",2010
+"1574","13153",8463,"65-74","Houston County, Georgia",2010
+"1575","13153",4706,"75-84","Houston County, Georgia",2010
+"1576","13153",1402,"85+","Houston County, Georgia",2010
+"1577","11001",63977,"55-64","District of Columbia, District of Columbia",2010
+"1578","11001",36969,"65-74","District of Columbia, District of Columbia",2010
+"1579","11001",21525,"75-84","District of Columbia, District of Columbia",2010
+"1580","11001",10315,"85+","District of Columbia, District of Columbia",2010
+"1581","54029",4797,"55-64","Hancock County, West Virginia",2010
+"1582","54029",2851,"65-74","Hancock County, West Virginia",2010
+"1583","54029",2102,"75-84","Hancock County, West Virginia",2010
+"1584","54029",801,"85+","Hancock County, West Virginia",2010
+"1585","24013",21293,"55-64","Carroll County, Maryland",2010
+"1586","24013",11895,"65-74","Carroll County, Maryland",2010
+"1587","24013",6894,"75-84","Carroll County, Maryland",2010
+"1588","24013",3020,"85+","Carroll County, Maryland",2010
+"1589","54069",6577,"55-64","Ohio County, West Virginia",2010
+"1590","54069",3873,"65-74","Ohio County, West Virginia",2010
+"1591","54069",2975,"75-84","Ohio County, West Virginia",2010
+"1592","54069",1365,"85+","Ohio County, West Virginia",2010
+"1593","51830",1203,"55-64","Williamsburg city, Virginia",2010
+"1594","51830",1071,"65-74","Williamsburg city, Virginia",2010
+"1595","51830",603,"75-84","Williamsburg city, Virginia",2010
+"1596","51830",205,"85+","Williamsburg city, Virginia",2010
+"1597","37129",25139,"55-64","New Hanover County, North Carolina",2010
+"1598","37129",15583,"65-74","New Hanover County, North Carolina",2010
+"1599","37129",8836,"75-84","New Hanover County, North Carolina",2010
+"1600","37129",3673,"85+","New Hanover County, North Carolina",2010
+"1601","51840",2844,"55-64","Winchester city, Virginia",2010
+"1602","51840",1766,"65-74","Winchester city, Virginia",2010
+"1603","51840",1363,"75-84","Winchester city, Virginia",2010
+"1604","51840",547,"85+","Winchester city, Virginia",2010
+"1605","42133",55773,"55-64","York County, Pennsylvania",2010
+"1606","42133",32701,"65-74","York County, Pennsylvania",2010
+"1607","42133",19977,"75-84","York County, Pennsylvania",2010
+"1608","42133",8379,"85+","York County, Pennsylvania",2010
+"1609","39099",33766,"55-64","Mahoning County, Ohio",2010
+"1610","39099",19931,"65-74","Mahoning County, Ohio",2010
+"1611","39099",15401,"75-84","Mahoning County, Ohio",2010
+"1612","39099",7370,"85+","Mahoning County, Ohio",2010
+"1613","12101",60763,"55-64","Pasco County, Florida",2010
+"1614","12101",50870,"65-74","Pasco County, Florida",2010
+"1615","12101",32822,"75-84","Pasco County, Florida",2010
+"1616","12101",12553,"85+","Pasco County, Florida",2010
+"1617","72005",7725,"55-64","Aguadilla Municipio, Puerto Rico",2010
+"1618","72005",5671,"65-74","Aguadilla Municipio, Puerto Rico",2010
+"1619","72005",2849,"75-84","Aguadilla Municipio, Puerto Rico",2010
+"1620","72005",904,"85+","Aguadilla Municipio, Puerto Rico",2010
+"1621","36001",38900,"55-64","Albany County, New York",2010
+"1622","36001",20644,"65-74","Albany County, New York",2010
+"1623","36001",14570,"75-84","Albany County, New York",2010
+"1624","36001",7100,"85+","Albany County, New York",2010
+"1625","42013",17418,"55-64","Blair County, Pennsylvania",2010
+"1626","42013",11026,"65-74","Blair County, Pennsylvania",2010
+"1627","42013",7850,"75-84","Blair County, Pennsylvania",2010
+"1628","42013",3651,"85+","Blair County, Pennsylvania",2010
+"1629","72013",11757,"55-64","Arecibo Municipio, Puerto Rico",2010
+"1630","72013",9037,"65-74","Arecibo Municipio, Puerto Rico",2010
+"1631","72013",4920,"75-84","Arecibo Municipio, Puerto Rico",2010
+"1632","72013",1770,"85+","Arecibo Municipio, Puerto Rico",2010
+"1633","36007",25201,"55-64","Broome County, New York",2010
+"1634","36007",15668,"65-74","Broome County, New York",2010
+"1635","36007",11539,"75-84","Broome County, New York",2010
+"1636","36007",5637,"85+","Broome County, New York",2010
+"1637","25025",66988,"55-64","Suffolk County, Massachusetts",2010
+"1638","25025",39594,"65-74","Suffolk County, Massachusetts",2010
+"1639","25025",24814,"75-84","Suffolk County, Massachusetts",2010
+"1640","25025",11318,"85+","Suffolk County, Massachusetts",2010
+"1641","36029",116568,"55-64","Erie County, New York",2010
+"1642","36029",69929,"65-74","Erie County, New York",2010
+"1643","36029",50828,"75-84","Erie County, New York",2010
+"1644","36029",23607,"85+","Erie County, New York",2010
+"1645","42055",18672,"55-64","Franklin County, Pennsylvania",2010
+"1646","42055",12932,"65-74","Franklin County, Pennsylvania",2010
+"1647","42055",8326,"75-84","Franklin County, Pennsylvania",2010
+"1648","42055",3421,"85+","Franklin County, Pennsylvania",2010
+"1649","36015",11723,"55-64","Chemung County, New York",2010
+"1650","36015",6841,"65-74","Chemung County, New York",2010
+"1651","36015",4862,"75-84","Chemung County, New York",2010
+"1652","36015",2240,"85+","Chemung County, New York",2010
+"1653","72053",4107,"55-64","Fajardo Municipio, Puerto Rico",2010
+"1654","72053",3553,"65-74","Fajardo Municipio, Puerto Rico",2010
+"1655","72053",1959,"75-84","Fajardo Municipio, Puerto Rico",2010
+"1656","72053",697,"85+","Fajardo Municipio, Puerto Rico",2010
+"1657","72054",1516,"55-64","Florida Municipio, Puerto Rico",2010
+"1658","72054",993,"65-74","Florida Municipio, Puerto Rico",2010
+"1659","72054",466,"75-84","Florida Municipio, Puerto Rico",2010
+"1660","72054",146,"85+","Florida Municipio, Puerto Rico",2010
+"1661","36113",9810,"55-64","Warren County, New York",2010
+"1662","36113",5957,"65-74","Warren County, New York",2010
+"1663","36113",3678,"75-84","Warren County, New York",2010
+"1664","36113",1612,"85+","Warren County, New York",2010
+"1665","72057",5059,"55-64","Guayama Municipio, Puerto Rico",2010
+"1666","72057",3292,"65-74","Guayama Municipio, Puerto Rico",2010
+"1667","72057",1701,"75-84","Guayama Municipio, Puerto Rico",2010
+"1668","72057",615,"85+","Guayama Municipio, Puerto Rico",2010
+"1669","42043",35368,"55-64","Dauphin County, Pennsylvania",2010
+"1670","42043",19018,"65-74","Dauphin County, Pennsylvania",2010
+"1671","42043",12647,"75-84","Dauphin County, Pennsylvania",2010
+"1672","42043",5176,"85+","Dauphin County, Pennsylvania",2010
+"1673","09003",110896,"55-64","Hartford County, Connecticut",2010
+"1674","09003",63753,"65-74","Hartford County, Connecticut",2010
+"1675","09003",43629,"75-84","Hartford County, Connecticut",2010
+"1676","09003",22737,"85+","Hartford County, Connecticut",2010
+"1677","36109",11304,"55-64","Tompkins County, New York",2010
+"1678","36109",5711,"65-74","Tompkins County, New York",2010
+"1679","36109",3421,"75-84","Tompkins County, New York",2010
+"1680","36109",1797,"85+","Tompkins County, New York",2010
+"1681","42021",20724,"55-64","Cambria County, Pennsylvania",2010
+"1682","42021",12683,"65-74","Cambria County, Pennsylvania",2010
+"1683","42021",9744,"75-84","Cambria County, Pennsylvania",2010
+"1684","42021",4644,"85+","Cambria County, Pennsylvania",2010
+"1685","72075",5495,"55-64","Juana Díaz Municipio, Puerto Rico",2010
+"1686","72075",3673,"65-74","Juana Díaz Municipio, Puerto Rico",2010
+"1687","72075",1780,"75-84","Juana Díaz Municipio, Puerto Rico",2010
+"1688","72075",673,"85+","Juana Díaz Municipio, Puerto Rico",2010
+"1689","36111",25617,"55-64","Ulster County, New York",2010
+"1690","36111",14464,"65-74","Ulster County, New York",2010
+"1691","36111",8754,"75-84","Ulster County, New York",2010
+"1692","36111",3826,"85+","Ulster County, New York",2010
+"1693","25027",96170,"55-64","Worcester County, Massachusetts",2010
+"1694","25027",51473,"65-74","Worcester County, Massachusetts",2010
+"1695","25027",33647,"75-84","Worcester County, Massachusetts",2010
+"1696","25027",16915,"85+","Worcester County, Massachusetts",2010
+"1697","33011",49515,"55-64","Hillsborough County, New Hampshire",2010
+"1698","33011",25560,"65-74","Hillsborough County, New Hampshire",2010
+"1699","33011",15119,"75-84","Hillsborough County, New Hampshire",2010
+"1700","33011",6848,"85+","Hillsborough County, New Hampshire",2010
+"1701","72097",10977,"55-64","Mayagüez Municipio, Puerto Rico",2010
+"1702","72097",8619,"65-74","Mayagüez Municipio, Puerto Rico",2010
+"1703","72097",5234,"75-84","Mayagüez Municipio, Puerto Rico",2010
+"1704","72097",1906,"85+","Mayagüez Municipio, Puerto Rico",2010
+"1705","25005",67210,"55-64","Bristol County, Massachusetts",2010
+"1706","25005",39155,"65-74","Bristol County, Massachusetts",2010
+"1707","25005",25782,"75-84","Bristol County, Massachusetts",2010
+"1708","25005",12942,"85+","Bristol County, Massachusetts",2010
+"1709","09009",105318,"55-64","New Haven County, Connecticut",2010
+"1710","09009",60734,"65-74","New Haven County, Connecticut",2010
+"1711","09009",41125,"75-84","New Haven County, Connecticut",2010
+"1712","09009",22113,"85+","New Haven County, Connecticut",2010
+"1713","09011",35001,"55-64","New London County, Connecticut",2010
+"1714","09011",20365,"65-74","New London County, Connecticut",2010
+"1715","09011",12789,"75-84","New London County, Connecticut",2010
+"1716","09011",5841,"85+","New London County, Connecticut",2010
+"1717","25003",19491,"55-64","Berkshire County, Massachusetts",2010
+"1718","25003",11866,"65-74","Berkshire County, Massachusetts",2010
+"1719","25003",8280,"75-84","Berkshire County, Massachusetts",2010
+"1720","25003",4240,"85+","Berkshire County, Massachusetts",2010
+"1721","72113",20514,"55-64","Ponce Municipio, Puerto Rico",2010
+"1722","72113",14329,"65-74","Ponce Municipio, Puerto Rico",2010
+"1723","72113",7854,"75-84","Ponce Municipio, Puerto Rico",2010
+"1724","72113",2995,"85+","Ponce Municipio, Puerto Rico",2010
+"1725","33015",40968,"55-64","Rockingham County, New Hampshire",2010
+"1726","33015",21216,"65-74","Rockingham County, New Hampshire",2010
+"1727","33015",11571,"75-84","Rockingham County, New Hampshire",2010
+"1728","33015",4637,"85+","Rockingham County, New Hampshire",2010
+"1729","44007",70466,"55-64","Providence County, Rhode Island",2010
+"1730","44007",39814,"65-74","Providence County, Rhode Island",2010
+"1731","44007",28955,"75-84","Providence County, Rhode Island",2010
+"1732","44007",15620,"85+","Providence County, Rhode Island",2010
+"1733","36055",91818,"55-64","Monroe County, New York",2010
+"1734","36055",52071,"65-74","Monroe County, New York",2010
+"1735","36055",34079,"75-84","Monroe County, New York",2010
+"1736","36055",17444,"85+","Monroe County, New York",2010
+"1737","72125",4581,"55-64","San Germán Municipio, Puerto Rico",2010
+"1738","72125",3667,"65-74","San Germán Municipio, Puerto Rico",2010
+"1739","72125",1871,"75-84","San Germán Municipio, Puerto Rico",2010
+"1740","72125",820,"85+","San Germán Municipio, Puerto Rico",2010
+"1741","72127",47936,"55-64","San Juan Municipio, Puerto Rico",2010
+"1742","72127",33450,"65-74","San Juan Municipio, Puerto Rico",2010
+"1743","72127",23119,"75-84","San Juan Municipio, Puerto Rico",2010
+"1744","72127",10545,"85+","San Juan Municipio, Puerto Rico",2010
+"1745","36091",29411,"55-64","Saratoga County, New York",2010
+"1746","36091",16719,"65-74","Saratoga County, New York",2010
+"1747","36091",9234,"75-84","Saratoga County, New York",2010
+"1748","36091",4041,"85+","Saratoga County, New York",2010
+"1749","25013",56791,"55-64","Hampden County, Massachusetts",2010
+"1750","25013",32022,"65-74","Hampden County, Massachusetts",2010
+"1751","25013",22046,"75-84","Hampden County, Massachusetts",2010
+"1752","25013",11677,"85+","Hampden County, Massachusetts",2010
+"1753","42027",14970,"55-64","Centre County, Pennsylvania",2010
+"1754","42027",9150,"65-74","Centre County, Pennsylvania",2010
+"1755","42027",5861,"75-84","Centre County, Pennsylvania",2010
+"1756","42027",2355,"85+","Centre County, Pennsylvania",2010
+"1757","36067",57081,"55-64","Onondaga County, New York",2010
+"1758","36067",31945,"65-74","Onondaga County, New York",2010
+"1759","36067",22646,"75-84","Onondaga County, New York",2010
+"1760","36067",10987,"85+","Onondaga County, New York",2010
+"1761","36065",30106,"55-64","Oneida County, New York",2010
+"1762","36065",18495,"65-74","Oneida County, New York",2010
+"1763","36065",12879,"75-84","Oneida County, New York",2010
+"1764","36065",6794,"85+","Oneida County, New York",2010
+"1765","42081",15350,"55-64","Lycoming County, Pennsylvania",2010
+"1766","42081",9417,"65-74","Lycoming County, Pennsylvania",2010
+"1767","42081",6698,"75-84","Lycoming County, Pennsylvania",2010
+"1768","42081",2997,"85+","Lycoming County, Pennsylvania",2010
+"1769","72153",5321,"55-64","Yauco Municipio, Puerto Rico",2010
+"1770","72153",3561,"65-74","Yauco Municipio, Puerto Rico",2010
+"1771","72153",1926,"75-84","Yauco Municipio, Puerto Rico",2010
+"1772","72153",700,"85+","Yauco Municipio, Puerto Rico",2010
