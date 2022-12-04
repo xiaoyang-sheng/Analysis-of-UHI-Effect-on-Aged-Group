@@ -105,10 +105,11 @@ death_age4_all_time = death_age4 %>% group_by(County.Code) %>% summarise(total_D
 Create tables with uhi and death
 ```{r}
 uhi_death_all = merge(city_uhi, death_all_age_all_time, by="County.Code")
-lm.all = lm(Mean_Death~.-County.Code-county-state, data = uhi_death_all)
+lm.all = lm(total_Death~.-County.Code-county-state, data = uhi_death_all)
 lm.all = lm(total_Death~UHI_annual_day_city, data = uhi_death_all)
 summary(lm.all)
-
+death_2010 = death_df[grepl("2010", death_df$Month.Code), ]
+death_2010_all = death_2010 %>% group_by(County.Code) %>% summarize(total_death = sum(Deaths))
 ```
 
 import the population data
@@ -171,3 +172,35 @@ data_tr[, 7] = bcPower(data_tr[, 7], 2)
 lm_2tr = lm(death_ratio~., data = data_tr)
 summary(lm_2tr)
 ```
+
+import the uhi data by years
+
+```{r}
+uhi_data = read.csv("ee_cb_uhi.csv", header = TRUE)
+uhi_avg = uhi_data %>% group_by(county) %>% summarize(su_day = mean(su_daytime), su_night = mean(su_nighttime), wt_day = mean(win_daytime), wt_night = mean(win_nighttime))
+death_ratio_df = uhi_death_ratio_all[, c("County.Code", "death_ratio")]
+colnames(death_ratio_df)[1] = "county"
+uhi_ratio_df = merge(uhi_avg, death_ratio_df, by="county")
+lm.x = lm(death_ratio~.-county, data = uhi_ratio_df)
+summary(lm.x)
+```
+
+analyze the uhi data in 2010
+
+```{r}
+uhi_2010 = uhi_data[uhi_data$yyyymm == "2010", ]
+death_2010 = death_df[grepl("2010", death_df$Month.Code), ]
+death_2010_all = death_2010 %>% group_by(County.Code) %>% summarize(total_death = sum(Deaths))
+ratio_2010 = merge(death_2010_all, population_allage_df, by="County.Code")
+colnames(ratio_2010)[1] = "county"
+uhi_ratio_2010 = merge(uhi_2010, ratio_2010, by="county")
+uhi_ratio_2010[, "death_ratio"] = uhi_ratio_2010$total_death / uhi_ratio_2010$population
+data_fit_2010 = uhi_ratio_2010[, c(3,4,5,6,9)]
+lm.2010 = lm(death_ratio~., data=data_fit_2010)
+summary(lm.2010)
+```
+
+
+
+
+
