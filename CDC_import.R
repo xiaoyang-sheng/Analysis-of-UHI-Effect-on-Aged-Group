@@ -8,7 +8,8 @@
 
 
 import_load_CDC_death = function(){
-  filelist = list.files(pattern = ".*.txt")
+  setwd("CDC_Rawdata")
+  filelist = list.files(pattern = "*.txt")
   ## Only include the county name, county code, month and death number
   datalist = lapply(filelist, function(x)read.delim
                     (x)[,c(-1,-4,-6,-9,-10)]) 
