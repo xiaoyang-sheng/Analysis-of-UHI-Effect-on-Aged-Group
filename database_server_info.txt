@@ -1,0 +1,5 @@
+rm-uf63gt5o8xsxxhd9jpo.mysql.rds.aliyuncs.com
+3306
+stats506_proj
+UmichSTATS506
+stats506_project

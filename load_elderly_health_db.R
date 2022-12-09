@@ -1,29 +1,37 @@
-library(RMySQL)
+# this function is to load asthma, insurance and stroke data.
+# input: "asthma.csv","insurance.csv","stroke.csv"
 
-df1 = read.csv("asthma.csv")
-df2 = read.csv("insurance.csv")
-df3 = read.csv("stroke.csv")
 
-mysqlconnection = dbConnect(RMySQL::MySQL(),
-                            dbname='stats506_project',
-                            host='rm-uf63gt5o8xsxxhd9jpo.mysql.rds.aliyuncs.com',
-                            port=3306,
-                            user='stats506_proj',
-                            password='UmichSTATS506')
-
-dbWriteTable(conn=mysqlconnection, name="asthma", value=df1, overwrite=TRUE)
-dbWriteTable(conn=mysqlconnection, name="insurance", value=df2, overwrite=TRUE)
-dbWriteTable(conn=mysqlconnection, name="stroke", value=df3, overwrite=TRUE)
-dbSendQuery(mysqlconnection,"
-ALTER TABLE asthma MODIFY row_names INTEGER;")
-dbSendQuery(mysqlconnection,"
-ALTER TABLE insurance MODIFY row_names INTEGER;")
-dbSendQuery(mysqlconnection,"
-ALTER TABLE stroke MODIFY row_names INTEGER;")
-dbSendQuery(mysqlconnection,"alter table asthma add primary key(row_names);")
-dbSendQuery(mysqlconnection,"alter table insurance add primary key(row_names);")
-dbSendQuery(mysqlconnection,"alter table stroke add primary key(row_names);")
-dbSendQuery(mysqlconnection,"DELETE E
+load_elderly_health = function(filename){
+  library(RMySQL)
+  
+  df1 = read.csv("asthma.csv")
+  df2 = read.csv("insurance.csv")
+  df3 = read.csv("stroke.csv")
+  
+  df = read.csv(filename)
+  # read the database server infomation from the file
+  server_info = read.table("database_server_info.txt")
+  
+  # set up the connection to the database server
+  mysqlconnection = dbConnect(RMySQL::MySQL(),
+                              dbname=server_info[5,],
+                              host=server_info[1,],
+                              port=as.integer(server_info[2,]),
+                              user=server_info[3,],
+                              password=server_info[4,])
+  title = substr(filename,1,nchar(filename)-4)
+  dbWriteTable(conn=mysqlconnection, name=title, value=df, overwrite=TRUE)
+  query = paste("ALTER TABLE ",title,sep = '')
+  query = paste(query," MODIFY row_names INTEGER;",sep = '')
+  dbSendQuery(mysqlconnection,query)
+  query = paste("alter table ",title,sep = '')
+  query = paste(query," add primary key(row_names);",sep = '')
+  dbSendQuery(mysqlconnection,query)
+  
+  # need to delete duplicate for stroke data
+  if(filename == "stroke.csv"){
+    dbSendQuery(mysqlconnection,"DELETE E
   FROM stroke E
   INNER JOIN
 (
@@ -34,3 +42,7 @@ dbSendQuery(mysqlconnection,"DELETE E
   --                 order by r desc
 ) T ON E.row_names = T.row_names
 WHERE r > 1;")
+  }
+  print(paste("successfully load ", title,sep = ''))
+}
+
