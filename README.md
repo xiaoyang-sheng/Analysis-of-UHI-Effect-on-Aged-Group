@@ -67,7 +67,7 @@ R CMD BATCH CDC_import.R
 
 ### SQL
 
-SQL server (available to UM IP address) is used to manipulate data from different sources. Server configuration saved in **sql_server_info.txt**.
+We rent a A-Liyun SQL server (available to UM IP address) that is used to manipulate data from different sources and share the database among the group. Server configuration saved in **sql_server_info.txt**.
 
 ```
 Tables
