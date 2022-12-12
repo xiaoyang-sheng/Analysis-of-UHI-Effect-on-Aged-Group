@@ -41,11 +41,13 @@ GROUP BY  stroke.county_fips,stroke.county, stroke.state, stroke.`start.year`,
   summary(fit_stroke_uhi)
   
   library(randomForest)
+  library(ggplot2)
   rf.fit = randomForest(stroke_value~avg_su_day + avg_su_night+avg_win_day+avg_win_night, data = dat, 
                         ntree=1000, keep.forest=FALSE, importance=TRUE)
   ImpData = as.data.frame(importance(rf.fit))
   ImpData$Var.Names = row.names(ImpData)
-  ggplot(ImpData, aes(x=Var.Names, y=`%IncMSE`)) +
+  png("uhi_stroke_random_forest.png")
+  plot = ggplot(ImpData, aes(x=Var.Names, y=`%IncMSE`)) +
     geom_segment( aes(x=Var.Names, xend=Var.Names, y=0, yend=`%IncMSE`), color="skyblue") +
     geom_point(aes(size = IncNodePurity), color="blue", alpha=0.6) +
     theme_light() +
@@ -56,6 +58,8 @@ GROUP BY  stroke.county_fips,stroke.county, stroke.state, stroke.`start.year`,
       panel.border = element_blank(),
       axis.ticks.y = element_blank()
     )
+  print(plot)
+  dev.off()
   print("successfully analyze the uhi and stroke!")
   
 }
