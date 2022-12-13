@@ -74,6 +74,7 @@ We use different models (linear regression, Bayesian hierarchical model, random 
 └─src
      Bayesian_Linear_Model.R
      CDC_import.R
+     CDC_import.sbat
      component_analysis.R
      ee_extract.R
      ex_insurance.R
