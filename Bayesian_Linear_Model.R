@@ -1,22 +1,22 @@
 posterior = function(){
     # The Bayesian hierarchical model for year 2018
-    uhi = read.csv("desktop/STATS 506/ee_cb_uhi.csv")
+    uhi = read.csv("ee_cb_uhi.csv")
     uhi = uhi[uhi$yyyymm==2018,]
     uhi = subset(uhi,select=-c(2))
     names(uhi)[1] <- paste("county_fips")
-    climate = read.csv("desktop/STATS 506/ee_cb_climate.csv")
+    climate = read.csv("ee_cb_climate.csv")
     climate = climate[substr(climate$yyyymm,1,4)=="2018",]
     climate = aggregate(climate,by=list(climate$county),FUN="mean")
     climate = subset(climate,select=-c(1,3,5,6,7))
     names(climate)[1] <- paste("county_fips")
-    insurance = read.csv("desktop/STATS 506/us_insurance.csv")
+    insurance = read.csv("insurance.csv")
     insurance = insurance[insurance$Year==2018,]
     insurance = subset(insurance,select=-c(1,5,6,9,11,13,15))
     insurance = subset(insurance,select=-c(2,3,4,5,6))
-    asthma = read.csv("desktop/STATS 506/asthma.csv")
+    asthma = read.csv("asthma.csv")
     asthma = asthma[asthma$year==2018,]
     asthma = subset(asthma,select=-c(2,3,4))
-    stroke = read.csv("desktop/STATS 506/stroke.csv")
+    stroke = read.csv("stroke.csv")
     stroke = stroke[substr(stroke$end.year,1,4) %in% c("2019"),]
     stroke = stroke[stroke$age == ">= 65",]
     stroke = subset(stroke,select=-c(1,3,4,5,6))
