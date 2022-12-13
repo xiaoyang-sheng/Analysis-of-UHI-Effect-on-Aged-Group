@@ -15,7 +15,7 @@ Derive a relation model between UHI intensity and aged group health in US
 - [Insurance Rate of Each County, from US Census](http://data.ctdata.org/dataset/health-insurance-coverage)
 - [Elderly Population Data, from US Census](https://www.census.gov/data/developers/data-sets/decennial-census.2010.html#list-tab-99P2A1SGILQAEXII31)
 - [Elderly Death Data, from CDC](https://wonder.cdc.gov/ucd-icd10.html)
-- [Stroke/Asthma Data](https://ephtracking.cdc.gov/DataExplorer/?query=51ED8370-BE00-4813-A4F8-AE641EF61672&fips=26161&G5=9999)
+- [Stroke/Asthma Data, from CDC](https://ephtracking.cdc.gov/DataExplorer/?query=51ED8370-BE00-4813-A4F8-AE641EF61672&fips=26161&G5=9999)
 
 ## Setup
 
@@ -54,17 +54,15 @@ Derive a relation model between UHI intensity and aged group health in US
      Wyoming.txt
 ```
 
-### Quick start
+## Quick start
+
+### Data Loading to SQL
 
 R CMD BATCH data_loading_all.R
 
-### Earth Engine data fetch
+### Data Analysis
 
-R CMD BATCH ee_extract.R
-
-### CDC data fetch
-
-R CMD BATCH CDC_import.R
+R CMD BATCH analysis_all.R
 
 ## Other Tools
 
