@@ -82,6 +82,7 @@ posterior = function(){
              params = c('beta[2]','beta[3]','beta[4]','beta[5]'),
              ISB = FALSE,
              labels = c('beta[1]','beta[2]','beta[3]','beta[4]'))
+    png(file="desktop/Bayesian_aged_group_beta.png")
     MCMCtrace(VO2.out,
               params = c('beta[2]', 'beta[3]'),
               ind = TRUE,
@@ -89,6 +90,7 @@ posterior = function(){
               pdf = FALSE,
               main_den = c("posterior density of beta[1]","posterior density of beta[2]"),
               main_tr = c("trace plot of beta[1]","trace plot of beta[2]"))
+    png(file="desktop/Bayesian_aged_group_traceplot.png")
 }
 
 
