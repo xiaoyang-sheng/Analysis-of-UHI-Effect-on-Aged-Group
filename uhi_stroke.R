@@ -38,7 +38,7 @@ GROUP BY  stroke.county_fips,stroke.county, stroke.state, stroke.`start.year`,
   dbDisconnect(mysqlconnection)
   
   fit_stroke_uhi = lm(stroke_value~avg_su_day + avg_su_night+avg_win_day+avg_win_night,data=dat)
-  summary(fit_stroke_uhi)
+  print(summary(fit_stroke_uhi))
   
   library(randomForest)
   library(ggplot2)
@@ -46,6 +46,9 @@ GROUP BY  stroke.county_fips,stroke.county, stroke.state, stroke.`start.year`,
                         ntree=1000, keep.forest=FALSE, importance=TRUE)
   ImpData = as.data.frame(importance(rf.fit))
   ImpData$Var.Names = row.names(ImpData)
+  
+  
+  # save the plot of the summary of random forest
   png("uhi_stroke_random_forest.png")
   plot = ggplot(ImpData, aes(x=Var.Names, y=`%IncMSE`)) +
     geom_segment( aes(x=Var.Names, xend=Var.Names, y=0, yend=`%IncMSE`), color="skyblue") +
