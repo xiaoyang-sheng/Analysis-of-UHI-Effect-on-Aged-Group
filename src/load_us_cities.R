@@ -1,4 +1,4 @@
-load_census_uhi = function(){
+load_city_info = function(){
   library(RMySQL)
   server_info = read.table("database_server_info.txt")
   mysqlconnection = dbConnect(RMySQL::MySQL(),
@@ -7,7 +7,7 @@ load_census_uhi = function(){
                               port=as.integer(server_info[2,]),
                               user=server_info[3,],
                               password=server_info[4,])
-  df = read.csv("data/uscity_info", header = TRUE)
+  df = read.csv("data/uscity_info.csv", header = TRUE)
   
   dbWriteTable(conn = mysqlconnection, name = "uscity_info", value = df, overwrite = TRUE)
   dbDisconnect(mysqlconnection)

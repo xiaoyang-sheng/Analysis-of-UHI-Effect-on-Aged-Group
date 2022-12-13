@@ -1,0 +1,19 @@
+Some packages needed to run the program:
+
+RMySQL
+randomForest
+ggplot2
+remotes::install_github("walkerke/tidycensus")
+tidycensus
+sf
+stringr
+dplyr
+tidyverse
+rgee
+carData
+car
+alr4
+MCMCvis
+R2jags
+MASS
+coda
