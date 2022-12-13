@@ -5,7 +5,7 @@ library(alr4)
 
 ee_climate_component_analysis = function() {
   # read the database server information from the file
-  server_info = read.table("../database_server_info.txt")
+  server_info = read.table("database_server_info.txt")
   
   # set up the connection to the database server
   mysqlconnection = dbConnect(RMySQL::MySQL(),
