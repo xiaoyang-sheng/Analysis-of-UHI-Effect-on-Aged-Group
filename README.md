@@ -2,7 +2,10 @@
 
 ## Group Member
 
-Xiaoyang Sheng, Zicong Xiao, Yulin Gao, Qianang Chen
+- Xiaoyang Sheng (shengxy@umich.edu)
+- Zicong Xiao (zicongx@umich.edu)
+- Yulin Gao (yulingao@umich.edu)
+- Qianang Chen (qianang@umich.edu)
 
 ## Description
 
