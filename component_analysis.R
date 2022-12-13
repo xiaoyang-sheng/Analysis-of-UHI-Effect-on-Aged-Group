@@ -5,7 +5,7 @@ library(alr4)
 
 ee_climate_component_analysis = function() {
   # read the database server information from the file
-  server_info = read.table("database_server_info.txt")
+  server_info = read.table("../database_server_info.txt")
   
   # set up the connection to the database server
   mysqlconnection = dbConnect(RMySQL::MySQL(),
@@ -41,27 +41,27 @@ ee_climate_component_analysis = function() {
   
   fit_sd = lm(su_daytime ~ ., summer_merge[-c(1:2,4)])
   # Type II ANOVA
+  print("!!!!! Summer Daytime UHI vs. Climate Features")
   print(summary(fit_sd))
-  residualPlot(fit_sd)
   # Type I ANOVA
   anova(fit_sd)
   
   fit_sn = lm(su_nighttime ~ ., summer_merge[-c(1:2,3)])
+  print("!!!!! Summer Nighttime UHI vs. Climate Features")
   print(summary(fit_sn))
-  residualPlot(fit_sn)
   anova(fit_sn)
   
   fit_wd = lm(win_daytime ~ ., winter_merge[-c(1:2,4)])
+  print("!!!!! Winter Daytime UHI vs. Climate Features")
   print(summary(fit_wd))
-  residualPlot(fit_wd)
   anova(fit_wd)
   
   fit_wn = lm(win_nighttime ~ ., winter_merge[-c(1:2,3)])
+  print("!!!!! Winter Nighttime UHI vs. Climate Features")
   print(summary(fit_wn))
-  residualPlot(fit_wn)
   anova(fit_wn)
   
-  # Transformation (Summer daytime)
+  # Transformation (Summer Nighttime)
   
   pairs(summer_merge[-c(1:2,3)])
   
@@ -78,8 +78,8 @@ ee_climate_component_analysis = function() {
                      + u_component_of_wind_10m
                      + v_component_of_wind_10m
                      , summer_merge[-c(1:2,3)])
+  print("!!!!! Summer Nighttime UHI vs. Transformed Climate Features")
   print(summary(fit_sn_update))
-  residualPlot(fit_sn_update)
   anova(fit_sn_update)
 }
 
