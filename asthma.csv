@@ -1,0 +1,872 @@
+"county_fips","county","state","year","asthma"
+1003,"Baldwin","Alabama",2018,9.6
+1003,"Baldwin","Alabama",2019,8.9
+1015,"Calhoun","Alabama",2019,10
+1015,"Calhoun","Alabama",2018,11.2
+1055,"Etowah","Alabama",2018,10.7
+1055,"Etowah","Alabama",2019,9.9
+1069,"Houston","Alabama",2018,10.9
+1069,"Houston","Alabama",2019,10.2
+1073,"Jefferson","Alabama",2018,10
+1073,"Jefferson","Alabama",2019,9.8
+1077,"Lauderdale","Alabama",2018,10.2
+1077,"Lauderdale","Alabama",2019,9.4
+1081,"Lee","Alabama",2019,9.5
+1081,"Lee","Alabama",2018,9.8
+1089,"Madison","Alabama",2019,9.6
+1089,"Madison","Alabama",2018,9.6
+1097,"Mobile","Alabama",2019,9.7
+1097,"Mobile","Alabama",2018,10.8
+1101,"Montgomery","Alabama",2018,10.9
+1101,"Montgomery","Alabama",2019,9.9
+1103,"Morgan","Alabama",2019,9.6
+1103,"Morgan","Alabama",2018,10.2
+1125,"Tuscaloosa","Alabama",2018,10.4
+1125,"Tuscaloosa","Alabama",2019,9.9
+2020,"Anchorage","Alaska",2019,9.2
+2020,"Anchorage","Alaska",2018,9
+2090,"Fairbanks North Star","Alaska",2019,9.5
+2090,"Fairbanks North Star","Alaska",2018,8.8
+4003,"Cochise","Arizona",2019,10
+4003,"Cochise","Arizona",2018,10.1
+4005,"Coconino","Arizona",2019,9.8
+4005,"Coconino","Arizona",2018,10.8
+4013,"Maricopa","Arizona",2018,10
+4013,"Maricopa","Arizona",2019,9.5
+4015,"Mohave","Arizona",2019,10.1
+4015,"Mohave","Arizona",2018,10.8
+4019,"Pima","Arizona",2019,9.5
+4019,"Pima","Arizona",2018,10.4
+4021,"Pinal","Arizona",2018,10.7
+4021,"Pinal","Arizona",2019,9.5
+4025,"Yavapai","Arizona",2018,10.6
+4025,"Yavapai","Arizona",2019,10.2
+4027,"Yuma","Arizona",2019,9.5
+4027,"Yuma","Arizona",2018,10.1
+5031,"Craighead","Arkansas",2019,9.8
+5031,"Craighead","Arkansas",2018,9.7
+5045,"Faulkner","Arkansas",2019,10.2
+5045,"Faulkner","Arkansas",2018,9.9
+5051,"Garland","Arkansas",2019,9.7
+5051,"Garland","Arkansas",2018,9.9
+5069,"Jefferson","Arkansas",2018,11.2
+5069,"Jefferson","Arkansas",2019,10.6
+5119,"Pulaski","Arkansas",2019,9.8
+5119,"Pulaski","Arkansas",2018,10.3
+5131,"Sebastian","Arkansas",2018,10.2
+5131,"Sebastian","Arkansas",2019,9.7
+5143,"Washington","Arkansas",2019,9.5
+5143,"Washington","Arkansas",2018,9.6
+6001,"Alameda","California",2019,8
+6001,"Alameda","California",2018,8.3
+6007,"Butte","California",2019,9.9
+6007,"Butte","California",2018,10.1
+6013,"Contra Costa","California",2018,9
+6013,"Contra Costa","California",2019,8.3
+6019,"Fresno","California",2018,10.2
+6019,"Fresno","California",2019,9.2
+6025,"Imperial","California",2018,9.3
+6025,"Imperial","California",2019,9
+6029,"Kern","California",2018,10.2
+6029,"Kern","California",2019,9.3
+6031,"Kings","California",2019,9
+6031,"Kings","California",2018,9.7
+6037,"Los Angeles","California",2019,7.4
+6037,"Los Angeles","California",2018,8.4
+6039,"Madera","California",2018,10.1
+6039,"Madera","California",2019,9.4
+6047,"Merced","California",2019,9.3
+6047,"Merced","California",2018,10
+6053,"Monterey","California",2018,9.2
+6053,"Monterey","California",2019,8.7
+6055,"Napa","California",2019,8.4
+6055,"Napa","California",2018,8.8
+6059,"Orange","California",2019,7.6
+6059,"Orange","California",2018,8.1
+6065,"Riverside","California",2018,9.2
+6065,"Riverside","California",2019,8.3
+6067,"Sacramento","California",2019,9.8
+6067,"Sacramento","California",2018,9.9
+6071,"San Bernardino","California",2018,9.5
+6071,"San Bernardino","California",2019,8.9
+6073,"San Diego","California",2018,8.6
+6073,"San Diego","California",2019,7.9
+6075,"San Francisco","California",2018,7.7
+6075,"San Francisco","California",2019,7.5
+6077,"San Joaquin","California",2019,9.6
+6077,"San Joaquin","California",2018,9.3
+6079,"San Luis Obispo","California",2018,9.3
+6079,"San Luis Obispo","California",2019,9
+6083,"Santa Barbara","California",2018,9.2
+6083,"Santa Barbara","California",2019,8.6
+6085,"Santa Clara","California",2018,7.5
+6085,"Santa Clara","California",2019,7.2
+6087,"Santa Cruz","California",2018,9.2
+6087,"Santa Cruz","California",2019,8.8
+6089,"Shasta","California",2019,9.6
+6089,"Shasta","California",2018,10.3
+6095,"Solano","California",2018,9.6
+6095,"Solano","California",2019,8.8
+6097,"Sonoma","California",2019,9.1
+6097,"Sonoma","California",2018,9.2
+6099,"Stanislaus","California",2018,10
+6099,"Stanislaus","California",2019,9.4
+6101,"Sutter","California",2019,9.1
+6101,"Sutter","California",2018,9.6
+6107,"Tulare","California",2019,9.5
+6107,"Tulare","California",2018,10.1
+6111,"Ventura","California",2018,8.9
+6111,"Ventura","California",2019,8.2
+6113,"Yolo","California",2019,8.8
+6113,"Yolo","California",2018,9.2
+8013,"Boulder","Colorado",2018,8.7
+8013,"Boulder","Colorado",2019,8.4
+8031,"Denver","Colorado",2019,9
+8031,"Denver","Colorado",2018,9
+8041,"El Paso","Colorado",2019,10.1
+8041,"El Paso","Colorado",2018,9.1
+8069,"Larimer","Colorado",2019,9.1
+8069,"Larimer","Colorado",2018,9.2
+8077,"Mesa","Colorado",2019,9.6
+8077,"Mesa","Colorado",2018,9.7
+8101,"Pueblo","Colorado",2018,9.9
+8101,"Pueblo","Colorado",2019,9.5
+8123,"Weld","Colorado",2019,9
+8123,"Weld","Colorado",2018,9.3
+9001,"Fairfield","Connecticut",2019,8.2
+9001,"Fairfield","Connecticut",2018,8.9
+9003,"Hartford","Connecticut",2018,10.2
+9003,"Hartford","Connecticut",2019,10.1
+9009,"New Haven","Connecticut",2018,11.2
+9009,"New Haven","Connecticut",2019,10.6
+9011,"New London","Connecticut",2018,10.1
+9011,"New London","Connecticut",2019,10
+10001,"Kent","Delaware",2019,11.2
+10001,"Kent","Delaware",2018,10.6
+11001,"District of Columbia","District of Columbia",2018,10.7
+11001,"District of Columbia","District of Columbia",2019,10.1
+12001,"Alachua","Florida",2019,9.1
+12001,"Alachua","Florida",2018,9
+12005,"Bay","Florida",2018,9.2
+12005,"Bay","Florida",2019,8.9
+12009,"Brevard","Florida",2019,8.3
+12009,"Brevard","Florida",2018,8.9
+12017,"Citrus","Florida",2018,9.4
+12017,"Citrus","Florida",2019,9.2
+12031,"Duval","Florida",2019,9.1
+12031,"Duval","Florida",2018,9.5
+12033,"Escambia","Florida",2018,9.2
+12033,"Escambia","Florida",2019,9.3
+12035,"Flagler","Florida",2019,8.5
+12035,"Flagler","Florida",2018,8.9
+12053,"Hernando","Florida",2019,8.6
+12053,"Hernando","Florida",2018,9.1
+12055,"Highlands","Florida",2019,8.6
+12055,"Highlands","Florida",2018,9.3
+12057,"Hillsborough","Florida",2019,8.1
+12057,"Hillsborough","Florida",2018,8.5
+12061,"Indian River","Florida",2019,8.4
+12061,"Indian River","Florida",2018,8.8
+12069,"Lake","Florida",2018,8.9
+12069,"Lake","Florida",2019,8.3
+12071,"Lee","Florida",2018,8.6
+12071,"Lee","Florida",2019,8.3
+12073,"Leon","Florida",2019,9.1
+12073,"Leon","Florida",2018,9
+12083,"Marion","Florida",2018,9.4
+12083,"Marion","Florida",2019,9
+12086,"Miami-Dade","Florida",2018,7.9
+12086,"Miami-Dade","Florida",2019,7.7
+12091,"Okaloosa","Florida",2019,8.6
+12091,"Okaloosa","Florida",2018,8.7
+12095,"Orange","Florida",2018,8.8
+12095,"Orange","Florida",2019,8.3
+12097,"Osceola","Florida",2019,8.1
+12097,"Osceola","Florida",2018,8.2
+12101,"Pasco","Florida",2018,8.8
+12101,"Pasco","Florida",2019,8.4
+12105,"Polk","Florida",2019,9
+12105,"Polk","Florida",2018,9.1
+12109,"St. Johns","Florida",2018,8.3
+12109,"St. Johns","Florida",2019,8.3
+12111,"St. Lucie","Florida",2018,9.1
+12111,"St. Lucie","Florida",2019,8.4
+12115,"Sarasota","Florida",2018,8.4
+12115,"Sarasota","Florida",2019,8
+12127,"Volusia","Florida",2018,8.8
+12127,"Volusia","Florida",2019,8.3
+13015,"Bartow","Georgia",2019,9.3
+13015,"Bartow","Georgia",2018,9.5
+13021,"Bibb","Georgia",2019,10.5
+13021,"Bibb","Georgia",2018,10.8
+13051,"Chatham","Georgia",2018,9.6
+13051,"Chatham","Georgia",2019,9.3
+13059,"Clarke","Georgia",2019,9.7
+13059,"Clarke","Georgia",2018,10
+13095,"Dougherty","Georgia",2019,11.2
+13095,"Dougherty","Georgia",2018,11.4
+13115,"Floyd","Georgia",2018,9.8
+13115,"Floyd","Georgia",2019,9.4
+13121,"Fulton","Georgia",2018,8.7
+13121,"Fulton","Georgia",2019,8.5
+13127,"Glynn","Georgia",2018,9.7
+13127,"Glynn","Georgia",2019,9.5
+13139,"Hall","Georgia",2019,8.4
+13139,"Hall","Georgia",2018,9.1
+13153,"Houston","Georgia",2018,9.6
+13153,"Houston","Georgia",2019,9.5
+13179,"Liberty","Georgia",2018,9.9
+13179,"Liberty","Georgia",2019,9.9
+13185,"Lowndes","Georgia",2019,10.3
+13185,"Lowndes","Georgia",2018,10.3
+13215,"Muscogee","Georgia",2018,9.9
+13215,"Muscogee","Georgia",2019,9.8
+13245,"Richmond","Georgia",2019,10.4
+13245,"Richmond","Georgia",2018,10.6
+13313,"Whitfield","Georgia",2019,8.6
+13313,"Whitfield","Georgia",2018,9.5
+15009,"Maui","Hawaii",2018,9.5
+15009,"Maui","Hawaii",2019,8.8
+16005,"Bannock","Idaho",2018,9.7
+16005,"Bannock","Idaho",2019,9.7
+16019,"Bonneville","Idaho",2019,9.3
+16019,"Bonneville","Idaho",2018,9.4
+16027,"Canyon","Idaho",2018,9.9
+16027,"Canyon","Idaho",2019,10.3
+16055,"Kootenai","Idaho",2019,10.1
+16055,"Kootenai","Idaho",2018,9.6
+16069,"Nez Perce","Idaho",2019,10.4
+16069,"Nez Perce","Idaho",2018,10.2
+17019,"Champaign","Illinois",2019,9.2
+17019,"Champaign","Illinois",2018,9.4
+17031,"Cook","Illinois",2018,9.4
+17031,"Cook","Illinois",2019,8.6
+17037,"DeKalb","Illinois",2018,9.7
+17037,"DeKalb","Illinois",2019,9.2
+17077,"Jackson","Illinois",2019,9.8
+17077,"Jackson","Illinois",2018,10.4
+17091,"Kankakee","Illinois",2018,10.3
+17091,"Kankakee","Illinois",2019,9.4
+17097,"Lake","Illinois",2019,8.1
+17097,"Lake","Illinois",2018,8.4
+17113,"McLean","Illinois",2019,8.7
+17113,"McLean","Illinois",2018,9.3
+17115,"Macon","Illinois",2019,10.1
+17115,"Macon","Illinois",2018,10.3
+17119,"Madison","Illinois",2018,9.8
+17119,"Madison","Illinois",2019,9.3
+17143,"Peoria","Illinois",2019,9.6
+17143,"Peoria","Illinois",2018,10.1
+17167,"Sangamon","Illinois",2019,9.6
+17167,"Sangamon","Illinois",2018,9.9
+17183,"Vermilion","Illinois",2019,9.8
+17183,"Vermilion","Illinois",2018,10.4
+17201,"Winnebago","Illinois",2019,9.4
+17201,"Winnebago","Illinois",2018,10
+18003,"Allen","Indiana",2019,9.7
+18003,"Allen","Indiana",2018,10.3
+18005,"Bartholomew","Indiana",2018,9.5
+18005,"Bartholomew","Indiana",2019,9.1
+18035,"Delaware","Indiana",2018,10.7
+18035,"Delaware","Indiana",2019,10.7
+18039,"Elkhart","Indiana",2018,10.3
+18039,"Elkhart","Indiana",2019,9.8
+18067,"Howard","Indiana",2019,10.2
+18067,"Howard","Indiana",2018,10.6
+18091,"LaPorte","Indiana",2018,10.4
+18091,"LaPorte","Indiana",2019,10.3
+18095,"Madison","Indiana",2018,11
+18095,"Madison","Indiana",2019,11.2
+18097,"Marion","Indiana",2019,10
+18097,"Marion","Indiana",2018,10.9
+18105,"Monroe","Indiana",2019,9.7
+18105,"Monroe","Indiana",2018,9.8
+18141,"St. Joseph","Indiana",2019,9.7
+18141,"St. Joseph","Indiana",2018,10.6
+18157,"Tippecanoe","Indiana",2018,9.8
+18157,"Tippecanoe","Indiana",2019,9.5
+18163,"Vanderburgh","Indiana",2018,10.3
+18163,"Vanderburgh","Indiana",2019,10.3
+18167,"Vigo","Indiana",2019,10
+18167,"Vigo","Indiana",2018,10.4
+19013,"Black Hawk","Iowa",2019,8.9
+19013,"Black Hawk","Iowa",2018,8.9
+19061,"Dubuque","Iowa",2018,8.4
+19061,"Dubuque","Iowa",2019,8.4
+19103,"Johnson","Iowa",2018,8.5
+19103,"Johnson","Iowa",2019,7.9
+19113,"Linn","Iowa",2018,8.8
+19113,"Linn","Iowa",2019,8.2
+19153,"Polk","Iowa",2019,8
+19153,"Polk","Iowa",2018,8.1
+19163,"Scott","Iowa",2018,9
+19163,"Scott","Iowa",2019,8.7
+19169,"Story","Iowa",2018,8.4
+19169,"Story","Iowa",2019,7.9
+19193,"Woodbury","Iowa",2018,8.8
+19193,"Woodbury","Iowa",2019,8.2
+20045,"Douglas","Kansas",2018,9.8
+20045,"Douglas","Kansas",2019,9.6
+20161,"Riley","Kansas",2018,9.8
+20161,"Riley","Kansas",2019,9.2
+20173,"Sedgwick","Kansas",2018,9.9
+20173,"Sedgwick","Kansas",2019,9.7
+20177,"Shawnee","Kansas",2018,9.9
+20177,"Shawnee","Kansas",2019,9.7
+21059,"Daviess","Kentucky",2019,9.8
+21059,"Daviess","Kentucky",2018,10.3
+21067,"Fayette","Kentucky",2019,9.4
+21067,"Fayette","Kentucky",2018,10.4
+21093,"Hardin","Kentucky",2019,9.8
+21093,"Hardin","Kentucky",2018,10.6
+21111,"Jefferson","Kentucky",2018,10.6
+21111,"Jefferson","Kentucky",2019,9.7
+21227,"Warren","Kentucky",2019,9.6
+21227,"Warren","Kentucky",2018,10.6
+22017,"Caddo","Louisiana",2019,10.4
+22017,"Caddo","Louisiana",2018,10.4
+22019,"Calcasieu","Louisiana",2018,9.5
+22019,"Calcasieu","Louisiana",2019,9.8
+22033,"East Baton Rouge","Louisiana",2018,9.1
+22033,"East Baton Rouge","Louisiana",2019,9
+22055,"Lafayette","Louisiana",2018,9.2
+22055,"Lafayette","Louisiana",2019,9.2
+22071,"Orleans","Louisiana",2019,9.6
+22071,"Orleans","Louisiana",2018,9.7
+22073,"Ouachita","Louisiana",2019,10.1
+22073,"Ouachita","Louisiana",2018,9.9
+22079,"Rapides","Louisiana",2018,9.9
+22079,"Rapides","Louisiana",2019,9.9
+22103,"St. Tammany","Louisiana",2018,8.8
+22103,"St. Tammany","Louisiana",2019,8.6
+22105,"Tangipahoa","Louisiana",2019,10.1
+22105,"Tangipahoa","Louisiana",2018,10
+22109,"Terrebonne","Louisiana",2018,10.1
+22109,"Terrebonne","Louisiana",2019,9.9
+23001,"Androscoggin","Maine",2018,11.6
+23001,"Androscoggin","Maine",2019,10.5
+23005,"Cumberland","Maine",2018,10.4
+23005,"Cumberland","Maine",2019,10.7
+23019,"Penobscot","Maine",2018,12.1
+23019,"Penobscot","Maine",2019,11.7
+24001,"Allegany","Maryland",2018,10.5
+24001,"Allegany","Maryland",2019,9.7
+24013,"Carroll","Maryland",2018,8.9
+24013,"Carroll","Maryland",2019,8.5
+24017,"Charles","Maryland",2018,10.1
+24017,"Charles","Maryland",2019,9.8
+24021,"Frederick","Maryland",2018,8.4
+24021,"Frederick","Maryland",2019,8.6
+24025,"Harford","Maryland",2019,8.8
+24025,"Harford","Maryland",2018,9.4
+24037,"St. Mary's","Maryland",2019,9
+24037,"St. Mary's","Maryland",2018,9.2
+24043,"Washington","Maryland",2019,10.1
+24043,"Washington","Maryland",2018,10.8
+24045,"Wicomico","Maryland",2018,10.3
+24045,"Wicomico","Maryland",2019,10.2
+24510,"Baltimore","Maryland",2019,11.8
+24510,"Baltimore","Maryland",2018,11.3
+25003,"Berkshire","Massachusetts",2018,10.6
+25003,"Berkshire","Massachusetts",2019,10.3
+25005,"Bristol","Massachusetts",2019,10.5
+25005,"Bristol","Massachusetts",2018,11.3
+25013,"Hampden","Massachusetts",2019,10.6
+25013,"Hampden","Massachusetts",2018,11.3
+25025,"Suffolk","Massachusetts",2018,10.8
+25025,"Suffolk","Massachusetts",2019,10.3
+25027,"Worcester","Massachusetts",2018,10.1
+25027,"Worcester","Massachusetts",2019,10.4
+26017,"Bay","Michigan",2018,10.8
+26017,"Bay","Michigan",2019,10.9
+26021,"Berrien","Michigan",2018,10.8
+26021,"Berrien","Michigan",2019,10.8
+26025,"Calhoun","Michigan",2019,11.1
+26025,"Calhoun","Michigan",2018,10.8
+26049,"Genesee","Michigan",2018,11.6
+26049,"Genesee","Michigan",2019,11.9
+26065,"Ingham","Michigan",2018,10.4
+26065,"Ingham","Michigan",2019,11
+26075,"Jackson","Michigan",2019,11.1
+26075,"Jackson","Michigan",2018,10.9
+26077,"Kalamazoo","Michigan",2019,10.8
+26077,"Kalamazoo","Michigan",2018,10.5
+26081,"Kent","Michigan",2019,10.1
+26081,"Kent","Michigan",2018,10.3
+26111,"Midland","Michigan",2019,10.2
+26111,"Midland","Michigan",2018,10.2
+26115,"Monroe","Michigan",2018,10.4
+26115,"Monroe","Michigan",2019,10.7
+26121,"Muskegon","Michigan",2018,10.8
+26121,"Muskegon","Michigan",2019,11.3
+26125,"Oakland","Michigan",2019,9.8
+26125,"Oakland","Michigan",2018,9.6
+26139,"Ottawa","Michigan",2019,10.1
+26139,"Ottawa","Michigan",2018,9.6
+26145,"Saginaw","Michigan",2019,11.1
+26145,"Saginaw","Michigan",2018,11
+26147,"St. Clair","Michigan",2018,11.1
+26147,"St. Clair","Michigan",2019,10.8
+26161,"Washtenaw","Michigan",2019,9.6
+26161,"Washtenaw","Michigan",2018,9.8
+26163,"Wayne","Michigan",2018,12.5
+26163,"Wayne","Michigan",2019,11.8
+27013,"Blue Earth","Minnesota",2018,8.6
+27013,"Blue Earth","Minnesota",2019,9.4
+27053,"Hennepin","Minnesota",2019,8.3
+27053,"Hennepin","Minnesota",2018,8.8
+27109,"Olmsted","Minnesota",2018,8.3
+27109,"Olmsted","Minnesota",2019,8.7
+27137,"St. Louis","Minnesota",2019,9.4
+27137,"St. Louis","Minnesota",2018,8.9
+27145,"Stearns","Minnesota",2019,9.1
+27145,"Stearns","Minnesota",2018,8.3
+28035,"Forrest","Mississippi",2019,10.5
+28035,"Forrest","Mississippi",2018,10.3
+28047,"Harrison","Mississippi",2018,10
+28047,"Harrison","Mississippi",2019,9.9
+28049,"Hinds","Mississippi",2019,10.7
+28049,"Hinds","Mississippi",2018,10.9
+28059,"Jackson","Mississippi",2018,9.5
+28059,"Jackson","Mississippi",2019,9.4
+29019,"Boone","Missouri",2019,9.6
+29019,"Boone","Missouri",2018,9.3
+29021,"Buchanan","Missouri",2019,10
+29021,"Buchanan","Missouri",2018,10
+29031,"Cape Girardeau","Missouri",2018,9.7
+29031,"Cape Girardeau","Missouri",2019,9.8
+29051,"Cole","Missouri",2018,9.4
+29051,"Cole","Missouri",2019,9.6
+29077,"Greene","Missouri",2018,9.7
+29077,"Greene","Missouri",2019,9.8
+29095,"Jackson","Missouri",2018,9.8
+29095,"Jackson","Missouri",2019,10.7
+29097,"Jasper","Missouri",2019,10.2
+29097,"Jasper","Missouri",2018,9.9
+29510,"St. Louis","Missouri",2019,10.5
+29510,"St. Louis","Missouri",2018,10.9
+30013,"Cascade","Montana",2018,10.1
+30013,"Cascade","Montana",2019,10.6
+30063,"Missoula","Montana",2019,9.2
+30063,"Missoula","Montana",2018,9.1
+30111,"Yellowstone","Montana",2018,9.7
+30111,"Yellowstone","Montana",2019,9.9
+31055,"Douglas","Nebraska",2019,8.5
+31055,"Douglas","Nebraska",2018,9
+31079,"Hall","Nebraska",2019,7.6
+31079,"Hall","Nebraska",2018,8.1
+31109,"Lancaster","Nebraska",2019,8.4
+31109,"Lancaster","Nebraska",2018,8.6
+32003,"Clark","Nevada",2019,8.9
+32003,"Clark","Nevada",2018,8.5
+32031,"Washoe","Nevada",2018,9
+32031,"Washoe","Nevada",2019,9.7
+32510,"Carson City","Nevada",2018,9.2
+32510,"Carson City","Nevada",2019,9
+33011,"Hillsborough","New Hampshire",2018,10.6
+33011,"Hillsborough","New Hampshire",2019,10.7
+33015,"Rockingham","New Hampshire",2019,9.5
+33015,"Rockingham","New Hampshire",2018,9.7
+33017,"Strafford","New Hampshire",2018,10.2
+33017,"Strafford","New Hampshire",2019,10.4
+34001,"Atlantic","New Jersey",2018,9.8
+34009,"Cape May","New Jersey",2018,9.8
+34011,"Cumberland","New Jersey",2018,10.7
+34021,"Mercer","New Jersey",2018,9.4
+35001,"Bernalillo","New Mexico",2019,9
+35001,"Bernalillo","New Mexico",2018,9.7
+35013,"Doña Ana","New Mexico",2018,9.8
+35013,"Doña Ana","New Mexico",2019,9.2
+35045,"San Juan","New Mexico",2018,12
+35045,"San Juan","New Mexico",2019,9.9
+35049,"Santa Fe","New Mexico",2018,9
+35049,"Santa Fe","New Mexico",2019,8
+35061,"Valencia","New Mexico",2019,8.7
+35061,"Valencia","New Mexico",2018,10.1
+36001,"Albany","New York",2019,9.8
+36001,"Albany","New York",2018,10.9
+36007,"Broome","New York",2019,10.6
+36007,"Broome","New York",2018,11.7
+36015,"Chemung","New York",2018,11.7
+36015,"Chemung","New York",2019,10.6
+36027,"Dutchess","New York",2019,9.7
+36027,"Dutchess","New York",2018,10.1
+36029,"Erie","New York",2018,10.8
+36029,"Erie","New York",2019,10.4
+36045,"Jefferson","New York",2019,10.1
+36045,"Jefferson","New York",2018,11.4
+36055,"Monroe","New York",2019,10.2
+36055,"Monroe","New York",2018,11.4
+36065,"Oneida","New York",2019,10.2
+36065,"Oneida","New York",2018,11.3
+36067,"Onondaga","New York",2018,11.4
+36067,"Onondaga","New York",2019,10.5
+36071,"Orange","New York",2019,9.3
+36071,"Orange","New York",2018,10.7
+36081,"Queens","New York",2018,8.7
+36081,"Queens","New York",2019,8.1
+36091,"Saratoga","New York",2019,9.5
+36091,"Saratoga","New York",2018,10.7
+36109,"Tompkins","New York",2019,9.8
+36109,"Tompkins","New York",2018,10.5
+36111,"Ulster","New York",2018,10.9
+36111,"Ulster","New York",2019,9.8
+36113,"Warren","New York",2019,10.1
+36113,"Warren","New York",2018,10.8
+37001,"Alamance","North Carolina",2018,10
+37001,"Alamance","North Carolina",2019,9.8
+37021,"Buncombe","North Carolina",2019,8.9
+37021,"Buncombe","North Carolina",2018,9.3
+37025,"Cabarrus","North Carolina",2018,9.1
+37025,"Cabarrus","North Carolina",2019,9
+37035,"Catawba","North Carolina",2019,9.2
+37035,"Catawba","North Carolina",2018,9.5
+37049,"Craven","North Carolina",2019,9.2
+37049,"Craven","North Carolina",2018,9.6
+37051,"Cumberland","North Carolina",2018,9.9
+37051,"Cumberland","North Carolina",2019,9.6
+37063,"Durham","North Carolina",2018,9.4
+37063,"Durham","North Carolina",2019,8.9
+37071,"Gaston","North Carolina",2018,10
+37071,"Gaston","North Carolina",2019,9.8
+37081,"Guilford","North Carolina",2018,9.7
+37081,"Guilford","North Carolina",2019,9.5
+37119,"Mecklenburg","North Carolina",2019,8.7
+37119,"Mecklenburg","North Carolina",2018,9.2
+37127,"Nash","North Carolina",2018,10.4
+37127,"Nash","North Carolina",2019,9.9
+37129,"New Hanover","North Carolina",2019,9.2
+37129,"New Hanover","North Carolina",2018,9.3
+37133,"Onslow","North Carolina",2018,9.4
+37133,"Onslow","North Carolina",2019,8.9
+37147,"Pitt","North Carolina",2019,10.2
+37147,"Pitt","North Carolina",2018,10.2
+37183,"Wake","North Carolina",2018,8.6
+37183,"Wake","North Carolina",2019,8.2
+37191,"Wayne","North Carolina",2019,10.2
+37191,"Wayne","North Carolina",2018,10.3
+38015,"Burleigh","North Dakota",2019,8.2
+38015,"Burleigh","North Dakota",2018,9.2
+38017,"Cass","North Dakota",2019,8.2
+38017,"Cass","North Dakota",2018,8.6
+38035,"Grand Forks","North Dakota",2019,8.7
+38035,"Grand Forks","North Dakota",2018,8.9
+39003,"Allen","Ohio",2018,9.7
+39003,"Allen","Ohio",2019,10.1
+39017,"Butler","Ohio",2018,9.4
+39017,"Butler","Ohio",2019,10.2
+39023,"Clark","Ohio",2018,10.5
+39023,"Clark","Ohio",2019,11.1
+39035,"Cuyahoga","Ohio",2018,10.2
+39035,"Cuyahoga","Ohio",2019,11.1
+39049,"Franklin","Ohio",2018,9.1
+39049,"Franklin","Ohio",2019,9.9
+39061,"Hamilton","Ohio",2018,10
+39061,"Hamilton","Ohio",2019,10.1
+39089,"Licking","Ohio",2018,9.5
+39089,"Licking","Ohio",2019,10
+39093,"Lorain","Ohio",2019,10.2
+39093,"Lorain","Ohio",2018,9.6
+39095,"Lucas","Ohio",2018,10.4
+39095,"Lucas","Ohio",2019,10.8
+39099,"Mahoning","Ohio",2018,10.1
+39099,"Mahoning","Ohio",2019,10.4
+39113,"Montgomery","Ohio",2019,11
+39113,"Montgomery","Ohio",2018,9.8
+39139,"Richland","Ohio",2019,10.4
+39139,"Richland","Ohio",2018,9.7
+39151,"Stark","Ohio",2019,10.8
+39151,"Stark","Ohio",2018,9.8
+39153,"Summit","Ohio",2019,10.4
+39153,"Summit","Ohio",2018,9.5
+40027,"Cleveland","Oklahoma",2018,9.5
+40027,"Cleveland","Oklahoma",2019,9.5
+40031,"Comanche","Oklahoma",2019,10.4
+40031,"Comanche","Oklahoma",2018,10.4
+40109,"Oklahoma","Oklahoma",2018,10.7
+40109,"Oklahoma","Oklahoma",2019,10.1
+40143,"Tulsa","Oklahoma",2018,10.1
+40143,"Tulsa","Oklahoma",2019,9.6
+41003,"Benton","Oregon",2018,10.3
+41003,"Benton","Oregon",2019,10.3
+41017,"Deschutes","Oregon",2018,10
+41017,"Deschutes","Oregon",2019,9.7
+41029,"Jackson","Oregon",2019,10.4
+41029,"Jackson","Oregon",2018,11.6
+41033,"Josephine","Oregon",2019,11
+41033,"Josephine","Oregon",2018,11.6
+41039,"Lane","Oregon",2018,11.4
+41039,"Lane","Oregon",2019,11.2
+41043,"Linn","Oregon",2018,11.3
+41043,"Linn","Oregon",2019,11.1
+41047,"Marion","Oregon",2018,11.5
+41047,"Marion","Oregon",2019,10.6
+41051,"Multnomah","Oregon",2018,10.7
+41051,"Multnomah","Oregon",2019,9.9
+42003,"Allegheny","Pennsylvania",2018,9.9
+42003,"Allegheny","Pennsylvania",2019,10
+42011,"Berks","Pennsylvania",2019,10
+42011,"Berks","Pennsylvania",2018,10.1
+42013,"Blair","Pennsylvania",2018,10.4
+42013,"Blair","Pennsylvania",2019,10.8
+42021,"Cambria","Pennsylvania",2019,10.7
+42021,"Cambria","Pennsylvania",2018,10.6
+42027,"Centre","Pennsylvania",2019,9.9
+42027,"Centre","Pennsylvania",2018,9.6
+42037,"Columbia","Pennsylvania",2018,10.7
+42037,"Columbia","Pennsylvania",2019,10.6
+42043,"Dauphin","Pennsylvania",2019,10.4
+42043,"Dauphin","Pennsylvania",2018,10.1
+42049,"Erie","Pennsylvania",2019,10.4
+42049,"Erie","Pennsylvania",2018,10.4
+42051,"Fayette","Pennsylvania",2019,11
+42051,"Fayette","Pennsylvania",2018,10.9
+42055,"Franklin","Pennsylvania",2018,10.4
+42055,"Franklin","Pennsylvania",2019,10.2
+42069,"Lackawanna","Pennsylvania",2018,10.2
+42069,"Lackawanna","Pennsylvania",2019,10
+42071,"Lancaster","Pennsylvania",2018,10.3
+42071,"Lancaster","Pennsylvania",2019,10.3
+42075,"Lebanon","Pennsylvania",2019,9.9
+42075,"Lebanon","Pennsylvania",2018,10.1
+42077,"Lehigh","Pennsylvania",2018,9.8
+42077,"Lehigh","Pennsylvania",2019,9.5
+42079,"Luzerne","Pennsylvania",2019,10.1
+42079,"Luzerne","Pennsylvania",2018,10.2
+42081,"Lycoming","Pennsylvania",2018,10.3
+42081,"Lycoming","Pennsylvania",2019,10.5
+42089,"Monroe","Pennsylvania",2019,10.1
+42089,"Monroe","Pennsylvania",2018,10.1
+42091,"Montgomery","Pennsylvania",2018,9.2
+42091,"Montgomery","Pennsylvania",2019,9.5
+42101,"Philadelphia","Pennsylvania",2018,11.7
+42101,"Philadelphia","Pennsylvania",2019,11.4
+42129,"Westmoreland","Pennsylvania",2019,9.9
+42129,"Westmoreland","Pennsylvania",2018,10
+42133,"York","Pennsylvania",2018,9.9
+42133,"York","Pennsylvania",2019,9.9
+44007,"Providence","Rhode Island",2019,11.6
+44007,"Providence","Rhode Island",2018,11.8
+45007,"Anderson","South Carolina",2018,9.7
+45007,"Anderson","South Carolina",2019,9.9
+45013,"Beaufort","South Carolina",2018,8.4
+45013,"Beaufort","South Carolina",2019,8.4
+45019,"Charleston","South Carolina",2019,9.4
+45019,"Charleston","South Carolina",2018,9.2
+45041,"Florence","South Carolina",2018,10
+45041,"Florence","South Carolina",2019,10.3
+45045,"Greenville","South Carolina",2018,9
+45045,"Greenville","South Carolina",2019,8.7
+45051,"Horry","South Carolina",2019,10.1
+45051,"Horry","South Carolina",2018,9.5
+45079,"Richland","South Carolina",2018,9.3
+45079,"Richland","South Carolina",2019,9.7
+45083,"Spartanburg","South Carolina",2019,9.5
+45083,"Spartanburg","South Carolina",2018,9.8
+45085,"Sumter","South Carolina",2018,10.5
+45085,"Sumter","South Carolina",2019,10.4
+45091,"York","South Carolina",2018,9.1
+45091,"York","South Carolina",2019,8.9
+46099,"Minnehaha","South Dakota",2019,8
+46099,"Minnehaha","South Dakota",2018,8.3
+46103,"Pennington","South Dakota",2018,8.7
+46103,"Pennington","South Dakota",2019,8.3
+47011,"Bradley","Tennessee",2018,10.7
+47011,"Bradley","Tennessee",2019,10
+47037,"Davidson","Tennessee",2019,9.5
+47037,"Davidson","Tennessee",2018,10.1
+47063,"Hamblen","Tennessee",2018,10.9
+47063,"Hamblen","Tennessee",2019,10.1
+47065,"Hamilton","Tennessee",2019,9.5
+47065,"Hamilton","Tennessee",2018,10.5
+47093,"Knox","Tennessee",2018,9.9
+47093,"Knox","Tennessee",2019,9.4
+47113,"Madison","Tennessee",2018,10.6
+47113,"Madison","Tennessee",2019,10
+47125,"Montgomery","Tennessee",2019,9.7
+47125,"Montgomery","Tennessee",2018,10.3
+47149,"Rutherford","Tennessee",2018,10.1
+47149,"Rutherford","Tennessee",2019,9.1
+47157,"Shelby","Tennessee",2019,10
+47157,"Shelby","Tennessee",2018,11.2
+47163,"Sullivan","Tennessee",2018,10.8
+47163,"Sullivan","Tennessee",2019,10.3
+47179,"Washington","Tennessee",2018,10.2
+47179,"Washington","Tennessee",2019,10
+48027,"Bell","Texas",2018,9.2
+48027,"Bell","Texas",2019,8.7
+48029,"Bexar","Texas",2018,8.5
+48029,"Bexar","Texas",2019,7.8
+48037,"Bowie","Texas",2018,9.9
+48037,"Bowie","Texas",2019,9.3
+48039,"Brazoria","Texas",2019,7.6
+48039,"Brazoria","Texas",2018,8.4
+48041,"Brazos","Texas",2018,9.2
+48041,"Brazos","Texas",2019,8.3
+48061,"Cameron","Texas",2019,8.1
+48061,"Cameron","Texas",2018,8.9
+48085,"Collin","Texas",2019,7.3
+48085,"Collin","Texas",2018,7.9
+48113,"Dallas","Texas",2019,8.3
+48113,"Dallas","Texas",2018,9.2
+48121,"Denton","Texas",2019,7.6
+48121,"Denton","Texas",2018,8.4
+48135,"Ector","Texas",2018,8.6
+48135,"Ector","Texas",2019,8
+48141,"El Paso","Texas",2019,7.4
+48141,"El Paso","Texas",2018,8.2
+48167,"Galveston","Texas",2019,8
+48167,"Galveston","Texas",2018,9.3
+48181,"Grayson","Texas",2019,8.9
+48181,"Grayson","Texas",2018,9.6
+48183,"Gregg","Texas",2018,10
+48183,"Gregg","Texas",2019,9.4
+48201,"Harris","Texas",2018,8.6
+48201,"Harris","Texas",2019,7.9
+48209,"Hays","Texas",2018,8.6
+48209,"Hays","Texas",2019,7.8
+48215,"Hidalgo","Texas",2019,7.9
+48215,"Hidalgo","Texas",2018,8.5
+48245,"Jefferson","Texas",2018,9.5
+48245,"Jefferson","Texas",2019,9
+48303,"Lubbock","Texas",2019,8.5
+48303,"Lubbock","Texas",2018,9
+48309,"McLennan","Texas",2019,9
+48309,"McLennan","Texas",2018,9.5
+48329,"Midland","Texas",2018,8.4
+48329,"Midland","Texas",2019,7.6
+48339,"Montgomery","Texas",2018,8.5
+48339,"Montgomery","Texas",2019,8
+48355,"Nueces","Texas",2019,8.3
+48355,"Nueces","Texas",2018,8.3
+48375,"Potter","Texas",2019,8.7
+48375,"Potter","Texas",2018,9.5
+48423,"Smith","Texas",2019,9
+48423,"Smith","Texas",2018,9.7
+48441,"Taylor","Texas",2018,9.1
+48441,"Taylor","Texas",2019,8.6
+48451,"Tom Green","Texas",2018,8.7
+48451,"Tom Green","Texas",2019,8
+48453,"Travis","Texas",2018,8.2
+48453,"Travis","Texas",2019,7.8
+48469,"Victoria","Texas",2018,8.8
+48469,"Victoria","Texas",2019,8.1
+48479,"Webb","Texas",2018,8.6
+48479,"Webb","Texas",2019,8.2
+48485,"Wichita","Texas",2019,8.6
+48485,"Wichita","Texas",2018,9.5
+49005,"Cache","Utah",2018,9.5
+49005,"Cache","Utah",2019,9.6
+49035,"Salt Lake","Utah",2018,9.6
+49035,"Salt Lake","Utah",2019,10.4
+49049,"Utah","Utah",2019,8.8
+49049,"Utah","Utah",2018,8.8
+49053,"Washington","Utah",2019,9.1
+49053,"Washington","Utah",2018,9.5
+49057,"Weber","Utah",2018,9.5
+49057,"Weber","Utah",2019,10
+50007,"Chittenden","Vermont",2018,10.5
+50007,"Chittenden","Vermont",2019,9.6
+51121,"Montgomery","Virginia",2019,9.3
+51121,"Montgomery","Virginia",2018,9.3
+51540,"Charlottesville","Virginia",2018,9.4
+51540,"Charlottesville","Virginia",2019,9.6
+51630,"Fredericksburg","Virginia",2019,9.6
+51630,"Fredericksburg","Virginia",2018,9.3
+51660,"Harrisonburg","Virginia",2019,9.6
+51660,"Harrisonburg","Virginia",2018,9.5
+51680,"Lynchburg","Virginia",2019,10.5
+51680,"Lynchburg","Virginia",2018,9.9
+51760,"Richmond","Virginia",2019,10.6
+51760,"Richmond","Virginia",2018,10.7
+51770,"Roanoke","Virginia",2019,10.5
+51770,"Roanoke","Virginia",2018,10.1
+51790,"Staunton","Virginia",2018,9.5
+51790,"Staunton","Virginia",2019,9.8
+51810,"Virginia Beach","Virginia",2019,9
+51810,"Virginia Beach","Virginia",2018,9
+51830,"Williamsburg","Virginia",2019,9.7
+51830,"Williamsburg","Virginia",2018,9.3
+51840,"Winchester","Virginia",2018,9.3
+51840,"Winchester","Virginia",2019,9.5
+53005,"Benton","Washington",2018,10.4
+53005,"Benton","Washington",2019,10.3
+53007,"Chelan","Washington",2019,9.6
+53007,"Chelan","Washington",2018,10.1
+53015,"Cowlitz","Washington",2018,11
+53015,"Cowlitz","Washington",2019,11.1
+53033,"King","Washington",2019,8.8
+53033,"King","Washington",2018,8.9
+53035,"Kitsap","Washington",2018,10
+53035,"Kitsap","Washington",2019,9.7
+53057,"Skagit","Washington",2019,9.9
+53057,"Skagit","Washington",2018,10.1
+53061,"Snohomish","Washington",2019,10
+53061,"Snohomish","Washington",2018,9.9
+53063,"Spokane","Washington",2018,10.3
+53063,"Spokane","Washington",2019,10.7
+53067,"Thurston","Washington",2018,10
+53067,"Thurston","Washington",2019,9.7
+53071,"Walla Walla","Washington",2018,10.2
+53071,"Walla Walla","Washington",2019,9.9
+53073,"Whatcom","Washington",2019,10.1
+53073,"Whatcom","Washington",2018,10.2
+53077,"Yakima","Washington",2018,10.7
+53077,"Yakima","Washington",2019,10.1
+54011,"Cabell","West Virginia",2019,11.1
+54011,"Cabell","West Virginia",2018,11.2
+54029,"Hancock","West Virginia",2018,11.2
+54029,"Hancock","West Virginia",2019,10.8
+54039,"Kanawha","West Virginia",2018,10.8
+54039,"Kanawha","West Virginia",2019,11.4
+54061,"Monongalia","West Virginia",2018,10.3
+54061,"Monongalia","West Virginia",2019,10.4
+54069,"Ohio","West Virginia",2019,10.6
+54069,"Ohio","West Virginia",2018,10.8
+54081,"Raleigh","West Virginia",2019,11.5
+54081,"Raleigh","West Virginia",2018,10.9
+54107,"Wood","West Virginia",2019,11.1
+54107,"Wood","West Virginia",2018,11.3
+55009,"Brown","Wisconsin",2019,9.6
+55009,"Brown","Wisconsin",2018,9
+55025,"Dane","Wisconsin",2019,9.3
+55025,"Dane","Wisconsin",2018,8.6
+55035,"Eau Claire","Wisconsin",2019,9.7
+55035,"Eau Claire","Wisconsin",2018,9.4
+55039,"Fond du Lac","Wisconsin",2018,9.1
+55039,"Fond du Lac","Wisconsin",2019,9.8
+55059,"Kenosha","Wisconsin",2019,9.6
+55059,"Kenosha","Wisconsin",2018,9.5
+55063,"La Crosse","Wisconsin",2019,9.1
+55063,"La Crosse","Wisconsin",2018,9
+55073,"Marathon","Wisconsin",2018,9.1
+55073,"Marathon","Wisconsin",2019,9.5
+55079,"Milwaukee","Wisconsin",2018,10.5
+55079,"Milwaukee","Wisconsin",2019,10.1
+55087,"Outagamie","Wisconsin",2019,9.1
+55087,"Outagamie","Wisconsin",2018,9
+55101,"Racine","Wisconsin",2018,9.6
+55101,"Racine","Wisconsin",2019,9.9
+55105,"Rock","Wisconsin",2019,9.5
+55105,"Rock","Wisconsin",2018,9.6
+55117,"Sheboygan","Wisconsin",2018,8.9
+55117,"Sheboygan","Wisconsin",2019,9
+55131,"Washington","Wisconsin",2018,8.8
+55131,"Washington","Wisconsin",2019,8.9
+55139,"Winnebago","Wisconsin",2018,9.2
+55139,"Winnebago","Wisconsin",2019,9.3
+56021,"Laramie","Wyoming",2019,9.5
+56021,"Laramie","Wyoming",2018,8.9
+56025,"Natrona","Wyoming",2018,9.3
+56025,"Natrona","Wyoming",2019,8.8
+72005,"Aguadilla",NA,NA,NA
+72013,"Arecibo",NA,NA,NA
+72053,"Fajardo",NA,NA,NA
+72054,"Florida",NA,NA,NA
+72057,"Guayama",NA,NA,NA
+72075,"Juana Díaz",NA,NA,NA
+72097,"Mayagüez",NA,NA,NA
+72113,"Ponce",NA,NA,NA
+72125,"San Germán",NA,NA,NA
+72127,"San Juan",NA,NA,NA
+72153,"Yauco",NA,NA,NA
