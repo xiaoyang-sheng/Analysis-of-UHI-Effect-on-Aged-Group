@@ -4,11 +4,10 @@
 
 load_elderly_health = function(filename){
   library(RMySQL)
-  
-  df1 = read.csv("asthma.csv")
-  df2 = read.csv("insurance.csv")
-  df3 = read.csv("stroke.csv")
-  
+  setwd("../data")
+  # df1 = read.csv("asthma.csv")
+  # df2 = read.csv("insurance.csv")
+  # df3 = read.csv("stroke.csv")
   df = read.csv(filename)
   # read the database server infomation from the file
   server_info = read.table("database_server_info.txt")
