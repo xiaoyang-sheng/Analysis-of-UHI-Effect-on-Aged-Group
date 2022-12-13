@@ -35,9 +35,9 @@ import_load_ee = function() {
     }
   }
   
-  us_cities = read.csv("../data/us_cities.csv")
+  us_cities = read.csv("data/us_cities.csv")
   
-  cb = read_sf("../data/cb_2018_us_county_500k/cb_2018_us_county_500k.shp")
+  cb = read_sf("data/cb_2018_us_county_500k/cb_2018_us_county_500k.shp")
   
   selected_fips = lapply(us_cities$county_fips, FUN = fips_clean)
   
