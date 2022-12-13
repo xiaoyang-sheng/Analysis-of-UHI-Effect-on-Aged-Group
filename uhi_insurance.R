@@ -31,7 +31,7 @@ ON ee_cb_uhi.county=insurance.county_fips AND ee_cb_uhi.yyyymm=insurance.`year`'
   # apply the linear regression
   fit_insurance_4_uhi = lm(insured_rate~su_daytime+su_nighttime+win_daytime+
                              win_nighttime,data=dat)
-  summary(fit_insurance_4_uhi)
+  print(summary(fit_insurance_4_uhi))
   
   library(randomForest)
   library(ggplot2)
@@ -42,6 +42,7 @@ ON ee_cb_uhi.county=insurance.county_fips AND ee_cb_uhi.yyyymm=insurance.`year`'
   ImpData = as.data.frame(importance(rf.fit))
   ImpData$Var.Names = row.names(ImpData)
   
+  # save the plot of the summary of random forest
   png("uhi_insurance_random_forest.png")
   plot = ggplot(ImpData, aes(x=Var.Names, y=`%IncMSE`)) +
     geom_segment( aes(x=Var.Names, xend=Var.Names, y=0, yend=`%IncMSE`), color="skyblue") +
