@@ -8,28 +8,30 @@
 
 
 import_load_CDC_death = function(){
-  setwd("CDC_Rawdata")
+  # set the path to the data/CDC_Rawdata folder
+  setwd("data/CDC_Rawdata")
   filelist = list.files(pattern = "*.txt")
-  ## Only include the county name, county code, month and death number
+  print(filelist)
+# Only include the county name, county code, month and death number
   datalist = lapply(filelist, function(x)read.delim
-                    (x)[,c(-1,-4,-6,-9,-10)]) 
-  
-  datafr = do.call("rbind", datalist) 
+                    (x)[,c(-1,-4,-6,-9,-10)])
+
+  datafr = do.call("rbind", datalist)
   datafr = subset(datafr, Month.Code != '')
   ## us_cities.csv stores the county list with typical heat-island phenomenon
   county_info = read.csv("us_cities.csv",header = T)
   county_index = county_info["county_fips"]
   datafr_sel = datafr[datafr$County.Code %in% county_index$county_fips,]
-  
+
   # write.csv(datafr_sel,"CDC_elderly_death.csv")
-  
+
   library(RMySQL)
-  
+
   colnames(datafr_sel) = c("county","county_code","age_group","month","death")
-  
+
   # read the database server infomation from the file
   server_info = read.table("database_server_info.txt")
-  
+
   # set up the connection to the database server
   mysqlconnection = dbConnect(RMySQL::MySQL(),
                               dbname=server_info[5,],

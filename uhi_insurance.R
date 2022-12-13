@@ -43,6 +43,7 @@ ON ee_cb_uhi.county=insurance.county_fips AND ee_cb_uhi.yyyymm=insurance.`year`'
   ImpData$Var.Names = row.names(ImpData)
   
   # save the plot of the summary of random forest
+  setwd("sample_results")
   png("uhi_insurance_random_forest.png")
   plot = ggplot(ImpData, aes(x=Var.Names, y=`%IncMSE`)) +
     geom_segment( aes(x=Var.Names, xend=Var.Names, y=0, yend=`%IncMSE`), color="skyblue") +
