@@ -12,7 +12,10 @@ Derive a relation model between UHI intensity and aged group health in US
 
 - [Aggregated Climate Data (ERA5), from Earth Engine](https://developers.google.com/earth-engine/datasets/catalog/ECMWF_ERA5_MONTHLY)
 - [Surface Urban Heat Islands Data, from Earth Engine](https://developers.google.com/earth-engine/datasets/catalog/YALE_YCEO_UHI_UHI_all_averaged_v4)
+- [Insurance Rate of Each County, from US Census](http://data.ctdata.org/dataset/health-insurance-coverage)
+- [Elderly Population Data, from US Census](https://www.census.gov/data/developers/data-sets/decennial-census.2010.html#list-tab-99P2A1SGILQAEXII31)
 - [Elderly Death Data, from CDC](https://wonder.cdc.gov/ucd-icd10.html)
+- [Stroke/Asthma Data](https://ephtracking.cdc.gov/DataExplorer/?query=51ED8370-BE00-4813-A4F8-AE641EF61672&fips=26161&G5=9999)
 
 ## Setup
 
