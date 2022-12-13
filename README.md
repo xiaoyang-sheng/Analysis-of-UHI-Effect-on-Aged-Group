@@ -9,7 +9,7 @@
 
 ## Description
 
-Derive a relation model between UHI intensity and aged group health in US
+We use different models (linear regression, Bayesian hierarchical model, random forest) to make vulnerability assessment towards the health of older adults.
 
 ## Data
 
@@ -24,37 +24,66 @@ Derive a relation model between UHI intensity and aged group health in US
 
 ```
 .
-│  CDC_elderly_death.csv
-│  CDC_import.R
-│  component_analysis.R
-│  county_elderly_population.csv
+│  analysis_all.R
 │  database_server_info.txt
-│  ee_cb_climate.csv
-│  ee_cb_uhi.csv
-│  ee_extract.R
-│  load_climate.R
-│  load_elderly_health_db.R
-│  load_elderly_pop.R
-│  load_to_db.R
+│  data_loading_all.R
 │  README.md
+│  requirements.txt
 │  sql_server_info.txt
-│  stats_506_project_proposal.tex
-│  uhi_asthma.R
-│  uhi_insurance.R
-│  uhi_stroke.R
-│  us_cities.csv
-└─CDC_Rawdata
-     .gitkeep
-     Alabama_2010-2012.txt
-     Alabama_2013-2015.txt
-     Alabama_2016-2018.txt
-     Alabama_2019-2020.txt
-     ...
-     Wisconsin_2010-2012.txt
-     Wisconsin_2013-2015.txt
-     Wisconsin_2016-2018.txt
-     Wisconsin_2019-2020.txt
-     Wyoming.txt
+│  STATS_506_Project_Proposal.pdf
+│  STATS_506_Project_Report.pdf
+│
+├─data
+│  │  asthma.csv
+│  │  CDC_elderly_death.csv
+│  │  Census_UHI_US_Urbanized_recalculated.csv
+│  │  county_elderly_population.csv
+│  │  ee_cb_climate.csv
+│  │  ee_cb_uhi.csv
+│  │  insurance.csv
+│  │  stroke.csv
+│  │  uscity_info.csv
+│  │  us_cities.csv
+│  │
+│  ├─cb_2018_us_county_500k
+│  │      cb_2018_us_county_500k.cpg
+│  │      cb_2018_us_county_500k.dbf
+│  │      cb_2018_us_county_500k.prj
+│  │      cb_2018_us_county_500k.shp
+│  │      cb_2018_us_county_500k.shp.ea.iso.xml
+│  │      cb_2018_us_county_500k.shp.iso.xml
+│  │      cb_2018_us_county_500k.shx
+│  │
+│  └─CDC_Rawdata
+│          .gitkeep
+│          Alabama_2010-2012.txt
+│          Alabama_2013-2015.txt
+│          Alabama_2016-2018.txt
+│          Alabama_2019-2020.txt
+│          ...
+│          Wisconsin_2010-2012.txt
+│          Wisconsin_2013-2015.txt
+│          Wisconsin_2016-2018.txt
+│          Wisconsin_2019-2020.txt
+│          Wyoming.txt
+│
+├─sample_results
+│      uhi_insurance_random_forest.png
+│      uhi_stroke_random_forest.png
+│
+└─src
+     Bayesian_Linear_Model.R
+     CDC_import.R
+     component_analysis.R
+     ee_extract.R
+     ex_insurance.R
+     load_census_uhi.R
+     load_elderly_health_db.R
+     load_elderly_pop.R
+     load_us_cities.R
+     uhi_death.R
+     uhi_insurance.R
+     uhi_stroke.R
 ```
 
 ## Quick start
@@ -82,6 +111,8 @@ Tables
 │  ee_cb_uhi
 │  insurance
 │  stroke
+│  census_uhi_us_urbanized_recalculated
+│  uscity_info
 ```
 
 ### HPC
