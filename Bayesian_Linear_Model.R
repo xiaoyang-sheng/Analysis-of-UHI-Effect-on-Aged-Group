@@ -37,7 +37,7 @@ posterior = function(){
     y1 = df_merge$asthma
     y2 = df_merge$stroke
     fit_asthma1 <- lm(df_merge,formula = y2~x1+x2+x5+x6)
-    summary(fit_asthma1)
+    print(summary(fit_asthma1))
     df1 <- data.frame(x1,x2,x3,x4,x5,x6,y2)
     require(R2jags)
     require(MASS)
