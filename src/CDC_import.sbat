@@ -1,0 +1,13 @@
+#!/bin/bash
+#SBATCH --job-name=CDC_import
+#SBATCH --mail-type=BEGIN,END,FAIL
+#SBATCH --nodes=1
+#SBATCH --cpus-per-task=1
+#SBATCH --ntasks-per-node=1
+#SBATCH --mem=4gb
+#SBATCH --time=10:00
+#SBATCH --account=lsa1
+#SBATCH --partition=standard
+
+module load R
+R CMD BATCH CDC_import.R
