@@ -56,7 +56,7 @@ Derive a relation model between UHI intensity and aged group health in US
 
 ### Quick start
 
-R CMD BATCH main.R
+R CMD BATCH data_loading_all.R
 
 ### Earth Engine data fetch
 
