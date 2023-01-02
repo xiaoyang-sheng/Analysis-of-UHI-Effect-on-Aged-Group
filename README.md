@@ -9,7 +9,7 @@
 
 ## Description
 
-We use different models (linear regression, Bayesian hierarchical model, random forest) to make vulnerability assessment towards the health of older adults.
+We use different models (linear regression, Bayesian hierarchical model, random forest) to make vulnerability assessment towards the health of older adults **based on real-life big data**.
 
 ## Data
 
